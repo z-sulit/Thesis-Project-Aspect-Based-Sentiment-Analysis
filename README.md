@@ -24,4 +24,9 @@ The architecture relies on a multi-stage process:
 * Zachary Lorenzo F. Sulit
 * *Ateneo de Davao University*
 
+## For change in paper:
 
+Data Acquisition changes in paper.
+
+## Implementation Updates:
+Ongoing data extraction.
