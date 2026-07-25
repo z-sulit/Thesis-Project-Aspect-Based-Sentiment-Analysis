@@ -1,0 +1,98 @@
+console.log('review scraper v9');
+
+(async function() {
+  // 1. Expand "More" buttons
+  const moreBtns = Array.from(document.querySelectorAll('button')).filter(btn => {
+    const text = (btn.innerText || '').trim();
+    const aria = (btn.getAttribute('aria-label') || '').trim();
+    return text === 'More' || aria.includes('See more');
+  });
+
+  if (moreBtns.length > 0) {
+    console.log(`Expanding ${moreBtns.length} hidden text sections...`);
+    moreBtns.forEach(btn => btn.click());
+    await new Promise(resolve => setTimeout(resolve, 800));
+  }
+
+  // 2. Extract Place Name & Coordinates
+  // The place name is always the main h1 element on the Maps panel
+  const placeName = document.querySelector('h1')?.innerText || 'Unknown Place';
+  
+  // Google Maps URLs always contain the coordinates in the format /@LAT,LONG,ZOOM/
+  const coordsMatch = window.location.href.match(/@(-?\d+\.\d+),(-?\d+\.\d+)/);
+  const lat = coordsMatch ? coordsMatch[1] : '';
+  const lng = coordsMatch ? coordsMatch[2] : '';
+
+  // 3. Find Reviews
+  const isReviewStar = (el) => {
+    const label = (el.getAttribute('aria-label') || '').trim();
+    return /^[1-5]\s*stars?$/i.test(label);
+  };
+
+  const starEls = Array.from(document.querySelectorAll('[role="img"][aria-label]')).filter(isReviewStar);
+  const validCandidates = [];
+
+  starEls.forEach(starEl => {
+    let node = starEl;
+    let reviewContainer = node;
+
+    for (let i = 0; i < 9 && node.parentElement; i++) {
+      node = node.parentElement;
+      const starsInside = Array.from(node.querySelectorAll('[role="img"][aria-label]')).filter(isReviewStar);
+
+      if (starsInside.length === 1) {
+        reviewContainer = node;
+      } else {
+        break;
+      }
+    }
+
+    validCandidates.push({ starEl, node: reviewContainer });
+  });
+
+  const seen = new Set();
+  const rows = [];
+  
+  validCandidates.forEach(({ starEl, node }) => {
+    // Extract just the number (e.g., "5") instead of "5 stars"
+    const rating = starEl.getAttribute('aria-label').replace(/[^0-9]/g, ''); 
+    
+    // Target the specific class Google Maps uses for the typed review body. 
+    // This entirely skips names, dates, badges, and rating sub-categories.
+    const textNode = node.querySelector('.wiI7pd');
+    
+    let text = (textNode ? textNode.innerText : '')
+      .replace(/[\r\n]+/g, ' ') 
+      .replace(/[\t\v\f\u200B-\u200D\uFEFF]/g, ' ') 
+      .replace(/[\x00-\x1F\x7F-\x9F]/g, '') 
+      .replace(/\s+/g, ' ') 
+      .trim();
+
+    // Deduplication fingerprint
+    const fallbackText = node.innerText || '';
+    const fingerprint = fallbackText.length > 80 ? fallbackText.slice(-80) : fallbackText;
+    
+    if (seen.has(fingerprint)) return;
+    seen.add(fingerprint);
+
+    rows.push({ rating, text });
+  });
+
+  // 4. Generate CSV with new columns
+  let csv = 'place_name,latitude,longitude,rating,review_text\n';
+  rows.forEach(r => {
+    const safeText = '"' + r.text.replace(/"/g, '""') + '"';
+    const safePlaceName = '"' + placeName.replace(/"/g, '""') + '"';
+    
+    csv += `${safePlaceName},${lat},${lng},${r.rating},${safeText}\n`;
+  });
+
+  const BOM = '\uFEFF';
+  const blob = new Blob([BOM + csv], { type: 'text/csv;charset=utf-8' });
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = 'reviews_export.csv';
+  a.click();
+
+  console.log(`Exported ${rows.length} reviews for ${placeName}.`);
+})();
