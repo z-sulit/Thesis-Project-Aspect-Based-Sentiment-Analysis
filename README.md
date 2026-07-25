@@ -11,7 +11,7 @@ This repository outlines an Aspect-Based Sentiment Analysis (ABSA) system design
 
 ## System Pipeline
 The architecture relies on a multi-stage process:
-1. **Data Acquisition:** Bypassing API limits via custom Selenium web scraping on Google Maps.
+1. **Data Acquisition:** Bypassing API limits via custom semi-automated DOM scraping on Google Maps.
 2. **Taxonomy Induction:** Using generative LLMs (Gemini 3) to organically discover a localized aspect taxonomy rather than relying on static industry dictionaries.
 3. **Aspect Extraction:** Decomposing complex reviews into isolated review-aspect pairs to resolve mixed sentiments in single sentences.
 4. **Active Learning & Annotation:** Routing strictly ambiguous, high-value samples to human annotators, validated via Fleiss' Kappa.
