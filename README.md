@@ -1,3 +1,10 @@
+## How to Clone the Repository
+
+```bash
+git clone https://github.com/z-sulit/Thesis-Project-Aspect-Based-Sentiment-Analysis.git
+cd Thesis-Project-Aspect-Based-Sentiment-Analysis
+```
+
 # Aspect-Based Sentiment Analysis of Code-Switched Consumer Reviews
 
 ## Introduction
