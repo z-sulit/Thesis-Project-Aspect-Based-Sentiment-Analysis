@@ -1,4 +1,4 @@
-console.log('review scraper v17 - Owner Reply Exclusion, No Aspect Ratings');
+console.log('review scraper - Last ver najud');
 window.stopScraping = null;
 
 (async function() {
