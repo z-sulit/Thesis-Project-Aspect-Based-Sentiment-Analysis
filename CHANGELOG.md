@@ -1,3 +1,5 @@
+### [📖 README](README.md) &nbsp;&nbsp;|&nbsp;&nbsp; [🔔 CHANGELOG](CHANGELOG.md)
+
 ## For change in paper:
 
 - Data Acquisition changes in paper.
