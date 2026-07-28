@@ -1,6 +1,4 @@
 ## How to Clone the Repository
-
-### [📖 README](README.md) &nbsp;&nbsp;|&nbsp;&nbsp; [🔔 UPDATES](UPDATES.md)
 ---
 
 ```bash
