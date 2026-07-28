@@ -112,4 +112,5 @@ window.stopScraping = null;
   }
 })();
 
-stopScraping()
+// Run stopScraping() to stop dom scrape (remove // then ctrl + enter)
+// stopScraping()
