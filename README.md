@@ -29,7 +29,7 @@ The architecture relies on a multi-stage process:
 * Audrey Zarina Faberes
 * Ira Zaky O. Mamac
 * Zachary Lorenzo F. Sulit
-* *Ateneo de Davao University*
+    * From *Ateneo de Davao University*
 
 ## For change in paper:
 
