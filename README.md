@@ -1,5 +1,8 @@
 ## How to Clone the Repository
 
+### [📖 README](README.md) &nbsp;&nbsp;|&nbsp;&nbsp; [🔔 UPDATES](UPDATES.md)
+---
+
 ```bash
 git clone https://github.com/z-sulit/Thesis-Project-Aspect-Based-Sentiment-Analysis.git
 cd Thesis-Project-Aspect-Based-Sentiment-Analysis

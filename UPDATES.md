@@ -1,3 +1,6 @@
+### [📖 README](README.md) &nbsp;&nbsp;|&nbsp;&nbsp; [🔔 UPDATES](UPDATES.md)
+---
+
 ## For change in paper:
 
 - Data Acquisition changes in paper.
