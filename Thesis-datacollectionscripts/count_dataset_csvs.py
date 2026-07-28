@@ -6,7 +6,7 @@ DATASET_DIR = Path("Dataset")
 
 
 def file_hash(path: Path) -> str:
-    """Return the SHA-256 hash of a file."""
+    #Return the SHA-256 hash of a file.
     hasher = hashlib.sha256()
     with path.open("rb") as file:
         for chunk in iter(lambda: file.read(1024 * 1024), b""):
@@ -43,5 +43,6 @@ def main() -> None:
         print("\nNo duplicate CSV files found.")
 
 
-if __name__ == "__main__":
-    main()
+main()
+
+
