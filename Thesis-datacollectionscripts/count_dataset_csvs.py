@@ -2,7 +2,7 @@ from pathlib import Path
 import hashlib
 
 
-DATASET_DIR = Path("Dataset")
+DATASET_DIR = Path("Dataset/Coffeeshops")
 
 
 def file_hash(path: Path) -> str:
