@@ -1,0 +1,181 @@
+============================================================
+  Matcha vs Coffee Shop Duplicate Name Report
+============================================================
+Scanned 85 Matcha shops and 352 Coffee shops.
+
+1. EXACT MATCHES (41)
+------------------------------------------------------------
+Matcha: 'A Little Lately' (A_Little_Lately_reviews.csv)
+Coffee: 'A Little Lately' (A_Little_Lately_reviews.csv)
+----------------------------------------
+Matcha: 'AtCurbside' (AtCurbside_reviews.csv)
+Coffee: 'AtCurbside' (AtCurbside_reviews.csv)
+----------------------------------------
+Matcha: 'Barok Cafe and Resto' (Barok_Cafe_and_Resto_reviews.csv)
+Coffee: 'Barok Cafe & Resto' (Barok_Cafe_&_Resto_Magallanes_reviews.csv)
+----------------------------------------
+Matcha: 'Barok Cafe and Resto' (Barok_Cafe_and_Resto_reviews.csv)
+Coffee: 'Barok Cafe and Resto' (Barok_Cafe_and_Resto_Bajada_reviews.csv)
+----------------------------------------
+Matcha: 'Black Scoop Cafe Matina' (Black_Scoop_Cafe_Matina_reviews.csv)
+Coffee: 'Black Scoop Cafe Matina' (Black_Scoop_Cafe_Matina_reviews.csv)
+----------------------------------------
+Matcha: 'Café Prelaya by The Joaquins’ Cheesecakes' (Café_Prelaya_by_The_Joaquins’_Cheesecakes_reviews.csv)
+Coffee: 'Café Prelaya by The Joaquins’ Cheesecakes' (Café_Prelaya_by_The_Joaquins’_Cheesecakes_reviews.csv)
+----------------------------------------
+Matcha: 'Café Racer Coffee' (Café_Racer_Coffee_reviews.csv)
+Coffee: 'Café Racer Coffee' (Café_Racer_Coffee_reviews.csv)
+----------------------------------------
+Matcha: 'Café de Vivré' (Café_de_Vivré_reviews.csv)
+Coffee: 'Café de Vivré' (Café_de_Vivré_reviews.csv)
+----------------------------------------
+Matcha: 'Coffee Co - Buhangin' (Coffee_Co_-_Buhangin_reviews.csv)
+Coffee: 'Coffee Co - Buhangin' (Coffee_Co_-_Buhangin_reviews.csv)
+----------------------------------------
+Matcha: 'Coffee Maybe Davao' (Coffee_Maybe_Davao_reviews.csv)
+Coffee: 'Coffee Maybe Davao' (Coffee_Maybe_Davao_reviews(1).csv)
+----------------------------------------
+Matcha: 'Coffee Maybe Davao' (Coffee_Maybe_Davao_reviews.csv)
+Coffee: 'Coffee Maybe Davao' (Coffee_Maybe_Davao_reviews.csv)
+----------------------------------------
+Matcha: 'Coffeecat' (Coffeecat_reviews.csv)
+Coffee: 'Coffeecat' (Coffeecat_reviews.csv)
+----------------------------------------
+Matcha: 'Coffeepaste Davao' (Coffeepaste_Davao_reviews.csv)
+Coffee: 'Coffeepaste Davao' (Coffeepaste_Davao_reviews.csv)
+----------------------------------------
+Matcha: 'Daleachious Cafe - Ecoland Branch' (Daleachious_Cafe_-_Ecoland_Branch_reviews.csv)
+Coffee: 'Daleachious Cafe - Ecoland Branch' (Daleachious_Cafe_-_Ecoland_Branch_reviews.csv)
+----------------------------------------
+Matcha: 'Finca' (Finca_reviews.csv)
+Coffee: 'Finca' (Finca_reviews.csv)
+----------------------------------------
+Matcha: 'Fourth Street Cafe' (Fourth_Street_Cafe_reviews.csv)
+Coffee: 'Fourth Street Cafe' (Fourth_Street_Cafe_reviews.csv)
+----------------------------------------
+Matcha: 'Glasshouse Coffee' (Glasshouse_Coffee_reviews.csv)
+Coffee: 'Glasshouse Coffee' (Glasshouse_Coffee_reviews.csv)
+----------------------------------------
+Matcha: 'Green Bread - Matina' (Green_Bread_-_Matina_reviews.csv)
+Coffee: 'Green Bread - Matina' (Green_Bread_-_Matina_reviews.csv)
+----------------------------------------
+Matcha: 'Green Coffee - Ecoland' (Green_Coffee_-_Ecoland_reviews.csv)
+Coffee: 'Green Coffee - Ecoland' (Green_Coffee_-_Ecoland_reviews.csv)
+----------------------------------------
+Matcha: 'Happy Valley Cafe Davao' (Happy_Valley_Cafe_Davao_reviews.csv)
+Coffee: 'Happy Valley Cafe Davao' (Happy_Valley_Cafe_Davao_reviews.csv)
+----------------------------------------
+Matcha: 'Humble Table' (Humble_Table_reviews.csv)
+Coffee: 'Humble Table' (Humble_Table_reviews.csv)
+----------------------------------------
+Matcha: 'Indoor Café' (Indoor_Café_reviews.csv)
+Coffee: 'Indoor Café' (Indoor_Café_reviews.csv)
+----------------------------------------
+Matcha: 'KAOS CAFE - 24 Hours, Jacinto St.' (KAOS_CAFE_-_24_Hours,_Jacinto_St._reviews.csv)
+Coffee: 'KAOS CAFE - 24 Hours, Jacinto St.' (KAOS_CAFE_-_24_Hours,_Jacinto_St._reviews(1).csv)
+----------------------------------------
+Matcha: 'KAOS CAFE - 24 Hours, Jacinto St.' (KAOS_CAFE_-_24_Hours,_Jacinto_St._reviews.csv)
+Coffee: 'KAOS CAFE - 24 Hours, Jacinto St.' (KAOS_CAFE_-_24_Hours,_Jacinto_St._reviews.csv)
+----------------------------------------
+Matcha: 'Kofi Gram Bangkal' (Kofi_Gram_Bangkal_reviews.csv)
+Coffee: 'Kofi Gram Bangkal' (Kofi_Gram_Bangkal_reviews.csv)
+----------------------------------------
+Matcha: 'MANU Coffee' (MANU_Coffee_reviews.csv)
+Coffee: 'MANU Coffee' (MANU_Coffee_reviews.csv)
+----------------------------------------
+Matcha: 'MATCHATUALS' (MATCHATUALS_reviews.csv)
+Coffee: 'MATCHATUALS' (MATCHATUALS_reviews.csv)
+----------------------------------------
+Matcha: 'Paramount Coffee - Twin Palms' (Paramount_Coffee_-_Twin_Palms_reviews.csv)
+Coffee: 'Paramount Coffee - Twin Palms' (Paramount_Coffee_-_Twin_Palms_reviews.csv)
+----------------------------------------
+Matcha: 'Pedal Cafe Davao' (Pedal_Cafe_Davao_reviews.csv)
+Coffee: 'Pedal Cafe Davao' (Pedal_Cafe_Davao_reviews.csv)
+----------------------------------------
+Matcha: 'Purge Coffee Roaster' (Purge_Coffee_Roaster_reviews.csv)
+Coffee: 'Purge Coffee Roaster' (Purge_Coffee_Roaster_reviews.csv)
+----------------------------------------
+Matcha: 'Steep Kohi' (Steep_Kohi_reviews.csv)
+Coffee: 'Steep Kohi' (Steep_Kohi_reviews.csv)
+----------------------------------------
+Matcha: 'TALA Cafe' (TALA_Cafe_reviews.csv)
+Coffee: 'TALA Cafe' (TALA_Cafe_reviews.csv)
+----------------------------------------
+Matcha: 'The Bloom Coffee & Start-Up Space' (The_Bloom_Coffee_&_Start-Up_Space_reviews.csv)
+Coffee: 'The Bloom Coffee & Start-Up Space' (The_Bloom_Coffee_&_Start-Up_Space_reviews(1).csv)
+----------------------------------------
+Matcha: 'The Bloom Coffee & Start-Up Space' (The_Bloom_Coffee_&_Start-Up_Space_reviews.csv)
+Coffee: 'The Bloom Coffee & Start-Up Space' (The_Bloom_Coffee_&_Start-Up_Space_reviews.csv)
+----------------------------------------
+Matcha: 'The Secret Garden Cafe' (The_Secret_Garden_Cafe_reviews.csv)
+Coffee: 'The Secret Garden Cafe' (The_Secret_Garden_Cafe_reviews.csv)
+----------------------------------------
+Matcha: 'The Yolk Society' (The_Yolk_Society_reviews.csv)
+Coffee: 'The Yolk Society' (The_Yolk_Society_reviews(1).csv)
+----------------------------------------
+Matcha: 'The Yolk Society' (The_Yolk_Society_reviews.csv)
+Coffee: 'The Yolk Society' (The_Yolk_Society_reviews.csv)
+----------------------------------------
+Matcha: 'Thirty Third Café' (Thirty_Third_Café_reviews.csv)
+Coffee: 'Thirty Third Café' (Thirty_Third_Café_reviews.csv)
+----------------------------------------
+Matcha: 'Umatché by Pickle Space' (Umatché_by_Pickle_Space_reviews.csv)
+Coffee: 'Umatché by Pickle Space' (Umatché_by_Pickle_Space_reviews.csv)
+----------------------------------------
+Matcha: 'Wood and Coffee Davao' (Wood_and_Coffee_Davao_reviews.csv)
+Coffee: 'Wood and Coffee Davao' (Wood_and_Coffee_Davao_reviews.csv)
+----------------------------------------
+Matcha: 'blank space coffee dvo' (blank_space_coffee_dvo_reviews.csv)
+Coffee: 'blank space coffee dvo' (blank_space_coffee_dvo_reviews.csv)
+----------------------------------------
+
+2. CATEGORY / CORE BRAND MATCHES (0)
+------------------------------------------------------------
+No core brand matches found.
+
+3. HIGHLY SIMILAR NAMES (Threshold >= 80%) (11)
+------------------------------------------------------------
+Matcha: 'Daleachious Cafe - Lanang Branch' (Daleachious_Cafe_-_Lanang_Branch_reviews.csv)
+Coffee: 'Daleachious Cafe - Ecoland Branch' (Daleachious_Cafe_-_Ecoland_Branch_reviews.csv)
+Similarity: 88.5%
+----------------------------------------
+Matcha: 'Daleachious Cafe - Lanang Branch' (Daleachious_Cafe_-_Lanang_Branch_reviews.csv)
+Coffee: 'Daleachious Cafe - Buhangin Branch' (Daleachious_Cafe_-_Buhangin_Branch_reviews.csv)
+Similarity: 87.1%
+----------------------------------------
+Matcha: 'Daleachious Cafe - Lanang Branch' (Daleachious_Cafe_-_Lanang_Branch_reviews.csv)
+Coffee: 'Daleachious Cafe - Bago Aplaya Branch' (Daleachious_Cafe_-_Bago_Aplaya_Branch_reviews.csv)
+Similarity: 83.1%
+----------------------------------------
+Matcha: 'Daleachious Cafe - Ecoland Branch' (Daleachious_Cafe_-_Ecoland_Branch_reviews.csv)
+Coffee: 'Daleachious Cafe - Buhangin Branch' (Daleachious_Cafe_-_Buhangin_Branch_reviews.csv)
+Similarity: 82.5%
+----------------------------------------
+Matcha: 'Daleachious Cafe - Ecoland Branch' (Daleachious_Cafe_-_Ecoland_Branch_reviews.csv)
+Coffee: 'Daleachious Cafe - Bago Aplaya Branch' (Daleachious_Cafe_-_Bago_Aplaya_Branch_reviews.csv)
+Similarity: 81.8%
+----------------------------------------
+Matcha: 'Oye Coffee' (Oye_Coffee_reviews.csv)
+Coffee: 'Hygge Coffee' (Hygge_Coffee_reviews.csv)
+Similarity: 81.8%
+----------------------------------------
+Matcha: 'Barok Cafe and Resto' (Barok_Cafe_and_Resto_reviews.csv)
+Coffee: 'Barok Cafe & Resto - Buhangin' (Barok_Cafe_&_Resto_-_Buhangin_reviews.csv)
+Similarity: 81.6%
+----------------------------------------
+Matcha: 'Coffee Maybe Davao' (Coffee_Maybe_Davao_reviews.csv)
+Coffee: 'Coffeepaste Davao' (Coffeepaste_Davao_reviews.csv)
+Similarity: 80.0%
+----------------------------------------
+Matcha: 'Coffeepaste Davao' (Coffeepaste_Davao_reviews.csv)
+Coffee: 'Coffee Maybe Davao' (Coffee_Maybe_Davao_reviews(1).csv)
+Similarity: 80.0%
+----------------------------------------
+Matcha: 'Coffeepaste Davao' (Coffeepaste_Davao_reviews.csv)
+Coffee: 'Coffee Maybe Davao' (Coffee_Maybe_Davao_reviews.csv)
+Similarity: 80.0%
+----------------------------------------
+Matcha: 'Oye Coffee' (Oye_Coffee_reviews.csv)
+Coffee: 'KYO Coffee' (KYO_Coffee_reviews.csv)
+Similarity: 80.0%
+----------------------------------------
