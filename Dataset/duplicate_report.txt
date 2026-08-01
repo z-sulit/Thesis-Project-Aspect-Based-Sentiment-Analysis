@@ -1,0 +1,24 @@
+========================================================================================================================
+DATASET COMPARISON REPORT: MATCHA SHOPS VS COFFEESHOPS
+========================================================================================================================
+
+This report identifies duplicate CSV files and overlapping reviews between the Matcha Shops and Coffeeshops datasets.
+
+SUMMARY METRICS
+---------------
+- Filename Matches: 0 files have matching names across both directories.
+- Exact Byte-for-Byte Matches (SHA256): 0 files are completely identical.
+- Semantic Duplicates (>=50% Review Overlap): 0 pairs of files have significant review overlap.
+
+DETAILED OVERLAP ANALYSIS (>=50% Review Overlap)
+------------------------------------------------
+Note: Overlap % is relative to the number of reviews in the Matcha file.
+
+Matcha File                                   Coffeeshop File                               Overlap % (Matcha)   Overlap % (Coffee)   Match Count  Matcha Total  Coffeeshop Total
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+EXACT FILENAME MATCHES
+----------------------
+Files present in both folders with matching filenames:
+
+None found.
