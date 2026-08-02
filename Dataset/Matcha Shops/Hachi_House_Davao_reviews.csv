@@ -1,11 +1,11 @@
-﻿place_name,latitude,longitude,rating,review_text
-"Hachi House Davao",7.0881264,125.5943935,5,"Iced Sikwate is a must try!"
-"Hachi House Davao",7.0881264,125.5943935,3,"A friendly suggestion: Instead of brown sugar syrup and condensed milk as a default for matcha latte, add agave or corn syrup as an alternative esp for people who are avoiding dairy …"
-"Hachi House Davao",7.0881264,125.5943935,5,""
-"Hachi House Davao",7.0881264,125.5943935,5,""
-"Hachi House Davao",7.0881264,125.5943935,1,""
-"Hachi House Davao",7.0881264,125.5943935,1,"You'll have to wait 1 hour for your coffee. We went on a weekday."
-"Hachi House Davao",7.0881264,125.5943935,5,""
-"Hachi House Davao",7.0881264,125.5943935,5,"Iced Sikwate is a must try!"
-"Hachi House Davao",7.0881264,125.5943935,5,""
-"Hachi House Davao",7.0881264,125.5943935,1,"You'll have to wait 1 hour for your coffee. We went on a weekday."
+place_name,latitude,longitude,rating,review_text,Shop_Type
+Hachi House Davao,7.0881264,125.5943935,5,Iced Sikwate is a must try!,Matcha
+Hachi House Davao,7.0881264,125.5943935,3,"A friendly suggestion: Instead of brown sugar syrup and condensed milk as a default for matcha latte, add agave or corn syrup as an alternative esp for people who are avoiding dairy …",Matcha
+Hachi House Davao,7.0881264,125.5943935,5,,Matcha
+Hachi House Davao,7.0881264,125.5943935,5,,Matcha
+Hachi House Davao,7.0881264,125.5943935,1,,Matcha
+Hachi House Davao,7.0881264,125.5943935,1,You'll have to wait 1 hour for your coffee. We went on a weekday.,Matcha
+Hachi House Davao,7.0881264,125.5943935,5,,Matcha
+Hachi House Davao,7.0881264,125.5943935,5,Iced Sikwate is a must try!,Matcha
+Hachi House Davao,7.0881264,125.5943935,5,,Matcha
+Hachi House Davao,7.0881264,125.5943935,1,You'll have to wait 1 hour for your coffee. We went on a weekday.,Matcha

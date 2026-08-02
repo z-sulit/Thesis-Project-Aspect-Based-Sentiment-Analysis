@@ -1,2 +1,2 @@
-﻿place_name,latitude,longitude,rating,review_text
-"The Cozzy Cup Café",7.0884113,125.4947248,5,""
+place_name,latitude,longitude,rating,review_text,Shop_Type
+The Cozzy Cup Café,7.0884113,125.4947248,5,,Coffee

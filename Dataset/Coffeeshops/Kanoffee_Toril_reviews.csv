@@ -1,11 +1,11 @@
-﻿place_name,latitude,longitude,rating,review_text
-"Kanoffee Toril",7.0181899,125.4926595,4,"I tried the Spanish Latte from this coffee shop and it was so good (I’m not exaggerating). The quality of their coffee is really amazing, rich and flavorful. The only downside is the atmosphere. It’s just average with only a few tables, but that’s understandable since it’s a small stall near a gas station. Still, if you’re after great coffee, this place is worth the stop."
-"Kanoffee Toril",7.0181899,125.4926595,5,"Kanoffee Toril is a hidden gem that satisfies your coffee cravings with its excellent Café Americano and iced coffee options. Pair that with their mouthwatering chocolate chip and red velvet cookies (yummy kaayo), and you're in for a treat. However, due to its proximity to a gas station and the highway, the noise levels can be distracting, making takeout the preferred option for a more tranquil experience, but the scenic view adjacent to the café adds a touch of natural beauty to the experience."
-"Kanoffee Toril",7.0181899,125.4926595,5,"Coffee- 5/5 Place- 5/5 Service- 5/5 it ma"
-"Kanoffee Toril",7.0181899,125.4926595,4,""
-"Kanoffee Toril",7.0181899,125.4926595,5,"Best coffee!"
-"Kanoffee Toril",7.0181899,125.4926595,3,"Good coffee"
-"Kanoffee Toril",7.0181899,125.4926595,5,"We love the atmosphere here, sipping coffee and watching the majestic Mt. Apo is super relaxing. The staff is friendly and clean, shout out to some of the Baristas, Drey, who is very accommodating. The coffee is good too, but our favorite is their Matcha frappe. Also love their resin cookie 🍪 ONE OF THE BEST IN TORIL"
-"Kanoffee Toril",7.0181899,125.4926595,5,""
-"Kanoffee Toril",7.0181899,125.4926595,4,""
-"Kanoffee Toril",7.0181899,125.4926595,5,""
+place_name,latitude,longitude,rating,review_text,Shop_Type
+Kanoffee Toril,7.0181899,125.4926595,4,"I tried the Spanish Latte from this coffee shop and it was so good (I’m not exaggerating). The quality of their coffee is really amazing, rich and flavorful. The only downside is the atmosphere. It’s just average with only a few tables, but that’s understandable since it’s a small stall near a gas station. Still, if you’re after great coffee, this place is worth the stop.",Coffee
+Kanoffee Toril,7.0181899,125.4926595,5,"Kanoffee Toril is a hidden gem that satisfies your coffee cravings with its excellent Café Americano and iced coffee options. Pair that with their mouthwatering chocolate chip and red velvet cookies (yummy kaayo), and you're in for a treat. However, due to its proximity to a gas station and the highway, the noise levels can be distracting, making takeout the preferred option for a more tranquil experience, but the scenic view adjacent to the café adds a touch of natural beauty to the experience.",Coffee
+Kanoffee Toril,7.0181899,125.4926595,5,Coffee- 5/5 Place- 5/5 Service- 5/5 it ma,Coffee
+Kanoffee Toril,7.0181899,125.4926595,4,,Coffee
+Kanoffee Toril,7.0181899,125.4926595,5,Best coffee!,Coffee
+Kanoffee Toril,7.0181899,125.4926595,3,Good coffee,Coffee
+Kanoffee Toril,7.0181899,125.4926595,5,"We love the atmosphere here, sipping coffee and watching the majestic Mt. Apo is super relaxing. The staff is friendly and clean, shout out to some of the Baristas, Drey, who is very accommodating. The coffee is good too, but our favorite is their Matcha frappe. Also love their resin cookie 🍪 ONE OF THE BEST IN TORIL",Coffee
+Kanoffee Toril,7.0181899,125.4926595,5,,Coffee
+Kanoffee Toril,7.0181899,125.4926595,4,,Coffee
+Kanoffee Toril,7.0181899,125.4926595,5,,Coffee

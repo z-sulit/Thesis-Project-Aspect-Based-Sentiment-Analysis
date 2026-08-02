@@ -1,2 +1,2 @@
-﻿place_name,latitude,longitude,rating,review_text
-"3rd Space",7.082732,125.5991283,5,""
+place_name,latitude,longitude,rating,review_text,Shop_Type
+3rd Space,7.082732,125.5991283,5,,Coffee

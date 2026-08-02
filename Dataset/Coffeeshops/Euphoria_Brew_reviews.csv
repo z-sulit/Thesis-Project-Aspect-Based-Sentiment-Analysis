@@ -1,6 +1,6 @@
-﻿place_name,latitude,longitude,rating,review_text
-"Euphoria Brew",7.1385959,125.6283082,5,"The place is awesome —-it’s best for those who love coffee and toys combined. I tried hot Cappuccino and iced Salted Caramel, and both tasted great. It’s a plus to have a very approachable and super-friendly owner who single-handedly prepared all our orders. Btw, every corner of the place is photo-worthy."
-"Euphoria Brew",7.1385959,125.6283082,5,"Your cup of inspiration ☕️ Bold flavor for the bold dreamer☕️"
-"Euphoria Brew",7.1385959,125.6283082,5,"Keep it simple. Brew it bold ☕ Crafted with passion, poured with precision ☕😘 #euphoriabrew #coffeeshop …"
-"Euphoria Brew",7.1385959,125.6283082,5,"Very cozy place, toys are so awesome, smells so good, coffee is delicious I'm not a sweet tooth person so the bitter and sweet are perfectly matched...I highly recommend Euphoria Brew"
-"Euphoria Brew",7.1385959,125.6283082,5,""
+place_name,latitude,longitude,rating,review_text,Shop_Type
+Euphoria Brew,7.1385959,125.6283082,5,"The place is awesome —-it’s best for those who love coffee and toys combined. I tried hot Cappuccino and iced Salted Caramel, and both tasted great. It’s a plus to have a very approachable and super-friendly owner who single-handedly prepared all our orders. Btw, every corner of the place is photo-worthy.",Coffee
+Euphoria Brew,7.1385959,125.6283082,5,Your cup of inspiration ☕️ Bold flavor for the bold dreamer☕️,Coffee
+Euphoria Brew,7.1385959,125.6283082,5,"Keep it simple. Brew it bold ☕ Crafted with passion, poured with precision ☕😘 #euphoriabrew #coffeeshop …",Coffee
+Euphoria Brew,7.1385959,125.6283082,5,"Very cozy place, toys are so awesome, smells so good, coffee is delicious I'm not a sweet tooth person so the bitter and sweet are perfectly matched...I highly recommend Euphoria Brew",Coffee
+Euphoria Brew,7.1385959,125.6283082,5,,Coffee

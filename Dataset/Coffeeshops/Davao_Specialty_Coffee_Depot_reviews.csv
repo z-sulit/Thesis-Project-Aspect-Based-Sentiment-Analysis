@@ -1,6 +1,6 @@
-﻿place_name,latitude,longitude,rating,review_text
-"Davao Specialty Coffee Depot",7.0571005,125.5864105,5,"Shop attendant was super attentive and friendly!! He brought out different beans for us to smell and choose, very patiently explained all the flavours and the prep process. Pls come n try their beans!!!"
-"Davao Specialty Coffee Depot",7.0571005,125.5864105,4,"At first glance it seemed like just a shop but NO…Drop by for coffee beans or just a cup. Affordable rates. Surprising menu that includes the names of growers. I tried a cup of the Finca de Garces which was good. I’m eyeing the beans next. By the way, because of the tight space you can only do short drop-ins. As with food, I didn’t see any on the menu or at the counter"
-"Davao Specialty Coffee Depot",7.0571005,125.5864105,5,"love the barista! he was super friendly and amazing"
-"Davao Specialty Coffee Depot",7.0571005,125.5864105,5,"very good"
-"Davao Specialty Coffee Depot",7.0571005,125.5864105,5,""
+place_name,latitude,longitude,rating,review_text,Shop_Type
+Davao Specialty Coffee Depot,7.0571005,125.5864105,5,"Shop attendant was super attentive and friendly!! He brought out different beans for us to smell and choose, very patiently explained all the flavours and the prep process. Pls come n try their beans!!!",Coffee
+Davao Specialty Coffee Depot,7.0571005,125.5864105,4,"At first glance it seemed like just a shop but NO…Drop by for coffee beans or just a cup. Affordable rates. Surprising menu that includes the names of growers. I tried a cup of the Finca de Garces which was good. I’m eyeing the beans next. By the way, because of the tight space you can only do short drop-ins. As with food, I didn’t see any on the menu or at the counter",Coffee
+Davao Specialty Coffee Depot,7.0571005,125.5864105,5,love the barista! he was super friendly and amazing,Coffee
+Davao Specialty Coffee Depot,7.0571005,125.5864105,5,very good,Coffee
+Davao Specialty Coffee Depot,7.0571005,125.5864105,5,,Coffee

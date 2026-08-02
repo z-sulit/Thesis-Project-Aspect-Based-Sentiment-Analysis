@@ -1,2 +1,2 @@
-﻿place_name,latitude,longitude,rating,review_text
-"AFTER 8",7.1608423,125.6097914,5,""
+place_name,latitude,longitude,rating,review_text,Shop_Type
+AFTER 8,7.1608423,125.6097914,5,,Coffee

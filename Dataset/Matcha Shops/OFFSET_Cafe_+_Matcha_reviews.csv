@@ -1,5 +1,5 @@
-﻿place_name,latitude,longitude,rating,review_text
-"OFFSET Cafe + Matcha",7.08709,125.5979978,5,"This is definitely a new favorite! The drinks were delicious. I ordered the Tokyo Fog, and I loved how the earl …"
-"OFFSET Cafe + Matcha",7.08709,125.5979978,5,"Cute space!! Gave us free stickers for each drink too!"
-"OFFSET Cafe + Matcha",7.08709,125.5979978,5,"Superb service! The young baristas who are also the owners were very attentive to details. They asked for my preferences which I appreciated. …"
-"OFFSET Cafe + Matcha",7.08709,125.5979978,5,""
+place_name,latitude,longitude,rating,review_text,Shop_Type
+OFFSET Cafe + Matcha,7.08709,125.5979978,5,"This is definitely a new favorite! The drinks were delicious. I ordered the Tokyo Fog, and I loved how the earl …",Matcha
+OFFSET Cafe + Matcha,7.08709,125.5979978,5,Cute space!! Gave us free stickers for each drink too!,Matcha
+OFFSET Cafe + Matcha,7.08709,125.5979978,5,Superb service! The young baristas who are also the owners were very attentive to details. They asked for my preferences which I appreciated. …,Matcha
+OFFSET Cafe + Matcha,7.08709,125.5979978,5,,Matcha

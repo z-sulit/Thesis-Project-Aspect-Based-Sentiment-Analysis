@@ -1,6 +1,6 @@
-﻿place_name,latitude,longitude,rating,review_text
-"AMCG Farm (Damosa Branch)",7.0880421,125.5944794,5,"If you wanna go have a matcha run and your mom tells you to buy some veggies while you at it, look no further cause this place has BOTH 👍👍👍👍👍👍👍 …"
-"AMCG Farm (Damosa Branch)",7.0880421,125.5944794,5,"Fresh salads, quality matcha, and sweet fruits. Such a nice healthy find in the north."
-"AMCG Farm (Damosa Branch)",7.0880421,125.5944794,5,"yummmy ube matcha"
-"AMCG Farm (Damosa Branch)",7.0880421,125.5944794,5,"Ube Matcha tastes so good!! 😊 Legit 💯 Very responsive via text message. They're not on grab yet so I just had the rider pick them up …"
-"AMCG Farm (Damosa Branch)",7.0880421,125.5944794,5,"yummmy ube matcha"
+place_name,latitude,longitude,rating,review_text,Shop_Type
+AMCG Farm (Damosa Branch),7.0880421,125.5944794,5,"If you wanna go have a matcha run and your mom tells you to buy some veggies while you at it, look no further cause this place has BOTH 👍👍👍👍👍👍👍 …",Matcha
+AMCG Farm (Damosa Branch),7.0880421,125.5944794,5,"Fresh salads, quality matcha, and sweet fruits. Such a nice healthy find in the north.",Matcha
+AMCG Farm (Damosa Branch),7.0880421,125.5944794,5,yummmy ube matcha,Matcha
+AMCG Farm (Damosa Branch),7.0880421,125.5944794,5,Ube Matcha tastes so good!! 😊 Legit 💯 Very responsive via text message. They're not on grab yet so I just had the rider pick them up …,Matcha
+AMCG Farm (Damosa Branch),7.0880421,125.5944794,5,yummmy ube matcha,Matcha

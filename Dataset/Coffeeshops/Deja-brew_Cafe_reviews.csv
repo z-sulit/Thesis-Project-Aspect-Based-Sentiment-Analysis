@@ -1,8 +1,8 @@
-﻿place_name,latitude,longitude,rating,review_text
-"Deja-brew Cafe",7.0835932,125.5909156,5,"I was here last night, and the bartender is so gwapo and I think he's also the owner. Also, giving me the solemn vibes, easy access for everything."
-"Deja-brew Cafe",7.0835932,125.5909156,5,"Regards kong jandee"
-"Deja-brew Cafe",7.0835932,125.5909156,5,"very good"
-"Deja-brew Cafe",7.0835932,125.5909156,5,""
-"Deja-brew Cafe",7.0835932,125.5909156,5,""
-"Deja-brew Cafe",7.0835932,125.5909156,5,""
-"Deja-brew Cafe",7.0835932,125.5909156,5,""
+place_name,latitude,longitude,rating,review_text,Shop_Type
+Deja-brew Cafe,7.0835932,125.5909156,5,"I was here last night, and the bartender is so gwapo and I think he's also the owner. Also, giving me the solemn vibes, easy access for everything.",Coffee
+Deja-brew Cafe,7.0835932,125.5909156,5,Regards kong jandee,Coffee
+Deja-brew Cafe,7.0835932,125.5909156,5,very good,Coffee
+Deja-brew Cafe,7.0835932,125.5909156,5,,Coffee
+Deja-brew Cafe,7.0835932,125.5909156,5,,Coffee
+Deja-brew Cafe,7.0835932,125.5909156,5,,Coffee
+Deja-brew Cafe,7.0835932,125.5909156,5,,Coffee

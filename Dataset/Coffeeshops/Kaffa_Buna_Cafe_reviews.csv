@@ -1,7 +1,7 @@
-﻿place_name,latitude,longitude,rating,review_text
-"Kaffa Buna Cafe",7.0439581,125.5217532,3,"It's an okay space to hang out and it's not crowded, but the food, specifically the spaghetti, isn't tasty, they need to improve."
-"Kaffa Buna Cafe",7.0439581,125.5217532,3,""
-"Kaffa Buna Cafe",7.0439581,125.5217532,5,""
-"Kaffa Buna Cafe",7.0439581,125.5217532,5,""
-"Kaffa Buna Cafe",7.0439581,125.5217532,5,""
-"Kaffa Buna Cafe",7.0439581,125.5217532,5,""
+place_name,latitude,longitude,rating,review_text,Shop_Type
+Kaffa Buna Cafe,7.0439581,125.5217532,3,"It's an okay space to hang out and it's not crowded, but the food, specifically the spaghetti, isn't tasty, they need to improve.",Coffee
+Kaffa Buna Cafe,7.0439581,125.5217532,3,,Coffee
+Kaffa Buna Cafe,7.0439581,125.5217532,5,,Coffee
+Kaffa Buna Cafe,7.0439581,125.5217532,5,,Coffee
+Kaffa Buna Cafe,7.0439581,125.5217532,5,,Coffee
+Kaffa Buna Cafe,7.0439581,125.5217532,5,,Coffee

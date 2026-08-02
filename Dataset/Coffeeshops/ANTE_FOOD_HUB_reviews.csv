@@ -1,8 +1,8 @@
-﻿place_name,latitude,longitude,rating,review_text
-"ANTE FOOD HUB",7.1136976,125.592374,5,"Ante Food Hub has quickly become one of my go-to spots🤩, and it's easy to see why. What I love the most is how convenient they are. Whether I'm in a rush or just craving something, haha. On top of that, the professionalism. They treat every customer with a little extra care - you can tell it's genuine, not forced. The whole environment feels great and welcoming, that's why I recommend this shop. Personal fav: Matcha Oreo😎 Funny enough to say I didn't buy it at first because I thought it's not that great as former water only ( Athlete) but then I bought it because lot of people were keep saying it's great. Turns out they were right."
-"ANTE FOOD HUB",7.1136976,125.592374,5,"Highly recommended place, one of my favorite place to hangout and eat with my friends and family. Space might be tiny but the food is amazingly in big portions and tastes so good. Highly recommended"
-"ANTE FOOD HUB",7.1136976,125.592374,5,"If you're close to Drea, especially if you're from Juliville like me, it's a good place to go if you want to have coffee or snacks, the ambiance is nice and you can just chill. I'll buy it now, just review."
-"ANTE FOOD HUB",7.1136976,125.592374,5,"Just tight on budget and so yummy"
-"ANTE FOOD HUB",7.1136976,125.592374,5,""
-"ANTE FOOD HUB",7.1136976,125.592374,5,""
-"ANTE FOOD HUB",7.1136976,125.592374,5,""
+place_name,latitude,longitude,rating,review_text,Shop_Type
+ANTE FOOD HUB,7.1136976,125.592374,5,"Ante Food Hub has quickly become one of my go-to spots🤩, and it's easy to see why. What I love the most is how convenient they are. Whether I'm in a rush or just craving something, haha. On top of that, the professionalism. They treat every customer with a little extra care - you can tell it's genuine, not forced. The whole environment feels great and welcoming, that's why I recommend this shop. Personal fav: Matcha Oreo😎 Funny enough to say I didn't buy it at first because I thought it's not that great as former water only ( Athlete) but then I bought it because lot of people were keep saying it's great. Turns out they were right.",Coffee
+ANTE FOOD HUB,7.1136976,125.592374,5,"Highly recommended place, one of my favorite place to hangout and eat with my friends and family. Space might be tiny but the food is amazingly in big portions and tastes so good. Highly recommended",Coffee
+ANTE FOOD HUB,7.1136976,125.592374,5,"If you're close to Drea, especially if you're from Juliville like me, it's a good place to go if you want to have coffee or snacks, the ambiance is nice and you can just chill. I'll buy it now, just review.",Coffee
+ANTE FOOD HUB,7.1136976,125.592374,5,Just tight on budget and so yummy,Coffee
+ANTE FOOD HUB,7.1136976,125.592374,5,,Coffee
+ANTE FOOD HUB,7.1136976,125.592374,5,,Coffee
+ANTE FOOD HUB,7.1136976,125.592374,5,,Coffee

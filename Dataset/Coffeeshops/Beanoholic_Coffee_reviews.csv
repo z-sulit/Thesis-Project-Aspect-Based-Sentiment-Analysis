@@ -1,2 +1,2 @@
-﻿place_name,latitude,longitude,rating,review_text
-"Beanoholic Coffee",7.1346076,125.6054962,5,""
+place_name,latitude,longitude,rating,review_text,Shop_Type
+Beanoholic Coffee,7.1346076,125.6054962,5,,Coffee

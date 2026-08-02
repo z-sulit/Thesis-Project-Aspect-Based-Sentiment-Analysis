@@ -1,35 +1,35 @@
-﻿place_name,latitude,longitude,rating,review_text
-"Darkk Coffee Co.",7.0839909,125.6115991,4,"March 15 2026 This is night before Araw ng Davao. Got the hot ₱115 Oatmeal cookie and ₱115 Hot Espresso from Vietnam beans. I brought the espresso over to Kugi Slow Bar as I needed to finish it. The owner was cool and nice. Really does reflect the cafe. Glad they've finished the renovations."
-"Darkk Coffee Co.",7.0839909,125.6115991,4,"Hopped off for coffees and a pastry. Affordable rates for the three items I got. Tasty coffee flavors. An open-air space with limited seating and curbside parking. Best to swing by in the mornings."
-"Darkk Coffee Co.",7.0839909,125.6115991,4,"shop: the vibes is great and unique -- their branding and decors cater to the grunge and punk folks. the shop is street-facing and al fresco. gives neighborhood coffee shop feels (which it actually is) mocha: they used to have really dark tasting mocha around 2025 but now their mocha is a too sweet. i expected them to have that signature bitter (in a good way) taste but it's tasting more sugary. side note: i use mocha to compare different coffee shops & cafe"
-"Darkk Coffee Co.",7.0839909,125.6115991,5,"Found another gem in Davao. Great toasted coffee beans from Vietnam. A big plus for making the Cortana correctly! Aldrine the barista, was cool, chill and consistent. Thank you. A must come and I recommend for sure."
-"Darkk Coffee Co.",7.0839909,125.6115991,4,"Stopped by Darkk Coffee and loved the vibe - super chill! The music being played on the speaker was totally nostalgic, and brought me back to high school. :) Coffee was just okay this time, though. Still, good spot to drop by!"
-"Darkk Coffee Co.",7.0839909,125.6115991,4,"Good brews. Clean vibe. Walang arte — just pure coffee and calm energy. 💀"
-"Darkk Coffee Co.",7.0839909,125.6115991,5,"Nice coffee and cookies one thing would improve the coffee is heating the milk a little more. Barista is friendly and good to chat with."
-"Darkk Coffee Co.",7.0839909,125.6115991,5,"Darkk Coffee is a cozy, artisanal coffee shop that feels like a nostalgic step back to simpler times. The warm ambiance and friendly people evoke memories of teenage hangouts, while the expertly crafted offers a comforting taste of the past. It's a delightful spot for a peaceful, joyful coffee experience."
-"Darkk Coffee Co.",7.0839909,125.6115991,5,"The one, the only 2nd best coffee shop in the city."
-"Darkk Coffee Co.",7.0839909,125.6115991,5,"a little nook along the road...this place gives off great vibes for that quick coffee fix. tried the mocha and was very impressed with its taste and kick to it."
-"Darkk Coffee Co.",7.0839909,125.6115991,5,"Good selection of coffee. Mr Dark is definitely a must try coffee. Good setup in a quiet neighborhood too."
-"Darkk Coffee Co.",7.0839909,125.6115991,5,"The Best Coffee in Davao City Coffee at its finest Friendly barista/owner Very affordable I seldom give 5 stars review and this shop deserve it!"
-"Darkk Coffee Co.",7.0839909,125.6115991,5,"Unique flavor of coffee. Artisanal. Cool Merch , great aesthetics"
-"Darkk Coffee Co.",7.0839909,125.6115991,5,"Accommodating owner and his Mr. Dark coffee is a must try for coffee enthisiasts like me."
-"Darkk Coffee Co.",7.0839909,125.6115991,5,"Must try! Spanish Latte & Salted Caramel."
-"Darkk Coffee Co.",7.0839909,125.6115991,5,"A coffee that satisfies your palate"
-"Darkk Coffee Co.",7.0839909,125.6115991,5,"Single origin is a must try. 👍🏽 …"
-"Darkk Coffee Co.",7.0839909,125.6115991,5,"Nice, Chill Ambience!"
-"Darkk Coffee Co.",7.0839909,125.6115991,5,"Real coffee experience with Darkk coffee"
-"Darkk Coffee Co.",7.0839909,125.6115991,4,"I ordered a nice coffee latte"
-"Darkk Coffee Co.",7.0839909,125.6115991,5,""
-"Darkk Coffee Co.",7.0839909,125.6115991,5,"Good coffee"
-"Darkk Coffee Co.",7.0839909,125.6115991,5,""
-"Darkk Coffee Co.",7.0839909,125.6115991,4,""
-"Darkk Coffee Co.",7.0839909,125.6115991,5,""
-"Darkk Coffee Co.",7.0839909,125.6115991,5,""
-"Darkk Coffee Co.",7.0839909,125.6115991,5,""
-"Darkk Coffee Co.",7.0839909,125.6115991,3,""
-"Darkk Coffee Co.",7.0839909,125.6115991,5,""
-"Darkk Coffee Co.",7.0839909,125.6115991,4,""
-"Darkk Coffee Co.",7.0839909,125.6115991,2,""
-"Darkk Coffee Co.",7.0839909,125.6115991,4,""
-"Darkk Coffee Co.",7.0839909,125.6115991,5,""
-"Darkk Coffee Co.",7.0839909,125.6115991,5,""
+place_name,latitude,longitude,rating,review_text,Shop_Type
+Darkk Coffee Co.,7.0839909,125.6115991,4,March 15 2026 This is night before Araw ng Davao. Got the hot ₱115 Oatmeal cookie and ₱115 Hot Espresso from Vietnam beans. I brought the espresso over to Kugi Slow Bar as I needed to finish it. The owner was cool and nice. Really does reflect the cafe. Glad they've finished the renovations.,Coffee
+Darkk Coffee Co.,7.0839909,125.6115991,4,Hopped off for coffees and a pastry. Affordable rates for the three items I got. Tasty coffee flavors. An open-air space with limited seating and curbside parking. Best to swing by in the mornings.,Coffee
+Darkk Coffee Co.,7.0839909,125.6115991,4,shop: the vibes is great and unique -- their branding and decors cater to the grunge and punk folks. the shop is street-facing and al fresco. gives neighborhood coffee shop feels (which it actually is) mocha: they used to have really dark tasting mocha around 2025 but now their mocha is a too sweet. i expected them to have that signature bitter (in a good way) taste but it's tasting more sugary. side note: i use mocha to compare different coffee shops & cafe,Coffee
+Darkk Coffee Co.,7.0839909,125.6115991,5,"Found another gem in Davao. Great toasted coffee beans from Vietnam. A big plus for making the Cortana correctly! Aldrine the barista, was cool, chill and consistent. Thank you. A must come and I recommend for sure.",Coffee
+Darkk Coffee Co.,7.0839909,125.6115991,4,"Stopped by Darkk Coffee and loved the vibe - super chill! The music being played on the speaker was totally nostalgic, and brought me back to high school. :) Coffee was just okay this time, though. Still, good spot to drop by!",Coffee
+Darkk Coffee Co.,7.0839909,125.6115991,4,Good brews. Clean vibe. Walang arte — just pure coffee and calm energy. 💀,Coffee
+Darkk Coffee Co.,7.0839909,125.6115991,5,Nice coffee and cookies one thing would improve the coffee is heating the milk a little more. Barista is friendly and good to chat with.,Coffee
+Darkk Coffee Co.,7.0839909,125.6115991,5,"Darkk Coffee is a cozy, artisanal coffee shop that feels like a nostalgic step back to simpler times. The warm ambiance and friendly people evoke memories of teenage hangouts, while the expertly crafted offers a comforting taste of the past. It's a delightful spot for a peaceful, joyful coffee experience.",Coffee
+Darkk Coffee Co.,7.0839909,125.6115991,5,"The one, the only 2nd best coffee shop in the city.",Coffee
+Darkk Coffee Co.,7.0839909,125.6115991,5,a little nook along the road...this place gives off great vibes for that quick coffee fix. tried the mocha and was very impressed with its taste and kick to it.,Coffee
+Darkk Coffee Co.,7.0839909,125.6115991,5,Good selection of coffee. Mr Dark is definitely a must try coffee. Good setup in a quiet neighborhood too.,Coffee
+Darkk Coffee Co.,7.0839909,125.6115991,5,The Best Coffee in Davao City Coffee at its finest Friendly barista/owner Very affordable I seldom give 5 stars review and this shop deserve it!,Coffee
+Darkk Coffee Co.,7.0839909,125.6115991,5,"Unique flavor of coffee. Artisanal. Cool Merch , great aesthetics",Coffee
+Darkk Coffee Co.,7.0839909,125.6115991,5,Accommodating owner and his Mr. Dark coffee is a must try for coffee enthisiasts like me.,Coffee
+Darkk Coffee Co.,7.0839909,125.6115991,5,Must try! Spanish Latte & Salted Caramel.,Coffee
+Darkk Coffee Co.,7.0839909,125.6115991,5,A coffee that satisfies your palate,Coffee
+Darkk Coffee Co.,7.0839909,125.6115991,5,Single origin is a must try. 👍🏽 …,Coffee
+Darkk Coffee Co.,7.0839909,125.6115991,5,"Nice, Chill Ambience!",Coffee
+Darkk Coffee Co.,7.0839909,125.6115991,5,Real coffee experience with Darkk coffee,Coffee
+Darkk Coffee Co.,7.0839909,125.6115991,4,I ordered a nice coffee latte,Coffee
+Darkk Coffee Co.,7.0839909,125.6115991,5,,Coffee
+Darkk Coffee Co.,7.0839909,125.6115991,5,Good coffee,Coffee
+Darkk Coffee Co.,7.0839909,125.6115991,5,,Coffee
+Darkk Coffee Co.,7.0839909,125.6115991,4,,Coffee
+Darkk Coffee Co.,7.0839909,125.6115991,5,,Coffee
+Darkk Coffee Co.,7.0839909,125.6115991,5,,Coffee
+Darkk Coffee Co.,7.0839909,125.6115991,5,,Coffee
+Darkk Coffee Co.,7.0839909,125.6115991,3,,Coffee
+Darkk Coffee Co.,7.0839909,125.6115991,5,,Coffee
+Darkk Coffee Co.,7.0839909,125.6115991,4,,Coffee
+Darkk Coffee Co.,7.0839909,125.6115991,2,,Coffee
+Darkk Coffee Co.,7.0839909,125.6115991,4,,Coffee
+Darkk Coffee Co.,7.0839909,125.6115991,5,,Coffee
+Darkk Coffee Co.,7.0839909,125.6115991,5,,Coffee

@@ -1,3 +1,3 @@
-﻿place_name,latitude,longitude,rating,review_text
-"19TH DOSE CAFE",7.1463884,125.5763967,5,"We tried the Vietnamese Latte and the Dirty Matcha Latte. They were really good!"
-"19TH DOSE CAFE",7.1463884,125.5763967,5,""
+place_name,latitude,longitude,rating,review_text,Shop_Type
+19TH DOSE CAFE,7.1463884,125.5763967,5,We tried the Vietnamese Latte and the Dirty Matcha Latte. They were really good!,Coffee
+19TH DOSE CAFE,7.1463884,125.5763967,5,,Coffee

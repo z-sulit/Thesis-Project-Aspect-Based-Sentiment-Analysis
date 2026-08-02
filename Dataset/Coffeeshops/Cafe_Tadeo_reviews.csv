@@ -1,25 +1,25 @@
-﻿place_name,latitude,longitude,rating,review_text
-"Cafe Tadeo",7.0926096,125.5381377,2,"Finally gave in after driving past this a million times….Along Ma-a Road and shares parking (or no parking at all) with the salon right beside it. I was taken aback when the cashier told me to properly park my vehicle. Check the picture duh, look at the motorcycle that was there before me….I just wondered why they did not notice IT as I was the ONLY customer that time…. It’s always during the EARLIEST TIME of the day when staff are NOT ALERT/unattentive that I usually see warning signs…..Flat white and Bangsilog was just……..If I’m coming back well, you know the answer…."
-"Cafe Tadeo",7.0926096,125.5381377,4,"Charming little cafe, quietly hidden from the highway but has a very nice ambiance with no distinct smell, which is nice as I have allergic rhinitis, and a very homey feel. I ordered chix carbonara, mati seaside empanada and iced caramel macchiato. Carbonara is well balanced, empanada is okay, not as juicy and delicious as I hoped it would be, and the iced caramel macchiato is also okay, not as sweet and memorable as Starbucks’s version. The attendants are okay. I was just disappointed that they offered banana ketchup as partner to the empanada which is a no-no for me cause banana ketchup can be sour compared to tomato ketchup. I was also expecting condiments for the carbonara like ground pepper or salt, just to allow the customer to add season based on their tastebuds though the carbonara is already okay. I want to return here for their breakfast 🙂"
-"Cafe Tadeo",7.0926096,125.5381377,4,"My go-to whenever I’m craving for fast breakfast food. I like their tapsilog and tocilog. My favorite order here is the green booster! So good."
-"Cafe Tadeo",7.0926096,125.5381377,3,"Good food and beverage options in this Ma-a cafe."
-"Cafe Tadeo",7.0926096,125.5381377,5,"Masarap na! Mura pa! I accidentally found this place while walking in the rain. I was staaarving and there it was! Craving the tuna pasta now! Planning to go and dine soonest!!! Will definitely do so. I have a fave spot in MAA."
-"Cafe Tadeo",7.0926096,125.5381377,5,"Cozy small cafe that serves all day breakfast and snack meals. The tapsilog is a must try as well as the spicy tuna pasta. Delicious."
-"Cafe Tadeo",7.0926096,125.5381377,5,"Quaint little shop. A sanctuary in middle of sari-sari stores!.... Clean facilities and excellent food! If this was located in a mall, it will have a waiting line!"
-"Cafe Tadeo",7.0926096,125.5381377,5,"Love the tea as its served in a big teapot.. Coffee is fine.. and they have cakes as well.."
-"Cafe Tadeo",7.0926096,125.5381377,5,"The staff is super approachable (I didn't get the girl's name). The coffee is delicious and the cookies are AMAZING!!! 😋😋😋😋😋"
-"Cafe Tadeo",7.0926096,125.5381377,5,"The staff is very friendly and they also gave me free stickers hehe. Their coffee is delicious, not too sweet and very cheap. Also very cozy place."
-"Cafe Tadeo",7.0926096,125.5381377,5,"The best cafe in Banha 👌"
-"Cafe Tadeo",7.0926096,125.5381377,5,""
-"Cafe Tadeo",7.0926096,125.5381377,1,"the saltiness of their pasta"
-"Cafe Tadeo",7.0926096,125.5381377,5,"Authentic Barako!"
-"Cafe Tadeo",7.0926096,125.5381377,5,""
-"Cafe Tadeo",7.0926096,125.5381377,5,""
-"Cafe Tadeo",7.0926096,125.5381377,5,""
-"Cafe Tadeo",7.0926096,125.5381377,5,""
-"Cafe Tadeo",7.0926096,125.5381377,5,""
-"Cafe Tadeo",7.0926096,125.5381377,5,""
-"Cafe Tadeo",7.0926096,125.5381377,5,""
-"Cafe Tadeo",7.0926096,125.5381377,5,""
-"Cafe Tadeo",7.0926096,125.5381377,5,""
-"Cafe Tadeo",7.0926096,125.5381377,5,""
+place_name,latitude,longitude,rating,review_text,Shop_Type
+Cafe Tadeo,7.0926096,125.5381377,2,"Finally gave in after driving past this a million times….Along Ma-a Road and shares parking (or no parking at all) with the salon right beside it. I was taken aback when the cashier told me to properly park my vehicle. Check the picture duh, look at the motorcycle that was there before me….I just wondered why they did not notice IT as I was the ONLY customer that time…. It’s always during the EARLIEST TIME of the day when staff are NOT ALERT/unattentive that I usually see warning signs…..Flat white and Bangsilog was just……..If I’m coming back well, you know the answer….",Coffee
+Cafe Tadeo,7.0926096,125.5381377,4,"Charming little cafe, quietly hidden from the highway but has a very nice ambiance with no distinct smell, which is nice as I have allergic rhinitis, and a very homey feel. I ordered chix carbonara, mati seaside empanada and iced caramel macchiato. Carbonara is well balanced, empanada is okay, not as juicy and delicious as I hoped it would be, and the iced caramel macchiato is also okay, not as sweet and memorable as Starbucks’s version. The attendants are okay. I was just disappointed that they offered banana ketchup as partner to the empanada which is a no-no for me cause banana ketchup can be sour compared to tomato ketchup. I was also expecting condiments for the carbonara like ground pepper or salt, just to allow the customer to add season based on their tastebuds though the carbonara is already okay. I want to return here for their breakfast 🙂",Coffee
+Cafe Tadeo,7.0926096,125.5381377,4,My go-to whenever I’m craving for fast breakfast food. I like their tapsilog and tocilog. My favorite order here is the green booster! So good.,Coffee
+Cafe Tadeo,7.0926096,125.5381377,3,Good food and beverage options in this Ma-a cafe.,Coffee
+Cafe Tadeo,7.0926096,125.5381377,5,Masarap na! Mura pa! I accidentally found this place while walking in the rain. I was staaarving and there it was! Craving the tuna pasta now! Planning to go and dine soonest!!! Will definitely do so. I have a fave spot in MAA.,Coffee
+Cafe Tadeo,7.0926096,125.5381377,5,Cozy small cafe that serves all day breakfast and snack meals. The tapsilog is a must try as well as the spicy tuna pasta. Delicious.,Coffee
+Cafe Tadeo,7.0926096,125.5381377,5,"Quaint little shop. A sanctuary in middle of sari-sari stores!.... Clean facilities and excellent food! If this was located in a mall, it will have a waiting line!",Coffee
+Cafe Tadeo,7.0926096,125.5381377,5,Love the tea as its served in a big teapot.. Coffee is fine.. and they have cakes as well..,Coffee
+Cafe Tadeo,7.0926096,125.5381377,5,The staff is super approachable (I didn't get the girl's name). The coffee is delicious and the cookies are AMAZING!!! 😋😋😋😋😋,Coffee
+Cafe Tadeo,7.0926096,125.5381377,5,"The staff is very friendly and they also gave me free stickers hehe. Their coffee is delicious, not too sweet and very cheap. Also very cozy place.",Coffee
+Cafe Tadeo,7.0926096,125.5381377,5,The best cafe in Banha 👌,Coffee
+Cafe Tadeo,7.0926096,125.5381377,5,,Coffee
+Cafe Tadeo,7.0926096,125.5381377,1,the saltiness of their pasta,Coffee
+Cafe Tadeo,7.0926096,125.5381377,5,Authentic Barako!,Coffee
+Cafe Tadeo,7.0926096,125.5381377,5,,Coffee
+Cafe Tadeo,7.0926096,125.5381377,5,,Coffee
+Cafe Tadeo,7.0926096,125.5381377,5,,Coffee
+Cafe Tadeo,7.0926096,125.5381377,5,,Coffee
+Cafe Tadeo,7.0926096,125.5381377,5,,Coffee
+Cafe Tadeo,7.0926096,125.5381377,5,,Coffee
+Cafe Tadeo,7.0926096,125.5381377,5,,Coffee
+Cafe Tadeo,7.0926096,125.5381377,5,,Coffee
+Cafe Tadeo,7.0926096,125.5381377,5,,Coffee
+Cafe Tadeo,7.0926096,125.5381377,5,,Coffee

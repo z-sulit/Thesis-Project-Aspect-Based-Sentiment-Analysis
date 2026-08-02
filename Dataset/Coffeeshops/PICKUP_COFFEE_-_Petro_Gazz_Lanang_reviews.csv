@@ -1,2 +1,2 @@
-﻿place_name,latitude,longitude,rating,review_text
-"PICKUP COFFEE - Petro Gazz Lanang",7.1253391,125.5840492,5,""
+place_name,latitude,longitude,rating,review_text,Shop_Type
+PICKUP COFFEE - Petro Gazz Lanang,7.1253391,125.5840492,5,,Coffee

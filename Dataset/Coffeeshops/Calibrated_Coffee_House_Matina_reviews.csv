@@ -1,9 +1,9 @@
-﻿place_name,latitude,longitude,rating,review_text
-"Calibrated Coffee House Matina",7.0606762,125.5688945,5,"I would like to say that, best coffee in davao Cafe to Visit Once in a Lifetime"
-"Calibrated Coffee House Matina",7.0606762,125.5688945,5,"Its totally great. Especially that's secluded inside a car wash place. But less area for parking."
-"Calibrated Coffee House Matina",7.0606762,125.5688945,4,"Coffee shop in a carwash = 👌"
-"Calibrated Coffee House Matina",7.0606762,125.5688945,5,"Best cold coffee in Davao"
-"Calibrated Coffee House Matina",7.0606762,125.5688945,5,"Good people, nice vibe. The food, coffee, and matcha is consistently good."
-"Calibrated Coffee House Matina",7.0606762,125.5688945,5,""
-"Calibrated Coffee House Matina",7.0606762,125.5688945,5,""
-"Calibrated Coffee House Matina",7.0606762,125.5688945,5,""
+place_name,latitude,longitude,rating,review_text,Shop_Type
+Calibrated Coffee House Matina,7.0606762,125.5688945,5,"I would like to say that, best coffee in davao Cafe to Visit Once in a Lifetime",Coffee
+Calibrated Coffee House Matina,7.0606762,125.5688945,5,Its totally great. Especially that's secluded inside a car wash place. But less area for parking.,Coffee
+Calibrated Coffee House Matina,7.0606762,125.5688945,4,Coffee shop in a carwash = 👌,Coffee
+Calibrated Coffee House Matina,7.0606762,125.5688945,5,Best cold coffee in Davao,Coffee
+Calibrated Coffee House Matina,7.0606762,125.5688945,5,"Good people, nice vibe. The food, coffee, and matcha is consistently good.",Coffee
+Calibrated Coffee House Matina,7.0606762,125.5688945,5,,Coffee
+Calibrated Coffee House Matina,7.0606762,125.5688945,5,,Coffee
+Calibrated Coffee House Matina,7.0606762,125.5688945,5,,Coffee

@@ -1,2 +1,2 @@
-﻿place_name,latitude,longitude,rating,review_text
-"Man-Made",7.0926096,125.5381377,5,""
+place_name,latitude,longitude,rating,review_text,Shop_Type
+Man-Made,7.0926096,125.5381377,5,,Coffee

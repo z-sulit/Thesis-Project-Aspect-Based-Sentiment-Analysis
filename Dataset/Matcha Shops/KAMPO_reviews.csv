@@ -1,7 +1,7 @@
-﻿place_name,latitude,longitude,rating,review_text
-"KAMPO",7.096049,125.5749616,5,"Great Group of guys. Amazing chill out easy atmosphere. Like to come here every morning."
-"KAMPO",7.096049,125.5749616,5,"Very Aesthetic Coffee Spot and the Coffee is so good ~"
-"KAMPO",7.096049,125.5749616,5,"really nice. they now have pizzas as well. amazing coffee business built by young entrepreneurs."
-"KAMPO",7.096049,125.5749616,5,""
-"KAMPO",7.096049,125.5749616,5,""
-"KAMPO",7.096049,125.5749616,5,"Very Aesthetic Coffee Spot and the Coffee is so good ~"
+place_name,latitude,longitude,rating,review_text,Shop_Type
+KAMPO,7.096049,125.5749616,5,Great Group of guys. Amazing chill out easy atmosphere. Like to come here every morning.,Matcha
+KAMPO,7.096049,125.5749616,5,Very Aesthetic Coffee Spot and the Coffee is so good ~,Matcha
+KAMPO,7.096049,125.5749616,5,really nice. they now have pizzas as well. amazing coffee business built by young entrepreneurs.,Matcha
+KAMPO,7.096049,125.5749616,5,,Matcha
+KAMPO,7.096049,125.5749616,5,,Matcha
+KAMPO,7.096049,125.5749616,5,Very Aesthetic Coffee Spot and the Coffee is so good ~,Matcha

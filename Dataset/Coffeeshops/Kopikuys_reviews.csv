@@ -1,2 +1,2 @@
-﻿place_name,latitude,longitude,rating,review_text
-"Kopikuys",7.1880703,125.4495804,4,"Unexpectedly good iced coffee. Various flavors for 39 PHP. I had the Cookies & Cream, which was very good."
+place_name,latitude,longitude,rating,review_text,Shop_Type
+Kopikuys,7.1880703,125.4495804,4,"Unexpectedly good iced coffee. Various flavors for 39 PHP. I had the Cookies & Cream, which was very good.",Coffee

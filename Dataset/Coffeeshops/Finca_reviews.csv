@@ -1,20 +1,20 @@
-﻿place_name,latitude,longitude,rating,review_text
-"Finca",7.102032,125.6386519,3,"Price is kind of higher than the rest of the coffee shops. Taste is just okay. I think their best sellers are those with oat milk which I did not order. Love their place. It’s quiet ☺️ I will be back to try other drinks."
-"Finca",7.102032,125.6386519,4,"At first, Finca was a little tricky to find since it’s tucked away in Azuela High Street, which still feels quite bare with only a few establishments open. The cafe itself is on the smaller side, but it has a cozy and aesthetic vibe. They have a nice selection of drinks along with a few meal options, though the only dessert available during our visit was carrot cake. The cake was moist, and the sweetness came mostly from the icing. The coffee was enjoyable but I hope they add more pastry choices in the future, as it would be great to have more options to pair with their drinks."
-"Finca",7.102032,125.6386519,5,"Very nice boujie coffee shop tucked into a very modern and new complex. The shop itself is brand new and has great seating. When they get wifi, this will be a great place to work out of! Got a matcha latte, it was okay👌🏽"
-"Finca",7.102032,125.6386519,5,"They just opened + they’re tucked in a quiet corner of Azuela High Street so the ambience is peaceful. They are directly connected to a dental clinic. They serve your favorite Glasshouse drinks. When I came, they only had carrot cake for food/pastries though. Accepts cash, gcash and bank transfer"
-"Finca",7.102032,125.6386519,5,"Dont believe the reviews. Espresso was excellent and the best I had in davao"
-"Finca",7.102032,125.6386519,5,"One of the best coffees for keep! Tasted exactly what I expected the barista could offer."
-"Finca",7.102032,125.6386519,3,"The location is great and the coffee is really good! I tried the carrot cake, and while the filling was nice and generous, I think it would be even better if the cake itself was thicker than the filling to balance it out. One thing to note though—card payments have a minimum of ₱500. My bill was around ₱400, so I wasn’t able to use my card. This might be a bit high, especially since other coffee shops at a similar level usually allow card payments with no minimum. Because of this, I wouldn’t really recommend it for solo diners planning to pay by card. Hopefully, the minimum amount can be reconsidered—something around ₱250 would already make it so much more convenient."
-"Finca",7.102032,125.6386519,1,"very poor service. their staff couldn’t greet or even smile. i ordered a ceremonial matcha worth 320 hoping it would be worth the price but it was very disappointing. it tasted nothing like matcha, it tasted like water from the ice and oat milk. it wouldn’t be a very bad experience if the staff was nice"
-"Finca",7.102032,125.6386519,4,"I like the iced coffee. Then the place is very nice. Smoothing atmosphere and the esthetic is really nice. It is located at Azuela High Street in Azuela Cove."
-"Finca",7.102032,125.6386519,1,"The staff on the counter is snobbish. Won’t be going back anytime soon"
-"Finca",7.102032,125.6386519,5,"This coffee shop is from Glasshouse who serves really good coffee! Place is really nice too and connected to Fine Dentistry"
-"Finca",7.102032,125.6386519,5,"I love their matcha. And ambiance is impeccable"
-"Finca",7.102032,125.6386519,5,"Coffee is superb"
-"Finca",7.102032,125.6386519,2,"The café shares the space with a clinic, which explains the noise. Still early into the day, the staff members at the counter seem disoriented. Mosquitoes and small insects were bothering me during my stay. They didn’t have oat milk and they were transparent about it. My order tasted okay, though. I wouldn’t be thrilled to come back here unless it’s my absolute last option in the area."
-"Finca",7.102032,125.6386519,4,""
-"Finca",7.102032,125.6386519,5,""
-"Finca",7.102032,125.6386519,5,""
-"Finca",7.102032,125.6386519,4,""
-"Finca",7.102032,125.6386519,5,""
+place_name,latitude,longitude,rating,review_text,Shop_Type
+Finca,7.102032,125.6386519,3,Price is kind of higher than the rest of the coffee shops. Taste is just okay. I think their best sellers are those with oat milk which I did not order. Love their place. It’s quiet ☺️ I will be back to try other drinks.,Coffee
+Finca,7.102032,125.6386519,4,"At first, Finca was a little tricky to find since it’s tucked away in Azuela High Street, which still feels quite bare with only a few establishments open. The cafe itself is on the smaller side, but it has a cozy and aesthetic vibe. They have a nice selection of drinks along with a few meal options, though the only dessert available during our visit was carrot cake. The cake was moist, and the sweetness came mostly from the icing. The coffee was enjoyable but I hope they add more pastry choices in the future, as it would be great to have more options to pair with their drinks.",Coffee
+Finca,7.102032,125.6386519,5,"Very nice boujie coffee shop tucked into a very modern and new complex. The shop itself is brand new and has great seating. When they get wifi, this will be a great place to work out of! Got a matcha latte, it was okay👌🏽",Coffee
+Finca,7.102032,125.6386519,5,"They just opened + they’re tucked in a quiet corner of Azuela High Street so the ambience is peaceful. They are directly connected to a dental clinic. They serve your favorite Glasshouse drinks. When I came, they only had carrot cake for food/pastries though. Accepts cash, gcash and bank transfer",Coffee
+Finca,7.102032,125.6386519,5,Dont believe the reviews. Espresso was excellent and the best I had in davao,Coffee
+Finca,7.102032,125.6386519,5,One of the best coffees for keep! Tasted exactly what I expected the barista could offer.,Coffee
+Finca,7.102032,125.6386519,3,"The location is great and the coffee is really good! I tried the carrot cake, and while the filling was nice and generous, I think it would be even better if the cake itself was thicker than the filling to balance it out. One thing to note though—card payments have a minimum of ₱500. My bill was around ₱400, so I wasn’t able to use my card. This might be a bit high, especially since other coffee shops at a similar level usually allow card payments with no minimum. Because of this, I wouldn’t really recommend it for solo diners planning to pay by card. Hopefully, the minimum amount can be reconsidered—something around ₱250 would already make it so much more convenient.",Coffee
+Finca,7.102032,125.6386519,1,"very poor service. their staff couldn’t greet or even smile. i ordered a ceremonial matcha worth 320 hoping it would be worth the price but it was very disappointing. it tasted nothing like matcha, it tasted like water from the ice and oat milk. it wouldn’t be a very bad experience if the staff was nice",Coffee
+Finca,7.102032,125.6386519,4,I like the iced coffee. Then the place is very nice. Smoothing atmosphere and the esthetic is really nice. It is located at Azuela High Street in Azuela Cove.,Coffee
+Finca,7.102032,125.6386519,1,The staff on the counter is snobbish. Won’t be going back anytime soon,Coffee
+Finca,7.102032,125.6386519,5,This coffee shop is from Glasshouse who serves really good coffee! Place is really nice too and connected to Fine Dentistry,Coffee
+Finca,7.102032,125.6386519,5,I love their matcha. And ambiance is impeccable,Coffee
+Finca,7.102032,125.6386519,5,Coffee is superb,Coffee
+Finca,7.102032,125.6386519,2,"The café shares the space with a clinic, which explains the noise. Still early into the day, the staff members at the counter seem disoriented. Mosquitoes and small insects were bothering me during my stay. They didn’t have oat milk and they were transparent about it. My order tasted okay, though. I wouldn’t be thrilled to come back here unless it’s my absolute last option in the area.",Coffee
+Finca,7.102032,125.6386519,4,,Coffee
+Finca,7.102032,125.6386519,5,,Coffee
+Finca,7.102032,125.6386519,5,,Coffee
+Finca,7.102032,125.6386519,4,,Coffee
+Finca,7.102032,125.6386519,5,,Coffee

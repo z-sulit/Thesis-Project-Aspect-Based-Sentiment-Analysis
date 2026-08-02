@@ -1,8 +1,8 @@
-﻿place_name,latitude,longitude,rating,review_text
-"Y3 Cafe",7.0553392,125.4848402,5,"Food and drinks are good. Good for a quick coffee grab. Though the place is small, good only for small group maybe 2-3 people in particular. But the place is nice and accessible"
-"Y3 Cafe",7.0553392,125.4848402,4,"It’s a good place to stay for a while but small space. Kind of pricey but quality meals"
-"Y3 Cafe",7.0553392,125.4848402,5,"It’s been my go-to coffee shop for a quick caffeine fix. Their drinks are great! I usually get the Iced Americano, but whenever I’m craving something a little sweeter and creamier, their Y3 Special is also a great choice. They have a reliable internet connection and outlets, making it a nice spot to work or get things done. They also accept GCash and card payments for convenience."
-"Y3 Cafe",7.0553392,125.4848402,5,"Initially, their staff made a mistake in the boss's order, because the pasta order was the wrong sauce. After we reached out, Y3 very quickly offered a resolution either refund or replacement of the order for the next purchase. Fast forward to the boss's next order, only two coffees, the boss is changing, but he is giving too much. 11/10 in customer service, and commitment to wrong. THEIR COFFEE AND PASTA ARE DELICIOUS! THANK U Y3!"
-"Y3 Cafe",7.0553392,125.4848402,5,""
-"Y3 Cafe",7.0553392,125.4848402,5,""
-"Y3 Cafe",7.0553392,125.4848402,5,""
+place_name,latitude,longitude,rating,review_text,Shop_Type
+Y3 Cafe,7.0553392,125.4848402,5,"Food and drinks are good. Good for a quick coffee grab. Though the place is small, good only for small group maybe 2-3 people in particular. But the place is nice and accessible",Coffee
+Y3 Cafe,7.0553392,125.4848402,4,It’s a good place to stay for a while but small space. Kind of pricey but quality meals,Coffee
+Y3 Cafe,7.0553392,125.4848402,5,"It’s been my go-to coffee shop for a quick caffeine fix. Their drinks are great! I usually get the Iced Americano, but whenever I’m craving something a little sweeter and creamier, their Y3 Special is also a great choice. They have a reliable internet connection and outlets, making it a nice spot to work or get things done. They also accept GCash and card payments for convenience.",Coffee
+Y3 Cafe,7.0553392,125.4848402,5,"Initially, their staff made a mistake in the boss's order, because the pasta order was the wrong sauce. After we reached out, Y3 very quickly offered a resolution either refund or replacement of the order for the next purchase. Fast forward to the boss's next order, only two coffees, the boss is changing, but he is giving too much. 11/10 in customer service, and commitment to wrong. THEIR COFFEE AND PASTA ARE DELICIOUS! THANK U Y3!",Coffee
+Y3 Cafe,7.0553392,125.4848402,5,,Coffee
+Y3 Cafe,7.0553392,125.4848402,5,,Coffee
+Y3 Cafe,7.0553392,125.4848402,5,,Coffee

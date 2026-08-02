@@ -1,4 +1,4 @@
-﻿place_name,latitude,longitude,rating,review_text
-"Hola Coffee Roxas",7.0702955,125.6105361,5,"I don’t like Milktea Generally but this made me think about it (I love it)"
-"Hola Coffee Roxas",7.0702955,125.6105361,5,"Kind and polite, thanks guys. I also tried the salted caramel. Recommended for chill time especially near the smoking area."
-"Hola Coffee Roxas",7.0702955,125.6105361,1,""
+place_name,latitude,longitude,rating,review_text,Shop_Type
+Hola Coffee Roxas,7.0702955,125.6105361,5,I don’t like Milktea Generally but this made me think about it (I love it),Coffee
+Hola Coffee Roxas,7.0702955,125.6105361,5,"Kind and polite, thanks guys. I also tried the salted caramel. Recommended for chill time especially near the smoking area.",Coffee
+Hola Coffee Roxas,7.0702955,125.6105361,1,,Coffee

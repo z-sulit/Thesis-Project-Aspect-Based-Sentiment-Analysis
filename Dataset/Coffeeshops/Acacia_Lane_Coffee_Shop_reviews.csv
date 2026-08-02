@@ -1,26 +1,26 @@
-﻿place_name,latitude,longitude,rating,review_text
-"Acacia Lane Coffee Shop",7.0579292,125.5929311,4,"A cute coffee shop adjacent to a carwash center. It’s about seven tables plus one bar type.The food is served hot and tasty. Price is okay compared to other coffee shops in the city. The staff are are nice. It’s a nice place to relax, have lunch and get your car cleaned."
-"Acacia Lane Coffee Shop",7.0579292,125.5929311,5,"While waiting for your car to be washed, you can sit, relax, and dine here! ✅ Airconditioned ✅ Offers waffle, paste, iced and hot drinks ✅ I love their carbonara pasta, classic waffle, and hot matcha ✅ Cozy place ✅ Friendly staff"
-"Acacia Lane Coffee Shop",7.0579292,125.5929311,5,"I have been working around the area for three years now and I finally got to try this cafe. A humble and homegrown coffee shop within the same property as a carwash so you can have coffee and snacks while waiting. Items are very affordable. I had a good serving of passionfruit tea while the sweet potato fries was good for two people. I’d prefer they put salt on the fries than sugar but this did not affect the general flavor as I am a fan of kamote fries. Good ambience and affordable. Will come back when I have money for a quick snack."
-"Acacia Lane Coffee Shop",7.0579292,125.5929311,5,"This mini café is an answered prayer. When we normally go for a carwash, we don't have a place to wait. Acacia Lane Coffee Shop serves good coffee, good food and other beverages while waiting for your car to be done being washed. It's my 3rd time here and will definitely go back here again."
-"Acacia Lane Coffee Shop",7.0579292,125.5929311,5,"good place to eat and relax after visiting the nearby China Embassy. The barista is very pleasant and always smiles when taking orders. The coffee and food are good, and they also offer plant-based milk for coffee."
-"Acacia Lane Coffee Shop",7.0579292,125.5929311,3,"My experience at the coffee shop was average; the coffee was so-so, but the prices were reasonable. What really stood out about this place is its unique offering – a combination of a coffee shop and a car wash. It's the perfect spot for car owners who want to enjoy a cup of coffee while getting their cars cleaned. It's definitely a convenient option for those in the area."
-"Acacia Lane Coffee Shop",7.0579292,125.5929311,5,"Great food, great service and great ambiance! Always love lounging here while waiting for my car to be cleaned❤️"
-"Acacia Lane Coffee Shop",7.0579292,125.5929311,5,"I am here for the car wash station beside. Good food. Quiet."
-"Acacia Lane Coffee Shop",7.0579292,125.5929311,5,"Attached to an auto shop, excellent coffee and service from an independent cafe."
-"Acacia Lane Coffee Shop",7.0579292,125.5929311,5,"Cafe latte cold was so good"
-"Acacia Lane Coffee Shop",7.0579292,125.5929311,5,"Very friendly staff."
-"Acacia Lane Coffee Shop",7.0579292,125.5929311,5,"Stress free"
-"Acacia Lane Coffee Shop",7.0579292,125.5929311,5,"Looking for a cozy coffee shop? Try Acacia Lane Coffee Shop! ☕️ They serve great coffee, delicious meals, tasty snacks, and refreshing coolers. The ambiance is cozy, the staff are warm and friendly, and they even have a car wash—so you can relax with a good meal or drink while waiting for your car to be cleaned. Definitely worth a visit! 🌿🚗"
-"Acacia Lane Coffee Shop",7.0579292,125.5929311,5,"The employees are quiet, not rude, and the aglio olio with egg malasado is delicious."
-"Acacia Lane Coffee Shop",7.0579292,125.5929311,5,""
-"Acacia Lane Coffee Shop",7.0579292,125.5929311,4,""
-"Acacia Lane Coffee Shop",7.0579292,125.5929311,5,""
-"Acacia Lane Coffee Shop",7.0579292,125.5929311,5,""
-"Acacia Lane Coffee Shop",7.0579292,125.5929311,4,""
-"Acacia Lane Coffee Shop",7.0579292,125.5929311,5,""
-"Acacia Lane Coffee Shop",7.0579292,125.5929311,5,""
-"Acacia Lane Coffee Shop",7.0579292,125.5929311,4,""
-"Acacia Lane Coffee Shop",7.0579292,125.5929311,4,""
-"Acacia Lane Coffee Shop",7.0579292,125.5929311,5,""
-"Acacia Lane Coffee Shop",7.0579292,125.5929311,5,""
+place_name,latitude,longitude,rating,review_text,Shop_Type
+Acacia Lane Coffee Shop,7.0579292,125.5929311,4,"A cute coffee shop adjacent to a carwash center. It’s about seven tables plus one bar type.The food is served hot and tasty. Price is okay compared to other coffee shops in the city. The staff are are nice. It’s a nice place to relax, have lunch and get your car cleaned.",Coffee
+Acacia Lane Coffee Shop,7.0579292,125.5929311,5,"While waiting for your car to be washed, you can sit, relax, and dine here! ✅ Airconditioned ✅ Offers waffle, paste, iced and hot drinks ✅ I love their carbonara pasta, classic waffle, and hot matcha ✅ Cozy place ✅ Friendly staff",Coffee
+Acacia Lane Coffee Shop,7.0579292,125.5929311,5,I have been working around the area for three years now and I finally got to try this cafe. A humble and homegrown coffee shop within the same property as a carwash so you can have coffee and snacks while waiting. Items are very affordable. I had a good serving of passionfruit tea while the sweet potato fries was good for two people. I’d prefer they put salt on the fries than sugar but this did not affect the general flavor as I am a fan of kamote fries. Good ambience and affordable. Will come back when I have money for a quick snack.,Coffee
+Acacia Lane Coffee Shop,7.0579292,125.5929311,5,"This mini café is an answered prayer. When we normally go for a carwash, we don't have a place to wait. Acacia Lane Coffee Shop serves good coffee, good food and other beverages while waiting for your car to be done being washed. It's my 3rd time here and will definitely go back here again.",Coffee
+Acacia Lane Coffee Shop,7.0579292,125.5929311,5,"good place to eat and relax after visiting the nearby China Embassy. The barista is very pleasant and always smiles when taking orders. The coffee and food are good, and they also offer plant-based milk for coffee.",Coffee
+Acacia Lane Coffee Shop,7.0579292,125.5929311,3,"My experience at the coffee shop was average; the coffee was so-so, but the prices were reasonable. What really stood out about this place is its unique offering – a combination of a coffee shop and a car wash. It's the perfect spot for car owners who want to enjoy a cup of coffee while getting their cars cleaned. It's definitely a convenient option for those in the area.",Coffee
+Acacia Lane Coffee Shop,7.0579292,125.5929311,5,"Great food, great service and great ambiance! Always love lounging here while waiting for my car to be cleaned❤️",Coffee
+Acacia Lane Coffee Shop,7.0579292,125.5929311,5,I am here for the car wash station beside. Good food. Quiet.,Coffee
+Acacia Lane Coffee Shop,7.0579292,125.5929311,5,"Attached to an auto shop, excellent coffee and service from an independent cafe.",Coffee
+Acacia Lane Coffee Shop,7.0579292,125.5929311,5,Cafe latte cold was so good,Coffee
+Acacia Lane Coffee Shop,7.0579292,125.5929311,5,Very friendly staff.,Coffee
+Acacia Lane Coffee Shop,7.0579292,125.5929311,5,Stress free,Coffee
+Acacia Lane Coffee Shop,7.0579292,125.5929311,5,"Looking for a cozy coffee shop? Try Acacia Lane Coffee Shop! ☕️ They serve great coffee, delicious meals, tasty snacks, and refreshing coolers. The ambiance is cozy, the staff are warm and friendly, and they even have a car wash—so you can relax with a good meal or drink while waiting for your car to be cleaned. Definitely worth a visit! 🌿🚗",Coffee
+Acacia Lane Coffee Shop,7.0579292,125.5929311,5,"The employees are quiet, not rude, and the aglio olio with egg malasado is delicious.",Coffee
+Acacia Lane Coffee Shop,7.0579292,125.5929311,5,,Coffee
+Acacia Lane Coffee Shop,7.0579292,125.5929311,4,,Coffee
+Acacia Lane Coffee Shop,7.0579292,125.5929311,5,,Coffee
+Acacia Lane Coffee Shop,7.0579292,125.5929311,5,,Coffee
+Acacia Lane Coffee Shop,7.0579292,125.5929311,4,,Coffee
+Acacia Lane Coffee Shop,7.0579292,125.5929311,5,,Coffee
+Acacia Lane Coffee Shop,7.0579292,125.5929311,5,,Coffee
+Acacia Lane Coffee Shop,7.0579292,125.5929311,4,,Coffee
+Acacia Lane Coffee Shop,7.0579292,125.5929311,4,,Coffee
+Acacia Lane Coffee Shop,7.0579292,125.5929311,5,,Coffee
+Acacia Lane Coffee Shop,7.0579292,125.5929311,5,,Coffee

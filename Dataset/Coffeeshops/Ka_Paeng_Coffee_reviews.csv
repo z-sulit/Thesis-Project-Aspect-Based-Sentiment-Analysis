@@ -1,9 +1,9 @@
-﻿place_name,latitude,longitude,rating,review_text
-"Ka Paeng Coffee",7.0815348,125.5380048,5,"Have been going to this cafe ever since it first opened! It's my go-to-cafe whenever I feel like studying or hanging out with my loved ones. Its cozy atmosphere and great variety of drinks never fail to taste amazing!"
-"Ka Paeng Coffee",7.0815348,125.5380048,5,"Very cosy cafe with great service.. 😊 I recommend you try the Biscof latte.."
-"Ka Paeng Coffee",7.0815348,125.5380048,5,""
-"Ka Paeng Coffee",7.0815348,125.5380048,5,""
-"Ka Paeng Coffee",7.0815348,125.5380048,5,""
-"Ka Paeng Coffee",7.0815348,125.5380048,5,""
-"Ka Paeng Coffee",7.0815348,125.5380048,5,""
-"Ka Paeng Coffee",7.0815348,125.5380048,5,""
+place_name,latitude,longitude,rating,review_text,Shop_Type
+Ka Paeng Coffee,7.0815348,125.5380048,5,Have been going to this cafe ever since it first opened! It's my go-to-cafe whenever I feel like studying or hanging out with my loved ones. Its cozy atmosphere and great variety of drinks never fail to taste amazing!,Coffee
+Ka Paeng Coffee,7.0815348,125.5380048,5,Very cosy cafe with great service.. 😊 I recommend you try the Biscof latte..,Coffee
+Ka Paeng Coffee,7.0815348,125.5380048,5,,Coffee
+Ka Paeng Coffee,7.0815348,125.5380048,5,,Coffee
+Ka Paeng Coffee,7.0815348,125.5380048,5,,Coffee
+Ka Paeng Coffee,7.0815348,125.5380048,5,,Coffee
+Ka Paeng Coffee,7.0815348,125.5380048,5,,Coffee
+Ka Paeng Coffee,7.0815348,125.5380048,5,,Coffee

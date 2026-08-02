@@ -1,29 +1,29 @@
-﻿place_name,latitude,longitude,rating,review_text
-"RE-Ground Coffee & Cafe",7.0602174,125.5076442,4,"We ordered some iced coffee on a hot afternoon and it was good, but a tad too sweet than most. They have outdoor seating but we had to leave so we had it to-go. Some items are as pricey as most indoor coffee shops. But they do have affordable pastries and rice meals. Overall, it’s okay."
-"RE-Ground Coffee & Cafe",7.0602174,125.5076442,5,"An outdoor cafe concept which is rare here in the Philippines. The ambiance is so good and so relaxing, you'll suddenly become kinda nature lover while sippin' your fave done coffee. 🤎🤍 So underrated! …"
-"RE-Ground Coffee & Cafe",7.0602174,125.5076442,5,"I’ve tried a lot of coffee around the Philippines and this just maybe the best so far. The ambiance here is very relaxing, It’s a simple cafe along the highway of Libby road, Bago Gallera. Walang maraming arte, it’s an open space (al fresco) with a big tree, tables and chairs and that’s it, pero ang sarap tumambay habang nagkakape while enjoying the fresh air and the beautiful scenery of the farm. Very charming barista!"
-"RE-Ground Coffee & Cafe",7.0602174,125.5076442,4,"The coffee was excellent, as usual, but the smoothies are far too sweet, and I can't taste the intended flavor. The one with coffee was overly caffeinated; balancing the sweetness and caffeine would be ideal."
-"RE-Ground Coffee & Cafe",7.0602174,125.5076442,5,"The service is fast, and the drinks are TOP TIER, especially the cookies 🤤"
-"RE-Ground Coffee & Cafe",7.0602174,125.5076442,4,"Nice ambiance. Has restrooms. Quiet place. We visited at 9 pm."
-"RE-Ground Coffee & Cafe",7.0602174,125.5076442,5,"Run by family which makes it more special, their coffee is great especially their re-ground special."
-"RE-Ground Coffee & Cafe",7.0602174,125.5076442,5,"Cozy place. Plantitas and plantitos will enjoy here :)"
-"RE-Ground Coffee & Cafe",7.0602174,125.5076442,3,"Not so remarkable coffees they serve"
-"RE-Ground Coffee & Cafe",7.0602174,125.5076442,5,"very nice"
-"RE-Ground Coffee & Cafe",7.0602174,125.5076442,3,"Not too bad"
-"RE-Ground Coffee & Cafe",7.0602174,125.5076442,3,"Oh no, it would have been nice here and the coffee would have been delicious, but they're already close :((("
-"RE-Ground Coffee & Cafe",7.0602174,125.5076442,5,""
-"RE-Ground Coffee & Cafe",7.0602174,125.5076442,5,""
-"RE-Ground Coffee & Cafe",7.0602174,125.5076442,5,""
-"RE-Ground Coffee & Cafe",7.0602174,125.5076442,5,""
-"RE-Ground Coffee & Cafe",7.0602174,125.5076442,5,""
-"RE-Ground Coffee & Cafe",7.0602174,125.5076442,3,""
-"RE-Ground Coffee & Cafe",7.0602174,125.5076442,5,""
-"RE-Ground Coffee & Cafe",7.0602174,125.5076442,5,""
-"RE-Ground Coffee & Cafe",7.0602174,125.5076442,2,""
-"RE-Ground Coffee & Cafe",7.0602174,125.5076442,5,""
-"RE-Ground Coffee & Cafe",7.0602174,125.5076442,5,""
-"RE-Ground Coffee & Cafe",7.0602174,125.5076442,5,""
-"RE-Ground Coffee & Cafe",7.0602174,125.5076442,5,""
-"RE-Ground Coffee & Cafe",7.0602174,125.5076442,5,""
-"RE-Ground Coffee & Cafe",7.0602174,125.5076442,5,""
-"RE-Ground Coffee & Cafe",7.0602174,125.5076442,4,""
+place_name,latitude,longitude,rating,review_text,Shop_Type
+RE-Ground Coffee & Cafe,7.0602174,125.5076442,4,"We ordered some iced coffee on a hot afternoon and it was good, but a tad too sweet than most. They have outdoor seating but we had to leave so we had it to-go. Some items are as pricey as most indoor coffee shops. But they do have affordable pastries and rice meals. Overall, it’s okay.",Coffee
+RE-Ground Coffee & Cafe,7.0602174,125.5076442,5,"An outdoor cafe concept which is rare here in the Philippines. The ambiance is so good and so relaxing, you'll suddenly become kinda nature lover while sippin' your fave done coffee. 🤎🤍 So underrated! …",Coffee
+RE-Ground Coffee & Cafe,7.0602174,125.5076442,5,"I’ve tried a lot of coffee around the Philippines and this just maybe the best so far. The ambiance here is very relaxing, It’s a simple cafe along the highway of Libby road, Bago Gallera. Walang maraming arte, it’s an open space (al fresco) with a big tree, tables and chairs and that’s it, pero ang sarap tumambay habang nagkakape while enjoying the fresh air and the beautiful scenery of the farm. Very charming barista!",Coffee
+RE-Ground Coffee & Cafe,7.0602174,125.5076442,4,"The coffee was excellent, as usual, but the smoothies are far too sweet, and I can't taste the intended flavor. The one with coffee was overly caffeinated; balancing the sweetness and caffeine would be ideal.",Coffee
+RE-Ground Coffee & Cafe,7.0602174,125.5076442,5,"The service is fast, and the drinks are TOP TIER, especially the cookies 🤤",Coffee
+RE-Ground Coffee & Cafe,7.0602174,125.5076442,4,Nice ambiance. Has restrooms. Quiet place. We visited at 9 pm.,Coffee
+RE-Ground Coffee & Cafe,7.0602174,125.5076442,5,"Run by family which makes it more special, their coffee is great especially their re-ground special.",Coffee
+RE-Ground Coffee & Cafe,7.0602174,125.5076442,5,Cozy place. Plantitas and plantitos will enjoy here :),Coffee
+RE-Ground Coffee & Cafe,7.0602174,125.5076442,3,Not so remarkable coffees they serve,Coffee
+RE-Ground Coffee & Cafe,7.0602174,125.5076442,5,very nice,Coffee
+RE-Ground Coffee & Cafe,7.0602174,125.5076442,3,Not too bad,Coffee
+RE-Ground Coffee & Cafe,7.0602174,125.5076442,3,"Oh no, it would have been nice here and the coffee would have been delicious, but they're already close :(((",Coffee
+RE-Ground Coffee & Cafe,7.0602174,125.5076442,5,,Coffee
+RE-Ground Coffee & Cafe,7.0602174,125.5076442,5,,Coffee
+RE-Ground Coffee & Cafe,7.0602174,125.5076442,5,,Coffee
+RE-Ground Coffee & Cafe,7.0602174,125.5076442,5,,Coffee
+RE-Ground Coffee & Cafe,7.0602174,125.5076442,5,,Coffee
+RE-Ground Coffee & Cafe,7.0602174,125.5076442,3,,Coffee
+RE-Ground Coffee & Cafe,7.0602174,125.5076442,5,,Coffee
+RE-Ground Coffee & Cafe,7.0602174,125.5076442,5,,Coffee
+RE-Ground Coffee & Cafe,7.0602174,125.5076442,2,,Coffee
+RE-Ground Coffee & Cafe,7.0602174,125.5076442,5,,Coffee
+RE-Ground Coffee & Cafe,7.0602174,125.5076442,5,,Coffee
+RE-Ground Coffee & Cafe,7.0602174,125.5076442,5,,Coffee
+RE-Ground Coffee & Cafe,7.0602174,125.5076442,5,,Coffee
+RE-Ground Coffee & Cafe,7.0602174,125.5076442,5,,Coffee
+RE-Ground Coffee & Cafe,7.0602174,125.5076442,5,,Coffee
+RE-Ground Coffee & Cafe,7.0602174,125.5076442,4,,Coffee

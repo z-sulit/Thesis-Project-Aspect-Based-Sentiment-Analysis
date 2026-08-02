@@ -1,2 +1,2 @@
-﻿place_name,latitude,longitude,rating,review_text
-"Antensity Brew",7.1882193,125.451061,5,""
+place_name,latitude,longitude,rating,review_text,Shop_Type
+Antensity Brew,7.1882193,125.451061,5,,Coffee

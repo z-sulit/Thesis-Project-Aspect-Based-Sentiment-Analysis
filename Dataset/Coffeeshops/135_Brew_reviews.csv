@@ -1,8 +1,8 @@
-﻿place_name,latitude,longitude,rating,review_text
-"1:35 Brew",7.0200377,125.4945222,5,"Great little cafe with a cozy and welcoming atmosphere. The coffee was really good, and I loved how comfortable the place felt. Definitely a spot I’d come back to again!"
-"1:35 Brew",7.0200377,125.4945222,5,"Great coffee, great service, and a great atmosphere. Will definitely be back."
-"1:35 Brew",7.0200377,125.4945222,5,"Their food and drinks are delicious and it's a nice place for a date and it's cheap, hehe"
-"1:35 Brew",7.0200377,125.4945222,5,""
-"1:35 Brew",7.0200377,125.4945222,5,""
-"1:35 Brew",7.0200377,125.4945222,5,""
-"1:35 Brew",7.0200377,125.4945222,5,""
+place_name,latitude,longitude,rating,review_text,Shop_Type
+1:35 Brew,7.0200377,125.4945222,5,"Great little cafe with a cozy and welcoming atmosphere. The coffee was really good, and I loved how comfortable the place felt. Definitely a spot I’d come back to again!",Coffee
+1:35 Brew,7.0200377,125.4945222,5,"Great coffee, great service, and a great atmosphere. Will definitely be back.",Coffee
+1:35 Brew,7.0200377,125.4945222,5,"Their food and drinks are delicious and it's a nice place for a date and it's cheap, hehe",Coffee
+1:35 Brew,7.0200377,125.4945222,5,,Coffee
+1:35 Brew,7.0200377,125.4945222,5,,Coffee
+1:35 Brew,7.0200377,125.4945222,5,,Coffee
+1:35 Brew,7.0200377,125.4945222,5,,Coffee

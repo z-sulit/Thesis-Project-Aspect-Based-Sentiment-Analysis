@@ -1,2 +1,2 @@
-﻿place_name,latitude,longitude,rating,review_text
-"Hingaon",7.1886284,125.5462051,5,""
+place_name,latitude,longitude,rating,review_text,Shop_Type
+Hingaon,7.1886284,125.5462051,5,,Coffee

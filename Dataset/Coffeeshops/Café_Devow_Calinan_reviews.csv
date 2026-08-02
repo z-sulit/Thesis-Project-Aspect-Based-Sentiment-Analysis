@@ -1,7 +1,7 @@
-﻿place_name,latitude,longitude,rating,review_text
-"Café Devow Calinan",7.1907999,125.454918,5,"The chicken is delicious, worth the price!! Liked the service, very polite and accommodating. Although the aircon is not very noticeable, it is not too noisy. Nice and clean place."
-"Café Devow Calinan",7.1907999,125.454918,5,"Delicious food but small place"
-"Café Devow Calinan",7.1907999,125.454918,5,""
-"Café Devow Calinan",7.1907999,125.454918,5,""
-"Café Devow Calinan",7.1907999,125.454918,5,""
-"Café Devow Calinan",7.1907999,125.454918,5,""
+place_name,latitude,longitude,rating,review_text,Shop_Type
+Café Devow Calinan,7.1907999,125.454918,5,"The chicken is delicious, worth the price!! Liked the service, very polite and accommodating. Although the aircon is not very noticeable, it is not too noisy. Nice and clean place.",Coffee
+Café Devow Calinan,7.1907999,125.454918,5,Delicious food but small place,Coffee
+Café Devow Calinan,7.1907999,125.454918,5,,Coffee
+Café Devow Calinan,7.1907999,125.454918,5,,Coffee
+Café Devow Calinan,7.1907999,125.454918,5,,Coffee
+Café Devow Calinan,7.1907999,125.454918,5,,Coffee

@@ -1,3 +1,3 @@
-﻿place_name,latitude,longitude,rating,review_text
-"Kkopitea Mintal Davao",7.0879493,125.5021771,5,"Ordered Chessu Pearl Bubble tea. Good taste, affordable and small cozy place to sit in."
-"Kkopitea Mintal Davao",7.0879493,125.5021771,5,"I love the milk tea <3 Napakasarap at super affordable!!!"
+place_name,latitude,longitude,rating,review_text,Shop_Type
+Kkopitea Mintal Davao,7.0879493,125.5021771,5,"Ordered Chessu Pearl Bubble tea. Good taste, affordable and small cozy place to sit in.",Coffee
+Kkopitea Mintal Davao,7.0879493,125.5021771,5,I love the milk tea <3 Napakasarap at super affordable!!!,Coffee

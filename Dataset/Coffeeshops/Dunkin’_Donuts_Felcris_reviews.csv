@@ -1,4 +1,4 @@
-﻿place_name,latitude,longitude,rating,review_text
-"Dunkin’",7.0601189,125.607725,4,"Dropped by here on a Thursday morning around 9:30 and there were a little busy and most tables occupied. I was greeted by the staff and I ordered the Iced Spanish Latte to go. In my experiences with Dunkin’ their drinks and service are consistently good. I took my drink home and enjoyed it. Nothing fancy, just good coffee."
-"Dunkin’",7.0601189,125.607725,5,""
-"Dunkin’",7.0601189,125.607725,5,""
+place_name,latitude,longitude,rating,review_text,Shop_Type
+Dunkin’,7.0601189,125.607725,4,"Dropped by here on a Thursday morning around 9:30 and there were a little busy and most tables occupied. I was greeted by the staff and I ordered the Iced Spanish Latte to go. In my experiences with Dunkin’ their drinks and service are consistently good. I took my drink home and enjoyed it. Nothing fancy, just good coffee.",Coffee
+Dunkin’,7.0601189,125.607725,5,,Coffee
+Dunkin’,7.0601189,125.607725,5,,Coffee

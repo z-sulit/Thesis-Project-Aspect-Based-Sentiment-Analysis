@@ -1,23 +1,23 @@
-﻿place_name,latitude,longitude,rating,review_text
-"KINN & Friends",7.0723729,125.5937945,5,"i had such a great experience at this coffee shop! I ordered the Hanagi matcha, while my friend got the matcha latte, and both drinks were super smooth and flavorful—not too sweet, just right. you can really taste the quality of the matcha …"
-"KINN & Friends",7.0723729,125.5937945,5,"ordered the cold brew and nokou uji matcha. 3/5 for cold brew, sarap but dili kaayo siya creamy for me and ma overpower sa sweetness and coffee, 5/5 for matcha i love how bold it is and how long nagstay ang flavor! very umami and grassy …"
-"KINN & Friends",7.0723729,125.5937945,5,"Great matcha experience! Customer service is superb!!! Happen to have a matcha break today around lunch, found this new cafe near school, we were able to avail their parking and the staff were very accommodating and welcoming. We ordered …"
-"KINN & Friends",7.0723729,125.5937945,5,"We gave KINN a try on a recommendation and glad we did. On entering the place was clean, inviting and has a comfortable contemporary vibe. We were greeted by staff and as we looked over the menu they answered our questions and also gave …"
-"KINN & Friends",7.0723729,125.5937945,5,"Update review April/2026. I Like this Place!, simple and minimalist and clean with gourmet plant-based …"
-"KINN & Friends",7.0723729,125.5937945,5,"This is so my place. I just thank God there are beautiful places like this in Davao. Matcha, 100% good. they take it seriously. giving “beat this” vibe. Genmaicha is a must try, roasty and textured. i love it"
-"KINN & Friends",7.0723729,125.5937945,5,""
-"KINN & Friends",7.0723729,125.5937945,5,"High quality coffee with great service"
-"KINN & Friends",7.0723729,125.5937945,5,"usual coffee and matcha spot"
-"KINN & Friends",7.0723729,125.5937945,5,"A familiar feel enveloped me upon entering. Then I remembered. Place was similar to Kisom. Same owners that brought us The Vegan Dinosaur, Mylk Cafe, Kindred Cafe, The Matcha Bar, and others. Love the takeaway order I got. Affordable rates …"
-"KINN & Friends",7.0723729,125.5937945,5,""
-"KINN & Friends",7.0723729,125.5937945,5,"High quality coffee with great service"
-"KINN & Friends",7.0723729,125.5937945,5,"usual coffee and matcha spot"
-"KINN & Friends",7.0723729,125.5937945,4,"I had first seen KINN & Friends on tiktok and I really loved the aesthetic and wanted to try it out. I ordered the Kinako Matcha and biscoff cookie (it was 50% off <3) The Kinako Matcha was exactly how it was described, nutty, toasted but …"
-"KINN & Friends",7.0723729,125.5937945,5,"Cute cafe with modern interior and a cozy nook. I only ordered Matcha but with Banana Pudding. The sweetness compliments, it was enjoyable with a smooth texture and a balanced flavor. It was their best seller too! A must try!"
-"KINN & Friends",7.0723729,125.5937945,5,"Kori Kohi Spanish and Vanilla Bean ..on point! We also ordered the biscoff brownie, okay not sweet. Perfect for a 30-something. Staff is friendly, packaging is nice, quiet atmosphere. It met our standards, definitely we will go back. Customer service 10/10"
-"KINN & Friends",7.0723729,125.5937945,5,""
-"KINN & Friends",7.0723729,125.5937945,4,""
-"KINN & Friends",7.0723729,125.5937945,5,""
-"KINN & Friends",7.0723729,125.5937945,5,""
-"KINN & Friends",7.0723729,125.5937945,4,""
-"KINN & Friends",7.0723729,125.5937945,5,""
+place_name,latitude,longitude,rating,review_text,Shop_Type
+KINN & Friends,7.0723729,125.5937945,5,"i had such a great experience at this coffee shop! I ordered the Hanagi matcha, while my friend got the matcha latte, and both drinks were super smooth and flavorful—not too sweet, just right. you can really taste the quality of the matcha …",Matcha
+KINN & Friends,7.0723729,125.5937945,5,"ordered the cold brew and nokou uji matcha. 3/5 for cold brew, sarap but dili kaayo siya creamy for me and ma overpower sa sweetness and coffee, 5/5 for matcha i love how bold it is and how long nagstay ang flavor! very umami and grassy …",Matcha
+KINN & Friends,7.0723729,125.5937945,5,"Great matcha experience! Customer service is superb!!! Happen to have a matcha break today around lunch, found this new cafe near school, we were able to avail their parking and the staff were very accommodating and welcoming. We ordered …",Matcha
+KINN & Friends,7.0723729,125.5937945,5,"We gave KINN a try on a recommendation and glad we did. On entering the place was clean, inviting and has a comfortable contemporary vibe. We were greeted by staff and as we looked over the menu they answered our questions and also gave …",Matcha
+KINN & Friends,7.0723729,125.5937945,5,"Update review April/2026. I Like this Place!, simple and minimalist and clean with gourmet plant-based …",Matcha
+KINN & Friends,7.0723729,125.5937945,5,"This is so my place. I just thank God there are beautiful places like this in Davao. Matcha, 100% good. they take it seriously. giving “beat this” vibe. Genmaicha is a must try, roasty and textured. i love it",Matcha
+KINN & Friends,7.0723729,125.5937945,5,,Matcha
+KINN & Friends,7.0723729,125.5937945,5,High quality coffee with great service,Matcha
+KINN & Friends,7.0723729,125.5937945,5,usual coffee and matcha spot,Matcha
+KINN & Friends,7.0723729,125.5937945,5,"A familiar feel enveloped me upon entering. Then I remembered. Place was similar to Kisom. Same owners that brought us The Vegan Dinosaur, Mylk Cafe, Kindred Cafe, The Matcha Bar, and others. Love the takeaway order I got. Affordable rates …",Matcha
+KINN & Friends,7.0723729,125.5937945,5,,Matcha
+KINN & Friends,7.0723729,125.5937945,5,High quality coffee with great service,Matcha
+KINN & Friends,7.0723729,125.5937945,5,usual coffee and matcha spot,Matcha
+KINN & Friends,7.0723729,125.5937945,4,"I had first seen KINN & Friends on tiktok and I really loved the aesthetic and wanted to try it out. I ordered the Kinako Matcha and biscoff cookie (it was 50% off <3) The Kinako Matcha was exactly how it was described, nutty, toasted but …",Matcha
+KINN & Friends,7.0723729,125.5937945,5,"Cute cafe with modern interior and a cozy nook. I only ordered Matcha but with Banana Pudding. The sweetness compliments, it was enjoyable with a smooth texture and a balanced flavor. It was their best seller too! A must try!",Matcha
+KINN & Friends,7.0723729,125.5937945,5,"Kori Kohi Spanish and Vanilla Bean ..on point! We also ordered the biscoff brownie, okay not sweet. Perfect for a 30-something. Staff is friendly, packaging is nice, quiet atmosphere. It met our standards, definitely we will go back. Customer service 10/10",Matcha
+KINN & Friends,7.0723729,125.5937945,5,,Matcha
+KINN & Friends,7.0723729,125.5937945,4,,Matcha
+KINN & Friends,7.0723729,125.5937945,5,,Matcha
+KINN & Friends,7.0723729,125.5937945,5,,Matcha
+KINN & Friends,7.0723729,125.5937945,4,,Matcha
+KINN & Friends,7.0723729,125.5937945,5,,Matcha

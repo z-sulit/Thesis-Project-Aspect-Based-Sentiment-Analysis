@@ -1,8 +1,8 @@
-﻿place_name,latitude,longitude,rating,review_text
-"Hortus Davao (Matcha & Coffee)",7.0573666,125.56099,5,"The place is good, the food is great."
-"Hortus Davao (Matcha & Coffee)",7.0573666,125.56099,5,"The coffee is good 💯 the ambiance is instagramable 📸 …"
-"Hortus Davao (Matcha & Coffee)",7.0573666,125.56099,5,""
-"Hortus Davao (Matcha & Coffee)",7.0573666,125.56099,4,""
-"Hortus Davao (Matcha & Coffee)",7.0573666,125.56099,5,"The place is good, the food is great."
-"Hortus Davao (Matcha & Coffee)",7.0573666,125.56099,5,"The coffee is good 💯 the ambiance is instagramable 📸"
-"Hortus Davao (Matcha & Coffee)",7.0573666,125.56099,5,""
+place_name,latitude,longitude,rating,review_text,Shop_Type
+Hortus Davao (Matcha & Coffee),7.0573666,125.56099,5,"The place is good, the food is great.",Matcha
+Hortus Davao (Matcha & Coffee),7.0573666,125.56099,5,The coffee is good 💯 the ambiance is instagramable 📸 …,Matcha
+Hortus Davao (Matcha & Coffee),7.0573666,125.56099,5,,Matcha
+Hortus Davao (Matcha & Coffee),7.0573666,125.56099,4,,Matcha
+Hortus Davao (Matcha & Coffee),7.0573666,125.56099,5,"The place is good, the food is great.",Matcha
+Hortus Davao (Matcha & Coffee),7.0573666,125.56099,5,The coffee is good 💯 the ambiance is instagramable 📸,Matcha
+Hortus Davao (Matcha & Coffee),7.0573666,125.56099,5,,Matcha

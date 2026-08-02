@@ -1,48 +1,48 @@
-﻿place_name,latitude,longitude,rating,review_text
-"Onse Kopi",7.0573666,125.56099,1,"We ordered the oat matcha and oat hojicha. Both drinks were very bland and watered down, we could barely taste the oat milk. The matcha tasted like instant matcha, and the hojicha didn’t taste like hojicha at all. Overall, the drinks lacked flavor and were quite disappointing. Considering the price, they were not worth it."
-"Onse Kopi",7.0573666,125.56099,5,"A quaint cafe tucked inconspicuously within a milktea shop. One of the OG cafes I've been too since post-pandemic. Their Grano cold brew is a must-try, plus their Taho Series. I'm an avid fan of their Tahojicha. Place is cozy, with lots of …"
-"Onse Kopi",7.0573666,125.56099,5,"The staff at this establishment is incredibly friendly and helpful. They took the time to explain the menu and recommend items based on my preferences, making the experience even more enjoyable. As a first-time visitor, I appreciated their …"
-"Onse Kopi",7.0573666,125.56099,5,"One of the best coffee in Davao, a hidden gem if you dont have a keen eye. Tucked inside a food hall and within bubble milk tea, without signages. …"
-"Onse Kopi",7.0573666,125.56099,5,"Onse is one of my go-to spots. It’s a bit hidden, which makes it feel like a nice little gem. The place is small and simple, but it has a cozy vibe that adds to its charm. Their drinks are consistently good, especially their coffee and …"
-"Onse Kopi",7.0573666,125.56099,5,"best cold brew! love the espresso drinks too as well as the matcha menu. in short, everything is good and worth the money. quaint & cozy cafe with murals and plants. kid & pet-friendly too!!"
-"Onse Kopi",7.0573666,125.56099,4,"Discreetly inside the vicinity where BC Chicken is, this place is obscure from the highway. Not much to get away with but the dirty matcha and white choco macadamia cookie were a nummy pair."
-"Onse Kopi",7.0573666,125.56099,5,"This is Onse Kopi shop, one of the underrated coffee shops in davao where you can find the best coffee in town.... They are using Arabica Brazil Coffee Bean, I must say na lasang lasa mo talaga yung kape dito... Also, they are using rice straws.. Located near BC Chicken House, where you can taste The Best Authentic Chicken Inasal."
-"Onse Kopi",7.0573666,125.56099,5,"Love the matcha and cold brew grano"
-"Onse Kopi",7.0573666,125.56099,5,"Whenever I have friends fly in who I know love coffee and love visiting different cafes Onse is always the first stop. Very good coffee, the staff and the owners are very friendly. 10/10"
-"Onse Kopi",7.0573666,125.56099,5,"Love the matcha and cold brew grano"
-"Onse Kopi",7.0573666,125.56099,5,"Love the Grano drink! A cozy place with limited space"
-"Onse Kopi",7.0573666,125.56099,5,"Grano! The best! 💯💕 …"
-"Onse Kopi",7.0573666,125.56099,5,"Would come here more often gyud if they were near my house. Please open a branch sa North! 😭 …"
-"Onse Kopi",7.0573666,125.56099,5,"Love the vibe of this cafe💛 Their Grano drink is my fave😍 …"
-"Onse Kopi",7.0573666,125.56099,5,"All of their coffee and matcha varieties are super tasty, and you can choose whether you prefer sweet or nutty, and pure matcha or matcha with hints of coffee"
-"Onse Kopi",7.0573666,125.56099,5,"Delicious coffee, skilled baristas, relaxed environment. Highly recommended for your daily coffee fix"
-"Onse Kopi",7.0573666,125.56099,5,"Blanco’s my go to ☕️!"
-"Onse Kopi",7.0573666,125.56099,5,"Matcha is superb! Owner is also kind"
-"Onse Kopi",7.0573666,125.56099,5,"One of the best coffee shops in the city!"
-"Onse Kopi",7.0573666,125.56099,4,"a very simple cafe."
-"Onse Kopi",7.0573666,125.56099,5,"Grano! The best! 💯💕"
-"Onse Kopi",7.0573666,125.56099,4,"a very simple cafe."
-"Onse Kopi",7.0573666,125.56099,5,"Great coffee. Great people."
-"Onse Kopi",7.0573666,125.56099,4,"Coffee is life!!"
-"Onse Kopi",7.0573666,125.56099,5,"Grano unsweetened is my favorite! It's very easy to drink and delicious! I recommend it!"
-"Onse Kopi",7.0573666,125.56099,5,""
-"Onse Kopi",7.0573666,125.56099,3,""
-"Onse Kopi",7.0573666,125.56099,5,""
-"Onse Kopi",7.0573666,125.56099,4,""
-"Onse Kopi",7.0573666,125.56099,5,""
-"Onse Kopi",7.0573666,125.56099,5,""
-"Onse Kopi",7.0573666,125.56099,5,""
-"Onse Kopi",7.0573666,125.56099,5,"Great coffee. Great people."
-"Onse Kopi",7.0573666,125.56099,4,"Coffee is life!!"
-"Onse Kopi",7.0573666,125.56099,5,""
-"Onse Kopi",7.0573666,125.56099,3,""
-"Onse Kopi",7.0573666,125.56099,5,""
-"Onse Kopi",7.0573666,125.56099,4,""
-"Onse Kopi",7.0573666,125.56099,5,""
-"Onse Kopi",7.0573666,125.56099,5,""
-"Onse Kopi",7.0573666,125.56099,5,""
-"Onse Kopi",7.0573666,125.56099,5,""
-"Onse Kopi",7.0573666,125.56099,5,""
-"Onse Kopi",7.0573666,125.56099,5,""
-"Onse Kopi",7.0573666,125.56099,5,""
-"Onse Kopi",7.0573666,125.56099,5,""
+place_name,latitude,longitude,rating,review_text,Shop_Type
+Onse Kopi,7.0573666,125.56099,1,"We ordered the oat matcha and oat hojicha. Both drinks were very bland and watered down, we could barely taste the oat milk. The matcha tasted like instant matcha, and the hojicha didn’t taste like hojicha at all. Overall, the drinks lacked flavor and were quite disappointing. Considering the price, they were not worth it.",Matcha
+Onse Kopi,7.0573666,125.56099,5,"A quaint cafe tucked inconspicuously within a milktea shop. One of the OG cafes I've been too since post-pandemic. Their Grano cold brew is a must-try, plus their Taho Series. I'm an avid fan of their Tahojicha. Place is cozy, with lots of …",Matcha
+Onse Kopi,7.0573666,125.56099,5,"The staff at this establishment is incredibly friendly and helpful. They took the time to explain the menu and recommend items based on my preferences, making the experience even more enjoyable. As a first-time visitor, I appreciated their …",Matcha
+Onse Kopi,7.0573666,125.56099,5,"One of the best coffee in Davao, a hidden gem if you dont have a keen eye. Tucked inside a food hall and within bubble milk tea, without signages. …",Matcha
+Onse Kopi,7.0573666,125.56099,5,"Onse is one of my go-to spots. It’s a bit hidden, which makes it feel like a nice little gem. The place is small and simple, but it has a cozy vibe that adds to its charm. Their drinks are consistently good, especially their coffee and …",Matcha
+Onse Kopi,7.0573666,125.56099,5,"best cold brew! love the espresso drinks too as well as the matcha menu. in short, everything is good and worth the money. quaint & cozy cafe with murals and plants. kid & pet-friendly too!!",Matcha
+Onse Kopi,7.0573666,125.56099,4,"Discreetly inside the vicinity where BC Chicken is, this place is obscure from the highway. Not much to get away with but the dirty matcha and white choco macadamia cookie were a nummy pair.",Matcha
+Onse Kopi,7.0573666,125.56099,5,"This is Onse Kopi shop, one of the underrated coffee shops in davao where you can find the best coffee in town.... They are using Arabica Brazil Coffee Bean, I must say na lasang lasa mo talaga yung kape dito... Also, they are using rice straws.. Located near BC Chicken House, where you can taste The Best Authentic Chicken Inasal.",Matcha
+Onse Kopi,7.0573666,125.56099,5,Love the matcha and cold brew grano,Matcha
+Onse Kopi,7.0573666,125.56099,5,"Whenever I have friends fly in who I know love coffee and love visiting different cafes Onse is always the first stop. Very good coffee, the staff and the owners are very friendly. 10/10",Matcha
+Onse Kopi,7.0573666,125.56099,5,Love the matcha and cold brew grano,Matcha
+Onse Kopi,7.0573666,125.56099,5,Love the Grano drink! A cozy place with limited space,Matcha
+Onse Kopi,7.0573666,125.56099,5,Grano! The best! 💯💕 …,Matcha
+Onse Kopi,7.0573666,125.56099,5,Would come here more often gyud if they were near my house. Please open a branch sa North! 😭 …,Matcha
+Onse Kopi,7.0573666,125.56099,5,Love the vibe of this cafe💛 Their Grano drink is my fave😍 …,Matcha
+Onse Kopi,7.0573666,125.56099,5,"All of their coffee and matcha varieties are super tasty, and you can choose whether you prefer sweet or nutty, and pure matcha or matcha with hints of coffee",Matcha
+Onse Kopi,7.0573666,125.56099,5,"Delicious coffee, skilled baristas, relaxed environment. Highly recommended for your daily coffee fix",Matcha
+Onse Kopi,7.0573666,125.56099,5,Blanco’s my go to ☕️!,Matcha
+Onse Kopi,7.0573666,125.56099,5,Matcha is superb! Owner is also kind,Matcha
+Onse Kopi,7.0573666,125.56099,5,One of the best coffee shops in the city!,Matcha
+Onse Kopi,7.0573666,125.56099,4,a very simple cafe.,Matcha
+Onse Kopi,7.0573666,125.56099,5,Grano! The best! 💯💕,Matcha
+Onse Kopi,7.0573666,125.56099,4,a very simple cafe.,Matcha
+Onse Kopi,7.0573666,125.56099,5,Great coffee. Great people.,Matcha
+Onse Kopi,7.0573666,125.56099,4,Coffee is life!!,Matcha
+Onse Kopi,7.0573666,125.56099,5,Grano unsweetened is my favorite! It's very easy to drink and delicious! I recommend it!,Matcha
+Onse Kopi,7.0573666,125.56099,5,,Matcha
+Onse Kopi,7.0573666,125.56099,3,,Matcha
+Onse Kopi,7.0573666,125.56099,5,,Matcha
+Onse Kopi,7.0573666,125.56099,4,,Matcha
+Onse Kopi,7.0573666,125.56099,5,,Matcha
+Onse Kopi,7.0573666,125.56099,5,,Matcha
+Onse Kopi,7.0573666,125.56099,5,,Matcha
+Onse Kopi,7.0573666,125.56099,5,Great coffee. Great people.,Matcha
+Onse Kopi,7.0573666,125.56099,4,Coffee is life!!,Matcha
+Onse Kopi,7.0573666,125.56099,5,,Matcha
+Onse Kopi,7.0573666,125.56099,3,,Matcha
+Onse Kopi,7.0573666,125.56099,5,,Matcha
+Onse Kopi,7.0573666,125.56099,4,,Matcha
+Onse Kopi,7.0573666,125.56099,5,,Matcha
+Onse Kopi,7.0573666,125.56099,5,,Matcha
+Onse Kopi,7.0573666,125.56099,5,,Matcha
+Onse Kopi,7.0573666,125.56099,5,,Matcha
+Onse Kopi,7.0573666,125.56099,5,,Matcha
+Onse Kopi,7.0573666,125.56099,5,,Matcha
+Onse Kopi,7.0573666,125.56099,5,,Matcha
+Onse Kopi,7.0573666,125.56099,5,,Matcha

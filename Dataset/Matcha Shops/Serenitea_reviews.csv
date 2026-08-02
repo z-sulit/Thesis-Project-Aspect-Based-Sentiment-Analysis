@@ -1,15 +1,15 @@
-﻿place_name,latitude,longitude,rating,review_text
-"Serenitea",7.0881264,125.5943935,4,"Ordered the cookie supreme matcha, fries, and their collab tumbler with pokemon 🫶🏻 very cute tumbler and the matcha drink was *chef’s kiss* 10/10. only complain, the fries tastes good but was kinda stale when it arrived …"
-"Serenitea",7.0881264,125.5943935,5,"i love their taho milk tea series..especially the matcha taho."
-"Serenitea",7.0881264,125.5943935,5,"Calm place. Amazing iced drinks with affordable prices"
-"Serenitea",7.0881264,125.5943935,5,"I really like their milktea."
-"Serenitea",7.0881264,125.5943935,5,"Everything is good!"
-"Serenitea",7.0881264,125.5943935,4,"The place is clean and has a pleasant atmosphere, but the customer service could be improved. When I arrived, no one greeted or welcomed me. One staff member was sleeping at a table in the dining area, and it was unclear whether they were …"
-"Serenitea",7.0881264,125.5943935,1,"The staff was unprofessional just before the 11pm cut off, we arrived at 11:06 am and asked if we could still order, they said no, soo at 11:11 we just left because they said they had already taken inventory and were not allowed to order …"
-"Serenitea",7.0881264,125.5943935,5,""
-"Serenitea",7.0881264,125.5943935,5,""
-"Serenitea",7.0881264,125.5943935,3,""
-"Serenitea",7.0881264,125.5943935,5,"Everything is good!"
-"Serenitea",7.0881264,125.5943935,5,""
-"Serenitea",7.0881264,125.5943935,5,""
-"Serenitea",7.0881264,125.5943935,3,""
+place_name,latitude,longitude,rating,review_text,Shop_Type
+Serenitea,7.0881264,125.5943935,4,"Ordered the cookie supreme matcha, fries, and their collab tumbler with pokemon 🫶🏻 very cute tumbler and the matcha drink was *chef’s kiss* 10/10. only complain, the fries tastes good but was kinda stale when it arrived …",Matcha
+Serenitea,7.0881264,125.5943935,5,i love their taho milk tea series..especially the matcha taho.,Matcha
+Serenitea,7.0881264,125.5943935,5,Calm place. Amazing iced drinks with affordable prices,Matcha
+Serenitea,7.0881264,125.5943935,5,I really like their milktea.,Matcha
+Serenitea,7.0881264,125.5943935,5,Everything is good!,Matcha
+Serenitea,7.0881264,125.5943935,4,"The place is clean and has a pleasant atmosphere, but the customer service could be improved. When I arrived, no one greeted or welcomed me. One staff member was sleeping at a table in the dining area, and it was unclear whether they were …",Matcha
+Serenitea,7.0881264,125.5943935,1,"The staff was unprofessional just before the 11pm cut off, we arrived at 11:06 am and asked if we could still order, they said no, soo at 11:11 we just left because they said they had already taken inventory and were not allowed to order …",Matcha
+Serenitea,7.0881264,125.5943935,5,,Matcha
+Serenitea,7.0881264,125.5943935,5,,Matcha
+Serenitea,7.0881264,125.5943935,3,,Matcha
+Serenitea,7.0881264,125.5943935,5,Everything is good!,Matcha
+Serenitea,7.0881264,125.5943935,5,,Matcha
+Serenitea,7.0881264,125.5943935,5,,Matcha
+Serenitea,7.0881264,125.5943935,3,,Matcha

@@ -1,4 +1,4 @@
-﻿place_name,latitude,longitude,rating,review_text
-"PERKSPRESSO CAFE",7.0850161,125.5030036,5,"Loved their biscoff latte plus the ambiance is cozy ✨ i just wish they open til 2am 😄"
-"PERKSPRESSO CAFE",7.0850161,125.5030036,5,"Ordered Spanish Latte and Tapa with egg. I like the coffee. The tapa is also delicious. If you could just make the plate a little bigger, it would be a bit difficult to eat, but there are still so many tapas. Can you request high chairs? The chairs are too low to the table. Will visit again."
-"PERKSPRESSO CAFE",7.0850161,125.5030036,5,"Very tasty coffee."
+place_name,latitude,longitude,rating,review_text,Shop_Type
+PERKSPRESSO CAFE,7.0850161,125.5030036,5,Loved their biscoff latte plus the ambiance is cozy ✨ i just wish they open til 2am 😄,Coffee
+PERKSPRESSO CAFE,7.0850161,125.5030036,5,"Ordered Spanish Latte and Tapa with egg. I like the coffee. The tapa is also delicious. If you could just make the plate a little bigger, it would be a bit difficult to eat, but there are still so many tapas. Can you request high chairs? The chairs are too low to the table. Will visit again.",Coffee
+PERKSPRESSO CAFE,7.0850161,125.5030036,5,Very tasty coffee.,Coffee

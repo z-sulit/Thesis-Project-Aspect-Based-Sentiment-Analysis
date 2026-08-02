@@ -1,2 +1,2 @@
-﻿place_name,latitude,longitude,rating,review_text
-"La Taza de Café",7.1203435,125.6138457,5,""
+place_name,latitude,longitude,rating,review_text,Shop_Type
+La Taza de Café,7.1203435,125.6138457,5,,Coffee

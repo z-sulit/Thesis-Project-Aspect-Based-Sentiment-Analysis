@@ -1,3 +1,3 @@
-﻿place_name,latitude,longitude,rating,review_text
-"Brewed Up",7.059328,125.5992697,5,"super mura"
-"Brewed Up",7.059328,125.5992697,5,""
+place_name,latitude,longitude,rating,review_text,Shop_Type
+Brewed Up,7.059328,125.5992697,5,super mura,Coffee
+Brewed Up,7.059328,125.5992697,5,,Coffee

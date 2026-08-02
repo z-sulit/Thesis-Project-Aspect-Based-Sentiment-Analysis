@@ -1,2 +1,2 @@
-﻿place_name,latitude,longitude,rating,review_text
-"Kachi Coffee",7.0168345,125.4993081,5,"Good place to chill"
+place_name,latitude,longitude,rating,review_text,Shop_Type
+Kachi Coffee,7.0168345,125.4993081,5,Good place to chill,Coffee

@@ -1,9 +1,9 @@
-﻿place_name,latitude,longitude,rating,review_text
-"Farron Cafe",7.1929614,125.4514831,5,"It was very crowded"
-"Farron Cafe",7.1929614,125.4514831,5,""
-"Farron Cafe",7.1929614,125.4514831,5,""
-"Farron Cafe",7.1929614,125.4514831,4,""
-"Farron Cafe",7.1929614,125.4514831,5,""
-"Farron Cafe",7.1929614,125.4514831,4,""
-"Farron Cafe",7.1929614,125.4514831,5,""
-"Farron Cafe",7.1929614,125.4514831,5,""
+place_name,latitude,longitude,rating,review_text,Shop_Type
+Farron Cafe,7.1929614,125.4514831,5,It was very crowded,Coffee
+Farron Cafe,7.1929614,125.4514831,5,,Coffee
+Farron Cafe,7.1929614,125.4514831,5,,Coffee
+Farron Cafe,7.1929614,125.4514831,4,,Coffee
+Farron Cafe,7.1929614,125.4514831,5,,Coffee
+Farron Cafe,7.1929614,125.4514831,4,,Coffee
+Farron Cafe,7.1929614,125.4514831,5,,Coffee
+Farron Cafe,7.1929614,125.4514831,5,,Coffee

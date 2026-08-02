@@ -1,56 +1,56 @@
-﻿place_name,latitude,longitude,rating,review_text
-"Krispy Kreme",7.0805133,125.6029806,4,"We ordered donuts from this shop through a delivery app. The delivery was quick and the donuts arrived in good condition. All the items we ordered were complete, with no mistakes or missing donuts. The donuts tasted really good. The donuts are soft, fresh, and flavorful. We were very happy with the quality and service. Overall, it was a great experience and we will surely order again. Highly recommended if you are looking for tasty donuts and fast delivery."
-"Krispy Kreme",7.0805133,125.6029806,5,"Kuddos to sir Michael for such an outstanding service! ☺️"
-"Krispy Kreme",7.0805133,125.6029806,5,"Krispy Kreme is Always on top of my list in terms of Doughnuts and their Original Glazed is one of my favorite, Their Doughnuts are so sweet and its heavenly taste melts in your mouth. In terms of customer service they have the best one too, their store representatives are very welcoming and assist you right away and even recommends the best doughnut base on your likes."
-"Krispy Kreme",7.0805133,125.6029806,1,"Store doesn't accept the use of OG card, nor does it accept card or gcash payment"
-"Krispy Kreme",7.0805133,125.6029806,5,"Nothing beats the feeling of craving something sweet and KK comes in your eyes.. Cravings fulfilled!! I will be happy to buy again. ❤️😊"
-"Krispy Kreme",7.0805133,125.6029806,4,"Its under the roof of sm, the is prepared according to the law gmp,,,good manufacture practice"
-"Krispy Kreme",7.0805133,125.6029806,5,"Strong wifi connection. Best place for past time and business talks"
-"Krispy Kreme",7.0805133,125.6029806,4,"GOOD HALLOWEEN DONUTS BUT CUSTOMER SERVICE SHOULD BE IMPROVED."
-"Krispy Kreme",7.0805133,125.6029806,5,"Cool place to grab a quick bite.. fast service"
-"Krispy Kreme",7.0805133,125.6029806,1,"no sense of urgency despite a long line of customers"
-"Krispy Kreme",7.0805133,125.6029806,2,"Not really a fan of their donut.. DO NOT!! 😂😂😂 …"
-"Krispy Kreme",7.0805133,125.6029806,4,"very sweet and yummy.."
-"Krispy Kreme",7.0805133,125.6029806,5,"Very delicious and affordable"
-"Krispy Kreme",7.0805133,125.6029806,3,"Nice Place Very Good"
-"Krispy Kreme",7.0805133,125.6029806,3,"Ok..expected better"
-"Krispy Kreme",7.0805133,125.6029806,4,"Donuts were exceptional."
-"Krispy Kreme",7.0805133,125.6029806,5,"favorite of my wife..."
-"Krispy Kreme",7.0805133,125.6029806,5,"craving for it every afternoon. 😘😍 …"
-"Krispy Kreme",7.0805133,125.6029806,1,"Too few flavors"
-"Krispy Kreme",7.0805133,125.6029806,2,"Not as helpful and accommodating"
-"Krispy Kreme",7.0805133,125.6029806,4,"i like the donuts they make"
-"Krispy Kreme",7.0805133,125.6029806,5,"The product is good"
-"Krispy Kreme",7.0805133,125.6029806,5,"has several branches..."
-"Krispy Kreme",7.0805133,125.6029806,5,"Great place!"
-"Krispy Kreme",7.0805133,125.6029806,5,"Krispy Kreme Gaisano Mall of Davao Supply"
-"Krispy Kreme",7.0805133,125.6029806,5,"Loved the food"
-"Krispy Kreme",7.0805133,125.6029806,5,"Yummy"
-"Krispy Kreme",7.0805133,125.6029806,5,"BEST OF THE BEST"
-"Krispy Kreme",7.0805133,125.6029806,3,"Donuts"
-"Krispy Kreme",7.0805133,125.6029806,5,"OMG donuts donuts donuts"
-"Krispy Kreme",7.0805133,125.6029806,5,"Ok cia and cheap... Their displays are always new."
-"Krispy Kreme",7.0805133,125.6029806,5,"I love Krispy Kreme."
-"Krispy Kreme",7.0805133,125.6029806,5,""
-"Krispy Kreme",7.0805133,125.6029806,5,""
-"Krispy Kreme",7.0805133,125.6029806,3,""
-"Krispy Kreme",7.0805133,125.6029806,5,""
-"Krispy Kreme",7.0805133,125.6029806,5,""
-"Krispy Kreme",7.0805133,125.6029806,3,""
-"Krispy Kreme",7.0805133,125.6029806,5,""
-"Krispy Kreme",7.0805133,125.6029806,3,""
-"Krispy Kreme",7.0805133,125.6029806,4,""
-"Krispy Kreme",7.0805133,125.6029806,3,""
-"Krispy Kreme",7.0805133,125.6029806,4,""
-"Krispy Kreme",7.0805133,125.6029806,3,""
-"Krispy Kreme",7.0805133,125.6029806,3,""
-"Krispy Kreme",7.0805133,125.6029806,5,""
-"Krispy Kreme",7.0805133,125.6029806,5,""
-"Krispy Kreme",7.0805133,125.6029806,5,""
-"Krispy Kreme",7.0805133,125.6029806,4,""
-"Krispy Kreme",7.0805133,125.6029806,4,""
-"Krispy Kreme",7.0805133,125.6029806,5,""
-"Krispy Kreme",7.0805133,125.6029806,4,""
-"Krispy Kreme",7.0805133,125.6029806,5,""
-"Krispy Kreme",7.0805133,125.6029806,3,""
-"Krispy Kreme",7.0805133,125.6029806,5,""
+place_name,latitude,longitude,rating,review_text,Shop_Type
+Krispy Kreme,7.0805133,125.6029806,4,"We ordered donuts from this shop through a delivery app. The delivery was quick and the donuts arrived in good condition. All the items we ordered were complete, with no mistakes or missing donuts. The donuts tasted really good. The donuts are soft, fresh, and flavorful. We were very happy with the quality and service. Overall, it was a great experience and we will surely order again. Highly recommended if you are looking for tasty donuts and fast delivery.",Coffee
+Krispy Kreme,7.0805133,125.6029806,5,Kuddos to sir Michael for such an outstanding service! ☺️,Coffee
+Krispy Kreme,7.0805133,125.6029806,5,"Krispy Kreme is Always on top of my list in terms of Doughnuts and their Original Glazed is one of my favorite, Their Doughnuts are so sweet and its heavenly taste melts in your mouth. In terms of customer service they have the best one too, their store representatives are very welcoming and assist you right away and even recommends the best doughnut base on your likes.",Coffee
+Krispy Kreme,7.0805133,125.6029806,1,"Store doesn't accept the use of OG card, nor does it accept card or gcash payment",Coffee
+Krispy Kreme,7.0805133,125.6029806,5,Nothing beats the feeling of craving something sweet and KK comes in your eyes.. Cravings fulfilled!! I will be happy to buy again. ❤️😊,Coffee
+Krispy Kreme,7.0805133,125.6029806,4,"Its under the roof of sm, the is prepared according to the law gmp,,,good manufacture practice",Coffee
+Krispy Kreme,7.0805133,125.6029806,5,Strong wifi connection. Best place for past time and business talks,Coffee
+Krispy Kreme,7.0805133,125.6029806,4,GOOD HALLOWEEN DONUTS BUT CUSTOMER SERVICE SHOULD BE IMPROVED.,Coffee
+Krispy Kreme,7.0805133,125.6029806,5,Cool place to grab a quick bite.. fast service,Coffee
+Krispy Kreme,7.0805133,125.6029806,1,no sense of urgency despite a long line of customers,Coffee
+Krispy Kreme,7.0805133,125.6029806,2,Not really a fan of their donut.. DO NOT!! 😂😂😂 …,Coffee
+Krispy Kreme,7.0805133,125.6029806,4,very sweet and yummy..,Coffee
+Krispy Kreme,7.0805133,125.6029806,5,Very delicious and affordable,Coffee
+Krispy Kreme,7.0805133,125.6029806,3,Nice Place Very Good,Coffee
+Krispy Kreme,7.0805133,125.6029806,3,Ok..expected better,Coffee
+Krispy Kreme,7.0805133,125.6029806,4,Donuts were exceptional.,Coffee
+Krispy Kreme,7.0805133,125.6029806,5,favorite of my wife...,Coffee
+Krispy Kreme,7.0805133,125.6029806,5,craving for it every afternoon. 😘😍 …,Coffee
+Krispy Kreme,7.0805133,125.6029806,1,Too few flavors,Coffee
+Krispy Kreme,7.0805133,125.6029806,2,Not as helpful and accommodating,Coffee
+Krispy Kreme,7.0805133,125.6029806,4,i like the donuts they make,Coffee
+Krispy Kreme,7.0805133,125.6029806,5,The product is good,Coffee
+Krispy Kreme,7.0805133,125.6029806,5,has several branches...,Coffee
+Krispy Kreme,7.0805133,125.6029806,5,Great place!,Coffee
+Krispy Kreme,7.0805133,125.6029806,5,Krispy Kreme Gaisano Mall of Davao Supply,Coffee
+Krispy Kreme,7.0805133,125.6029806,5,Loved the food,Coffee
+Krispy Kreme,7.0805133,125.6029806,5,Yummy,Coffee
+Krispy Kreme,7.0805133,125.6029806,5,BEST OF THE BEST,Coffee
+Krispy Kreme,7.0805133,125.6029806,3,Donuts,Coffee
+Krispy Kreme,7.0805133,125.6029806,5,OMG donuts donuts donuts,Coffee
+Krispy Kreme,7.0805133,125.6029806,5,Ok cia and cheap... Their displays are always new.,Coffee
+Krispy Kreme,7.0805133,125.6029806,5,I love Krispy Kreme.,Coffee
+Krispy Kreme,7.0805133,125.6029806,5,,Coffee
+Krispy Kreme,7.0805133,125.6029806,5,,Coffee
+Krispy Kreme,7.0805133,125.6029806,3,,Coffee
+Krispy Kreme,7.0805133,125.6029806,5,,Coffee
+Krispy Kreme,7.0805133,125.6029806,5,,Coffee
+Krispy Kreme,7.0805133,125.6029806,3,,Coffee
+Krispy Kreme,7.0805133,125.6029806,5,,Coffee
+Krispy Kreme,7.0805133,125.6029806,3,,Coffee
+Krispy Kreme,7.0805133,125.6029806,4,,Coffee
+Krispy Kreme,7.0805133,125.6029806,3,,Coffee
+Krispy Kreme,7.0805133,125.6029806,4,,Coffee
+Krispy Kreme,7.0805133,125.6029806,3,,Coffee
+Krispy Kreme,7.0805133,125.6029806,3,,Coffee
+Krispy Kreme,7.0805133,125.6029806,5,,Coffee
+Krispy Kreme,7.0805133,125.6029806,5,,Coffee
+Krispy Kreme,7.0805133,125.6029806,5,,Coffee
+Krispy Kreme,7.0805133,125.6029806,4,,Coffee
+Krispy Kreme,7.0805133,125.6029806,4,,Coffee
+Krispy Kreme,7.0805133,125.6029806,5,,Coffee
+Krispy Kreme,7.0805133,125.6029806,4,,Coffee
+Krispy Kreme,7.0805133,125.6029806,5,,Coffee
+Krispy Kreme,7.0805133,125.6029806,3,,Coffee
+Krispy Kreme,7.0805133,125.6029806,5,,Coffee

@@ -1,13 +1,13 @@
-﻿place_name,latitude,longitude,rating,review_text
-"The Coffee Lounge",7.0601465,125.5011929,5,"Great coffee. Clean and peaceful place. Has AC ON even it's early in the morning. It's inside the carwash, you'll see the sign outside ( see the picture below 👇) We ordered Iced Americano and White hot chocolate. Also, we tried their egg tart and it was good👌"
-"The Coffee Lounge",7.0601465,125.5011929,5,"Good place to get coffee, much better experience here than KNTO CINCO nearby. Atmosphere is relaxing, staff is friendly."
-"The Coffee Lounge",7.0601465,125.5011929,5,"THE BEST EGG TART! 😍 Good thing may last 2pcs pa for me to eat and one for takeout!"
-"The Coffee Lounge",7.0601465,125.5011929,3,"Coffee while having ur car washed. Convenient enough"
-"The Coffee Lounge",7.0601465,125.5011929,5,"Best"
-"The Coffee Lounge",7.0601465,125.5011929,5,""
-"The Coffee Lounge",7.0601465,125.5011929,3,"Ordered carbonara for 230. Plating: 5/5 Taste: 3/5 - The sauce is thin, it hardly sticks to the pasta and the pasta is a bit hard. Portion: 3/5 - small serving for its price. Good place to hang out if you want to get a carwash because it's inside the carwash."
-"The Coffee Lounge",7.0601465,125.5011929,5,"It's nice to chill here in the coffee lounge while doing laundry."
-"The Coffee Lounge",7.0601465,125.5011929,1,""
-"The Coffee Lounge",7.0601465,125.5011929,5,""
-"The Coffee Lounge",7.0601465,125.5011929,4,""
-"The Coffee Lounge",7.0601465,125.5011929,5,""
+place_name,latitude,longitude,rating,review_text,Shop_Type
+The Coffee Lounge,7.0601465,125.5011929,5,"Great coffee. Clean and peaceful place. Has AC ON even it's early in the morning. It's inside the carwash, you'll see the sign outside ( see the picture below 👇) We ordered Iced Americano and White hot chocolate. Also, we tried their egg tart and it was good👌",Coffee
+The Coffee Lounge,7.0601465,125.5011929,5,"Good place to get coffee, much better experience here than KNTO CINCO nearby. Atmosphere is relaxing, staff is friendly.",Coffee
+The Coffee Lounge,7.0601465,125.5011929,5,THE BEST EGG TART! 😍 Good thing may last 2pcs pa for me to eat and one for takeout!,Coffee
+The Coffee Lounge,7.0601465,125.5011929,3,Coffee while having ur car washed. Convenient enough,Coffee
+The Coffee Lounge,7.0601465,125.5011929,5,Best,Coffee
+The Coffee Lounge,7.0601465,125.5011929,5,,Coffee
+The Coffee Lounge,7.0601465,125.5011929,3,"Ordered carbonara for 230. Plating: 5/5 Taste: 3/5 - The sauce is thin, it hardly sticks to the pasta and the pasta is a bit hard. Portion: 3/5 - small serving for its price. Good place to hang out if you want to get a carwash because it's inside the carwash.",Coffee
+The Coffee Lounge,7.0601465,125.5011929,5,It's nice to chill here in the coffee lounge while doing laundry.,Coffee
+The Coffee Lounge,7.0601465,125.5011929,1,,Coffee
+The Coffee Lounge,7.0601465,125.5011929,5,,Coffee
+The Coffee Lounge,7.0601465,125.5011929,4,,Coffee
+The Coffee Lounge,7.0601465,125.5011929,5,,Coffee

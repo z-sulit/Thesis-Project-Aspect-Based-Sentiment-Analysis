@@ -1,2 +1,2 @@
-﻿place_name,latitude,longitude,rating,review_text
-"The Friendly Cup",7.1863552,125.621928,5,""
+place_name,latitude,longitude,rating,review_text,Shop_Type
+The Friendly Cup,7.1863552,125.621928,5,,Coffee

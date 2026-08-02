@@ -1,8 +1,8 @@
-﻿place_name,latitude,longitude,rating,review_text
-"Ismayl Studios",7.0501547,125.5340419,5,"Enjoyed the coffee and the vibe. The barista is very kind and accommodating. Approved?! 👍"
-"Ismayl Studios",7.0501547,125.5340419,5,"Best coffee shop in Puan"
-"Ismayl Studios",7.0501547,125.5340419,5,"Great experience!"
-"Ismayl Studios",7.0501547,125.5340419,5,"Personal fave: dirty match (hot)"
-"Ismayl Studios",7.0501547,125.5340419,4,""
-"Ismayl Studios",7.0501547,125.5340419,5,""
-"Ismayl Studios",7.0501547,125.5340419,5,""
+place_name,latitude,longitude,rating,review_text,Shop_Type
+Ismayl Studios,7.0501547,125.5340419,5,Enjoyed the coffee and the vibe. The barista is very kind and accommodating. Approved?! 👍,Coffee
+Ismayl Studios,7.0501547,125.5340419,5,Best coffee shop in Puan,Coffee
+Ismayl Studios,7.0501547,125.5340419,5,Great experience!,Coffee
+Ismayl Studios,7.0501547,125.5340419,5,Personal fave: dirty match (hot),Coffee
+Ismayl Studios,7.0501547,125.5340419,4,,Coffee
+Ismayl Studios,7.0501547,125.5340419,5,,Coffee
+Ismayl Studios,7.0501547,125.5340419,5,,Coffee

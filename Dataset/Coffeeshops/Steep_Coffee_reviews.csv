@@ -1,6 +1,6 @@
-﻿place_name,latitude,longitude,rating,review_text
-"Steep Coffee",7.1899141,125.2776917,5,"Real, fresh grinded and good coffee! Very tasty, very good. Maybe the best coffee in and around calinan."
-"Steep Coffee",7.1899141,125.2776917,5,"I love it coffee so creamy and delecios"
-"Steep Coffee",7.1899141,125.2776917,5,"Cutieee"
-"Steep Coffee",7.1899141,125.2776917,5,""
-"Steep Coffee",7.1899141,125.2776917,5,""
+place_name,latitude,longitude,rating,review_text,Shop_Type
+Steep Coffee,7.1899141,125.2776917,5,"Real, fresh grinded and good coffee! Very tasty, very good. Maybe the best coffee in and around calinan.",Coffee
+Steep Coffee,7.1899141,125.2776917,5,I love it coffee so creamy and delecios,Coffee
+Steep Coffee,7.1899141,125.2776917,5,Cutieee,Coffee
+Steep Coffee,7.1899141,125.2776917,5,,Coffee
+Steep Coffee,7.1899141,125.2776917,5,,Coffee

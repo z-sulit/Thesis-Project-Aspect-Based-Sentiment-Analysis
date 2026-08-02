@@ -1,6 +1,6 @@
-﻿place_name,latitude,longitude,rating,review_text
-"THAT COFFEE HITS DIFFERENT",7.0168219,125.4912955,1,"no reusable cups, toxic petrochemical plastic garbage only"
-"THAT COFFEE HITS DIFFERENT",7.0168219,125.4912955,5,"Nice coffee shop, nice amenities ."
-"THAT COFFEE HITS DIFFERENT",7.0168219,125.4912955,5,"good"
-"THAT COFFEE HITS DIFFERENT",7.0168219,125.4912955,5,"great"
-"THAT COFFEE HITS DIFFERENT",7.0168219,125.4912955,5,""
+place_name,latitude,longitude,rating,review_text,Shop_Type
+THAT COFFEE HITS DIFFERENT,7.0168219,125.4912955,1,"no reusable cups, toxic petrochemical plastic garbage only",Coffee
+THAT COFFEE HITS DIFFERENT,7.0168219,125.4912955,5,"Nice coffee shop, nice amenities .",Coffee
+THAT COFFEE HITS DIFFERENT,7.0168219,125.4912955,5,good,Coffee
+THAT COFFEE HITS DIFFERENT,7.0168219,125.4912955,5,great,Coffee
+THAT COFFEE HITS DIFFERENT,7.0168219,125.4912955,5,,Coffee

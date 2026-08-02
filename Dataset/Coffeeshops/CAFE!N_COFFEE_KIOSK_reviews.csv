@@ -1,3 +1,3 @@
-﻿place_name,latitude,longitude,rating,review_text
-"CAFE!N COFFEE KIOSK",7.0185592,125.4988247,5,""
-"CAFE!N COFFEE KIOSK",7.0185592,125.4988247,5,""
+place_name,latitude,longitude,rating,review_text,Shop_Type
+CAFE!N COFFEE KIOSK,7.0185592,125.4988247,5,,Coffee
+CAFE!N COFFEE KIOSK,7.0185592,125.4988247,5,,Coffee
