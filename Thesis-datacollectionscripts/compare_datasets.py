@@ -4,20 +4,16 @@ import hashlib
 import re
 from typing import Dict, List, Set, Tuple
 
-# Define root directory relative to the script location
-SCRIPT_DIR = Path(__file__).resolve().parent
-ROOT_DIR = SCRIPT_DIR.parent if SCRIPT_DIR.name == "Thesis-datacollectionscripts" else SCRIPT_DIR
-
-MATCHA_DIR = ROOT_DIR / "Dataset/Matcha Shops"
+# Define dataset directories
+MATCHA_DIR = Path("Dataset/Matcha Shops")
 # Fallback to the specific casing from the request if the standard one doesn't exist
 if not MATCHA_DIR.exists():
-    MATCHA_DIR = ROOT_DIR / "Dataset/Matcha SHops"
+    MATCHA_DIR = Path("Dataset/Matcha SHops")
 
-COFFEE_DIR = ROOT_DIR / "Dataset/Coffeeshops"
+COFFEE_DIR = Path("Dataset/Coffeeshops")
 
 
 def get_file_hash(path: Path) -> str:
-
     """Return the SHA-256 hash of a file."""
     hasher = hashlib.sha256()
     try:
@@ -228,11 +224,13 @@ def main() -> None:
         print("No duplicate/high-overlap pairs found.")
 
     # Generate Reports
-    txt_report_path = ROOT_DIR / "Dataset/duplicate_report.txt"
+    md_report_path = Path("Dataset/duplicate_report.md")
+    txt_report_path = Path("Dataset/duplicate_report.txt")
     generate_txt_report(txt_report_path, filename_matches, hash_matches, high_overlap_pairs)
     print("-" * 60)
-    print(f"Detailed report saved to:")
-    print(f"  Text: {txt_report_path.resolve()}")
+    print(f"Detailed reports saved to:")
+    print(f"  Markdown: {md_report_path.resolve()}")
+    print(f"  Text:     {txt_report_path.resolve()}")
     print("=" * 60)
 
 
@@ -289,8 +287,6 @@ def generate_txt_report(
         lines.append("None found.")
 
     try:
-        # Create directory if it doesn't exist
-        report_path.parent.mkdir(parents=True, exist_ok=True)
         report_path.write_text("\n".join(lines), encoding="utf-8")
     except Exception as e:
         print(f"Failed to write report file: {e}")
@@ -298,5 +294,4 @@ def generate_txt_report(
 
 if __name__ == "__main__":
     main()
-
 
