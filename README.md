@@ -11,6 +11,12 @@ cd Thesis-Project-Aspect-Based-Sentiment-Analysis
 ## Setting Up the Virtual Environment
 ---
 
+### Why Use a Virtual Environment?
+* **Dependency Isolation:** Prevents package version conflicts between different projects.
+* **System Cleanliness:** Keeps the system-wide Python installation clean and avoids requiring administrative permissions.
+* **Reproducibility:** Ensures the exact dependencies can be easily exported (e.g., via `requirements.txt`) and recreated.
+* **Multi-Version Testing:** Allows testing the application under different Python or package versions without affecting other environments.
+
 Follow these steps to set up a Python virtual environment to run scripts and Jupyter notebooks with the correct dependencies:
 
 ### 1. Create the Virtual Environment
