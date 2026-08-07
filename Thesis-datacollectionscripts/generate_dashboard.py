@@ -56,7 +56,7 @@ def analyze_dataset():
         "total_rows": len(df_all),
         "rows_with_text": int(df_all["has_text"].sum()),
         "rows_no_text": int((~df_all["has_text"]).sum()),
-        "unique_places": int(df_all["place_name"].nunique()),
+        "unique_places": len(all_dfs),
         "average_rating": float(df_all["rating"].mean()),
         "average_rating_with_text": float(df_all[df_all["has_text"]]["rating"].mean()),
     }
@@ -276,7 +276,7 @@ def build_pdf(pdf_path, stats, chart_paths, df_all):
     stats_data = [
         [Paragraph("Metric", table_header), Paragraph("Value", table_header), Paragraph("Description", table_header)],
         [Paragraph("Total CSV Files", table_text), Paragraph(f"{stats['total_files']}", table_text), Paragraph("Total independent business files processed.", table_text)],
-        [Paragraph("Unique Establishments", table_text), Paragraph(f"{stats['unique_places']}", table_text), Paragraph("Distinct places named in files.", table_text)],
+        [Paragraph("Unique Establishments", table_text), Paragraph(f"{stats['unique_places']}", table_text), Paragraph("Total unique establishments (counted by CSV files).", table_text)],
         [Paragraph("Total Dataset Rows", table_text), Paragraph(f"{stats['total_rows']:,}", table_text), Paragraph("Combined rows across all files.", table_text)],
         [Paragraph("Rows with Review Text", table_text), Paragraph(f"{stats['rows_with_text']:,}", table_text), Paragraph("Reviews containing clean textual data.", table_text)],
         [Paragraph("Rating-Only Rows (No Text)", table_text), Paragraph(f"{stats['rows_no_text']:,}", table_text), Paragraph("Empty or missing review texts.", table_text)],
