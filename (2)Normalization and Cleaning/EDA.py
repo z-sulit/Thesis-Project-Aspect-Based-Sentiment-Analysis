@@ -22,7 +22,7 @@ if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 
 # ---------------------------------------------------------
-# FONT REGISTRATION (Segoe UI Emoji support for Windows)
+# font registration (segoe ui emoji support for windows)
 # ---------------------------------------------------------
 EMOJI_FONT_PATH = None
 for fpath in [r"C:\Windows\Fonts\seguiemj.ttf", r"C:\Windows\Fonts\seguisym.ttf"]:
@@ -39,7 +39,7 @@ if EMOJI_FONT_PATH:
         print(f"Warning: Failed to register SegoeUIEmoji font: {e}")
 
 # ---------------------------------------------------------
-# 1. DATA LOADING & PREPROCESSING
+# data loading & preprocessing
 # ---------------------------------------------------------
 if Path("../Dataset").exists():
     DATASET_DIR = Path("../Dataset")
@@ -88,7 +88,7 @@ duplicate_rows = df.duplicated(subset=['place_name', 'review_text']).sum()
 unique_establishments = total_csv_files
 
 # ---------------------------------------------------------
-# 2. STATISTICAL CALCULATIONS
+# statistical calculations
 # ---------------------------------------------------------
 top10 = df["place_name"].value_counts().head(10)
 top3_pct = (df["place_name"].value_counts().head(3).sum() / total_raw_rows) * 100
@@ -161,7 +161,7 @@ overall_ttr = calculate_ttr(df_text["review_text_clean"])
 coffee_ttr = calculate_ttr(df_text[df_text["Shop_Type"] == "Coffee"]["review_text_clean"])
 matcha_ttr = calculate_ttr(df_text[df_text["Shop_Type"] == "Matcha"]["review_text_clean"])
 
-# Print to stdout
+# print to stdout
 print("=" * 60)
 print("=== DATASET OVERVIEW ===")
 print("=" * 60)
@@ -172,11 +172,11 @@ print(f"Rating-Only (Empty): {empty_rows:,} ({empty_pct:.1f}%)")
 print(f"Duplicates: {duplicate_rows:,}")
 
 # ---------------------------------------------------------
-# 3. GENERATE CHARTS MATCHING SAMPLE DASHBOARD
+# generate charts matching sample dashboard
 # ---------------------------------------------------------
 plt.style.use('seaborn-v0_8-whitegrid' if 'seaborn-v0_8-whitegrid' in plt.style.available else 'default')
 
-# Chart A: Rating Distribution % (Coffee vs Matcha)
+# chart a: rating distribution % (coffee vs matcha)
 fig_a, ax_a = plt.subplots(figsize=(3.6, 2.1))
 x = np.arange(1, 6)
 width = 0.35
@@ -199,7 +199,7 @@ plt.savefig(buf_a, format='png', dpi=200)
 plt.close(fig_a)
 buf_a.seek(0)
 
-# Chart B: Top 10 Establishments by Review Count
+# chart b: top 10 establishments by review count
 fig_b, ax_b = plt.subplots(figsize=(3.6, 2.1))
 top10_places = [p[:22] + '...' if len(p) > 22 else p for p in top10.index[::-1]]
 top10_counts = top10.values[::-1]
@@ -218,7 +218,7 @@ plt.savefig(buf_b, format='png', dpi=200)
 plt.close(fig_b)
 buf_b.seek(0)
 
-# Chart C: Review Word Count Distribution (Clipped at 150)
+# chart c: review word count distribution (clipped at 150)
 fig_c, ax_c = plt.subplots(figsize=(3.6, 2.1))
 word_counts_clipped = df_text["word_count"].clip(upper=150)
 ax_c.hist(word_counts_clipped, bins=25, range=(0, 150), color='#1E3A8A', edgecolor='#FFFFFF', alpha=0.85)
@@ -236,7 +236,7 @@ plt.close(fig_c)
 buf_c.seek(0)
 
 # ---------------------------------------------------------
-# 4. REPORTLAB PDF CONSTRUCTION
+# reportlab pdf construction
 # ---------------------------------------------------------
 class NumberedCanvas(canvas.Canvas):
     def __init__(self, *args, **kwargs):
@@ -371,13 +371,13 @@ emoji_inline_style = ParagraphStyle(
 
 story = []
 
-# Header Block
+# header block
 story.append(Paragraph("Dataset Analysis & EDA Report", title_style))
 story.append(Paragraph("Aspect-Based Sentiment Analysis (ABSA) Dataset Overview & Profiling", subtitle_style))
 story.append(Paragraph("This report provides an automated analytical profiling of the Coffeeshops and Matcha Shops master datasets, covering establishment volume balance, rating distributions, linguistic density, emoji frequencies, and n-gram vocabulary metrics.", intro_style))
 
 # ---------------------------------------------------------
-# SECTION 1: KEY DATASET OVERVIEW
+# key dataset overview
 # ---------------------------------------------------------
 story.append(Paragraph("1. Key Dataset Overview", h1_style))
 
@@ -404,7 +404,7 @@ story.append(t_overview)
 story.append(Spacer(1, 10))
 
 # ---------------------------------------------------------
-# SECTION 2: ESTABLISHMENT VOLUME & RATING VISUALIZATIONS
+# establishment volume & rating visualizations
 # ---------------------------------------------------------
 story.append(Paragraph("2. Establishment Volume & Rating Visualizations", h1_style))
 
@@ -421,7 +421,7 @@ t_charts.setStyle(TableStyle([
 story.append(t_charts)
 story.append(Spacer(1, 8))
 
-# Volume Concentration & Rating Analysis Highlights
+# volume concentration & rating analysis highlights
 analysis_text = (
     "<b>Volume Concentration & Rating Analysis:</b><br/>"
     f"• <b>Chain Concentration:</b> Top 3 establishments account for <b>{top3_pct:.2f}%</b> of total reviews, and Top 10 account for <b>{top10_pct:.2f}%</b>.<br/>"
@@ -429,11 +429,11 @@ analysis_text = (
 )
 story.append(Paragraph(analysis_text, body_style))
 
-# End of Page 1
+# end of page 1
 story.append(PageBreak())
 
 # ---------------------------------------------------------
-# SECTION 3: TEXTUAL & LINGUISTIC PROFILING (PAGE 2)
+# textual & linguistic profiling
 # ---------------------------------------------------------
 story.append(Paragraph("3. Textual & Linguistic Profiling", h1_style))
 
@@ -470,7 +470,7 @@ story.append(t_sec3)
 story.append(Spacer(1, 10))
 
 # ---------------------------------------------------------
-# SECTION 4: CODE-SWITCHING & EMOJI FREQUENCY ANALYSIS
+# code-switching & emoji frequency analysis
 # ---------------------------------------------------------
 story.append(Paragraph("4. Code-Switching & Emoji Frequency Analysis", h1_style))
 
@@ -487,7 +487,7 @@ story.append(Paragraph(ling_text, emoji_inline_style))
 story.append(Spacer(1, 10))
 
 # ---------------------------------------------------------
-# SECTION 5: VOCABULARY & N-GRAM ANALYSIS
+# vocabulary & n-gram analysis
 # ---------------------------------------------------------
 story.append(Paragraph("5. Vocabulary & N-Gram Analysis", h1_style))
 
@@ -519,6 +519,6 @@ t_ngram.setStyle(TableStyle([
 ]))
 story.append(t_ngram)
 
-# Build Document
+# build document
 doc.build(story, canvasmaker=NumberedCanvas)
 print(f"\nSuccessfully generated PDF report at: {output_pdf.resolve()}")
