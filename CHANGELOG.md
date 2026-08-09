@@ -56,3 +56,20 @@ All notable changes, implementation updates, data processing steps, and explorat
 
 * **Paper Alignment**: Documented data acquisition pipelines and LLM validation steps.
 * **Repo Organization**: Cleaned workspace directories and updated README links.
+
+---
+
+## 5. Exploratory Data Analysis and Methodological Justification
+
+### 5.1. Semantic Divergence and Taxonomy Validation
+Analysis of bigram frequencies reveals a fundamental divergence in consumer evaluation criteria between the two target markets. Coffee establishment reviews are heavily weighted toward experiential and supplementary factors, dominated by bigrams such as "good food" (462), "coffee shop" (430), and "nice place" (393). In contrast, matcha consumers exhibit a hyper-fixated, product-centric evaluation, highlighted by "matcha latte" (73) and "best matcha" (58).
+
+This semantic split validates the deployment of Generative Aspect Taxonomy Induction. Applying a static, generalized food and beverage taxonomy would fail to capture that coffee shop ratings in this dataset are environmentally driven, while matcha ratings are product-driven.
+
+### 5.2. Lexical Diversity and the Failure of Static Dictionaries
+The Type-Token Ratio (TTR) exposes significant disparities in vocabulary richness across the domains. The coffee corpus demonstrates high lexical repetition (TTR = 0.0823), indicating consumers rely on generic, recurring phrasing to describe their visits. Conversely, the matcha corpus exhibits more than double the descriptive diversity (TTR = 0.1718). This variance confirms that a rigid, rule-based keyword extraction approach would artificially truncate the nuanced, highly variable vocabulary utilized by matcha consumers.
+
+### 5.3. Code-Switching Density and Architectural Necessity
+The code-switching density analysis provides the exact empirical baseline necessitating the XLM-RoBERTa architecture. The data shows a consistent 5% baseline inclusion of regional Bislish and Taglish conversational markers across both categories (Coffee: 5.05%, Matcha: 4.97%).
+
+While 5% represents a minority of the overall text, these localized terms (e.g., lami, kaayo, mahal) frequently carry the core emotional polarity of the sentence. Processing this corpus with monolingual English lexicons (e.g., VADER) guarantees a baseline failure rate where the most critical sentiment drivers are either misinterpreted or completely discarded as out-of-vocabulary noise. Consequently, deploying a multilingual transformer equipped to resolve intra-sentential code-switching is a structural requirement, not an optional enhancement, for accurately modeling this regional dataset.
