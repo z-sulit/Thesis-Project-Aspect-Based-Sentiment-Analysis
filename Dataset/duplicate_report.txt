@@ -6,9 +6,9 @@ This report identifies duplicate CSV files and overlapping reviews between the M
 
 SUMMARY METRICS
 ---------------
-- Filename Matches: 1 files have matching names across both directories.
+- Filename Matches: 0 files have matching names across both directories.
 - Exact Byte-for-Byte Matches (SHA256): 0 files are completely identical.
-- Semantic Duplicates (>=50% Review Overlap): 1 pairs of files have significant review overlap.
+- Semantic Duplicates (>=50% Review Overlap): 0 pairs of files have significant review overlap.
 
 DETAILED OVERLAP ANALYSIS (>=50% Review Overlap)
 ------------------------------------------------
@@ -16,10 +16,9 @@ Note: Overlap % is relative to the number of reviews in the Matcha file.
 
 Matcha File                                   Coffeeshop File                               Overlap % (Matcha)   Overlap % (Coffee)   Match Count  Matcha Total  Coffeeshop Total
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Hachi_House_Davao_reviews.csv                 Hachi_House_Davao_reviews.csv                 60.0%                100.0%               3            5             3               
 
 EXACT FILENAME MATCHES
 ----------------------
 Files present in both folders with matching filenames:
 
-- Hachi_House_Davao_reviews.csv
+None found.
