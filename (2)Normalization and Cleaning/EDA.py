@@ -7,7 +7,7 @@ from collections import Counter
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-
+#2
 from reportlab.lib.pagesizes import letter
 from reportlab.lib import colors
 from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
