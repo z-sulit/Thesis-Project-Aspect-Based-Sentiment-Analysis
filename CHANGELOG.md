@@ -22,11 +22,16 @@ All notable changes, implementation updates, data processing steps, and explorat
 ## 2. Data Preprocessing & Aggregation (`Data preprocess.ipynb`)
 
 * **Category Labeling**: Programmatically appended `Shop_Type` tags (`Coffee` vs `Matcha`) to all extracted establishment files.
-* **Master Dataset Concatenation**:
-  * Merged **360 individual Coffeeshop CSVs** into `Dataset/coffeeshops_master.csv` (18,258 rows).
-  * Merged **51 individual Matcha Shop CSVs** into `Dataset/matcha_shops_master.csv` (2,132 rows).
+* **Master Dataset Concatenation & Dataset Bifurcation**:
+  * Merged **360 individual Coffeeshop CSVs** (17,454 reviews) and **51 individual Matcha Shop CSVs** (2,132 reviews) into `Dataset/coffeeshops_master.csv` and `Dataset/matcha_shops_master.csv`.
+  * **Dual Master File Architecture**:
+    * `Dataset/DB_master_reviews_combined.csv` (19,586 rows): Raw combined dataset allocated for database storage and dashboard analytics.
+    * `Dataset/Thesis_master_reviews_combined.csv` (19,586 rows): Dedicated dataset for AI model training and testing pipelines.
+* **Demojization & Emoji Normalization**:
+  * Applied `emoji.demojize` across `Thesis_master_reviews_combined.csv`, creating a normalized `clean_review` column.
+  * Converts Unicode emojis into text tokens (e.g., `:red_heart:`, `:thumbs_up:`) to enable proper tokenization in transformer architectures (XLM-RoBERTa) while preserving sentiment context.
 * **Metadata & Overlap Reporting**:
-  * Built `shops_list.txt` enumerating all processed establishments.
+  * Built `shops_list.txt` enumerating all 411 processed establishments.
   * Generated `duplicate_report.txt` auditing file matches and cross-directory review overlaps (e.g., `Hachi_House_Davao_reviews.csv`).
 
 ---
@@ -47,8 +52,7 @@ All notable changes, implementation updates, data processing steps, and explorat
   * Extracted Top Unigrams and Bigrams for Coffee ("good food", "coffee shop", "nice place") vs Matcha ("matcha latte", "best matcha", "love matcha").
   * Computed Vocabulary Richness (Type-Token Ratio - TTR): Overall TTR = **0.0327** (Coffee: **0.0342**, Matcha: **0.1030**).
 * **Automated PDF Report Generation**:
-  * Re-architected `generate_dashboard.py` and `EDA.py` to stream directly from master CSVs.
-  * Compiled statistical tables and Matplotlib visualization charts into `dashboard_report.pdf`.
+  * Re-architected `EDA.py` and reporting scripts to stream directly from master CSVs and output `eda_report.pdf`.
 
 ---
 
