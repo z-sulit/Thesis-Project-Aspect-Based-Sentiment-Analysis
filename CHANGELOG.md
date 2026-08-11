@@ -77,3 +77,17 @@ The Type-Token Ratio (TTR) exposes significant disparities in vocabulary richnes
 The code-switching density analysis provides the exact empirical baseline necessitating the XLM-RoBERTa architecture. The data shows a consistent 5% baseline inclusion of regional Bislish and Taglish conversational markers across both categories (Coffee: 5.05%, Matcha: 4.97%).
 
 While 5% represents a minority of the overall text, these localized terms (e.g., lami, kaayo, mahal) frequently carry the core emotional polarity of the sentence. Processing this corpus with monolingual English lexicons (e.g., VADER) guarantees a baseline failure rate where the most critical sentiment drivers are either misinterpreted or completely discarded as out-of-vocabulary noise. Consequently, deploying a multilingual transformer equipped to resolve intra-sentential code-switching is a structural requirement, not an optional enhancement, for accurately modeling this regional dataset.
+
+---
+
+## 6. Phase 2: Aspect Taxonomy Initialization (`2_AspectTaxonomy/AspectTaxonomy.ipynb`)
+
+* **Initialization of Aspect Taxonomy Pipeline**:
+  * Established Phase 2 workflow in `2_AspectTaxonomy/AspectTaxonomy.ipynb` structured around three core stages:
+    * **Step 2.1**: Representative Stratified Sampling
+    * **Step 2.2**: Generative Semantic Analysis
+    * **Step 2.3**: Global Taxonomy Formalization and Validation
+* **Dataset Ingestion & Dialect Lexicon Setup**:
+  * Ingested processed review data from `Dataset/Thesis_master_reviews_combined.csv`.
+  * Curated localized lexical marker dictionaries encompassing Bisaya/Cebuano, Tagalog, and shared regional terms to support dialect-aware aspect extraction and semantic parsing.
+
