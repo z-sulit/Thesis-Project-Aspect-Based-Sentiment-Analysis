@@ -8,6 +8,53 @@ git clone https://github.com/z-sulit/Thesis-Project-Aspect-Based-Sentiment-Analy
 cd Thesis-Project-Aspect-Based-Sentiment-Analysis
 ```
 
+## Git Workflow & Basic Commands
+---
+
+### 1. Pulling the Latest Changes
+Before starting work, update your local repository with the latest changes from the remote repository:
+```bash
+git pull origin main
+```
+
+### 2. Checking Working Status
+Check which files have been modified, deleted, or untracked:
+```bash
+git status
+```
+
+### 3. Staging and Committing Changes
+Stage specific files or all modified files, then commit with a descriptive message:
+```bash
+# Stage a specific file
+git add <file_path>
+
+# Or stage all changed files
+git add .
+
+# Commit staged changes
+git commit -m "Brief summary of changes"
+```
+
+### 4. Pushing Changes to Remote
+Push your local commits to the GitHub repository:
+```bash
+git push origin main
+```
+
+### 5. Working with Branches
+Create and manage feature branches for isolated development:
+```bash
+# Create and switch to a new branch
+git checkout -b feature-name
+
+# Push a new branch to remote
+git push -u origin feature-name
+
+# Switch back to the main branch
+git checkout main
+```
+
 ## Setting Up the Virtual Environment
 ---
 
