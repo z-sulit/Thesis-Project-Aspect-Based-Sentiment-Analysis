@@ -131,9 +131,36 @@ The architecture relies on a multi-stage process:
 * Zachary Lorenzo F. Sulit
     * From *Ateneo de Davao University*
 
-## For change in paper:
+## Dataset Schema
 
-Data Acquisition changes in paper.
+The processed dataset is aggregated across 411 establishments (360 coffee shops, 51 matcha shops) totaling 19,586 reviews, stored in [`Dataset/Thesis_master_reviews_combined.csv`](file:///D:/Ateneo%20de%20Davao/Thesis-Project-Aspect-Based-Sentiment-Analysis/Dataset/Thesis_master_reviews_combined.csv).
 
-## Implementation Updates:
-Ongoing data extraction.
+| Column Field | Data Type | Description |
+| :--- | :--- | :--- |
+| `place_name` | `string` | Name of the target coffee or matcha establishment |
+| `latitude` | `float` | Geographic latitude of the business location |
+| `longitude` | `float` | Geographic longitude of the business location |
+| `rating` | `integer` | Numerical rating given by the user (1 to 5 stars) |
+| `review_text` | `string` | Raw review text extracted from Google Maps |
+| `clean_review` | `string` | Demojized text with normalized whitespace and standardized token markers |
+| `Shop_Type` | `string` | Establishment category classification (`Coffee` or `Matcha`) |
+
+## Evaluation Metrics & Benchmarks
+
+* **Performance Metrics:** Macro F1-Score, Precision, Recall, and Accuracy evaluated across both aspect detection and sentiment polarity classification (Positive, Negative, Neutral).
+* **Inter-Annotator Agreement:** Validated via Fleiss' Kappa ($\kappa$) for human-in-the-loop Active Learning annotations.
+* **Baseline Benchmarks:** Comparative evaluation of fine-tuned **XLM-RoBERTa** against lexicon-based baselines (**VADER**) on localized code-switched (Bislish/Taglish) inputs.
+
+## Citation
+
+If you use this dataset or research pipeline, please cite:
+
+```bibtex
+@article{faberes2026aspect,
+  title={Aspect-Based Sentiment Analysis of Code-Switched Consumer Reviews in Davao City},
+  author={Faberes, Audrey Zarina and Mamac, Ira Zaky O. and Sulit, Zachary Lorenzo F.},
+  journal={Department of Computer Science, Ateneo de Davao University},
+  year={2026}
+}
+```
+
