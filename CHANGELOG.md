@@ -91,3 +91,30 @@ While 5% represents a minority of the overall text, these localized terms (e.g.,
   * Ingested processed review data from `Dataset/Thesis_master_reviews_combined.csv`.
   * Curated localized lexical marker dictionaries encompassing Bisaya/Cebuano, Tagalog, and shared regional terms to support dialect-aware aspect extraction and semantic parsing.
 
+---
+
+## 7. Generative AI Methodological Justifications & Solution Verification
+
+### 7.1. Phase 2: Generative Aspect Taxonomy Induction
+
+* **SBERT Semantic Filtering**:
+  * Derived from the EASE framework proposed by Alturayeif et al. (Alturayeif & I. Ahmad).
+  * Utilizes Sentence-BERT (SBERT) to calculate contextual similarity scores.
+  * Ensures redundant and semantically similar instances are automatically removed via mathematical filtering before cluttering the dataset.
+
+* **Zero-Shot Self-Correction**:
+  * Grounded in the methodology proposed by Brady & T. Islam.
+  * Employs prompt-based inference to iteratively refine and shape the aspect taxonomy using Large Language Models without requiring manual seed sets.
+  * Enables the AI to logically organize and structure semantic aspect labels.
+
+### 7.2. Phase 5: Targeted Synthetic Data Augmentation
+
+* **Rule-Based Keyword Validation**:
+  * Draws from the verification mechanics demonstrated by Monfared et al. (M. H. A. Monfared, L. Flek, and A. Karimi).
+  * Utilizes an evaluator agent to verify that generated synthetic reviews contain the target aspect terms and sentiment polarities before dataset insertion.
+  * Anchors aspects via strict word-matching based on foundational rule-based techniques (Mukherjee & Liu; Poria et al.).
+
+* **ROUGE / Cosine Similarity Deduplication**:
+  * Adopted directly from the Self-Instruct framework developed by Wang et al. (Y. Wang, Y. Kordi, S. Mishra, A. Liu, N. A. Smith, D. Khashabi, and H. Hajishirzi).
+  * Enforces a strict similarity threshold during synthetic data filtering (e.g., discarding generated text with a ROUGE-L overlap $\ge 0.7$ against existing entries).
+  * Prevents the generative AI model from verbatim duplication or lazy copying of authentic seed data.
