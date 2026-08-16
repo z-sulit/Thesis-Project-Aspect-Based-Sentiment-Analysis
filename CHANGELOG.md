@@ -97,10 +97,6 @@ While 5% represents a minority of the overall text, these localized terms (e.g.,
 
 ### 7.1. Phase 2: Generative Aspect Taxonomy Induction
 
-* **SBERT Semantic Filtering**:
-  * Derived from the EASE framework proposed by Alturayeif et al. (Alturayeif & I. Ahmad).
-  * Utilizes Sentence-BERT (SBERT) to calculate contextual similarity scores.
-  * Ensures redundant and semantically similar instances are automatically removed via mathematical filtering before cluttering the dataset.
 
 * **Zero-Shot Self-Correction**:
   * Grounded in the methodology proposed by Brady & T. Islam.
@@ -113,6 +109,8 @@ While 5% represents a minority of the overall text, these localized terms (e.g.,
   * Draws from the verification mechanics demonstrated by Monfared et al. (M. H. A. Monfared, L. Flek, and A. Karimi).
   * Utilizes an evaluator agent to verify that generated synthetic reviews contain the target aspect terms and sentiment polarities before dataset insertion.
   * Anchors aspects via strict word-matching based on foundational rule-based techniques (Mukherjee & Liu; Poria et al.).
+
+* **OR**
 
 * **ROUGE / Cosine Similarity Deduplication**:
   * Adopted directly from the Self-Instruct framework developed by Wang et al. (Y. Wang, Y. Kordi, S. Mishra, A. Liu, N. A. Smith, D. Khashabi, and H. Hajishirzi).
