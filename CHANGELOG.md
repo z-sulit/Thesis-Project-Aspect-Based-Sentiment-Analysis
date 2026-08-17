@@ -110,9 +110,3 @@ While 5% represents a minority of the overall text, these localized terms (e.g.,
   * Utilizes an evaluator agent to verify that generated synthetic reviews contain the target aspect terms and sentiment polarities before dataset insertion.
   * Anchors aspects via strict word-matching based on foundational rule-based techniques (Mukherjee & Liu; Poria et al.).
 
-* **OR**
-
-* **ROUGE / Cosine Similarity Deduplication**:
-  * Adopted directly from the Self-Instruct framework developed by Wang et al. (Y. Wang, Y. Kordi, S. Mishra, A. Liu, N. A. Smith, D. Khashabi, and H. Hajishirzi).
-  * Enforces a strict similarity threshold during synthetic data filtering (e.g., discarding generated text with a ROUGE-L overlap $\ge 0.7$ against existing entries).
-  * Prevents the generative AI model from verbatim duplication or lazy copying of authentic seed data.
