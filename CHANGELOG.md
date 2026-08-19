@@ -103,10 +103,11 @@ While 5% represents a minority of the overall text, these localized terms (e.g.,
   * Employs prompt-based inference to iteratively refine and shape the aspect taxonomy using Large Language Models without requiring manual seed sets.
   * Enables the AI to logically organize and structure semantic aspect labels.
 
+  self-refine: https://arxiv.org/pdf/2303.17651
+
+
 ### 7.2. Phase 5: Targeted Synthetic Data Augmentation
 
-* **Rule-Based Keyword Validation**:
-  * Draws from the verification mechanics demonstrated by Monfared et al. (M. H. A. Monfared, L. Flek, and A. Karimi).
-  * Utilizes an evaluator agent to verify that generated synthetic reviews contain the target aspect terms and sentiment polarities before dataset insertion.
-  * Anchors aspects via strict word-matching based on foundational rule-based techniques (Mukherjee & Liu; Poria et al.).
-
+Cosine-similarity: https://arxiv.org/pdf/1908.10084
+* **Cosine Similarity (Semantic Overlap)**:
+  * The Mechanic: It converts sentences into dense vector embeddings (using a lightweight model like Sentence-BERT) and measures the angle between those vectors in a multidimensional space.
