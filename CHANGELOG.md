@@ -85,7 +85,8 @@ While 5% represents a minority of the overall text, these localized terms (e.g.,
 * **Initialization of Aspect Taxonomy Pipeline**:
   * Established Phase 2 workflow in `2_AspectTaxonomy/AspectTaxonomy.ipynb` structured around three core stages:
     * **Step 2.1**: Representative Stratified Sampling
-    * **Step 2.2**: Generative Semantic Analysis
+    * **Step 2.2**: Generative Semantic Analysis: (Changes)
+      * The stratified sample is processed via a Generative Large Language Model. The prompt design instructs the model to act as a qualitative researcher tasked with inducing a primary aspect taxonomy representing critical dimensions of consumer feedback. While the model must comprehend the regional Davao City consumer context and Bislish semantics to accurately map localized sentiments, it is strictly constrained to output broad semantic aspect categories (e.g., Ambiance, Customer Service) in a standardized JSON format. This strict formatting enables the programmatic execution of the zero-shot self-correction loop.
     * **Step 2.3**: Global Taxonomy Formalization and Validation
 * **Dataset Ingestion & Dialect Lexicon Setup**:
   * Ingested processed review data from `Dataset/Thesis_master_reviews_combined.csv`.
