@@ -103,6 +103,7 @@ While 5% represents a minority of the overall text, these localized terms (e.g.,
   * Grounded in the methodology proposed by Brady & T. Islam.
   * Employs prompt-based inference to iteratively refine and shape the aspect taxonomy using Large Language Models without requiring manual seed sets.
   * Enables the AI to logically organize and structure semantic aspect labels.
+  * N = N-1 
 
   self-refine: https://arxiv.org/pdf/2303.17651
 
