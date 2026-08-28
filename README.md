@@ -116,14 +116,22 @@ This repository outlines an Aspect-Based Sentiment Analysis (ABSA) system design
 * **Annotation Efficiency:** Utilize Active Learning (uncertainty and diversity sampling) to drastically reduce manual labeling costs.
 * **Data Scarcity Mitigation:** Apply LLM-based Self-Instruct frameworks to synthesize training data for underrepresented classes without causing model collapse.
 
-## System Pipeline
-The architecture relies on a multi-stage process:
-1. **Data Acquisition:** Bypassing API limits via custom semi-automated DOM scraping on Google Maps.
-2. **Taxonomy Induction:** Using generative LLMs (Gemini 3) to organically discover a localized aspect taxonomy rather than relying on static industry dictionaries.
-3. **Aspect Extraction:** Decomposing complex reviews into isolated review-aspect pairs to resolve mixed sentiments in single sentences.
-4. **Active Learning & Annotation:** Routing strictly ambiguous, high-value samples to human annotators, validated via Fleiss' Kappa.
-5. **Targeted Augmentation:** Regulated generation of artificial text to balance minority classes.
-6. **Transformer Fine-Tuning:** Training XLM-ROBERTa on the hybrid dataset for final aspect-level sentiment classification.
+## System Pipeline & Empirical Results
+
+The architecture follows a rigorous multi-stage pipeline:
+
+1. **Data Acquisition & Preprocessing:** Cleaned and demojized 19,586 Google Maps consumer reviews across 411 Davao City establishments ([`(2)Normalization and Cleaning/Data preprocess.ipynb`](file:///D:/Ateneo%20de%20Davao/Thesis-Project-Aspect-Based-Sentiment-Analysis/(2)Normalization%20and%20Cleaning/Data%20preprocess.ipynb)).
+2. **Aspect Taxonomy Induction:** Generative zero-shot self-correction loop establishing localized aspect categories ([`2_AspectTaxonomy/AspectTaxonomy.ipynb`](file:///D:/Ateneo%20de%20Davao/Thesis-Project-Aspect-Based-Sentiment-Analysis/2_AspectTaxonomy/AspectTaxonomy.ipynb)).
+3. **Aspect Extraction & Data Decomposition:** Multi-aspect sentence explosion into isolated review-aspect pairs ([`_3_Granular ASpect Extraction and Data Decomposition/gaedd.ipynb`](file:///D:/Ateneo%20de%20Davao/Thesis-Project-Aspect-Based-Sentiment-Analysis/_3_Granular%20ASpect%20Extraction%20and%20Data%20Decomposition/gaedd.ipynb)).
+4. **Strict Data Partitioning:** 70% Train, 15% Validation, and 15% Test stratified partition to enforce the evaluation firewall ([`_4_Strict_Data_Parititioning/DataPartition.ipynb`](file:///D:/Ateneo%20de%20Davao/Thesis-Project-Aspect-Based-Sentiment-Analysis/_4_Strict_Data_Parititioning/DataPartition.ipynb)).
+5. **Empirical Thresholding & Augmentation Evaluation:**
+   * **Learning Curve Threshold Analysis (Step 5.1):** Proxy model evaluations established minimum performance plateaus per aspect class:
+     * *Store Operations and Accessibility:* Plateaus at **500 instances** (authentic available: 846).
+     * *Price and Value:* Plateaus at **600–700 instances** (authentic available: 836).
+     * *Facilities and Amenities:* Plateaus at **1,000 instances** (authentic available: 1,343).
+     * *Majority Aspect Classes:* Native counts (2,159 to 7,728) mathematically eclipse the highest 1,000-instance sufficiency floor.
+   * **Augmentation Decision:** Synthetic augmentation was bypassed because all classes natively exceeded their empirical learning curve thresholds. The dataset is locked as **100% authentic human-generated text** to eliminate LLM noise and preserve natural Bislish/Taglish code-switching semantics ([`_5_Targeted_Synthetic_Data_Augmentation/Data_augmentation.ipynb`](file:///D:/Ateneo%20de%20Davao/Thesis-Project-Aspect-Based-Sentiment-Analysis/_5_Targeted_Synthetic_Data_Augmentation/Data_augmentation.ipynb)).
+6. **Transformer Fine-Tuning (Phase 6):** Fine-tuning XLM-RoBERTa on the locked split for aspect-level sentiment classification.
 
 ## Researchers
 * Audrey Zarina Faberes
