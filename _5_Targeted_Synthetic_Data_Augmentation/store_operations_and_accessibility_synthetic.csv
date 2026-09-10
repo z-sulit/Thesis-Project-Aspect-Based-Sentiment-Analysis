@@ -1,0 +1,138 @@
+place_name,rating,shop_type,sentence,TargetAspect,Sentiment,is_synthetic
+Matcha Milk Bar,1,coffee and matcha,"Walay bisan unsang aircon nga gana, sobra ka init sulod bisan naay AC unit.",Store Operations and Accessibility,Negative,TRUE
+Torres St. Coffee,2,matcha,"Naa lang gyud usa ka parking slot for guest, dili igo para sa peak hours.",Store Operations and Accessibility,Negative,TRUE
+Ma-a Coffee Stop,1,matcha,Grabe ka lisod ma access ang loob kay naka barricade ang entrance due sa repair.,Store Operations and Accessibility,Negative,TRUE
+Kape Habagat,2,coffee,"Wala jud signage sa gawas, nasagpa mi og layo kay wala nakit-an ang entrance.",Store Operations and Accessibility,Negative,TRUE
+Obrero Brew Bar,2,coffee and matcha,Sobra ka lisod ang pag park kay reserved lahat para sa staff nila lang.,Store Operations and Accessibility,Negative,TRUE
+Steep Leaf Davao,1,coffee and matcha,Mag order lang ka pila na ka minuto ang hulat kay kulang ug staff sa counter.,Store Operations and Accessibility,Negative,TRUE
+Cafe Agdao,2,matcha,Naay app booking sila pero wala man diay ni sync sa actual availability.,Store Operations and Accessibility,Negative,TRUE
+Matcha Mo Davao,2,coffee,Sobra ka init sa waiting area kay walay proper ventilation bisan naay fan.,Store Operations and Accessibility,Negative,TRUE
+Bankerohan Brew,1,coffee,Naay sign nga wifi available pero mao gyud ang pinaka sira nga signal sa tibuok area.,Store Operations and Accessibility,Negative,TRUE
+Tugbok Brew House,2,matcha,"Grabe ka layo gikan sa highway, kinahanglan mo agi pa og dalan nga bumpy kaayo.",Store Operations and Accessibility,Negative,TRUE
+Brewpoint Davao,1,coffee and matcha,"Grabe ka lisod i-park diri, walay parking space bisan gamay.",Store Operations and Accessibility,Negative,TRUE
+Bajada Bean Co.,1,coffee,Naay sign nga open pero pag text nako sa contact number wala jud gi reply.,Store Operations and Accessibility,Negative,TRUE
+Brew Nation Davao,1,coffee,"Grabe ka lisod ang access sa CR, kinahanglan mo hangyo pa sa staff para sa key.",Store Operations and Accessibility,Negative,TRUE
+Brew & Bites Davao,1,matcha,"Sobra ka layo ang pinaka duol nga parking building, mag lakaw ka og upat minuto.",Store Operations and Accessibility,Negative,TRUE
+Sagrada Coffee Nook,1,matcha,"Grabe ka layo ang CR gikan sa seating area, kinahanglan mo gawas pa sa building.",Store Operations and Accessibility,Negative,TRUE
+Cafe Panabo Road,1,coffee,Sobra ka lisod ma locate ang entrance kay wala silay clear signage sa gawas.,Store Operations and Accessibility,Negative,TRUE
+Kape Diwa Davao,2,coffee,"Wala silay proper drainage, mag tubig ang entrance every time mo ulan.",Store Operations and Accessibility,Negative,TRUE
+Bean Route Davao,1,coffee and matcha,"Walay proper waiting area, magtindog na lang mi outside sa init while naghulat.",Store Operations and Accessibility,Negative,TRUE
+The Daily Grind Davao,1,coffee,"Sobra ka gamay ang store, dili jud angay para sa daghan customers per hour.",Store Operations and Accessibility,Negative,TRUE
+Brew Society Davao,1,coffee,"Layo kaayo ang nearest jeepney stop, mag lakaw pa ka og pito ka minuto.",Store Operations and Accessibility,Negative,TRUE
+Green Whisk Matcha House,1,coffee,"Grabe ka hirap hanapin, wala man gani nag stand out ang signage nila sa kadalanan.",Store Operations and Accessibility,Negative,TRUE
+Cafe Malagos Roasters,1,matcha,Grabe ka daghan mag order pero isa ra ka staff naka duty sa buong shift.,Store Operations and Accessibility,Negative,TRUE
+Roxas Ave Roastery,2,matcha,"Naabot ko alas 3 tapos sarado na, sa Google Maps until 6pm man unta.",Store Operations and Accessibility,Negative,TRUE
+Cafe Toril,1,matcha,"Naa lang gyud usa ka cashier bisan Saturday rush hour, sobra ka hinay ang linya.",Store Operations and Accessibility,Negative,TRUE
+Catalunan Cafe Stop,1,coffee,Sobra ka init sa sulod kay naa lang isa ka aircon unit para sa buong store.,Store Operations and Accessibility,Negative,TRUE
+Matcha & Co. Davao,1,matcha,"Naay isa lang ka staff nga naka duty, sobra ka hinay ang pag serve sa order.",Store Operations and Accessibility,Negative,TRUE
+Matina Matcha Lab,1,coffee,"Wala silay clear schedule, lahi lahi permi ang closing time depende sa staff.",Store Operations and Accessibility,Negative,TRUE
+Cafe Kadayawan,1,coffee and matcha,"Wala sila nag post nga holiday closed sila, nagbyahe pa mi from Toril para wala lang.",Store Operations and Accessibility,Negative,TRUE
+Kape Lokal,1,matcha,"Sobra ka layo ang jeepney terminal gikan sa store, mag Grab na lang lagi ka.",Store Operations and Accessibility,Negative,TRUE
+Matcha Muna,2,coffee,Wala jud sila mag update sa holiday schedule nila sa social media.,Store Operations and Accessibility,Negative,TRUE
+Green Leaf Matcha Bar,1,matcha,Naay sign nga wheelchair accessible pero naay steep steps padulong sa entrance.,Store Operations and Accessibility,Negative,TRUE
+Cafe Ilang-Ilang,1,coffee,"Wala silay proper signage papunta sa parking, na miss mi og turn kay wala nakita.",Store Operations and Accessibility,Negative,TRUE
+Matcha Bar 88,1,matcha,"Wala silay heads up nga closed sila for private event, nagbyahe pa mi para wala lang.",Store Operations and Accessibility,Negative,TRUE
+Kape Balay,1,coffee,Grabe ka daghan customers per table area nga sobra ka gamay para sa tanan.,Store Operations and Accessibility,Negative,TRUE
+Kape Bukid,1,coffee,"Sobra ka bright ug hot init sa sulod, wala jud gina turn on ang aircon.",Store Operations and Accessibility,Negative,TRUE
+Barako Corner Cafe,1,coffee,"Naay isa lang ka table para sa outdoor, so kapoy ka naghulat og maayo nga slot.",Store Operations and Accessibility,Negative,TRUE
+Buhangin Bean House,2,coffee,"Sobra ka lisod ang signal sa wifi bisan naa ka duol sa router, permi disconnect.",Store Operations and Accessibility,Negative,TRUE
+Lanang Latte Bar,2,coffee and matcha,Grabe kalisod ang pag park sa evening kay walay light sa parking area.,Store Operations and Accessibility,Negative,TRUE
+Cafe Sinabuyan,1,coffee and matcha,"Naa daw sila 24 hours pero nag close na sila alas 9pm, misinformation jud.",Store Operations and Accessibility,Negative,TRUE
+Kape't Kwento,1,coffee,Naay maintenance schedule sila pero wala nila gi post asa makita sa publiko.,Store Operations and Accessibility,Negative,TRUE
+Cafe Durian House,1,coffee,"Wala nila gi post nga nag change na ang closing time, na sayang ang byahe.",Store Operations and Accessibility,Negative,TRUE
+Kape Amiga,1,coffee and matcha,"Sobra ka gamay ang counter area, mag sigpit sigpit lang mo order sa daghan tao.",Store Operations and Accessibility,Negative,TRUE
+Kopi Mindanao,1,coffee,Nag ingon sila naay reservation pero pag adto namo wala man diay gi honor.,Store Operations and Accessibility,Negative,TRUE
+Kapehan sa Kalinaw,1,coffee,"Wala silay clear indication kung unsa oras ang last order, na guess guess na lang.",Store Operations and Accessibility,Negative,TRUE
+Matcha Republika,1,coffee,Naay sign nga open Sundays pero pag adto nako sarado man diay every Sunday.,Store Operations and Accessibility,Negative,TRUE
+Matcha Tea Room Davao,2,coffee and matcha,"Sobra ka layo gikan sa main highway, dapat mag Grab pa para makaabot.",Store Operations and Accessibility,Negative,TRUE
+Davao Doi Coffee,2,matcha,"Wala nay parking area since gi construction, sobra ka lisod mag park karon.",Store Operations and Accessibility,Negative,TRUE
+Kape Ihaw-Ihaw,1,coffee,"Naay isa lang ka toilet para sa buong store, sobra ka daghan naghulat.",Store Operations and Accessibility,Negative,TRUE
+Pier Coffee House,1,coffee,"Grabe ka daghan sa Sunday pero walay extra seats gi prepare, standing room na lang.",Store Operations and Accessibility,Negative,TRUE
+Matcha Milk Bar,1,matcha,Wala jud sila mag post nga naay ongoing construction sa main entrance nila.,Store Operations and Accessibility,Negative,TRUE
+Torres St. Coffee,2,coffee,Naay sign nga open until midnight pero mag close na sila alas 9pm lang.,Store Operations and Accessibility,Negative,TRUE
+Ma-a Coffee Stop,1,coffee,"Grabe ka sikip ang entrance, dili gani makasulod ang stroller sa akong baby.",Store Operations and Accessibility,Negative,TRUE
+Kape Habagat,2,coffee,"Grabe ka layo padulong sa parking, kinahanglan mo tabok pa sa highway para makaabot.",Store Operations and Accessibility,Negative,TRUE
+Obrero Brew Bar,2,coffee,Naay renovation sila pero wala nag inform sa mga customer nga naka book na.,Store Operations and Accessibility,Negative,TRUE
+Steep Leaf Davao,2,coffee,"Layo kaayo sa main road, wala pa gani gi maayo ang dalan padulong didto.",Store Operations and Accessibility,Negative,TRUE
+Cafe Agdao,1,coffee,"Steep kaayo ang hagdan padulong sa 2nd floor, walay elevator para sa PWD.",Store Operations and Accessibility,Negative,TRUE
+Matcha Mo Davao,1,matcha,"Grabe ka busy sa parking area, mag away pa mi og slot sa laing customer.",Store Operations and Accessibility,Negative,TRUE
+Bankerohan Brew,1,coffee,"Wala silay ramp o elevator, pure stairs lang gikan sa ground papunta sa second floor.",Store Operations and Accessibility,Negative,TRUE
+Tugbok Brew House,2,coffee,Sobra ka layo ang walking distance gikan sa parking papunta sa store mismo.,Store Operations and Accessibility,Negative,TRUE
+Brewpoint Davao,2,coffee,"Walay parking area, sa gawas ka lang mag park tapos guardian mo singil ug extra.",Store Operations and Accessibility,Negative,TRUE
+Bajada Bean Co.,1,coffee,"Wala silay backup generator, pag brownout sarado dayon bisan mid afternoon pa.",Store Operations and Accessibility,Negative,TRUE
+Brew Nation Davao,2,matcha,"Grabe ka daghan tao sa loob pero gamay ra ang store, mag sigpit sigpit na lang.",Store Operations and Accessibility,Negative,TRUE
+Brew & Bites Davao,1,coffee and matcha,"Naay sign nga open daily pero close man diay sila every other Tuesday, wala clear.",Store Operations and Accessibility,Negative,TRUE
+Sagrada Coffee Nook,1,matcha,"Sobra ka gamay ang parking lot, dili gani ka fit ang akong sakyanan.",Store Operations and Accessibility,Negative,TRUE
+Cafe Panabo Road,1,coffee,"Wala silay proper queue system, nag away pa mi kung sino ang una nag order.",Store Operations and Accessibility,Negative,TRUE
+Kape Diwa Davao,1,coffee,"Sobra ka layo ang paglakaw padulong sa entrance gikan sa gate, walay shade pa.",Store Operations and Accessibility,Negative,TRUE
+Bean Route Davao,2,coffee,Sobra ka daghan nag hulat outside kay walay proper waiting system.,Store Operations and Accessibility,Negative,TRUE
+The Daily Grind Davao,1,coffee and matcha,"Wala sila mag update sa operating hours nila kada holiday, permi mi na guess lang.",Store Operations and Accessibility,Negative,TRUE
+Brew Society Davao,1,coffee,"Wala silay ramp padulong sa entrance, lisod jud kaayo sa mga naay stroller.",Store Operations and Accessibility,Negative,TRUE
+Green Whisk Matcha House,2,coffee and matcha,"Wala silay backup plan pag mag rain, mag sarado dayon sila kay atop leak.",Store Operations and Accessibility,Negative,TRUE
+Cafe Malagos Roasters,1,coffee,Naay sign nga accessible pero naay hagdan pa diay una mo abot sa entrance.,Store Operations and Accessibility,Negative,TRUE
+Roxas Ave Roastery,1,matcha,Sobra ka init sa second floor kay wala nila palihuga ang aircon didto.,Store Operations and Accessibility,Negative,TRUE
+Cafe Toril,1,coffee and matcha,"Wala silay signage sa parking, mag guess na lang ka kung asa allowed mo park.",Store Operations and Accessibility,Negative,TRUE
+Catalunan Cafe Stop,1,coffee and matcha,Grabe kalisod ang pag adto kay walay proper street light sa gawas panahon sa gabii.,Store Operations and Accessibility,Negative,TRUE
+Matcha & Co. Davao,1,coffee,"Grabe ka lisod ang pag reserve, dili gani mo reply sa message pag mag book ka.",Store Operations and Accessibility,Negative,TRUE
+Matina Matcha Lab,1,coffee and matcha,"Grabe ka init ang loading area, wala silay shade para sa naghulat sa pickup.",Store Operations and Accessibility,Negative,TRUE
+Cafe Kadayawan,2,coffee,"Gi book namo ang table pero pag abot namo wala pa sila nag prepare, wait pa jud.",Store Operations and Accessibility,Negative,TRUE
+Kape Lokal,2,matcha,Sobra ka lisod ma access ang building kay walay tricycle nga mag agi didto.,Store Operations and Accessibility,Negative,TRUE
+Matcha Muna,2,coffee and matcha,"Walay proper drive thru bisan naay sign, mag park ka gihapon para mag order.",Store Operations and Accessibility,Negative,TRUE
+Green Leaf Matcha Bar,1,coffee and matcha,"Grabe ka sikip ang aisle, dili gani makalabang ang waiter dala ang tray.",Store Operations and Accessibility,Negative,TRUE
+Cafe Ilang-Ilang,1,coffee and matcha,Bag-o pa lang sila mo open pero permi na lang sira ang aircon nila.,Store Operations and Accessibility,Negative,TRUE
+Matcha Bar 88,1,coffee,"Sobra ka layo ang backup parking, mag lakaw pa ka og lima ka minuto sa main road.",Store Operations and Accessibility,Negative,TRUE
+Kape Balay,1,matcha,"Sobra ka sikip ang parking lot, mo unlock ka pa sa gate para makagawas.",Store Operations and Accessibility,Negative,TRUE
+Kape Bukid,1,coffee,Naay sign nga open 7am pero pag adto nako alas 8 pa gyud nag abre.,Store Operations and Accessibility,Negative,TRUE
+Barako Corner Cafe,2,coffee,"Third floor lang sila pero ang elevator sira, kailangan pa mo hagdan.",Store Operations and Accessibility,Negative,TRUE
+Buhangin Bean House,1,coffee,"Naay isa lang ka entrance nga naka lock permanent, kinahanglan mo agi sa likod.",Store Operations and Accessibility,Negative,TRUE
+Lanang Latte Bar,2,coffee and matcha,"Wala silay signage sa second entrance, nawala mi og layo before nakit-an.",Store Operations and Accessibility,Negative,TRUE
+Cafe Sinabuyan,2,coffee,"Cash lang daw sila, wala accept GCash bisan naa naman QR code sa counter.",Store Operations and Accessibility,Negative,TRUE
+Kape't Kwento,1,coffee,"Sobra ka layo ang parking sa building, mag lakaw pa ka og five minutes papunta.",Store Operations and Accessibility,Negative,TRUE
+Cafe Durian House,1,coffee and matcha,Naay sign nga bukas 24 hours pero pag alas 2am sarado na diay ang doors.,Store Operations and Accessibility,Negative,TRUE
+Kape Amiga,1,coffee,"Sobra ka lisod ang access sa building, blocked man sa construction sa gawas.",Store Operations and Accessibility,Negative,TRUE
+Kopi Mindanao,1,matcha,"Naay sign nga open pero pag sulod nako wala diay tao, nag gukod pa ko sa staff.",Store Operations and Accessibility,Negative,TRUE
+Kapehan sa Kalinaw,1,coffee,"Grabe ka layo sa main road, walay tricycle nga moadto direkta didto.",Store Operations and Accessibility,Negative,TRUE
+Matcha Republika,1,matcha,Naay nag ingon nga naa silay outdoor seating pero permi na lang gi closed due sa weather.,Store Operations and Accessibility,Negative,TRUE
+Matcha Tea Room Davao,1,matcha,"Naay isa lang ka staff nga mo clean sa CR, so permi na lang sira ang linya.",Store Operations and Accessibility,Negative,TRUE
+Davao Doi Coffee,1,coffee,"Wala silay ramp para sa wheelchair, lisod jud kaayo mosaka akong lola.",Store Operations and Accessibility,Negative,TRUE
+Kape Ihaw-Ihaw,2,coffee and matcha,"Naay sign nga bukas pero naka lock diay ang gate, wala tao nag bantay.",Store Operations and Accessibility,Negative,TRUE
+Pier Coffee House,2,coffee,Sobra ka lisod pangitaon ang entrance kay wala silay tarpaulin o karatula.,Store Operations and Accessibility,Negative,TRUE
+Matcha Milk Bar,1,matcha,"Wala silay clear directional sign padulong sa parking, na confuse mi og layo.",Store Operations and Accessibility,Negative,TRUE
+Torres St. Coffee,1,coffee,Nagsulti sila naa silay delivery pero wala man diay rider access sa building.,Store Operations and Accessibility,Negative,TRUE
+Ma-a Coffee Stop,1,coffee,"Naay isa lang ka gate nga naka open, dugay ang linya sa pagsulod ug pag gawas.",Store Operations and Accessibility,Negative,TRUE
+Kape Habagat,1,coffee and matcha,Third time na ni nga naabot ko closed sila kahit posted hours says open pa.,Store Operations and Accessibility,Negative,TRUE
+Obrero Brew Bar,1,matcha,Naay booking system sila pero wala man diay gi apply ang reservation namo.,Store Operations and Accessibility,Negative,TRUE
+Steep Leaf Davao,2,coffee,"Grabe ka sikip ang parking area, mag away pa mi ug slot sa ubang customer.",Store Operations and Accessibility,Negative,TRUE
+Cafe Agdao,2,coffee and matcha,"Sarado sila without notice, nakaabot ra mi para ma disappoint.",Store Operations and Accessibility,Negative,TRUE
+Matcha Mo Davao,1,coffee and matcha,"Wala silay elevator access, so kanang mga senior citizen kinahanglan mo hagdan gyud.",Store Operations and Accessibility,Negative,TRUE
+Bankerohan Brew,2,coffee,Naay isa lang ka parking slot para sa disabled pero permi na lang naka park ang staff.,Store Operations and Accessibility,Negative,TRUE
+Tugbok Brew House,1,coffee and matcha,"Sarado diay sila sa Sunday, wala pa jud updated sa Google Maps nila.",Store Operations and Accessibility,Negative,TRUE
+Brewpoint Davao,1,coffee and matcha,"Grabe ka gamay ang parking, isa lang ka sakyanan ang ka fit sa entire lot.",Store Operations and Accessibility,Negative,TRUE
+Bajada Bean Co.,1,coffee,"Grabe ka daghan tao naghulat sa gawas kay walay pa slot sa loob, mag standing na lang.",Store Operations and Accessibility,Negative,TRUE
+Brew Nation Davao,1,matcha,"Grabe ka gamay ang space, dili gani ka fit ang wheelchair sa entre way.",Store Operations and Accessibility,Negative,TRUE
+Brew & Bites Davao,1,coffee and matcha,"Wala silay proper waiting number, so basta bisan kinsa lang ang gina serve una.",Store Operations and Accessibility,Negative,TRUE
+Sagrada Coffee Nook,2,coffee and matcha,"Wala silay proper lighting sa parking area, delikado mag park pag gabii na.",Store Operations and Accessibility,Negative,TRUE
+Cafe Panabo Road,1,coffee,"Wala silay parking assistance, mag guess guess na lang ka kung asa mo park.",Store Operations and Accessibility,Negative,TRUE
+Kape Diwa Davao,2,coffee,Sobra kadugay ang paghulat kay staff shortage daw sila every weekend.,Store Operations and Accessibility,Negative,TRUE
+Bean Route Davao,1,coffee and matcha,"Naay isa lang ka staff nga nag open, so mag late gyud sila pag Monday morning.",Store Operations and Accessibility,Negative,TRUE
+The Daily Grind Davao,1,coffee,"Grabe ka layo ang nearest ATM, wala pud sila accept card kaya kinahanglan magbring cash.",Store Operations and Accessibility,Negative,TRUE
+Brew Society Davao,1,coffee,"Grabe ka gamay ang doorway, dili gani makasulod ang wheelchair nga tarong.",Store Operations and Accessibility,Negative,TRUE
+Green Whisk Matcha House,1,coffee,Naay sign nga open 24/7 pero pag alas 11pm sarado na diay ang gate.,Store Operations and Accessibility,Negative,TRUE
+Cafe Malagos Roasters,2,coffee,Naay sign nga free parking pero pag adto nako naay charge na diay.,Store Operations and Accessibility,Negative,TRUE
+Roxas Ave Roastery,1,coffee,Sobra ka layo padulong sa pinaka duol nga public transport para sa store nga ni.,Store Operations and Accessibility,Negative,TRUE
+Cafe Toril,1,coffee and matcha,Naay sign nga open pero pag knock nako sa door wala man diay ni bukas.,Store Operations and Accessibility,Negative,TRUE
+Catalunan Cafe Stop,1,coffee,Sobra ka init sa loob kay wala nila gi ayo ang aircon bisan usa ka semana na.,Store Operations and Accessibility,Negative,TRUE
+Matcha & Co. Davao,2,coffee,"Naa lang gyud silay isa ka parking slot para sa entire building, grabe.",Store Operations and Accessibility,Negative,TRUE
+Matina Matcha Lab,2,coffee,"Pila na ka semana nga sira ang CR, wala gyapon gi ayo hangtod karon.",Store Operations and Accessibility,Negative,TRUE
+Cafe Kadayawan,1,coffee,Nag renovate sila for a month pero wala nag post bisan asa nga closed sila.,Store Operations and Accessibility,Negative,TRUE
+Kape Lokal,1,coffee,CR out of order since last week pero wala pa gihapon giayo.,Store Operations and Accessibility,Negative,TRUE
+Matcha Muna,1,coffee,"Puno kaayo walay lingkuranan, wala pa sila mag expand sa space nila.",Store Operations and Accessibility,Negative,TRUE
+Green Leaf Matcha Bar,2,coffee,"Wala silay parking guard, mag guess na lang ka kung safe ba ipark diri sakyanan.",Store Operations and Accessibility,Negative,TRUE
+Cafe Ilang-Ilang,2,matcha,Two hours ang byahe para lang makita nga closed diay for maintenance.,Store Operations and Accessibility,Negative,TRUE
+Matcha Bar 88,1,matcha,"Sobra kadaghan tao, walay number system so kalibog kung sino nag una.",Store Operations and Accessibility,Negative,TRUE
+Kape Balay,2,coffee,"Naay maintenance daw sila every Monday pero wala gisulat bisan asa, nabiyaan lang mi.",Store Operations and Accessibility,Negative,TRUE
+Kape Bukid,2,coffee,Naay sign nga bukas pero pag duol nako wala diay tao mag bantay sa counter.,Store Operations and Accessibility,Negative,TRUE
+Barako Corner Cafe,1,matcha,"Wala silay proper ramp, kinahanglan pa mo sakay og hagdan bitbit ang stroller.",Store Operations and Accessibility,Negative,TRUE
+Buhangin Bean House,1,matcha,"Grabe ka sikip ang walkway papadulong sa loob, dili gani dalawa makalabang.",Store Operations and Accessibility,Negative,TRUE
+Lanang Latte Bar,2,matcha,"Pila ka beses na ko niari, permi sira ang wifi bisan naay sign nga free wifi.",Store Operations and Accessibility,Negative,TRUE
+Cafe Sinabuyan,2,matcha,"Lisod maka park kay one way lang ang dalan, mag circle circle pa ko.",Store Operations and Accessibility,Negative,TRUE
