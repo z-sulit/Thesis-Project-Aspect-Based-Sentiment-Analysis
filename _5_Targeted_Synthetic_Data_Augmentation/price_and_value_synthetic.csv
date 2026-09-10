@@ -1,0 +1,127 @@
+place_name,rating,shop_type,sentence,TargetAspect,Sentiment,is_synthetic
+Kape Obrero,2,coffee,"Mahal kaayo ang drinks, di worth it for the price.",Price and Value,Negative,TRUE
+Matcha Matina,1,matcha,Overpriced sya para sa gamay na serving ng matcha.,Price and Value,Negative,TRUE
+Torres Brews,2,coffee,Not worth the price jud ang kape nila dri.,Price and Value,Negative,TRUE
+Lanang Matcha House,2,matcha,Pricey for a matcha place in Davao City.,Price and Value,Negative,TRUE
+Davao Kape,1,coffee,Grabe ka mahal ang drinks di man lami.,Price and Value,Negative,TRUE
+Buhangin Brew,1,matcha,Mahal masyado tapos puro yelo lang ang matcha latte.,Price and Value,Negative,TRUE
+Ecoland Coffee Co,2,coffee,Dili reasonable ang price sa ila pastries and drinks.,Price and Value,Negative,TRUE
+Kape Obrero,2,coffee,Lami unta kaso murag overpriced ra jud kaayo sya.,Price and Value,Negative,TRUE
+Cafe Agdao,1,coffee,Too expensive for a standard iced latte.,Price and Value,Negative,TRUE
+Roxas Beans,2,coffee,Gamay ra ang serving size for its price.,Price and Value,Negative,TRUE
+Torres Brews,2,coffee,Medyo pricey sya and dili makatarungan ang lasa.,Price and Value,Negative,TRUE
+Lanang Matcha House,1,matcha,Sayang ang kwarta dili worth it ilang food.,Price and Value,Negative,TRUE
+Ecoland Coffee Co,2,coffee,"Mahal kaayo ilang food, dili pang student budget.",Price and Value,Negative,TRUE
+Matcha Matina,1,matcha,"Overpriced jud siya, dili nako mubalik.",Price and Value,Negative,TRUE
+Davao Kape,2,coffee,The drink feels overpriced for what it actually delivers.,Price and Value,Negative,TRUE
+Buhangin Brew,2,coffee,"Food is expensive too, murag Manila rate na siya.",Price and Value,Negative,TRUE
+Cafe Agdao,1,coffee,Expensive but the food is mostly tasteless.,Price and Value,Negative,TRUE
+Roxas Beans,2,coffee,The price.. Pricey sya for a Davao food standpoint.,Price and Value,Negative,TRUE
+Lanang Matcha House,1,matcha,"Kamahal ba sa inyong matcha, mura tag gitulis.",Price and Value,Negative,TRUE
+Kape Obrero,1,coffee,Dili sulit ang gibayad nako sa gamay na kape.,Price and Value,Negative,TRUE
+Ecoland Coffee Co,2,coffee,Overpriced pastries tapos uga na kaayo inig serve.,Price and Value,Negative,TRUE
+Torres Brews,1,coffee,Mahal ra kaayo ila menu dili match sa quality.,Price and Value,Negative,TRUE
+Matcha Matina,2,matcha,Not worth the hype and certainly not worth the price.,Price and Value,Negative,TRUE
+Davao Kape,1,coffee,"Super mahal jud as in, kaloka ang presyo.",Price and Value,Negative,TRUE
+Buhangin Brew,1,coffee,Gamay kaayo ang cup for 180 pesos. Not worth it.,Price and Value,Negative,TRUE
+Lanang Matcha House,2,matcha,Price is too high for a normal tasting matcha.,Price and Value,Negative,TRUE
+Cafe Agdao,1,coffee,"Masyadong mahal, di naman special ang lasa.",Price and Value,Negative,TRUE
+Roxas Beans,1,coffee,Overpriced coffee tapos wala pay lami.,Price and Value,Negative,TRUE
+Torres Brews,2,coffee,Dili ko ganahan sa price kay overcharged ra kaayo.,Price and Value,Negative,TRUE
+Kape Obrero,2,coffee,"You pay more for the aesthetic, dili worth it ang drinks.",Price and Value,Negative,TRUE
+Ecoland Coffee Co,1,coffee,They charge too much for basic iced coffee.,Price and Value,Negative,TRUE
+Matcha Matina,1,matcha,Grabe sad ka mahal ang matcha dre uy.,Price and Value,Negative,TRUE
+Davao Kape,2,coffee,Di ko gets ngano mahal kaayo ilang kape.,Price and Value,Negative,TRUE
+Buhangin Brew,2,coffee,Overpriced and under-portioned food.,Price and Value,Negative,TRUE
+Cafe Agdao,1,coffee,The prices are too steep for a local coffee shop.,Price and Value,Negative,TRUE
+Roxas Beans,1,coffee,Jusko ang mahal ng kape tapos lasang tubig.,Price and Value,Negative,TRUE
+Lanang Matcha House,2,matcha,"Waste of money, mahal kaayo di man lami.",Price and Value,Negative,TRUE
+Kape Obrero,2,coffee,"Mahal kaayo siya, not ideal for daily coffee run.",Price and Value,Negative,TRUE
+Torres Brews,1,coffee,"Overpriced ang drinks, mas lami pa ang 39ers.",Price and Value,Negative,TRUE
+Ecoland Coffee Co,2,coffee,Gamay ug serving for a very expensive price tag.,Price and Value,Negative,TRUE
+Davao Kape,1,coffee,"Mahal ilang kape, way lami, sayang kwarta.",Price and Value,Negative,TRUE
+Matcha Matina,2,matcha,200 pesos for this small cup? Grabe ka mahal.,Price and Value,Negative,TRUE
+Buhangin Brew,1,coffee,Dili worth the price ilang mga cakes and coffee.,Price and Value,Negative,TRUE
+Cafe Agdao,2,coffee,Expensive tapos ang liit ng serving ng food.,Price and Value,Negative,TRUE
+Lanang Matcha House,1,matcha,I feel like it's overpriced for a simple matcha latte.,Price and Value,Negative,TRUE
+Roxas Beans,2,coffee,Mahal ra jud kaayo para sa ordinary na kape.,Price and Value,Negative,TRUE
+Kape Obrero,1,coffee,Mura mag ginto ang presyo sa ila drinks.,Price and Value,Negative,TRUE
+Matcha Matina,1,matcha,Overpriced matcha drinks that taste like pure milk.,Price and Value,Negative,TRUE
+Torres Brews,2,coffee,Dili makatarungan ilang presyo sa kape uy.,Price and Value,Negative,TRUE
+Ecoland Coffee Co,1,coffee,Very expensive and the serving is ridiculously small.,Price and Value,Negative,TRUE
+Davao Kape,2,coffee,"Overpriced siya, mapugos tag palit kay nag order na.",Price and Value,Negative,TRUE
+Cafe Agdao,1,coffee,Di sya worth it for its price point.,Price and Value,Negative,TRUE
+Buhangin Brew,2,coffee,"Mahal kaayo, dili ko mubalik dire na cafe.",Price and Value,Negative,TRUE
+Lanang Matcha House,1,matcha,Prices are absurdly high for Davao standards.,Price and Value,Negative,TRUE
+Roxas Beans,2,coffee,Sayang jud akong 250 pesos ani na drink.,Price and Value,Negative,TRUE
+Kape Obrero,2,coffee,Masyadong pricey ang menu nila compared sa uban cafe.,Price and Value,Negative,TRUE
+Torres Brews,1,coffee,Overpriced tapos tagal pa i-serve. Di worth it.,Price and Value,Negative,TRUE
+Matcha Matina,2,matcha,The matcha is good pero the price is completely unjustified.,Price and Value,Negative,TRUE
+Ecoland Coffee Co,1,coffee,Mahal kaayo ang food tapos ang gamay sa portion.,Price and Value,Negative,TRUE
+Davao Kape,2,coffee,You're just paying for the vibe. Coffee is overpriced.,Price and Value,Negative,TRUE
+Cafe Agdao,1,coffee,Unreasonably priced drinks para sa pangit na customer service.,Price and Value,Negative,TRUE
+Buhangin Brew,2,coffee,Gamay ra ang cake slice para sa 150 pesos.,Price and Value,Negative,TRUE
+Lanang Matcha House,1,matcha,Di worth it i-spend akong kwarta dire.,Price and Value,Negative,TRUE
+Roxas Beans,2,coffee,Expensive kaayo ang kape tapos lasang 3-in-1.,Price and Value,Negative,TRUE
+Kape Obrero,1,coffee,"Mahal masyado, nakakawalang gana ang presyo.",Price and Value,Negative,TRUE
+Matcha Matina,2,matcha,I love matcha pero this one is just plain overpriced.,Price and Value,Negative,TRUE
+Torres Brews,2,coffee,They increased their prices but reduced the serving size.,Price and Value,Negative,TRUE
+Ecoland Coffee Co,1,coffee,"Sayang kwarta, overpriced ra kaayo ilang kape.",Price and Value,Negative,TRUE
+Davao Kape,2,coffee,Dili ko mu-recommend kay mahal ra kaayo ilang food.,Price and Value,Negative,TRUE
+Cafe Agdao,1,coffee,Too pricey for mediocre coffee and pastries.,Price and Value,Negative,TRUE
+Kape Obrero,2,coffee,"Grabe ka overpriced, dili worth it dayuhon sa Obrero.",Price and Value,Negative,TRUE
+Buhangin Brew,1,coffee,"Mahal na gani, wa pajud lami ang pagka timpla.",Price and Value,Negative,TRUE
+Lanang Matcha House,2,matcha,I wouldn't pay that much for basic coffee again.,Price and Value,Negative,TRUE
+Roxas Beans,1,coffee,"Masyadong mahal yung kape, tapos puro yelo lang.",Price and Value,Negative,TRUE
+Matcha Matina,2,matcha,Very small serving for an expensive matcha drink.,Price and Value,Negative,TRUE
+Torres Brews,1,coffee,The price is not justified by the taste and size.,Price and Value,Negative,TRUE
+Ecoland Coffee Co,2,coffee,Mahal kaayo ilang menu items compared to better cafes.,Price and Value,Negative,TRUE
+Davao Kape,1,coffee,"Sayang lang akong gi bayad, super overpriced!",Price and Value,Negative,TRUE
+Lanang Matcha House,2,matcha,"Ang mahal ng matcha nila, di naman authentic ang lasa.",Price and Value,Negative,TRUE
+Cafe Agdao,2,coffee,Dili practical ang price for a quick coffee break.,Price and Value,Negative,TRUE
+Buhangin Brew,1,coffee,Overpriced kaayo ilang cakes tapos dry na.,Price and Value,Negative,TRUE
+Kape Obrero,2,coffee,Super mahal niya for a local coffee shop.,Price and Value,Negative,TRUE
+Roxas Beans,1,coffee,"Dili worth it, I'd rather buy coffee somewhere else.",Price and Value,Negative,TRUE
+Torres Brews,2,coffee,"Grabe kamahal, mura tag gikuhaan og kwarta sa bulsa.",Price and Value,Negative,TRUE
+Matcha Matina,1,matcha,The matcha is definitely overpriced for its quality.,Price and Value,Negative,TRUE
+Ecoland Coffee Co,2,coffee,"Mahal jud sya, di makatarungan for a regular iced coffee.",Price and Value,Negative,TRUE
+Davao Kape,1,coffee,180 for a small drink is way too expensive.,Price and Value,Negative,TRUE
+Cafe Agdao,2,coffee,Di worth it ang price sa quality sa food.,Price and Value,Negative,TRUE
+Buhangin Brew,1,coffee,Mahal masyado and di man lang masarap yung kape.,Price and Value,Negative,TRUE
+Lanang Matcha House,2,matcha,Way pulos ang kape nila for that expensive price.,Price and Value,Negative,TRUE
+Roxas Beans,1,coffee,Not a good value for money jud.,Price and Value,Negative,TRUE
+Kape Obrero,2,coffee,"Overpriced menu, mas nindot pa mag brew sa balay.",Price and Value,Negative,TRUE
+Torres Brews,1,coffee,Prices are exorbitant for such a small serving.,Price and Value,Negative,TRUE
+Ecoland Coffee Co,2,coffee,"Dili ko mu-utro ug palit, kamahal sa ilang drinks.",Price and Value,Negative,TRUE
+Davao Kape,1,coffee,Overpriced food and the coffee is just mediocre.,Price and Value,Negative,TRUE
+Matcha Matina,2,matcha,"Mahal kaayo, dili pang masa ang presyo.",Price and Value,Negative,TRUE
+Lanang Matcha House,1,matcha,I felt scammed by how expensive their matcha is.,Price and Value,Negative,TRUE
+Cafe Agdao,2,coffee,Masyadong pricey for a simple coffee and toast.,Price and Value,Negative,TRUE
+Buhangin Brew,1,coffee,"Kamahal sa kape, dili reasonable ang ilang pricing.",Price and Value,Negative,TRUE
+Roxas Beans,2,coffee,"Too much ice, very little coffee for a high price.",Price and Value,Negative,TRUE
+Kape Obrero,1,coffee,Mahal na kaayo ilang drinks nag shrink pa ang cup.,Price and Value,Negative,TRUE
+Torres Brews,2,coffee,"Grabe ang patong sa presyo, di worth it.",Price and Value,Negative,TRUE
+Ecoland Coffee Co,1,coffee,Waste of money buying overpriced drinks here.,Price and Value,Negative,TRUE
+Davao Kape,2,coffee,Lami ang ambiance pero overpriced ra jud ang kape.,Price and Value,Negative,TRUE
+Matcha Matina,1,matcha,"Di ko malipay sa price nila, mahal ra jud.",Price and Value,Negative,TRUE
+Lanang Matcha House,2,matcha,Paying 200+ for a meh matcha is not worth it.,Price and Value,Negative,TRUE
+Cafe Agdao,1,coffee,"Mahal kaayo ilang sandwiches, gamay ra ang sulod.",Price and Value,Negative,TRUE
+Buhangin Brew,2,coffee,"Overpriced siya for me, daghan mas lami na cheaper.",Price and Value,Negative,TRUE
+Roxas Beans,1,coffee,You don't get what you pay for. Overpriced cafe.,Price and Value,Negative,TRUE
+Kape Obrero,2,coffee,Gamay ra kaayo ang food for its expensive price.,Price and Value,Negative,TRUE
+Torres Brews,1,coffee,Super pricey tapos dili sad kaayo lami ila drinks.,Price and Value,Negative,TRUE
+Ecoland Coffee Co,2,coffee,Unjustifiable ang presyo sa kape diri na shop.,Price and Value,Negative,TRUE
+Davao Kape,1,coffee,Mura kog gikawatan sa kamahal sa ilang menu.,Price and Value,Negative,TRUE
+Matcha Matina,2,matcha,Not worth the expensive price tag at all.,Price and Value,Negative,TRUE
+Lanang Matcha House,1,matcha,Mahal kaayo ang matcha nila compared sa uban.,Price and Value,Negative,TRUE
+Cafe Agdao,2,coffee,"Masyadong mahal, pang mayaman lang siguro ni na kape.",Price and Value,Negative,TRUE
+Buhangin Brew,1,coffee,"Way lami ang drinks, sayang ang mahal na bayad.",Price and Value,Negative,TRUE
+Roxas Beans,2,coffee,"The drinks are severely overpriced, totally not recommended.",Price and Value,Negative,TRUE
+Kape Obrero,1,coffee,Gamay ug cup tapos overpriced pa jud kaayo.,Price and Value,Negative,TRUE
+Torres Brews,2,coffee,They charge premium prices for below average coffee.,Price and Value,Negative,TRUE
+Ecoland Coffee Co,1,coffee,"Sayang ang pera, ang mahal pa naman ng kape.",Price and Value,Negative,TRUE
+Davao Kape,2,coffee,Dili ko ganahan kay expensive ra kaayo for me.,Price and Value,Negative,TRUE
+Matcha Matina,1,matcha,Mahal ilang drinks unya murag asukal ra tanan.,Price and Value,Negative,TRUE
+Lanang Matcha House,2,matcha,Pricing is completely ridiculous for the small serving size.,Price and Value,Negative,TRUE
+Cafe Agdao,1,coffee,"Overpriced cafe, di jud worth it para sa mga students.",Price and Value,Negative,TRUE
+Buhangin Brew,2,coffee,Di makatarungan ang kamahal sa ila food and drinks.,Price and Value,Negative,TRUE

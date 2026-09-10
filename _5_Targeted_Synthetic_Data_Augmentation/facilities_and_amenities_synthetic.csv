@@ -1,0 +1,94 @@
+place_name,rating,shop_type,sentence,TargetAspect,Sentiment,is_synthetic
+Brew Davao,1,coffee,"Guba ilang aircon, init kaayo sa sulod murag oven.",Facilities and Amenities,Negative,TRUE
+Matcha Vibes,2,matcha,Walay tissue sa CR tapos baho pa jud.,Facilities and Amenities,Negative,TRUE
+Kape Lokal,1,coffee,Bawal mag charge sa laptop. Unsaon pag work ani?,Facilities and Amenities,Negative,TRUE
+Green Sip,2,matcha,"Hinay kaayo ang wifi, di maka load ug basic na page.",Facilities and Amenities,Negative,TRUE
+Obrero Beans,1,coffee,No parking at all. Had to park 2 blocks away.,Facilities and Amenities,Negative,TRUE
+Davao Cafe,2,coffee,"Dami lamok sa al fresco area nila, walay fan man lang.",Facilities and Amenities,Negative,TRUE
+Minku Matcha,1,matcha,Sira ang flush sa comfort room nila. Yikes.,Facilities and Amenities,Negative,TRUE
+South Beans,1,coffee,Hurot na daw ang wifi voucher. Sayang lang among pag adto.,Facilities and Amenities,Negative,TRUE
+Matcha Corner,2,matcha,"Init kaayo, walay aircon. Not recommended for studying.",Facilities and Amenities,Negative,TRUE
+Kape Diaries,1,coffee,"Hugaw ang tables, dili gina tarong ug limpyo sa staff.",Facilities and Amenities,Negative,TRUE
+Zen Matcha,2,matcha,"Walay bidet sa ilang CR, no tissue also.",Facilities and Amenities,Negative,TRUE
+City Brew,1,coffee,They only have 1 socket sa whole cafe. Hassle kaayo.,Facilities and Amenities,Negative,TRUE
+Matcha House,1,matcha,"Mabaho ang CR, amoy ihi hanggang sa counter.",Facilities and Amenities,Negative,TRUE
+Cafe Uno,2,coffee,"Super init sa second floor, di keri mag stay dugay.",Facilities and Amenities,Negative,TRUE
+Beanery Dvo,1,coffee,Wifi keeps disconnecting every 5 mins. Very frustrating.,Facilities and Amenities,Negative,TRUE
+Leaf & Bean,1,matcha,"Luod ilang CR, walay hand soap and water is very hina.",Facilities and Amenities,Negative,TRUE
+The Coffee Bar,2,coffee,Puno pirmi ilang parking space kay gamay ra kaayo.,Facilities and Amenities,Negative,TRUE
+Matcha Haven,1,matcha,"Guba ilang mga chairs, medyo wobbly and delikado.",Facilities and Amenities,Negative,TRUE
+Poblacion Kape,2,coffee,"Grabe kagamay sa space, sikit sikit kaayo ang mga tables.",Facilities and Amenities,Negative,TRUE
+Matcha Dvo,1,matcha,No wifi available. Sabi sa page meron daw.,Facilities and Amenities,Negative,TRUE
+Daily Brew,1,coffee,"Sakit sa likod ilang mga bangko, not for long hours.",Facilities and Amenities,Negative,TRUE
+Green Tea Hub,2,matcha,Di nagana ang outlet na gi assign sa amoa.,Facilities and Amenities,Negative,TRUE
+Espresso Dvo,1,coffee,"Baho ilong sa sulod, walay exhaust ang ilang kitchen.",Facilities and Amenities,Negative,TRUE
+Matcha Fix,1,matcha,Dugyot ang toilet bowl. Wala jud gi maintain.,Facilities and Amenities,Negative,TRUE
+Kape Juan,2,coffee,"Super slow wifi connection, nag data na lang ko.",Facilities and Amenities,Negative,TRUE
+Matcha Co.,1,matcha,"Alimoot kaayo sa ilang outdoor setup, walang electric fan.",Facilities and Amenities,Negative,TRUE
+Brewers Hub,1,coffee,The aircon is dripping water sa among table.,Facilities and Amenities,Negative,TRUE
+Matina Brews,2,coffee,Poor ventilation. Amoy kape na sunog pag gawas nimo.,Facilities and Amenities,Negative,TRUE
+Matcha Time,1,matcha,Walay lock ang pinto sa ilang CR! Kaloka.,Facilities and Amenities,Negative,TRUE
+Cafe Dos,1,coffee,"Patay patay ang wifi, makasapot mag tuon diri.",Facilities and Amenities,Negative,TRUE
+Green Leaf,2,matcha,Daming langaw sa pwesto namin. Very unhygienic tignan.,Facilities and Amenities,Negative,TRUE
+Kape Zone,1,coffee,They only allow 1 hour of wifi. Bitin kaayo.,Facilities and Amenities,Negative,TRUE
+Matcha Hub,1,matcha,"Only one comfort room for all customers, grabe ang pila.",Facilities and Amenities,Negative,TRUE
+Street Brew,2,coffee,Wa juy parking. Gi ticketan tuloy akong sakyanan sa gawas.,Facilities and Amenities,Negative,TRUE
+Matcha Box,1,matcha,Tulo tulo ang atop pag ulan. Nabasa among laptops.,Facilities and Amenities,Negative,TRUE
+Cafe Tres,2,coffee,"Guba ang door knob sa CR, makulbaan ka ma lock-in.",Facilities and Amenities,Negative,TRUE
+Mug & Bean,1,coffee,No sockets on most tables. Dili pwede mag work.,Facilities and Amenities,Negative,TRUE
+Matcha Stop,1,matcha,Init jud kaayo kay isa ra ang aircon na ga andar.,Facilities and Amenities,Negative,TRUE
+Corner Kape,2,coffee,Baho og imburnal dapit sa amoang table. Sayang lang.,Facilities and Amenities,Negative,TRUE
+Tea & Matcha,1,matcha,Ilang wifi naay password pero di ginahatag kung di mangayo.,Facilities and Amenities,Negative,TRUE
+Night Brew,1,coffee,Clogged ang sink sa ilang washroom. Luod kaayo.,Facilities and Amenities,Negative,TRUE
+Matcha Lab,2,matcha,"Medyo hugaw ang floor, daghan pa tissue nag kalat.",Facilities and Amenities,Negative,TRUE
+Kape Sikat,1,coffee,Walay mirror sa CR ug ngitngit kaayo ang suga.,Facilities and Amenities,Negative,TRUE
+Pure Matcha,1,matcha,"The chairs are made of metal, sakit kaayo sa lubot.",Facilities and Amenities,Negative,TRUE
+Brew Stop,2,coffee,Hina ang aircon. Singot kaayo ko nag inom ug kape.,Facilities and Amenities,Negative,TRUE
+Matcha Room,1,matcha,Nag brownout tapos wala silay generator. Init kaayo.,Facilities and Amenities,Negative,TRUE
+Kape Bar,1,coffee,Limited ra ang sockets nila. Mag ilog pa ang customers.,Facilities and Amenities,Negative,TRUE
+The Matcha Co,2,matcha,"Dugyot ang al fresco, daghang upos sa sigarilyo sa sawg.",Facilities and Amenities,Negative,TRUE
+Davao Beans,1,coffee,Naay langaw sa sulod kay guba ilang door closer.,Facilities and Amenities,Negative,TRUE
+Matcha Cafe,1,matcha,Basag na ilang mga plates and cups. Not presentable.,Facilities and Amenities,Negative,TRUE
+Kape Tayo,2,coffee,"Sira yung isang toilet, tapos ang dumi pa ng isa.",Facilities and Amenities,Negative,TRUE
+Zen Tea,1,matcha,"Walay signal sa sulod, unya wala pajuy wifi na tarong.",Facilities and Amenities,Negative,TRUE
+Cafe Quatro,1,coffee,Medyo crowded tapos walay harang ang tables. No privacy.,Facilities and Amenities,Negative,TRUE
+Matcha Brew,2,matcha,"Ngitngit ang cafe, sakit sa mata mag basa.",Facilities and Amenities,Negative,TRUE
+Kape Davao,1,coffee,"Super baho ng CR nila, amoy kanal.",Facilities and Amenities,Negative,TRUE
+Matcha Works,1,matcha,You have to pay extra for the wifi voucher. Scam.,Facilities and Amenities,Negative,TRUE
+Brew Space,2,coffee,"Di mu gana ilang wifi sa Mac, ambot ngano.",Facilities and Amenities,Negative,TRUE
+Matcha Place,1,matcha,Only 2 parking slots. Nag park ko sa pikas kanto.,Facilities and Amenities,Negative,TRUE
+Kape Vibe,1,coffee,Mga lamok dagko kaayo sa ilawom sa table.,Facilities and Amenities,Negative,TRUE
+Matcha Station,2,matcha,Aircon is not cooling at all. Ga fan ra mi.,Facilities and Amenities,Negative,TRUE
+Cafe Cino,1,coffee,Hurot na daw ilang tubig sa CR. No flush!,Facilities and Amenities,Negative,TRUE
+Green Drop,1,matcha,"Guba na ang cushion sa mga sofa, lubog na kaayo.",Facilities and Amenities,Negative,TRUE
+Kape Kultura,2,coffee,Dikit dikit masyado ang tables. Rinig mo chika ng iba.,Facilities and Amenities,Negative,TRUE
+Matcha Mix,1,matcha,Wala man lay basurahan sa gawas for the tissues.,Facilities and Amenities,Negative,TRUE
+Morning Brew,1,coffee,No wifi. No data signal. Pano kami mag chat?,Facilities and Amenities,Negative,TRUE
+Matcha Daily,2,matcha,"The table we got was wobbly, natapon tuloy kape ko.",Facilities and Amenities,Negative,TRUE
+Kape Street,1,coffee,"Basa ang salog sa CR, delikado maka slide.",Facilities and Amenities,Negative,TRUE
+Matcha Studio,1,matcha,Guba ang hand dryer tapos wala puy paper towels.,Facilities and Amenities,Negative,TRUE
+Coffee Project Dvo,2,coffee,Ang init sa pwesto nila kay naka atubang sa adlaw.,Facilities and Amenities,Negative,TRUE
+Matcha Central,1,matcha,Their sockets are broken. Di nag charge phone ko.,Facilities and Amenities,Negative,TRUE
+Brew City,1,coffee,"Guba tung isa ka aircon, tiis ganda sa kainit.",Facilities and Amenities,Negative,TRUE
+Matcha District,2,matcha,"Grabe ang aso from outside, wa nag work ilang door.",Facilities and Amenities,Negative,TRUE
+Kape Hapon,1,coffee,"Walay tabo or bidet sa CR, mag unsa man mi?",Facilities and Amenities,Negative,TRUE
+Matcha Factory,1,matcha,No designated smoking area so the smoke goes inside.,Facilities and Amenities,Negative,TRUE
+The Beanery,2,coffee,Slowest wifi sa whole Davao. Dili maka play ug video.,Facilities and Amenities,Negative,TRUE
+Matcha Loft,1,matcha,"Puno ang basurahan sa CR, nag apaw na ang tissues.",Facilities and Amenities,Negative,TRUE
+Kape Lingo,1,coffee,We requested to wipe the table pero ang tagal.,Facilities and Amenities,Negative,TRUE
+Matcha Club,2,matcha,"Walay ilaw sa ilang parking lot, medyo scary sa gabi.",Facilities and Amenities,Negative,TRUE
+Urban Brew,1,coffee,Init ilang kape pero mas init ilang aircon. Sira ata.,Facilities and Amenities,Negative,TRUE
+Matcha Lounge,1,matcha,"Mga chairs nila naay rust, maka guba ug sanina.",Facilities and Amenities,Negative,TRUE
+Kape Ora,2,coffee,Baho ug ihi ang palibot sa CR nila. Walay naglimpyo.,Facilities and Amenities,Negative,TRUE
+Matcha Craze,1,matcha,Dili pwede mag connect sa wifi ang more than 1 device.,Facilities and Amenities,Negative,TRUE
+Local Beans,1,coffee,"Super dirty ng wash area, may mga tirang food.",Facilities and Amenities,Negative,TRUE
+Matcha Mood,2,matcha,"Amoy damp ang sulod sa shop, parang kulob.",Facilities and Amenities,Negative,TRUE
+Kape Express,1,coffee,Wala silay paki kung walay tubig sa CR. So bad.,Facilities and Amenities,Negative,TRUE
+Matcha Blend,1,matcha,"The outdoor tables are dusty, murag wala gi trapohan.",Facilities and Amenities,Negative,TRUE
+Brew Brothers,2,coffee,Dili mag lock ang CR! I had to hold the door.,Facilities and Amenities,Negative,TRUE
+Matcha Stand,1,matcha,Walay signal pag musulod ka sa cafe nila. Dead spot.,Facilities and Amenities,Negative,TRUE
+Kape Natin,1,coffee,"Gamay ilang CR, mag lisod ka ug lihok sa sulod.",Facilities and Amenities,Negative,TRUE
+Matcha Sip,2,matcha,"Aircon nila gadala ug abog, hugaw guro ang filter.",Facilities and Amenities,Negative,TRUE
+Brewery Dvo,1,coffee,Init pa sa impyerno ilang al fresco. Walay fans jud.,Facilities and Amenities,Negative,TRUE
+Matcha Base,1,matcha,"Guba ang mga saksakan, sunog pa yata ang isa.",Facilities and Amenities,Negative,TRUE
+Kape Hub,2,coffee,Walay paper towel or anything to dry hands sa CR.,Facilities and Amenities,Negative,TRUE

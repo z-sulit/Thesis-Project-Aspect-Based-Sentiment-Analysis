@@ -1,0 +1,137 @@
+place_name,rating,shop_type,sentence,TargetAspect,Sentiment,is_synthetic
+Kape Dabaw,1,coffee,"Kusog kaayo tung kanta sakit sa dunggan, dili maka focus.",Ambiance and Atmosphere,Negative,TRUE
+Matcha Loco,2,matcha,"Puro lang aesthetic pero alimuot kaayo sa sulod, way aircon.",Ambiance and Atmosphere,Negative,TRUE
+Brewed Obrero,1,coffee,Place was noisy too and NOT conducive for studying and/or working.,Ambiance and Atmosphere,Negative,TRUE
+Vibes Cafe,2,coffee,"Huot kaayo ang place, crowded ra masyado di na makaginhawa.",Ambiance and Atmosphere,Negative,TRUE
+Aesthetic Beans,1,coffee,"Another overpriced ""aesthetic"" coffee shop na bati og vibe.",Ambiance and Atmosphere,Negative,TRUE
+Matcha Point,1,matcha,"Guba ilang aircon, nag mantika akong nawong sa kainit.",Ambiance and Atmosphere,Negative,TRUE
+Poblacion Brews,2,coffee,"No variety of good music, sige rag balik-balik.",Ambiance and Atmosphere,Negative,TRUE
+Ecoland Cafe,1,coffee,PURO PA AESTHETIC pero baho man og abog sa sulod.,Ambiance and Atmosphere,Negative,TRUE
+The Glasshouse,2,coffee,"It's not just about making a business out of an aesthetic cafe, ayuha pud ang aircon.",Ambiance and Atmosphere,Negative,TRUE
+Matcha Vibes,1,matcha,"Ngitngit kaayo ang palibot, sakit sa mata magbasa.",Ambiance and Atmosphere,Negative,TRUE
+Kape Dabaw,2,coffee,"Saba kaayo ang mga barista mag chika, dungog sa tibook shop.",Ambiance and Atmosphere,Negative,TRUE
+Matcha Loco,1,matcha,"Grabe ka init sa sulod, nag tipid siguro sa aircon ang tag-iya.",Ambiance and Atmosphere,Negative,TRUE
+Brewed Obrero,2,coffee,"Alingugngug kaayo, murag palengke ang kabanha sa mga tao.",Ambiance and Atmosphere,Negative,TRUE
+Coffee Project Obrero,1,coffee,"Aesthetic unta pero ang mga lingkuranan dili comfortable, sakit sa likod.",Ambiance and Atmosphere,Negative,TRUE
+Matina Beans,2,coffee,"Saba ang background music, di mi magkadungog sa akong kaistorya.",Ambiance and Atmosphere,Negative,TRUE
+Toril Brews,1,coffee,"Super crowded na, wala nay breathing room sa sulod.",Ambiance and Atmosphere,Negative,TRUE
+Green Matcha PH,1,matcha,"Pangit ang lighting nila, murag naa sa peryahan sa sobrang dim.",Ambiance and Atmosphere,Negative,TRUE
+Lanang Cafe,2,coffee,Not ideal for remote work kay ang ingay sa paligid.,Ambiance and Atmosphere,Negative,TRUE
+Davao Coffee Co,1,coffee,"Baho og aso gikan sa gawas, musolod sa cafe.",Ambiance and Atmosphere,Negative,TRUE
+Aesthetic Cafe Davao,2,coffee,"Masyadong dikit-dikit ang tables, zero privacy jud kung mag tabi.",Ambiance and Atmosphere,Negative,TRUE
+Matcha Point,1,matcha,Way lami itambay kay ang alimuot sa ilang second floor.,Ambiance and Atmosphere,Negative,TRUE
+Poblacion Brews,2,coffee,"Di work-friendly ilang setup, saba tapos gamay ra ang tables.",Ambiance and Atmosphere,Negative,TRUE
+Ecoland Cafe,1,coffee,Vibe check failed. Trying hard ra kaayo na aesthetic unya hugaw ang floor.,Ambiance and Atmosphere,Negative,TRUE
+The Glasshouse,1,coffee,"Way lami ang playlist nila, maka duka paminawon.",Ambiance and Atmosphere,Negative,TRUE
+Matcha Vibes,2,matcha,Layo ra sa pictures. Pag abot nimo alimuot man diay.,Ambiance and Atmosphere,Negative,TRUE
+Kape Dabaw,1,coffee,Dili relaxing kay ang mga tapad saba mag tabing.,Ambiance and Atmosphere,Negative,TRUE
+Matcha Loco,2,matcha,"Overcrowded permi, feeling nako nasa merkado ko imbis na cafe.",Ambiance and Atmosphere,Negative,TRUE
+Brewed Obrero,1,coffee,"Baho tag-as ang CR nila, maka guba ug mood iduty.",Ambiance and Atmosphere,Negative,TRUE
+Vibes Cafe,2,coffee,"Daghan kayg lamok sa ilang al fresco area, grabe!",Ambiance and Atmosphere,Negative,TRUE
+Aesthetic Beans,1,coffee,"Gahi kaayo ilang mga bangko, dili madalag dugay na lingkod.",Ambiance and Atmosphere,Negative,TRUE
+Matcha Point,2,matcha,"Init kaayo, wala naga function ilang aircon hantod karon.",Ambiance and Atmosphere,Negative,TRUE
+Poblacion Brews,1,coffee,Super saba sa gawas unya bati pag soundproofing sa shop.,Ambiance and Atmosphere,Negative,TRUE
+Ecoland Cafe,2,coffee,Dili conducive for online meetings kay banha ang background.,Ambiance and Atmosphere,Negative,TRUE
+The Glasshouse,1,coffee,"Puro porma lang jud, walay chill factor ang place.",Ambiance and Atmosphere,Negative,TRUE
+Matcha Vibes,1,matcha,"Kusog kaayo ang tugtog, di nalang ta mag sturya ani.",Ambiance and Atmosphere,Negative,TRUE
+Kape Dabaw,2,coffee,"Too crowded and noisy, dili ko mubalik diria.",Ambiance and Atmosphere,Negative,TRUE
+Matcha Loco,1,matcha,"Huot kaayo ang agianan, mag sige rag bangga ang mga tao.",Ambiance and Atmosphere,Negative,TRUE
+Brewed Obrero,2,coffee,Suffocating kay wala silay proper ventilation sa kusina.,Ambiance and Atmosphere,Negative,TRUE
+Vibes Cafe,1,coffee,"Di masabtan ang music, saba kaayo sa dalunggan.",Ambiance and Atmosphere,Negative,TRUE
+Aesthetic Beans,2,coffee,Puro aesthetic pero murag sauna ang kainit sa sulod!,Ambiance and Atmosphere,Negative,TRUE
+Matcha Point,1,matcha,Saba ang mga istudyante na naga dula og cards sa pikas table.,Ambiance and Atmosphere,Negative,TRUE
+Poblacion Brews,2,coffee,"It’s too dark to even read my notes, sayang lang.",Ambiance and Atmosphere,Negative,TRUE
+Ecoland Cafe,1,coffee,"Cramped kaayo ang space, dili comfy i-stay for long hours.",Ambiance and Atmosphere,Negative,TRUE
+The Glasshouse,2,coffee,"Wala juy hangin, daot ilang ac tapos puno og tao.",Ambiance and Atmosphere,Negative,TRUE
+Matcha Vibes,1,matcha,"Medyo baho ang ilahang sofa, murag wa na limpyuhi.",Ambiance and Atmosphere,Negative,TRUE
+Kape Dabaw,2,coffee,Not an ideal place to chill kay super alingugngug.,Ambiance and Atmosphere,Negative,TRUE
+Matcha Loco,1,matcha,Puro aesthetic display pero ang ambiance murag fast food chain ka saba.,Ambiance and Atmosphere,Negative,TRUE
+Brewed Obrero,2,coffee,"Way privacy, makadungog naka sa chika sa pikas table.",Ambiance and Atmosphere,Negative,TRUE
+Vibes Cafe,1,coffee,"Dili relaxing, sakit sa ulo ilang neon lights.",Ambiance and Atmosphere,Negative,TRUE
+Aesthetic Beans,2,coffee,"Saba ang kalsada and open air sila, walay peace of mind.",Ambiance and Atmosphere,Negative,TRUE
+Matcha Point,1,matcha,"Sobrang init, murag di kapehan kundi pugon sa kainit.",Ambiance and Atmosphere,Negative,TRUE
+Poblacion Brews,2,coffee,Daghan lang aesthetic plants pero huot kaayo ang agianan.,Ambiance and Atmosphere,Negative,TRUE
+Ecoland Cafe,1,coffee,The vibe is too chaotic for a supposedly chill cafe.,Ambiance and Atmosphere,Negative,TRUE
+The Glasshouse,2,coffee,"Init kaayo banda sa window seats, wa silay blinds.",Ambiance and Atmosphere,Negative,TRUE
+Matcha Vibes,1,matcha,"Bati ilang playlist, maka wala og gana mag stay.",Ambiance and Atmosphere,Negative,TRUE
+Kape Dabaw,2,coffee,"Saba ang mga bata na naga dagan-dagan, wa gibawal sa staff.",Ambiance and Atmosphere,Negative,TRUE
+Matcha Loco,1,matcha,Trying hard to be cozy pero cramped and noisy in reality.,Ambiance and Atmosphere,Negative,TRUE
+Brewed Obrero,2,coffee,"Ang baho sa gawas musulod, makawala sa kape vibe.",Ambiance and Atmosphere,Negative,TRUE
+Vibes Cafe,1,coffee,"Gahi ra kaayo ilang mga chairs, di pang dugay na tambay.",Ambiance and Atmosphere,Negative,TRUE
+Aesthetic Beans,2,coffee,"Overwhelming kaayo ang amoy sa ilang cleaning chemicals, sakit sa ilong.",Ambiance and Atmosphere,Negative,TRUE
+Matcha Point,1,matcha,"Dikit-dikit ang tables, murag sardinas ta dre.",Ambiance and Atmosphere,Negative,TRUE
+Poblacion Brews,2,coffee,"Saba kaayo ang blender nila, makurat ka permi.",Ambiance and Atmosphere,Negative,TRUE
+Ecoland Cafe,1,coffee,"Walay exhaust, puro aso sa pagluto ang ambiance.",Ambiance and Atmosphere,Negative,TRUE
+The Glasshouse,2,coffee,"Very unwelcoming atmosphere, parang gusto ka nila papahawaon dayon.",Ambiance and Atmosphere,Negative,TRUE
+Matcha Vibes,1,matcha,"Di ko maka concentrate, the music is too distracting.",Ambiance and Atmosphere,Negative,TRUE
+Kape Dabaw,2,coffee,"Place is too dark, lisod kaayo mag type sa laptop.",Ambiance and Atmosphere,Negative,TRUE
+Matcha Loco,1,matcha,Aesthetic lang sa IG pero the place is loud and chaotic.,Ambiance and Atmosphere,Negative,TRUE
+Brewed Obrero,2,coffee,"Super init sa ilahang taas na part, wa nay hangin.",Ambiance and Atmosphere,Negative,TRUE
+Vibes Cafe,1,coffee,"Pwerte sabaha sa mga crew, ga syagitay lang sa counter.",Ambiance and Atmosphere,Negative,TRUE
+Aesthetic Beans,2,coffee,"Bati og ambiance, murag waiting area sa hospital ka boring.",Ambiance and Atmosphere,Negative,TRUE
+Matcha Point,1,matcha,"Crowded na kaayo by 3 PM, di na ka makaginhawa.",Ambiance and Atmosphere,Negative,TRUE
+Poblacion Brews,2,coffee,They play club music sa coffee shop. Bati kaayo ug vibe.,Ambiance and Atmosphere,Negative,TRUE
+Ecoland Cafe,1,coffee,"Alimuot kaayo, daot siguro ilang isa ka aircon.",Ambiance and Atmosphere,Negative,TRUE
+The Glasshouse,2,coffee,"Saba ang dalan, wala silay proper sound insulation.",Ambiance and Atmosphere,Negative,TRUE
+Matcha Vibes,1,matcha,"Nag sige rag balik ang kanta, maka irita na kadugayan.",Ambiance and Atmosphere,Negative,TRUE
+Kape Dabaw,2,coffee,I-improve unta nila ang lighting kay ngitngit jud kaayo.,Ambiance and Atmosphere,Negative,TRUE
+Matcha Loco,1,matcha,"Not aesthetically pleasing sa personal, untidy and noisy.",Ambiance and Atmosphere,Negative,TRUE
+Brewed Obrero,2,coffee,"Puro ra porma, pwerte rabang inita sa ilang lounge area.",Ambiance and Atmosphere,Negative,TRUE
+Vibes Cafe,1,coffee,Saba ang nag dula ug mobile legends sa pikas table.,Ambiance and Atmosphere,Negative,TRUE
+Aesthetic Beans,2,coffee,"Gamay kaayo ang lugar, feeling nako magka takdanay mi ug ubo.",Ambiance and Atmosphere,Negative,TRUE
+Matcha Point,1,matcha,"Di nako bet ang vibe, grabe ka banha and disorganized.",Ambiance and Atmosphere,Negative,TRUE
+Poblacion Brews,2,coffee,Uncomfortable kaayo ang ilahang mga bar stools.,Ambiance and Atmosphere,Negative,TRUE
+Ecoland Cafe,1,coffee,"Baho og kulob ang ilahang meeting room, walay hangin.",Ambiance and Atmosphere,Negative,TRUE
+The Glasshouse,2,coffee,"Murag discohan ang sounds, sakit sa dunggan.",Ambiance and Atmosphere,Negative,TRUE
+Matcha Vibes,1,matcha,"Dili chill ang ambiance, pirmi nagdali ang mga tao.",Ambiance and Atmosphere,Negative,TRUE
+Kape Dabaw,2,coffee,Walay ma tarong na space para mag trabaho ng malinaw.,Ambiance and Atmosphere,Negative,TRUE
+Matcha Loco,1,matcha,Aesthetic daw pero hugaw ang tables ug init.,Ambiance and Atmosphere,Negative,TRUE
+Brewed Obrero,2,coffee,"Kusog kaayo ilahang music, wa na tay peace of mind.",Ambiance and Atmosphere,Negative,TRUE
+Vibes Cafe,1,coffee,"Saba kaayo ang mga tapad, walay etiquette.",Ambiance and Atmosphere,Negative,TRUE
+Aesthetic Beans,2,coffee,"Bati ang temperature control, init pa sa gawas usahay.",Ambiance and Atmosphere,Negative,TRUE
+Matcha Point,1,matcha,"Di ko kasabot sa ambiance nila, puro gubot.",Ambiance and Atmosphere,Negative,TRUE
+Poblacion Brews,2,coffee,"Guba ilang suga ga flicker-flicker, sakit sa mata mag tuon.",Ambiance and Atmosphere,Negative,TRUE
+Ecoland Cafe,1,coffee,"It felt cramped and unwelcoming, sayang ang bayad.",Ambiance and Atmosphere,Negative,TRUE
+The Glasshouse,2,coffee,"Ngitngit kaayo didto sa likod na banda, di makabasa.",Ambiance and Atmosphere,Negative,TRUE
+Matcha Vibes,1,matcha,Walay kwenta ang aesthetic kung grabe ka alimuot.,Ambiance and Atmosphere,Negative,TRUE
+Kape Dabaw,2,coffee,"Bad music choice, nakakawalang gana mag kape.",Ambiance and Atmosphere,Negative,TRUE
+Matcha Loco,1,matcha,"Suffocating kay puno always ang venue, walay exhaust fan.",Ambiance and Atmosphere,Negative,TRUE
+Brewed Obrero,2,coffee,"Saba kaayo murag palengke, di conducive for studying.",Ambiance and Atmosphere,Negative,TRUE
+Vibes Cafe,1,coffee,"Di ko feel ang vibe nila, too loud and commercialized.",Ambiance and Atmosphere,Negative,TRUE
+Aesthetic Beans,2,coffee,"Nag tipid man siguro sila sa aircon, pamalhas ko sa sulod.",Ambiance and Atmosphere,Negative,TRUE
+Matcha Point,1,matcha,"Overrated ang place, ang tinuod kay hugaw ug saba.",Ambiance and Atmosphere,Negative,TRUE
+Poblacion Brews,2,coffee,"Grabe ang kabanha, dili gyud para sa mga naga work.",Ambiance and Atmosphere,Negative,TRUE
+Ecoland Cafe,1,coffee,"Aesthetic man pero init kaayo, way gamit ilang fans.",Ambiance and Atmosphere,Negative,TRUE
+The Glasshouse,2,coffee,"Bati ang ilang seats, sakit sa likod if mag dugay.",Ambiance and Atmosphere,Negative,TRUE
+Matcha Vibes,1,matcha,"Baho og pintura ang sulod, nakakalipong ang smell.",Ambiance and Atmosphere,Negative,TRUE
+Kape Dabaw,2,coffee,"Pang picture ra siya, pero the place is loud and uncomfortable.",Ambiance and Atmosphere,Negative,TRUE
+Matcha Loco,1,matcha,So crowded that you can't even have a quiet conversation.,Ambiance and Atmosphere,Negative,TRUE
+Brewed Obrero,2,coffee,Puro aesthetic pero fail sa comfort and temperature.,Ambiance and Atmosphere,Negative,TRUE
+Vibes Cafe,1,coffee,Saba kay ga dungan ang music ug ang saba sa mga tao.,Ambiance and Atmosphere,Negative,TRUE
+Aesthetic Beans,2,coffee,Di work friendly kay saba and bati ang lights.,Ambiance and Atmosphere,Negative,TRUE
+Matcha Point,1,matcha,"Alingugngug kaayo ang ilang kapehan, not recommended for focusing.",Ambiance and Atmosphere,Negative,TRUE
+Poblacion Brews,2,coffee,"It's cramped, dark, and smells weird inside.",Ambiance and Atmosphere,Negative,TRUE
+Ecoland Cafe,1,coffee,Pangit ang vibe kay ga share kag table sa sobra ka huot.,Ambiance and Atmosphere,Negative,TRUE
+The Glasshouse,2,coffee,"Not ideal, super noisy and walay relaxing background music.",Ambiance and Atmosphere,Negative,TRUE
+Matcha Vibes,1,matcha,"Init kaayo ilang pwesto sa hapon, walay shade.",Ambiance and Atmosphere,Negative,TRUE
+Kape Dabaw,2,coffee,"Masyado saba tungod sa echo sa sulod, bati design.",Ambiance and Atmosphere,Negative,TRUE
+Matcha Loco,1,matcha,"Maka labad sa ulo ilang music, kusog ra jud.",Ambiance and Atmosphere,Negative,TRUE
+Brewed Obrero,2,coffee,"Puro hype lang, alimuot unya dili conducive mag work.",Ambiance and Atmosphere,Negative,TRUE
+Vibes Cafe,1,coffee,Dikit-dikit ang bangko mao na walay privacy at all.,Ambiance and Atmosphere,Negative,TRUE
+Aesthetic Beans,2,coffee,"Ngitngit na, alingugngug pa jud tungod sa kadaghan tao.",Ambiance and Atmosphere,Negative,TRUE
+Matcha Point,1,matcha,"Wa silay music, madungog nimo chika sa tanan table, super awkward.",Ambiance and Atmosphere,Negative,TRUE
+Poblacion Brews,2,coffee,"Puro aesthetic, walay hangin. Mag mantika gyud imong face.",Ambiance and Atmosphere,Negative,TRUE
+Ecoland Cafe,1,coffee,"The chairs are too hard, murag di ka pa stayhon.",Ambiance and Atmosphere,Negative,TRUE
+The Glasshouse,2,coffee,"Grabe kabanha ang kalsada sa gawas, madungog hangtud sulod.",Ambiance and Atmosphere,Negative,TRUE
+Matcha Vibes,1,matcha,"Dili magkadimao ang ambiance nila, chaotic kaayo and noisy.",Ambiance and Atmosphere,Negative,TRUE
+Kape Dabaw,2,coffee,Sakit sa ilong ang amoy sa ilang CR na open ra.,Ambiance and Atmosphere,Negative,TRUE
+Matcha Loco,1,matcha,"Too bright ang ilaw, sakit sa mata murag sa hospital.",Ambiance and Atmosphere,Negative,TRUE
+Brewed Obrero,2,coffee,"Grabe saba, dili maka tuon bisan mag earphones pa.",Ambiance and Atmosphere,Negative,TRUE
+Vibes Cafe,1,coffee,Alimuot kaayo kay sigeg abli-sira ang ilang main door.,Ambiance and Atmosphere,Negative,TRUE
+Aesthetic Beans,2,coffee,"Puro aesthetic ra ni, dili conducive for remote work gyud.",Ambiance and Atmosphere,Negative,TRUE
+Matcha Point,1,matcha,"Wala juy proper ventilation, init ug kulob ang feeling.",Ambiance and Atmosphere,Negative,TRUE
+Poblacion Brews,2,coffee,"Too crowded by lunch time, dili nalang ko mopadayon.",Ambiance and Atmosphere,Negative,TRUE
+Ecoland Cafe,1,coffee,"Dili man lami paminawon ilang playlist, murag pampatulog ra.",Ambiance and Atmosphere,Negative,TRUE
+The Glasshouse,2,coffee,"No peaceful vibe at all, everything is just noise and heat.",Ambiance and Atmosphere,Negative,TRUE
+Matcha Vibes,1,matcha,"Saba kaayo maghugas og plato mga staff, madunggan sa area.",Ambiance and Atmosphere,Negative,TRUE
+Kape Dabaw,2,coffee,"Bati ang airflow sa sulod, mag huot inyong mga ginhawa.",Ambiance and Atmosphere,Negative,TRUE
