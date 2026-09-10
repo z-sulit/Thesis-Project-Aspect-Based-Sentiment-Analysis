@@ -101,3 +101,6 @@ While 5% represents a minority of the overall text, these localized terms (e.g.,
 Cosine-similarity: https://arxiv.org/pdf/1908.10084
 * **Cosine Similarity (Semantic Overlap)**:
   * The Mechanic: It converts sentences into dense vector embeddings (using a lightweight model like Sentence-BERT) and measures the angle between those vectors in a multidimensional space.
+
+## 5.1 Paper changes
+Step 5.1: Empirically Determined Threshold (Learning Curve): Rather than setting a fixed, arbitrary threshold for data sufficiency, the minimum number of instances needed for each aspect-sentiment pair will be determined empirically. The model will be trained incrementally on subsamples of the authentic mixed corpus (ranging up to 10,000 total instances) [44]. The resulting F1 scores for the underrepresented negative classes will be plotted to produce learning curves. The point where adding more data stops meaningfully improving performance defines the global learning plateau. To determine the minimum viable threshold for specific augmentation targets, the total instance count at this plateau is mapped back to the minority class prevalence rate to extract the exact number of authentic negative instances required to reach data sufficiency [23][41].
