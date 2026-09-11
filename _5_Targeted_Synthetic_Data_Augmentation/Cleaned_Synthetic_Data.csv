@@ -1,0 +1,485 @@
+place_name,rating,shop_type,sentence,TargetAspect,Sentiment,is_synthetic
+Kape Dabaw,1,coffee,"Kusog kaayo tung kanta sakit sa dunggan, dili maka focus.",Ambiance and Atmosphere,Negative,True
+Matcha Loco,2,matcha,"Puro lang aesthetic pero alimuot kaayo sa sulod, way aircon.",Ambiance and Atmosphere,Negative,True
+Vibes Cafe,2,coffee,"Huot kaayo ang place, crowded ra masyado di na makaginhawa.",Ambiance and Atmosphere,Negative,True
+Aesthetic Beans,1,coffee,"Another overpriced ""aesthetic"" coffee shop na bati og vibe.",Ambiance and Atmosphere,Negative,True
+Matcha Point,1,matcha,"Guba ilang aircon, nag mantika akong nawong sa kainit.",Ambiance and Atmosphere,Negative,True
+Ecoland Cafe,1,coffee,PURO PA AESTHETIC pero baho man og abog sa sulod.,Ambiance and Atmosphere,Negative,True
+Matcha Vibes,1,matcha,"Ngitngit kaayo ang palibot, sakit sa mata magbasa.",Ambiance and Atmosphere,Negative,True
+Kape Dabaw,2,coffee,"Saba kaayo ang mga barista mag chika, dungog sa tibook shop.",Ambiance and Atmosphere,Negative,True
+Matcha Loco,1,matcha,"Grabe ka init sa sulod, nag tipid siguro sa aircon ang tag-iya.",Ambiance and Atmosphere,Negative,True
+Brewed Obrero,2,coffee,"Alingugngug kaayo, murag palengke ang kabanha sa mga tao.",Ambiance and Atmosphere,Negative,True
+Coffee Project Obrero,1,coffee,"Aesthetic unta pero ang mga lingkuranan dili comfortable, sakit sa likod.",Ambiance and Atmosphere,Negative,True
+Matina Beans,2,coffee,"Saba ang background music, di mi magkadungog sa akong kaistorya.",Ambiance and Atmosphere,Negative,True
+Toril Brews,1,coffee,"Super crowded na, wala nay breathing room sa sulod.",Ambiance and Atmosphere,Negative,True
+Green Matcha PH,1,matcha,"Pangit ang lighting nila, murag naa sa peryahan sa sobrang dim.",Ambiance and Atmosphere,Negative,True
+Lanang Cafe,2,coffee,Not ideal for remote work kay ang ingay sa paligid.,Ambiance and Atmosphere,Negative,True
+Davao Coffee Co,1,coffee,"Baho og aso gikan sa gawas, musolod sa cafe.",Ambiance and Atmosphere,Negative,True
+Aesthetic Cafe Davao,2,coffee,"Masyadong dikit-dikit ang tables, zero privacy jud kung mag tabi.",Ambiance and Atmosphere,Negative,True
+Matcha Point,1,matcha,Way lami itambay kay ang alimuot sa ilang second floor.,Ambiance and Atmosphere,Negative,True
+Poblacion Brews,2,coffee,"Di work-friendly ilang setup, saba tapos gamay ra ang tables.",Ambiance and Atmosphere,Negative,True
+Ecoland Cafe,1,coffee,Vibe check failed. Trying hard ra kaayo na aesthetic unya hugaw ang floor.,Ambiance and Atmosphere,Negative,True
+The Glasshouse,1,coffee,"Way lami ang playlist nila, maka duka paminawon.",Ambiance and Atmosphere,Negative,True
+Matcha Vibes,2,matcha,Layo ra sa pictures. Pag abot nimo alimuot man diay.,Ambiance and Atmosphere,Negative,True
+Kape Dabaw,1,coffee,Dili relaxing kay ang mga tapad saba mag tabing.,Ambiance and Atmosphere,Negative,True
+Matcha Loco,2,matcha,"Overcrowded permi, feeling nako nasa merkado ko imbis na cafe.",Ambiance and Atmosphere,Negative,True
+Brewed Obrero,1,coffee,"Baho tag-as ang CR nila, maka guba ug mood iduty.",Ambiance and Atmosphere,Negative,True
+Vibes Cafe,2,coffee,"Daghan kayg lamok sa ilang al fresco area, grabe!",Ambiance and Atmosphere,Negative,True
+Aesthetic Beans,1,coffee,"Gahi kaayo ilang mga bangko, dili madalag dugay na lingkod.",Ambiance and Atmosphere,Negative,True
+Matcha Point,2,matcha,"Init kaayo, wala naga function ilang aircon hantod karon.",Ambiance and Atmosphere,Negative,True
+Poblacion Brews,1,coffee,Super saba sa gawas unya bati pag soundproofing sa shop.,Ambiance and Atmosphere,Negative,True
+Ecoland Cafe,2,coffee,Dili conducive for online meetings kay banha ang background.,Ambiance and Atmosphere,Negative,True
+The Glasshouse,1,coffee,"Puro porma lang jud, walay chill factor ang place.",Ambiance and Atmosphere,Negative,True
+Matcha Vibes,1,matcha,"Kusog kaayo ang tugtog, di nalang ta mag sturya ani.",Ambiance and Atmosphere,Negative,True
+Kape Dabaw,2,coffee,"Too crowded and noisy, dili ko mubalik diria.",Ambiance and Atmosphere,Negative,True
+Matcha Loco,1,matcha,"Huot kaayo ang agianan, mag sige rag bangga ang mga tao.",Ambiance and Atmosphere,Negative,True
+Brewed Obrero,2,coffee,Suffocating kay wala silay proper ventilation sa kusina.,Ambiance and Atmosphere,Negative,True
+Vibes Cafe,1,coffee,"Di masabtan ang music, saba kaayo sa dalunggan.",Ambiance and Atmosphere,Negative,True
+Aesthetic Beans,2,coffee,Puro aesthetic pero murag sauna ang kainit sa sulod!,Ambiance and Atmosphere,Negative,True
+Matcha Point,1,matcha,Saba ang mga istudyante na naga dula og cards sa pikas table.,Ambiance and Atmosphere,Negative,True
+Poblacion Brews,2,coffee,"It’s too dark to even read my notes, sayang lang.",Ambiance and Atmosphere,Negative,True
+Ecoland Cafe,1,coffee,"Cramped kaayo ang space, dili comfy i-stay for long hours.",Ambiance and Atmosphere,Negative,True
+The Glasshouse,2,coffee,"Wala juy hangin, daot ilang ac tapos puno og tao.",Ambiance and Atmosphere,Negative,True
+Matcha Vibes,1,matcha,"Medyo baho ang ilahang sofa, murag wa na limpyuhi.",Ambiance and Atmosphere,Negative,True
+Kape Dabaw,2,coffee,Not an ideal place to chill kay super alingugngug.,Ambiance and Atmosphere,Negative,True
+Matcha Loco,1,matcha,Puro aesthetic display pero ang ambiance murag fast food chain ka saba.,Ambiance and Atmosphere,Negative,True
+Brewed Obrero,2,coffee,"Way privacy, makadungog naka sa chika sa pikas table.",Ambiance and Atmosphere,Negative,True
+Vibes Cafe,1,coffee,"Dili relaxing, sakit sa ulo ilang neon lights.",Ambiance and Atmosphere,Negative,True
+Aesthetic Beans,2,coffee,"Saba ang kalsada and open air sila, walay peace of mind.",Ambiance and Atmosphere,Negative,True
+Matcha Point,1,matcha,"Sobrang init, murag di kapehan kundi pugon sa kainit.",Ambiance and Atmosphere,Negative,True
+Poblacion Brews,2,coffee,Daghan lang aesthetic plants pero huot kaayo ang agianan.,Ambiance and Atmosphere,Negative,True
+Ecoland Cafe,1,coffee,The vibe is too chaotic for a supposedly chill cafe.,Ambiance and Atmosphere,Negative,True
+The Glasshouse,2,coffee,"Init kaayo banda sa window seats, wa silay blinds.",Ambiance and Atmosphere,Negative,True
+Matcha Vibes,1,matcha,"Bati ilang playlist, maka wala og gana mag stay.",Ambiance and Atmosphere,Negative,True
+Kape Dabaw,2,coffee,"Saba ang mga bata na naga dagan-dagan, wa gibawal sa staff.",Ambiance and Atmosphere,Negative,True
+Matcha Loco,1,matcha,Trying hard to be cozy pero cramped and noisy in reality.,Ambiance and Atmosphere,Negative,True
+Brewed Obrero,2,coffee,"Ang baho sa gawas musulod, makawala sa kape vibe.",Ambiance and Atmosphere,Negative,True
+Vibes Cafe,1,coffee,"Gahi ra kaayo ilang mga chairs, di pang dugay na tambay.",Ambiance and Atmosphere,Negative,True
+Aesthetic Beans,2,coffee,"Overwhelming kaayo ang amoy sa ilang cleaning chemicals, sakit sa ilong.",Ambiance and Atmosphere,Negative,True
+Matcha Point,1,matcha,"Dikit-dikit ang tables, murag sardinas ta dre.",Ambiance and Atmosphere,Negative,True
+Poblacion Brews,2,coffee,"Saba kaayo ang blender nila, makurat ka permi.",Ambiance and Atmosphere,Negative,True
+Ecoland Cafe,1,coffee,"Walay exhaust, puro aso sa pagluto ang ambiance.",Ambiance and Atmosphere,Negative,True
+The Glasshouse,2,coffee,"Very unwelcoming atmosphere, parang gusto ka nila papahawaon dayon.",Ambiance and Atmosphere,Negative,True
+Matcha Vibes,1,matcha,"Di ko maka concentrate, the music is too distracting.",Ambiance and Atmosphere,Negative,True
+Kape Dabaw,2,coffee,"Place is too dark, lisod kaayo mag type sa laptop.",Ambiance and Atmosphere,Negative,True
+Matcha Loco,1,matcha,Aesthetic lang sa IG pero the place is loud and chaotic.,Ambiance and Atmosphere,Negative,True
+Brewed Obrero,2,coffee,"Super init sa ilahang taas na part, wa nay hangin.",Ambiance and Atmosphere,Negative,True
+Vibes Cafe,1,coffee,"Pwerte sabaha sa mga crew, ga syagitay lang sa counter.",Ambiance and Atmosphere,Negative,True
+Aesthetic Beans,2,coffee,"Bati og ambiance, murag waiting area sa hospital ka boring.",Ambiance and Atmosphere,Negative,True
+Matcha Point,1,matcha,"Crowded na kaayo by 3 PM, di na ka makaginhawa.",Ambiance and Atmosphere,Negative,True
+Poblacion Brews,2,coffee,They play club music sa coffee shop. Bati kaayo ug vibe.,Ambiance and Atmosphere,Negative,True
+Ecoland Cafe,1,coffee,"Alimuot kaayo, daot siguro ilang isa ka aircon.",Ambiance and Atmosphere,Negative,True
+The Glasshouse,2,coffee,"Saba ang dalan, wala silay proper sound insulation.",Ambiance and Atmosphere,Negative,True
+Matcha Vibes,1,matcha,"Nag sige rag balik ang kanta, maka irita na kadugayan.",Ambiance and Atmosphere,Negative,True
+Kape Dabaw,2,coffee,I-improve unta nila ang lighting kay ngitngit jud kaayo.,Ambiance and Atmosphere,Negative,True
+Matcha Loco,1,matcha,"Not aesthetically pleasing sa personal, untidy and noisy.",Ambiance and Atmosphere,Negative,True
+Brewed Obrero,2,coffee,"Puro ra porma, pwerte rabang inita sa ilang lounge area.",Ambiance and Atmosphere,Negative,True
+Vibes Cafe,1,coffee,Saba ang nag dula ug mobile legends sa pikas table.,Ambiance and Atmosphere,Negative,True
+Aesthetic Beans,2,coffee,"Gamay kaayo ang lugar, feeling nako magka takdanay mi ug ubo.",Ambiance and Atmosphere,Negative,True
+Matcha Point,1,matcha,"Di nako bet ang vibe, grabe ka banha and disorganized.",Ambiance and Atmosphere,Negative,True
+Poblacion Brews,2,coffee,Uncomfortable kaayo ang ilahang mga bar stools.,Ambiance and Atmosphere,Negative,True
+Ecoland Cafe,1,coffee,"Baho og kulob ang ilahang meeting room, walay hangin.",Ambiance and Atmosphere,Negative,True
+The Glasshouse,2,coffee,"Murag discohan ang sounds, sakit sa dunggan.",Ambiance and Atmosphere,Negative,True
+Matcha Vibes,1,matcha,"Dili chill ang ambiance, pirmi nagdali ang mga tao.",Ambiance and Atmosphere,Negative,True
+Kape Dabaw,2,coffee,Walay ma tarong na space para mag trabaho ng malinaw.,Ambiance and Atmosphere,Negative,True
+Matcha Loco,1,matcha,Aesthetic daw pero hugaw ang tables ug init.,Ambiance and Atmosphere,Negative,True
+Brewed Obrero,2,coffee,"Kusog kaayo ilahang music, wa na tay peace of mind.",Ambiance and Atmosphere,Negative,True
+Vibes Cafe,1,coffee,"Saba kaayo ang mga tapad, walay etiquette.",Ambiance and Atmosphere,Negative,True
+Aesthetic Beans,2,coffee,"Bati ang temperature control, init pa sa gawas usahay.",Ambiance and Atmosphere,Negative,True
+Matcha Point,1,matcha,"Di ko kasabot sa ambiance nila, puro gubot.",Ambiance and Atmosphere,Negative,True
+Poblacion Brews,2,coffee,"Guba ilang suga ga flicker-flicker, sakit sa mata mag tuon.",Ambiance and Atmosphere,Negative,True
+Ecoland Cafe,1,coffee,"It felt cramped and unwelcoming, sayang ang bayad.",Ambiance and Atmosphere,Negative,True
+The Glasshouse,2,coffee,"Ngitngit kaayo didto sa likod na banda, di makabasa.",Ambiance and Atmosphere,Negative,True
+Matcha Vibes,1,matcha,Walay kwenta ang aesthetic kung grabe ka alimuot.,Ambiance and Atmosphere,Negative,True
+Kape Dabaw,2,coffee,"Bad music choice, nakakawalang gana mag kape.",Ambiance and Atmosphere,Negative,True
+Matcha Loco,1,matcha,"Suffocating kay puno always ang venue, walay exhaust fan.",Ambiance and Atmosphere,Negative,True
+Brewed Obrero,2,coffee,"Saba kaayo murag palengke, di conducive for studying.",Ambiance and Atmosphere,Negative,True
+Vibes Cafe,1,coffee,"Di ko feel ang vibe nila, too loud and commercialized.",Ambiance and Atmosphere,Negative,True
+Aesthetic Beans,2,coffee,"Nag tipid man siguro sila sa aircon, pamalhas ko sa sulod.",Ambiance and Atmosphere,Negative,True
+Matcha Point,1,matcha,"Overrated ang place, ang tinuod kay hugaw ug saba.",Ambiance and Atmosphere,Negative,True
+Poblacion Brews,2,coffee,"Grabe ang kabanha, dili gyud para sa mga naga work.",Ambiance and Atmosphere,Negative,True
+Ecoland Cafe,1,coffee,"Aesthetic man pero init kaayo, way gamit ilang fans.",Ambiance and Atmosphere,Negative,True
+The Glasshouse,2,coffee,"Bati ang ilang seats, sakit sa likod if mag dugay.",Ambiance and Atmosphere,Negative,True
+Matcha Vibes,1,matcha,"Baho og pintura ang sulod, nakakalipong ang smell.",Ambiance and Atmosphere,Negative,True
+Kape Dabaw,2,coffee,"Pang picture ra siya, pero the place is loud and uncomfortable.",Ambiance and Atmosphere,Negative,True
+Matcha Loco,1,matcha,So crowded that you can't even have a quiet conversation.,Ambiance and Atmosphere,Negative,True
+Brewed Obrero,2,coffee,Puro aesthetic pero fail sa comfort and temperature.,Ambiance and Atmosphere,Negative,True
+Vibes Cafe,1,coffee,Saba kay ga dungan ang music ug ang saba sa mga tao.,Ambiance and Atmosphere,Negative,True
+Aesthetic Beans,2,coffee,Di work friendly kay saba and bati ang lights.,Ambiance and Atmosphere,Negative,True
+Matcha Point,1,matcha,"Alingugngug kaayo ang ilang kapehan, not recommended for focusing.",Ambiance and Atmosphere,Negative,True
+Poblacion Brews,2,coffee,"It's cramped, dark, and smells weird inside.",Ambiance and Atmosphere,Negative,True
+Ecoland Cafe,1,coffee,Pangit ang vibe kay ga share kag table sa sobra ka huot.,Ambiance and Atmosphere,Negative,True
+The Glasshouse,2,coffee,"Not ideal, super noisy and walay relaxing background music.",Ambiance and Atmosphere,Negative,True
+Matcha Vibes,1,matcha,"Init kaayo ilang pwesto sa hapon, walay shade.",Ambiance and Atmosphere,Negative,True
+Kape Dabaw,2,coffee,"Masyado saba tungod sa echo sa sulod, bati design.",Ambiance and Atmosphere,Negative,True
+Matcha Loco,1,matcha,"Maka labad sa ulo ilang music, kusog ra jud.",Ambiance and Atmosphere,Negative,True
+Brewed Obrero,2,coffee,"Puro hype lang, alimuot unya dili conducive mag work.",Ambiance and Atmosphere,Negative,True
+Vibes Cafe,1,coffee,Dikit-dikit ang bangko mao na walay privacy at all.,Ambiance and Atmosphere,Negative,True
+Aesthetic Beans,2,coffee,"Ngitngit na, alingugngug pa jud tungod sa kadaghan tao.",Ambiance and Atmosphere,Negative,True
+Matcha Point,1,matcha,"Wa silay music, madungog nimo chika sa tanan table, super awkward.",Ambiance and Atmosphere,Negative,True
+Poblacion Brews,2,coffee,"Puro aesthetic, walay hangin. Mag mantika gyud imong face.",Ambiance and Atmosphere,Negative,True
+Ecoland Cafe,1,coffee,"The chairs are too hard, murag di ka pa stayhon.",Ambiance and Atmosphere,Negative,True
+The Glasshouse,2,coffee,"Grabe kabanha ang kalsada sa gawas, madungog hangtud sulod.",Ambiance and Atmosphere,Negative,True
+Matcha Vibes,1,matcha,"Dili magkadimao ang ambiance nila, chaotic kaayo and noisy.",Ambiance and Atmosphere,Negative,True
+Kape Dabaw,2,coffee,Sakit sa ilong ang amoy sa ilang CR na open ra.,Ambiance and Atmosphere,Negative,True
+Matcha Loco,1,matcha,"Too bright ang ilaw, sakit sa mata murag sa hospital.",Ambiance and Atmosphere,Negative,True
+Brewed Obrero,2,coffee,"Grabe saba, dili maka tuon bisan mag earphones pa.",Ambiance and Atmosphere,Negative,True
+Vibes Cafe,1,coffee,Alimuot kaayo kay sigeg abli-sira ang ilang main door.,Ambiance and Atmosphere,Negative,True
+Aesthetic Beans,2,coffee,"Puro aesthetic ra ni, dili conducive for remote work gyud.",Ambiance and Atmosphere,Negative,True
+Matcha Point,1,matcha,"Wala juy proper ventilation, init ug kulob ang feeling.",Ambiance and Atmosphere,Negative,True
+Poblacion Brews,2,coffee,"Too crowded by lunch time, dili nalang ko mopadayon.",Ambiance and Atmosphere,Negative,True
+Ecoland Cafe,1,coffee,"Dili man lami paminawon ilang playlist, murag pampatulog ra.",Ambiance and Atmosphere,Negative,True
+The Glasshouse,2,coffee,"No peaceful vibe at all, everything is just noise and heat.",Ambiance and Atmosphere,Negative,True
+Matcha Vibes,1,matcha,"Saba kaayo maghugas og plato mga staff, madunggan sa area.",Ambiance and Atmosphere,Negative,True
+Kape Dabaw,2,coffee,"Bati ang airflow sa sulod, mag huot inyong mga ginhawa.",Ambiance and Atmosphere,Negative,True
+Brew Davao,1,coffee,"Guba ilang aircon, init kaayo sa sulod murag oven.",Facilities and Amenities,Negative,True
+Matcha Vibes,2,matcha,Walay tissue sa CR tapos baho pa jud.,Facilities and Amenities,Negative,True
+Kape Lokal,1,coffee,Bawal mag charge sa laptop. Unsaon pag work ani?,Facilities and Amenities,Negative,True
+Green Sip,2,matcha,"Hinay kaayo ang wifi, di maka load ug basic na page.",Facilities and Amenities,Negative,True
+Obrero Beans,1,coffee,No parking at all. Had to park 2 blocks away.,Facilities and Amenities,Negative,True
+Davao Cafe,2,coffee,"Dami lamok sa al fresco area nila, walay fan man lang.",Facilities and Amenities,Negative,True
+Minku Matcha,1,matcha,Sira ang flush sa comfort room nila. Yikes.,Facilities and Amenities,Negative,True
+South Beans,1,coffee,Hurot na daw ang wifi voucher. Sayang lang among pag adto.,Facilities and Amenities,Negative,True
+Matcha Corner,2,matcha,"Init kaayo, walay aircon. Not recommended for studying.",Facilities and Amenities,Negative,True
+Kape Diaries,1,coffee,"Hugaw ang tables, dili gina tarong ug limpyo sa staff.",Facilities and Amenities,Negative,True
+Zen Matcha,2,matcha,"Walay bidet sa ilang CR, no tissue also.",Facilities and Amenities,Negative,True
+City Brew,1,coffee,They only have 1 socket sa whole cafe. Hassle kaayo.,Facilities and Amenities,Negative,True
+Matcha House,1,matcha,"Mabaho ang CR, amoy ihi hanggang sa counter.",Facilities and Amenities,Negative,True
+Cafe Uno,2,coffee,"Super init sa second floor, di keri mag stay dugay.",Facilities and Amenities,Negative,True
+Beanery Dvo,1,coffee,Wifi keeps disconnecting every 5 mins. Very frustrating.,Facilities and Amenities,Negative,True
+Leaf & Bean,1,matcha,"Luod ilang CR, walay hand soap and water is very hina.",Facilities and Amenities,Negative,True
+The Coffee Bar,2,coffee,Puno pirmi ilang parking space kay gamay ra kaayo.,Facilities and Amenities,Negative,True
+Matcha Haven,1,matcha,"Guba ilang mga chairs, medyo wobbly and delikado.",Facilities and Amenities,Negative,True
+Poblacion Kape,2,coffee,"Grabe kagamay sa space, sikit sikit kaayo ang mga tables.",Facilities and Amenities,Negative,True
+Matcha Dvo,1,matcha,No wifi available. Sabi sa page meron daw.,Facilities and Amenities,Negative,True
+Daily Brew,1,coffee,"Sakit sa likod ilang mga bangko, not for long hours.",Facilities and Amenities,Negative,True
+Green Tea Hub,2,matcha,Di nagana ang outlet na gi assign sa amoa.,Facilities and Amenities,Negative,True
+Espresso Dvo,1,coffee,"Baho ilong sa sulod, walay exhaust ang ilang kitchen.",Facilities and Amenities,Negative,True
+Matcha Fix,1,matcha,Dugyot ang toilet bowl. Wala jud gi maintain.,Facilities and Amenities,Negative,True
+Kape Juan,2,coffee,"Super slow wifi connection, nag data na lang ko.",Facilities and Amenities,Negative,True
+Matcha Co.,1,matcha,"Alimoot kaayo sa ilang outdoor setup, walang electric fan.",Facilities and Amenities,Negative,True
+Brewers Hub,1,coffee,The aircon is dripping water sa among table.,Facilities and Amenities,Negative,True
+Matina Brews,2,coffee,Poor ventilation. Amoy kape na sunog pag gawas nimo.,Facilities and Amenities,Negative,True
+Cafe Dos,1,coffee,"Patay patay ang wifi, makasapot mag tuon diri.",Facilities and Amenities,Negative,True
+Green Leaf,2,matcha,Daming langaw sa pwesto namin. Very unhygienic tignan.,Facilities and Amenities,Negative,True
+Kape Zone,1,coffee,They only allow 1 hour of wifi. Bitin kaayo.,Facilities and Amenities,Negative,True
+Matcha Hub,1,matcha,"Only one comfort room for all customers, grabe ang pila.",Facilities and Amenities,Negative,True
+Street Brew,2,coffee,Wa juy parking. Gi ticketan tuloy akong sakyanan sa gawas.,Facilities and Amenities,Negative,True
+Matcha Box,1,matcha,Tulo tulo ang atop pag ulan. Nabasa among laptops.,Facilities and Amenities,Negative,True
+Cafe Tres,2,coffee,"Guba ang door knob sa CR, makulbaan ka ma lock-in.",Facilities and Amenities,Negative,True
+Mug & Bean,1,coffee,No sockets on most tables. Dili pwede mag work.,Facilities and Amenities,Negative,True
+Matcha Stop,1,matcha,Init jud kaayo kay isa ra ang aircon na ga andar.,Facilities and Amenities,Negative,True
+Corner Kape,2,coffee,Baho og imburnal dapit sa amoang table. Sayang lang.,Facilities and Amenities,Negative,True
+Tea & Matcha,1,matcha,Ilang wifi naay password pero di ginahatag kung di mangayo.,Facilities and Amenities,Negative,True
+Night Brew,1,coffee,Clogged ang sink sa ilang washroom. Luod kaayo.,Facilities and Amenities,Negative,True
+Matcha Lab,2,matcha,"Medyo hugaw ang floor, daghan pa tissue nag kalat.",Facilities and Amenities,Negative,True
+Kape Sikat,1,coffee,Walay mirror sa CR ug ngitngit kaayo ang suga.,Facilities and Amenities,Negative,True
+Pure Matcha,1,matcha,"The chairs are made of metal, sakit kaayo sa lubot.",Facilities and Amenities,Negative,True
+Brew Stop,2,coffee,Hina ang aircon. Singot kaayo ko nag inom ug kape.,Facilities and Amenities,Negative,True
+Matcha Room,1,matcha,Nag brownout tapos wala silay generator. Init kaayo.,Facilities and Amenities,Negative,True
+Kape Bar,1,coffee,Limited ra ang sockets nila. Mag ilog pa ang customers.,Facilities and Amenities,Negative,True
+The Matcha Co,2,matcha,"Dugyot ang al fresco, daghang upos sa sigarilyo sa sawg.",Facilities and Amenities,Negative,True
+Davao Beans,1,coffee,Naay langaw sa sulod kay guba ilang door closer.,Facilities and Amenities,Negative,True
+Matcha Cafe,1,matcha,Basag na ilang mga plates and cups. Not presentable.,Facilities and Amenities,Negative,True
+Kape Tayo,2,coffee,"Sira yung isang toilet, tapos ang dumi pa ng isa.",Facilities and Amenities,Negative,True
+Zen Tea,1,matcha,"Walay signal sa sulod, unya wala pajuy wifi na tarong.",Facilities and Amenities,Negative,True
+Cafe Quatro,1,coffee,Medyo crowded tapos walay harang ang tables. No privacy.,Facilities and Amenities,Negative,True
+Matcha Brew,2,matcha,"Ngitngit ang cafe, sakit sa mata mag basa.",Facilities and Amenities,Negative,True
+Kape Davao,1,coffee,"Super baho ng CR nila, amoy kanal.",Facilities and Amenities,Negative,True
+Matcha Works,1,matcha,You have to pay extra for the wifi voucher. Scam.,Facilities and Amenities,Negative,True
+Brew Space,2,coffee,"Di mu gana ilang wifi sa Mac, ambot ngano.",Facilities and Amenities,Negative,True
+Matcha Place,1,matcha,Only 2 parking slots. Nag park ko sa pikas kanto.,Facilities and Amenities,Negative,True
+Kape Vibe,1,coffee,Mga lamok dagko kaayo sa ilawom sa table.,Facilities and Amenities,Negative,True
+Matcha Station,2,matcha,Aircon is not cooling at all. Ga fan ra mi.,Facilities and Amenities,Negative,True
+Cafe Cino,1,coffee,Hurot na daw ilang tubig sa CR. No flush!,Facilities and Amenities,Negative,True
+Green Drop,1,matcha,"Guba na ang cushion sa mga sofa, lubog na kaayo.",Facilities and Amenities,Negative,True
+Kape Kultura,2,coffee,Dikit dikit masyado ang tables. Rinig mo chika ng iba.,Facilities and Amenities,Negative,True
+Matcha Mix,1,matcha,Wala man lay basurahan sa gawas for the tissues.,Facilities and Amenities,Negative,True
+Morning Brew,1,coffee,No wifi. No data signal. Pano kami mag chat?,Facilities and Amenities,Negative,True
+Matcha Daily,2,matcha,"The table we got was wobbly, natapon tuloy kape ko.",Facilities and Amenities,Negative,True
+Kape Street,1,coffee,"Basa ang salog sa CR, delikado maka slide.",Facilities and Amenities,Negative,True
+Matcha Studio,1,matcha,Guba ang hand dryer tapos wala puy paper towels.,Facilities and Amenities,Negative,True
+Coffee Project Dvo,2,coffee,Ang init sa pwesto nila kay naka atubang sa adlaw.,Facilities and Amenities,Negative,True
+Matcha Central,1,matcha,Their sockets are broken. Di nag charge phone ko.,Facilities and Amenities,Negative,True
+Brew City,1,coffee,"Guba tung isa ka aircon, tiis ganda sa kainit.",Facilities and Amenities,Negative,True
+Matcha District,2,matcha,"Grabe ang aso from outside, wa nag work ilang door.",Facilities and Amenities,Negative,True
+Kape Hapon,1,coffee,"Walay tabo or bidet sa CR, mag unsa man mi?",Facilities and Amenities,Negative,True
+Matcha Factory,1,matcha,No designated smoking area so the smoke goes inside.,Facilities and Amenities,Negative,True
+The Beanery,2,coffee,Slowest wifi sa whole Davao. Dili maka play ug video.,Facilities and Amenities,Negative,True
+Matcha Loft,1,matcha,"Puno ang basurahan sa CR, nag apaw na ang tissues.",Facilities and Amenities,Negative,True
+Kape Lingo,1,coffee,We requested to wipe the table pero ang tagal.,Facilities and Amenities,Negative,True
+Matcha Club,2,matcha,"Walay ilaw sa ilang parking lot, medyo scary sa gabi.",Facilities and Amenities,Negative,True
+Urban Brew,1,coffee,Init ilang kape pero mas init ilang aircon. Sira ata.,Facilities and Amenities,Negative,True
+Matcha Lounge,1,matcha,"Mga chairs nila naay rust, maka guba ug sanina.",Facilities and Amenities,Negative,True
+Kape Ora,2,coffee,Baho ug ihi ang palibot sa CR nila. Walay naglimpyo.,Facilities and Amenities,Negative,True
+Matcha Craze,1,matcha,Dili pwede mag connect sa wifi ang more than 1 device.,Facilities and Amenities,Negative,True
+Local Beans,1,coffee,"Super dirty ng wash area, may mga tirang food.",Facilities and Amenities,Negative,True
+Matcha Mood,2,matcha,"Amoy damp ang sulod sa shop, parang kulob.",Facilities and Amenities,Negative,True
+Kape Express,1,coffee,Wala silay paki kung walay tubig sa CR. So bad.,Facilities and Amenities,Negative,True
+Matcha Blend,1,matcha,"The outdoor tables are dusty, murag wala gi trapohan.",Facilities and Amenities,Negative,True
+Brew Brothers,2,coffee,Dili mag lock ang CR! I had to hold the door.,Facilities and Amenities,Negative,True
+Matcha Stand,1,matcha,Walay signal pag musulod ka sa cafe nila. Dead spot.,Facilities and Amenities,Negative,True
+Kape Natin,1,coffee,"Gamay ilang CR, mag lisod ka ug lihok sa sulod.",Facilities and Amenities,Negative,True
+Matcha Sip,2,matcha,"Aircon nila gadala ug abog, hugaw guro ang filter.",Facilities and Amenities,Negative,True
+Brewery Dvo,1,coffee,Init pa sa impyerno ilang al fresco. Walay fans jud.,Facilities and Amenities,Negative,True
+Matcha Base,1,matcha,"Guba ang mga saksakan, sunog pa yata ang isa.",Facilities and Amenities,Negative,True
+Kape Hub,2,coffee,Walay paper towel or anything to dry hands sa CR.,Facilities and Amenities,Negative,True
+Kape Obrero,2,coffee,"Mahal kaayo ang drinks, di worth it for the price.",Price and Value,Negative,True
+Matcha Matina,1,matcha,Overpriced sya para sa gamay na serving ng matcha.,Price and Value,Negative,True
+Torres Brews,2,coffee,Not worth the price jud ang kape nila dri.,Price and Value,Negative,True
+Lanang Matcha House,2,matcha,Pricey for a matcha place in Davao City.,Price and Value,Negative,True
+Davao Kape,1,coffee,Grabe ka mahal ang drinks di man lami.,Price and Value,Negative,True
+Buhangin Brew,1,matcha,Mahal masyado tapos puro yelo lang ang matcha latte.,Price and Value,Negative,True
+Ecoland Coffee Co,2,coffee,Dili reasonable ang price sa ila pastries and drinks.,Price and Value,Negative,True
+Kape Obrero,2,coffee,Lami unta kaso murag overpriced ra jud kaayo sya.,Price and Value,Negative,True
+Cafe Agdao,1,coffee,Too expensive for a standard iced latte.,Price and Value,Negative,True
+Roxas Beans,2,coffee,Gamay ra ang serving size for its price.,Price and Value,Negative,True
+Torres Brews,2,coffee,Medyo pricey sya and dili makatarungan ang lasa.,Price and Value,Negative,True
+Lanang Matcha House,1,matcha,Sayang ang kwarta dili worth it ilang food.,Price and Value,Negative,True
+Ecoland Coffee Co,2,coffee,"Mahal kaayo ilang food, dili pang student budget.",Price and Value,Negative,True
+Matcha Matina,1,matcha,"Overpriced jud siya, dili nako mubalik.",Price and Value,Negative,True
+Davao Kape,2,coffee,The drink feels overpriced for what it actually delivers.,Price and Value,Negative,True
+Buhangin Brew,2,coffee,"Food is expensive too, murag Manila rate na siya.",Price and Value,Negative,True
+Lanang Matcha House,1,matcha,"Kamahal ba sa inyong matcha, mura tag gitulis.",Price and Value,Negative,True
+Kape Obrero,1,coffee,Dili sulit ang gibayad nako sa gamay na kape.,Price and Value,Negative,True
+Ecoland Coffee Co,2,coffee,Overpriced pastries tapos uga na kaayo inig serve.,Price and Value,Negative,True
+Torres Brews,1,coffee,Mahal ra kaayo ila menu dili match sa quality.,Price and Value,Negative,True
+Davao Kape,1,coffee,"Super mahal jud as in, kaloka ang presyo.",Price and Value,Negative,True
+Buhangin Brew,1,coffee,Gamay kaayo ang cup for 180 pesos. Not worth it.,Price and Value,Negative,True
+Lanang Matcha House,2,matcha,Price is too high for a normal tasting matcha.,Price and Value,Negative,True
+Cafe Agdao,1,coffee,"Masyadong mahal, di naman special ang lasa.",Price and Value,Negative,True
+Roxas Beans,1,coffee,Overpriced coffee tapos wala pay lami.,Price and Value,Negative,True
+Torres Brews,2,coffee,Dili ko ganahan sa price kay overcharged ra kaayo.,Price and Value,Negative,True
+Kape Obrero,2,coffee,"You pay more for the aesthetic, dili worth it ang drinks.",Price and Value,Negative,True
+Ecoland Coffee Co,1,coffee,They charge too much for basic iced coffee.,Price and Value,Negative,True
+Matcha Matina,1,matcha,Grabe sad ka mahal ang matcha dre uy.,Price and Value,Negative,True
+Davao Kape,2,coffee,Di ko gets ngano mahal kaayo ilang kape.,Price and Value,Negative,True
+Buhangin Brew,2,coffee,Overpriced and under-portioned food.,Price and Value,Negative,True
+Cafe Agdao,1,coffee,The prices are too steep for a local coffee shop.,Price and Value,Negative,True
+Roxas Beans,1,coffee,Jusko ang mahal ng kape tapos lasang tubig.,Price and Value,Negative,True
+Lanang Matcha House,2,matcha,"Waste of money, mahal kaayo di man lami.",Price and Value,Negative,True
+Kape Obrero,2,coffee,"Mahal kaayo siya, not ideal for daily coffee run.",Price and Value,Negative,True
+Torres Brews,1,coffee,"Overpriced ang drinks, mas lami pa ang 39ers.",Price and Value,Negative,True
+Ecoland Coffee Co,2,coffee,Gamay ug serving for a very expensive price tag.,Price and Value,Negative,True
+Davao Kape,1,coffee,"Mahal ilang kape, way lami, sayang kwarta.",Price and Value,Negative,True
+Matcha Matina,2,matcha,200 pesos for this small cup? Grabe ka mahal.,Price and Value,Negative,True
+Buhangin Brew,1,coffee,Dili worth the price ilang mga cakes and coffee.,Price and Value,Negative,True
+Cafe Agdao,2,coffee,Expensive tapos ang liit ng serving ng food.,Price and Value,Negative,True
+Lanang Matcha House,1,matcha,I feel like it's overpriced for a simple matcha latte.,Price and Value,Negative,True
+Roxas Beans,2,coffee,Mahal ra jud kaayo para sa ordinary na kape.,Price and Value,Negative,True
+Kape Obrero,1,coffee,Mura mag ginto ang presyo sa ila drinks.,Price and Value,Negative,True
+Matcha Matina,1,matcha,Overpriced matcha drinks that taste like pure milk.,Price and Value,Negative,True
+Torres Brews,2,coffee,Dili makatarungan ilang presyo sa kape uy.,Price and Value,Negative,True
+Ecoland Coffee Co,1,coffee,Very expensive and the serving is ridiculously small.,Price and Value,Negative,True
+Davao Kape,2,coffee,"Overpriced siya, mapugos tag palit kay nag order na.",Price and Value,Negative,True
+Cafe Agdao,1,coffee,Di sya worth it for its price point.,Price and Value,Negative,True
+Buhangin Brew,2,coffee,"Mahal kaayo, dili ko mubalik dire na cafe.",Price and Value,Negative,True
+Lanang Matcha House,1,matcha,Prices are absurdly high for Davao standards.,Price and Value,Negative,True
+Roxas Beans,2,coffee,Sayang jud akong 250 pesos ani na drink.,Price and Value,Negative,True
+Kape Obrero,2,coffee,Masyadong pricey ang menu nila compared sa uban cafe.,Price and Value,Negative,True
+Torres Brews,1,coffee,Overpriced tapos tagal pa i-serve. Di worth it.,Price and Value,Negative,True
+Matcha Matina,2,matcha,The matcha is good pero the price is completely unjustified.,Price and Value,Negative,True
+Ecoland Coffee Co,1,coffee,Mahal kaayo ang food tapos ang gamay sa portion.,Price and Value,Negative,True
+Davao Kape,2,coffee,You're just paying for the vibe. Coffee is overpriced.,Price and Value,Negative,True
+Cafe Agdao,1,coffee,Unreasonably priced drinks para sa pangit na customer service.,Price and Value,Negative,True
+Buhangin Brew,2,coffee,Gamay ra ang cake slice para sa 150 pesos.,Price and Value,Negative,True
+Lanang Matcha House,1,matcha,Di worth it i-spend akong kwarta dire.,Price and Value,Negative,True
+Roxas Beans,2,coffee,Expensive kaayo ang kape tapos lasang 3-in-1.,Price and Value,Negative,True
+Kape Obrero,1,coffee,"Mahal masyado, nakakawalang gana ang presyo.",Price and Value,Negative,True
+Matcha Matina,2,matcha,I love matcha pero this one is just plain overpriced.,Price and Value,Negative,True
+Torres Brews,2,coffee,They increased their prices but reduced the serving size.,Price and Value,Negative,True
+Ecoland Coffee Co,1,coffee,"Sayang kwarta, overpriced ra kaayo ilang kape.",Price and Value,Negative,True
+Davao Kape,2,coffee,Dili ko mu-recommend kay mahal ra kaayo ilang food.,Price and Value,Negative,True
+Cafe Agdao,1,coffee,Too pricey for mediocre coffee and pastries.,Price and Value,Negative,True
+Kape Obrero,2,coffee,"Grabe ka overpriced, dili worth it dayuhon sa Obrero.",Price and Value,Negative,True
+Buhangin Brew,1,coffee,"Mahal na gani, wa pajud lami ang pagka timpla.",Price and Value,Negative,True
+Lanang Matcha House,2,matcha,I wouldn't pay that much for basic coffee again.,Price and Value,Negative,True
+Roxas Beans,1,coffee,"Masyadong mahal yung kape, tapos puro yelo lang.",Price and Value,Negative,True
+Matcha Matina,2,matcha,Very small serving for an expensive matcha drink.,Price and Value,Negative,True
+Torres Brews,1,coffee,The price is not justified by the taste and size.,Price and Value,Negative,True
+Ecoland Coffee Co,2,coffee,Mahal kaayo ilang menu items compared to better cafes.,Price and Value,Negative,True
+Davao Kape,1,coffee,"Sayang lang akong gi bayad, super overpriced!",Price and Value,Negative,True
+Lanang Matcha House,2,matcha,"Ang mahal ng matcha nila, di naman authentic ang lasa.",Price and Value,Negative,True
+Cafe Agdao,2,coffee,Dili practical ang price for a quick coffee break.,Price and Value,Negative,True
+Buhangin Brew,1,coffee,Overpriced kaayo ilang cakes tapos dry na.,Price and Value,Negative,True
+Kape Obrero,2,coffee,Super mahal niya for a local coffee shop.,Price and Value,Negative,True
+Roxas Beans,1,coffee,"Dili worth it, I'd rather buy coffee somewhere else.",Price and Value,Negative,True
+Torres Brews,2,coffee,"Grabe kamahal, mura tag gikuhaan og kwarta sa bulsa.",Price and Value,Negative,True
+Matcha Matina,1,matcha,The matcha is definitely overpriced for its quality.,Price and Value,Negative,True
+Ecoland Coffee Co,2,coffee,"Mahal jud sya, di makatarungan for a regular iced coffee.",Price and Value,Negative,True
+Davao Kape,1,coffee,180 for a small drink is way too expensive.,Price and Value,Negative,True
+Cafe Agdao,2,coffee,Di worth it ang price sa quality sa food.,Price and Value,Negative,True
+Buhangin Brew,1,coffee,Mahal masyado and di man lang masarap yung kape.,Price and Value,Negative,True
+Lanang Matcha House,2,matcha,Way pulos ang kape nila for that expensive price.,Price and Value,Negative,True
+Roxas Beans,1,coffee,Not a good value for money jud.,Price and Value,Negative,True
+Kape Obrero,2,coffee,"Overpriced menu, mas nindot pa mag brew sa balay.",Price and Value,Negative,True
+Torres Brews,1,coffee,Prices are exorbitant for such a small serving.,Price and Value,Negative,True
+Ecoland Coffee Co,2,coffee,"Dili ko mu-utro ug palit, kamahal sa ilang drinks.",Price and Value,Negative,True
+Davao Kape,1,coffee,Overpriced food and the coffee is just mediocre.,Price and Value,Negative,True
+Matcha Matina,2,matcha,"Mahal kaayo, dili pang masa ang presyo.",Price and Value,Negative,True
+Lanang Matcha House,1,matcha,I felt scammed by how expensive their matcha is.,Price and Value,Negative,True
+Cafe Agdao,2,coffee,Masyadong pricey for a simple coffee and toast.,Price and Value,Negative,True
+Buhangin Brew,1,coffee,"Kamahal sa kape, dili reasonable ang ilang pricing.",Price and Value,Negative,True
+Roxas Beans,2,coffee,"Too much ice, very little coffee for a high price.",Price and Value,Negative,True
+Kape Obrero,1,coffee,Mahal na kaayo ilang drinks nag shrink pa ang cup.,Price and Value,Negative,True
+Torres Brews,2,coffee,"Grabe ang patong sa presyo, di worth it.",Price and Value,Negative,True
+Ecoland Coffee Co,1,coffee,Waste of money buying overpriced drinks here.,Price and Value,Negative,True
+Davao Kape,2,coffee,Lami ang ambiance pero overpriced ra jud ang kape.,Price and Value,Negative,True
+Matcha Matina,1,matcha,"Di ko malipay sa price nila, mahal ra jud.",Price and Value,Negative,True
+Lanang Matcha House,2,matcha,Paying 200+ for a meh matcha is not worth it.,Price and Value,Negative,True
+Cafe Agdao,1,coffee,"Mahal kaayo ilang sandwiches, gamay ra ang sulod.",Price and Value,Negative,True
+Buhangin Brew,2,coffee,"Overpriced siya for me, daghan mas lami na cheaper.",Price and Value,Negative,True
+Roxas Beans,1,coffee,You don't get what you pay for. Overpriced cafe.,Price and Value,Negative,True
+Kape Obrero,2,coffee,Gamay ra kaayo ang food for its expensive price.,Price and Value,Negative,True
+Torres Brews,1,coffee,Super pricey tapos dili sad kaayo lami ila drinks.,Price and Value,Negative,True
+Ecoland Coffee Co,2,coffee,Unjustifiable ang presyo sa kape diri na shop.,Price and Value,Negative,True
+Davao Kape,1,coffee,Mura kog gikawatan sa kamahal sa ilang menu.,Price and Value,Negative,True
+Matcha Matina,2,matcha,Not worth the expensive price tag at all.,Price and Value,Negative,True
+Lanang Matcha House,1,matcha,Mahal kaayo ang matcha nila compared sa uban.,Price and Value,Negative,True
+Cafe Agdao,2,coffee,"Masyadong mahal, pang mayaman lang siguro ni na kape.",Price and Value,Negative,True
+Buhangin Brew,1,coffee,"Way lami ang drinks, sayang ang mahal na bayad.",Price and Value,Negative,True
+Roxas Beans,2,coffee,"The drinks are severely overpriced, totally not recommended.",Price and Value,Negative,True
+Kape Obrero,1,coffee,Gamay ug cup tapos overpriced pa jud kaayo.,Price and Value,Negative,True
+Torres Brews,2,coffee,They charge premium prices for below average coffee.,Price and Value,Negative,True
+Ecoland Coffee Co,1,coffee,"Sayang ang pera, ang mahal pa naman ng kape.",Price and Value,Negative,True
+Davao Kape,2,coffee,Dili ko ganahan kay expensive ra kaayo for me.,Price and Value,Negative,True
+Matcha Matina,1,matcha,Mahal ilang drinks unya murag asukal ra tanan.,Price and Value,Negative,True
+Lanang Matcha House,2,matcha,Pricing is completely ridiculous for the small serving size.,Price and Value,Negative,True
+Cafe Agdao,1,coffee,"Overpriced cafe, di jud worth it para sa mga students.",Price and Value,Negative,True
+Buhangin Brew,2,coffee,Di makatarungan ang kamahal sa ila food and drinks.,Price and Value,Negative,True
+Matcha Milk Bar,1,coffee and matcha,"Walay bisan unsang aircon nga gana, sobra ka init sulod bisan naay AC unit.",Store Operations and Accessibility,Negative,True
+Torres St. Coffee,2,matcha,"Naa lang gyud usa ka parking slot for guest, dili igo para sa peak hours.",Store Operations and Accessibility,Negative,True
+Ma-a Coffee Stop,1,matcha,Grabe ka lisod ma access ang loob kay naka barricade ang entrance due sa repair.,Store Operations and Accessibility,Negative,True
+Kape Habagat,2,coffee,"Wala jud signage sa gawas, nasagpa mi og layo kay wala nakit-an ang entrance.",Store Operations and Accessibility,Negative,True
+Obrero Brew Bar,2,coffee and matcha,Sobra ka lisod ang pag park kay reserved lahat para sa staff nila lang.,Store Operations and Accessibility,Negative,True
+Steep Leaf Davao,1,coffee and matcha,Mag order lang ka pila na ka minuto ang hulat kay kulang ug staff sa counter.,Store Operations and Accessibility,Negative,True
+Cafe Agdao,2,matcha,Naay app booking sila pero wala man diay ni sync sa actual availability.,Store Operations and Accessibility,Negative,True
+Matcha Mo Davao,2,coffee,Sobra ka init sa waiting area kay walay proper ventilation bisan naay fan.,Store Operations and Accessibility,Negative,True
+Bankerohan Brew,1,coffee,Naay sign nga wifi available pero mao gyud ang pinaka sira nga signal sa tibuok area.,Store Operations and Accessibility,Negative,True
+Tugbok Brew House,2,matcha,"Grabe ka layo gikan sa highway, kinahanglan mo agi pa og dalan nga bumpy kaayo.",Store Operations and Accessibility,Negative,True
+Brewpoint Davao,1,coffee and matcha,"Grabe ka lisod i-park diri, walay parking space bisan gamay.",Store Operations and Accessibility,Negative,True
+Bajada Bean Co.,1,coffee,Naay sign nga open pero pag text nako sa contact number wala jud gi reply.,Store Operations and Accessibility,Negative,True
+Brew Nation Davao,1,coffee,"Grabe ka lisod ang access sa CR, kinahanglan mo hangyo pa sa staff para sa key.",Store Operations and Accessibility,Negative,True
+Brew & Bites Davao,1,matcha,"Sobra ka layo ang pinaka duol nga parking building, mag lakaw ka og upat minuto.",Store Operations and Accessibility,Negative,True
+Sagrada Coffee Nook,1,matcha,"Grabe ka layo ang CR gikan sa seating area, kinahanglan mo gawas pa sa building.",Store Operations and Accessibility,Negative,True
+Cafe Panabo Road,1,coffee,Sobra ka lisod ma locate ang entrance kay wala silay clear signage sa gawas.,Store Operations and Accessibility,Negative,True
+Kape Diwa Davao,2,coffee,"Wala silay proper drainage, mag tubig ang entrance every time mo ulan.",Store Operations and Accessibility,Negative,True
+Bean Route Davao,1,coffee and matcha,"Walay proper waiting area, magtindog na lang mi outside sa init while naghulat.",Store Operations and Accessibility,Negative,True
+The Daily Grind Davao,1,coffee,"Sobra ka gamay ang store, dili jud angay para sa daghan customers per hour.",Store Operations and Accessibility,Negative,True
+Brew Society Davao,1,coffee,"Layo kaayo ang nearest jeepney stop, mag lakaw pa ka og pito ka minuto.",Store Operations and Accessibility,Negative,True
+Green Whisk Matcha House,1,coffee,"Grabe ka hirap hanapin, wala man gani nag stand out ang signage nila sa kadalanan.",Store Operations and Accessibility,Negative,True
+Cafe Malagos Roasters,1,matcha,Grabe ka daghan mag order pero isa ra ka staff naka duty sa buong shift.,Store Operations and Accessibility,Negative,True
+Roxas Ave Roastery,2,matcha,"Naabot ko alas 3 tapos sarado na, sa Google Maps until 6pm man unta.",Store Operations and Accessibility,Negative,True
+Cafe Toril,1,matcha,"Naa lang gyud usa ka cashier bisan Saturday rush hour, sobra ka hinay ang linya.",Store Operations and Accessibility,Negative,True
+Catalunan Cafe Stop,1,coffee,Sobra ka init sa sulod kay naa lang isa ka aircon unit para sa buong store.,Store Operations and Accessibility,Negative,True
+Matcha & Co. Davao,1,matcha,"Naay isa lang ka staff nga naka duty, sobra ka hinay ang pag serve sa order.",Store Operations and Accessibility,Negative,True
+Matina Matcha Lab,1,coffee,"Wala silay clear schedule, lahi lahi permi ang closing time depende sa staff.",Store Operations and Accessibility,Negative,True
+Cafe Kadayawan,1,coffee and matcha,"Wala sila nag post nga holiday closed sila, nagbyahe pa mi from Toril para wala lang.",Store Operations and Accessibility,Negative,True
+Kape Lokal,1,matcha,"Sobra ka layo ang jeepney terminal gikan sa store, mag Grab na lang lagi ka.",Store Operations and Accessibility,Negative,True
+Matcha Muna,2,coffee,Wala jud sila mag update sa holiday schedule nila sa social media.,Store Operations and Accessibility,Negative,True
+Green Leaf Matcha Bar,1,matcha,Naay sign nga wheelchair accessible pero naay steep steps padulong sa entrance.,Store Operations and Accessibility,Negative,True
+Cafe Ilang-Ilang,1,coffee,"Wala silay proper signage papunta sa parking, na miss mi og turn kay wala nakita.",Store Operations and Accessibility,Negative,True
+Matcha Bar 88,1,matcha,"Wala silay heads up nga closed sila for private event, nagbyahe pa mi para wala lang.",Store Operations and Accessibility,Negative,True
+Kape Balay,1,coffee,Grabe ka daghan customers per table area nga sobra ka gamay para sa tanan.,Store Operations and Accessibility,Negative,True
+Kape Bukid,1,coffee,"Sobra ka bright ug hot init sa sulod, wala jud gina turn on ang aircon.",Store Operations and Accessibility,Negative,True
+Barako Corner Cafe,1,coffee,"Naay isa lang ka table para sa outdoor, so kapoy ka naghulat og maayo nga slot.",Store Operations and Accessibility,Negative,True
+Buhangin Bean House,2,coffee,"Sobra ka lisod ang signal sa wifi bisan naa ka duol sa router, permi disconnect.",Store Operations and Accessibility,Negative,True
+Lanang Latte Bar,2,coffee and matcha,Grabe kalisod ang pag park sa evening kay walay light sa parking area.,Store Operations and Accessibility,Negative,True
+Cafe Sinabuyan,1,coffee and matcha,"Naa daw sila 24 hours pero nag close na sila alas 9pm, misinformation jud.",Store Operations and Accessibility,Negative,True
+Kape't Kwento,1,coffee,Naay maintenance schedule sila pero wala nila gi post asa makita sa publiko.,Store Operations and Accessibility,Negative,True
+Cafe Durian House,1,coffee,"Wala nila gi post nga nag change na ang closing time, na sayang ang byahe.",Store Operations and Accessibility,Negative,True
+Kape Amiga,1,coffee and matcha,"Sobra ka gamay ang counter area, mag sigpit sigpit lang mo order sa daghan tao.",Store Operations and Accessibility,Negative,True
+Kopi Mindanao,1,coffee,Nag ingon sila naay reservation pero pag adto namo wala man diay gi honor.,Store Operations and Accessibility,Negative,True
+Kapehan sa Kalinaw,1,coffee,"Wala silay clear indication kung unsa oras ang last order, na guess guess na lang.",Store Operations and Accessibility,Negative,True
+Matcha Republika,1,coffee,Naay sign nga open Sundays pero pag adto nako sarado man diay every Sunday.,Store Operations and Accessibility,Negative,True
+Matcha Tea Room Davao,2,coffee and matcha,"Sobra ka layo gikan sa main highway, dapat mag Grab pa para makaabot.",Store Operations and Accessibility,Negative,True
+Davao Doi Coffee,2,matcha,"Wala nay parking area since gi construction, sobra ka lisod mag park karon.",Store Operations and Accessibility,Negative,True
+Kape Ihaw-Ihaw,1,coffee,"Naay isa lang ka toilet para sa buong store, sobra ka daghan naghulat.",Store Operations and Accessibility,Negative,True
+Pier Coffee House,1,coffee,"Grabe ka daghan sa Sunday pero walay extra seats gi prepare, standing room na lang.",Store Operations and Accessibility,Negative,True
+Matcha Milk Bar,1,matcha,Wala jud sila mag post nga naay ongoing construction sa main entrance nila.,Store Operations and Accessibility,Negative,True
+Torres St. Coffee,2,coffee,Naay sign nga open until midnight pero mag close na sila alas 9pm lang.,Store Operations and Accessibility,Negative,True
+Ma-a Coffee Stop,1,coffee,"Grabe ka sikip ang entrance, dili gani makasulod ang stroller sa akong baby.",Store Operations and Accessibility,Negative,True
+Kape Habagat,2,coffee,"Grabe ka layo padulong sa parking, kinahanglan mo tabok pa sa highway para makaabot.",Store Operations and Accessibility,Negative,True
+Obrero Brew Bar,2,coffee,Naay renovation sila pero wala nag inform sa mga customer nga naka book na.,Store Operations and Accessibility,Negative,True
+Steep Leaf Davao,2,coffee,"Layo kaayo sa main road, wala pa gani gi maayo ang dalan padulong didto.",Store Operations and Accessibility,Negative,True
+Cafe Agdao,1,coffee,"Steep kaayo ang hagdan padulong sa 2nd floor, walay elevator para sa PWD.",Store Operations and Accessibility,Negative,True
+Matcha Mo Davao,1,matcha,"Grabe ka busy sa parking area, mag away pa mi og slot sa laing customer.",Store Operations and Accessibility,Negative,True
+Bankerohan Brew,1,coffee,"Wala silay ramp o elevator, pure stairs lang gikan sa ground papunta sa second floor.",Store Operations and Accessibility,Negative,True
+Tugbok Brew House,2,coffee,Sobra ka layo ang walking distance gikan sa parking papunta sa store mismo.,Store Operations and Accessibility,Negative,True
+Brewpoint Davao,2,coffee,"Walay parking area, sa gawas ka lang mag park tapos guardian mo singil ug extra.",Store Operations and Accessibility,Negative,True
+Bajada Bean Co.,1,coffee,"Wala silay backup generator, pag brownout sarado dayon bisan mid afternoon pa.",Store Operations and Accessibility,Negative,True
+Brew Nation Davao,2,matcha,"Grabe ka daghan tao sa loob pero gamay ra ang store, mag sigpit sigpit na lang.",Store Operations and Accessibility,Negative,True
+Brew & Bites Davao,1,coffee and matcha,"Naay sign nga open daily pero close man diay sila every other Tuesday, wala clear.",Store Operations and Accessibility,Negative,True
+Sagrada Coffee Nook,1,matcha,"Sobra ka gamay ang parking lot, dili gani ka fit ang akong sakyanan.",Store Operations and Accessibility,Negative,True
+Cafe Panabo Road,1,coffee,"Wala silay proper queue system, nag away pa mi kung sino ang una nag order.",Store Operations and Accessibility,Negative,True
+Kape Diwa Davao,1,coffee,"Sobra ka layo ang paglakaw padulong sa entrance gikan sa gate, walay shade pa.",Store Operations and Accessibility,Negative,True
+Bean Route Davao,2,coffee,Sobra ka daghan nag hulat outside kay walay proper waiting system.,Store Operations and Accessibility,Negative,True
+The Daily Grind Davao,1,coffee and matcha,"Wala sila mag update sa operating hours nila kada holiday, permi mi na guess lang.",Store Operations and Accessibility,Negative,True
+Brew Society Davao,1,coffee,"Wala silay ramp padulong sa entrance, lisod jud kaayo sa mga naay stroller.",Store Operations and Accessibility,Negative,True
+Green Whisk Matcha House,2,coffee and matcha,"Wala silay backup plan pag mag rain, mag sarado dayon sila kay atop leak.",Store Operations and Accessibility,Negative,True
+Cafe Malagos Roasters,1,coffee,Naay sign nga accessible pero naay hagdan pa diay una mo abot sa entrance.,Store Operations and Accessibility,Negative,True
+Roxas Ave Roastery,1,matcha,Sobra ka init sa second floor kay wala nila palihuga ang aircon didto.,Store Operations and Accessibility,Negative,True
+Cafe Toril,1,coffee and matcha,"Wala silay signage sa parking, mag guess na lang ka kung asa allowed mo park.",Store Operations and Accessibility,Negative,True
+Catalunan Cafe Stop,1,coffee and matcha,Grabe kalisod ang pag adto kay walay proper street light sa gawas panahon sa gabii.,Store Operations and Accessibility,Negative,True
+Matcha & Co. Davao,1,coffee,"Grabe ka lisod ang pag reserve, dili gani mo reply sa message pag mag book ka.",Store Operations and Accessibility,Negative,True
+Matina Matcha Lab,1,coffee and matcha,"Grabe ka init ang loading area, wala silay shade para sa naghulat sa pickup.",Store Operations and Accessibility,Negative,True
+Cafe Kadayawan,2,coffee,"Gi book namo ang table pero pag abot namo wala pa sila nag prepare, wait pa jud.",Store Operations and Accessibility,Negative,True
+Kape Lokal,2,matcha,Sobra ka lisod ma access ang building kay walay tricycle nga mag agi didto.,Store Operations and Accessibility,Negative,True
+Matcha Muna,2,coffee and matcha,"Walay proper drive thru bisan naay sign, mag park ka gihapon para mag order.",Store Operations and Accessibility,Negative,True
+Green Leaf Matcha Bar,1,coffee and matcha,"Grabe ka sikip ang aisle, dili gani makalabang ang waiter dala ang tray.",Store Operations and Accessibility,Negative,True
+Cafe Ilang-Ilang,1,coffee and matcha,Bag-o pa lang sila mo open pero permi na lang sira ang aircon nila.,Store Operations and Accessibility,Negative,True
+Matcha Bar 88,1,coffee,"Sobra ka layo ang backup parking, mag lakaw pa ka og lima ka minuto sa main road.",Store Operations and Accessibility,Negative,True
+Kape Balay,1,matcha,"Sobra ka sikip ang parking lot, mo unlock ka pa sa gate para makagawas.",Store Operations and Accessibility,Negative,True
+Kape Bukid,1,coffee,Naay sign nga open 7am pero pag adto nako alas 8 pa gyud nag abre.,Store Operations and Accessibility,Negative,True
+Barako Corner Cafe,2,coffee,"Third floor lang sila pero ang elevator sira, kailangan pa mo hagdan.",Store Operations and Accessibility,Negative,True
+Buhangin Bean House,1,coffee,"Naay isa lang ka entrance nga naka lock permanent, kinahanglan mo agi sa likod.",Store Operations and Accessibility,Negative,True
+Lanang Latte Bar,2,coffee and matcha,"Wala silay signage sa second entrance, nawala mi og layo before nakit-an.",Store Operations and Accessibility,Negative,True
+Cafe Sinabuyan,2,coffee,"Cash lang daw sila, wala accept GCash bisan naa naman QR code sa counter.",Store Operations and Accessibility,Negative,True
+Kape't Kwento,1,coffee,"Sobra ka layo ang parking sa building, mag lakaw pa ka og five minutes papunta.",Store Operations and Accessibility,Negative,True
+Cafe Durian House,1,coffee and matcha,Naay sign nga bukas 24 hours pero pag alas 2am sarado na diay ang doors.,Store Operations and Accessibility,Negative,True
+Kape Amiga,1,coffee,"Sobra ka lisod ang access sa building, blocked man sa construction sa gawas.",Store Operations and Accessibility,Negative,True
+Kopi Mindanao,1,matcha,"Naay sign nga open pero pag sulod nako wala diay tao, nag gukod pa ko sa staff.",Store Operations and Accessibility,Negative,True
+Kapehan sa Kalinaw,1,coffee,"Grabe ka layo sa main road, walay tricycle nga moadto direkta didto.",Store Operations and Accessibility,Negative,True
+Matcha Republika,1,matcha,Naay nag ingon nga naa silay outdoor seating pero permi na lang gi closed due sa weather.,Store Operations and Accessibility,Negative,True
+Matcha Tea Room Davao,1,matcha,"Naay isa lang ka staff nga mo clean sa CR, so permi na lang sira ang linya.",Store Operations and Accessibility,Negative,True
+Davao Doi Coffee,1,coffee,"Wala silay ramp para sa wheelchair, lisod jud kaayo mosaka akong lola.",Store Operations and Accessibility,Negative,True
+Kape Ihaw-Ihaw,2,coffee and matcha,"Naay sign nga bukas pero naka lock diay ang gate, wala tao nag bantay.",Store Operations and Accessibility,Negative,True
+Pier Coffee House,2,coffee,Sobra ka lisod pangitaon ang entrance kay wala silay tarpaulin o karatula.,Store Operations and Accessibility,Negative,True
+Matcha Milk Bar,1,matcha,"Wala silay clear directional sign padulong sa parking, na confuse mi og layo.",Store Operations and Accessibility,Negative,True
+Torres St. Coffee,1,coffee,Nagsulti sila naa silay delivery pero wala man diay rider access sa building.,Store Operations and Accessibility,Negative,True
+Ma-a Coffee Stop,1,coffee,"Naay isa lang ka gate nga naka open, dugay ang linya sa pagsulod ug pag gawas.",Store Operations and Accessibility,Negative,True
+Kape Habagat,1,coffee and matcha,Third time na ni nga naabot ko closed sila kahit posted hours says open pa.,Store Operations and Accessibility,Negative,True
+Obrero Brew Bar,1,matcha,Naay booking system sila pero wala man diay gi apply ang reservation namo.,Store Operations and Accessibility,Negative,True
+Steep Leaf Davao,2,coffee,"Grabe ka sikip ang parking area, mag away pa mi ug slot sa ubang customer.",Store Operations and Accessibility,Negative,True
+Cafe Agdao,2,coffee and matcha,"Sarado sila without notice, nakaabot ra mi para ma disappoint.",Store Operations and Accessibility,Negative,True
+Matcha Mo Davao,1,coffee and matcha,"Wala silay elevator access, so kanang mga senior citizen kinahanglan mo hagdan gyud.",Store Operations and Accessibility,Negative,True
+Bankerohan Brew,2,coffee,Naay isa lang ka parking slot para sa disabled pero permi na lang naka park ang staff.,Store Operations and Accessibility,Negative,True
+Tugbok Brew House,1,coffee and matcha,"Sarado diay sila sa Sunday, wala pa jud updated sa Google Maps nila.",Store Operations and Accessibility,Negative,True
+Brewpoint Davao,1,coffee and matcha,"Grabe ka gamay ang parking, isa lang ka sakyanan ang ka fit sa entire lot.",Store Operations and Accessibility,Negative,True
+Bajada Bean Co.,1,coffee,"Grabe ka daghan tao naghulat sa gawas kay walay pa slot sa loob, mag standing na lang.",Store Operations and Accessibility,Negative,True
+Brew Nation Davao,1,matcha,"Grabe ka gamay ang space, dili gani ka fit ang wheelchair sa entre way.",Store Operations and Accessibility,Negative,True
+Brew & Bites Davao,1,coffee and matcha,"Wala silay proper waiting number, so basta bisan kinsa lang ang gina serve una.",Store Operations and Accessibility,Negative,True
+Sagrada Coffee Nook,2,coffee and matcha,"Wala silay proper lighting sa parking area, delikado mag park pag gabii na.",Store Operations and Accessibility,Negative,True
+Kape Diwa Davao,2,coffee,Sobra kadugay ang paghulat kay staff shortage daw sila every weekend.,Store Operations and Accessibility,Negative,True
+Bean Route Davao,1,coffee and matcha,"Naay isa lang ka staff nga nag open, so mag late gyud sila pag Monday morning.",Store Operations and Accessibility,Negative,True
+The Daily Grind Davao,1,coffee,"Grabe ka layo ang nearest ATM, wala pud sila accept card kaya kinahanglan magbring cash.",Store Operations and Accessibility,Negative,True
+Brew Society Davao,1,coffee,"Grabe ka gamay ang doorway, dili gani makasulod ang wheelchair nga tarong.",Store Operations and Accessibility,Negative,True
+Green Whisk Matcha House,1,coffee,Naay sign nga open 24/7 pero pag alas 11pm sarado na diay ang gate.,Store Operations and Accessibility,Negative,True
+Cafe Malagos Roasters,2,coffee,Naay sign nga free parking pero pag adto nako naay charge na diay.,Store Operations and Accessibility,Negative,True
+Roxas Ave Roastery,1,coffee,Sobra ka layo padulong sa pinaka duol nga public transport para sa store nga ni.,Store Operations and Accessibility,Negative,True
+Cafe Toril,1,coffee and matcha,Naay sign nga open pero pag knock nako sa door wala man diay ni bukas.,Store Operations and Accessibility,Negative,True
+Catalunan Cafe Stop,1,coffee,Sobra ka init sa loob kay wala nila gi ayo ang aircon bisan usa ka semana na.,Store Operations and Accessibility,Negative,True
+Matcha & Co. Davao,2,coffee,"Naa lang gyud silay isa ka parking slot para sa entire building, grabe.",Store Operations and Accessibility,Negative,True
+Matina Matcha Lab,2,coffee,"Pila na ka semana nga sira ang CR, wala gyapon gi ayo hangtod karon.",Store Operations and Accessibility,Negative,True
+Cafe Kadayawan,1,coffee,Nag renovate sila for a month pero wala nag post bisan asa nga closed sila.,Store Operations and Accessibility,Negative,True
+Kape Lokal,1,coffee,CR out of order since last week pero wala pa gihapon giayo.,Store Operations and Accessibility,Negative,True
+Matcha Muna,1,coffee,"Puno kaayo walay lingkuranan, wala pa sila mag expand sa space nila.",Store Operations and Accessibility,Negative,True
+Green Leaf Matcha Bar,2,coffee,"Wala silay parking guard, mag guess na lang ka kung safe ba ipark diri sakyanan.",Store Operations and Accessibility,Negative,True
+Cafe Ilang-Ilang,2,matcha,Two hours ang byahe para lang makita nga closed diay for maintenance.,Store Operations and Accessibility,Negative,True
+Matcha Bar 88,1,matcha,"Sobra kadaghan tao, walay number system so kalibog kung sino nag una.",Store Operations and Accessibility,Negative,True
+Kape Balay,2,coffee,"Naay maintenance daw sila every Monday pero wala gisulat bisan asa, nabiyaan lang mi.",Store Operations and Accessibility,Negative,True
+Kape Bukid,2,coffee,Naay sign nga bukas pero pag duol nako wala diay tao mag bantay sa counter.,Store Operations and Accessibility,Negative,True
+Barako Corner Cafe,1,matcha,"Wala silay proper ramp, kinahanglan pa mo sakay og hagdan bitbit ang stroller.",Store Operations and Accessibility,Negative,True
+Buhangin Bean House,1,matcha,"Grabe ka sikip ang walkway papadulong sa loob, dili gani dalawa makalabang.",Store Operations and Accessibility,Negative,True
+Lanang Latte Bar,2,matcha,"Pila ka beses na ko niari, permi sira ang wifi bisan naay sign nga free wifi.",Store Operations and Accessibility,Negative,True
+Cafe Sinabuyan,2,matcha,"Lisod maka park kay one way lang ang dalan, mag circle circle pa ko.",Store Operations and Accessibility,Negative,True

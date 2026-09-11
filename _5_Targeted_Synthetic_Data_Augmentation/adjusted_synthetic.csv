@@ -1,0 +1,11 @@
+place_name,rating,shop_type,sentence,TargetAspect,Sentiment,is_synthetic
+Kape Dabawenyo,1,coffee,"Baho og kanal ang gawas, tapos ang sulod kay murag kulob na basahan. Maka-turn off jud mag tambay diri.",Ambiance and Atmosphere,Negative,TRUE
+Matcha Masa,2,matcha,"Sakit sa mata ilang suga, murag operating room sa clinic. Dili man lang i-adjust aron relaxing ang palibot.",Ambiance and Atmosphere,Negative,TRUE
+Kanto Brews,1,coffee,"Ga kiling-kiling ilang mga lamisa unya gahi kaayo ang mga lingkuranan. Piskot, sakit sa likod mag dugay.",Ambiance and Atmosphere,Negative,TRUE
+Luntiang Dahon,2,matcha,Sobra ka huot ang pwesto tapos grabe maka-shagit ang pikas table. Dili gyud ko maka-focus sa akong pag-study.,Ambiance and Atmosphere,Negative,TRUE
+Poblacion Roasters,1,coffee,"Grabe ka igang sa ilaha, nag tipid siguro sa kuryente kay sington ta maski nag iced na. Init kaayo.",Ambiance and Atmosphere,Negative,TRUE
+Silingan Coffee,2,coffee,"Kurat ko kay naa pay extra service fee sa resibo, unya self-serve man diay gihapon ta sa counter! Scammer moves.",Price and Value,Negative,TRUE
+Matcha Vibe Davao,1,matcha,"Sus, pwerteng gamaya sa serving sa ilang pastry pero tag 250 pesos kapin! Gibitik ra man ta ani, layo ra sa menu pic.",Price and Value,Negative,TRUE
+Obrero Beans,1,coffee,"Pwerteng mahala sa ilang drinks pero murag 3-in-1 powder ra ang lasa. Hastang lugia nako, sayang lang kwarta.",Price and Value,Negative,TRUE
+Green Whisk,1,matcha,"Hugaw kaayo ilang lababo tapos wala pay hand soap. Guba pa gyud ang gripo, isa-isa ang tulo sa tubig.",Facilities and Amenities,Negative,TRUE
+Agdao Espresso,2,coffee,"Gubot ilang sistema pag order, nagpatong-patong ang linya tapos hastang dugaya milihok sa mga staff. Na late na nuon ko.",Store Operations and Accessibility,Negative,TRUE
