@@ -1,0 +1,101 @@
+place_name,rating,shop_type,sentence,TargetAspect,sentiment,is_synthetic
+Seattle's Best Coffee,1,coffee,Food is expensive too.,Product Quality,,False
+HYGGE COFFEE 2,1,coffee,"we had to wait long for our food for about an hour, or even more at times.",Product Quality,,False
+Green Coffee - Diversion,1,coffee,Even the place is great and the food is good but the customer service is worst everything will fall down!,Product Quality,,False
+Annipie Airport View,1,coffee,"The service at Annipies is poor, they serve instant coffee instead of espresso, and overcharge wherever they think that they can get away with it.",Customer Service,,False
+Dear Joe Frontera,1,coffee,You can drink iced coffee made with tap water at an expensive price.,Price and Value,,False
+Evermore Cafe Davao,1,coffee,"But the service, my goodness, it was sooo slow.",Customer Service,,False
+Café Joa,1,coffee,"Thirty minutes before 11 PM, our drinks were still not served, so I followed up.",Product Quality,,False
+Hygge Coffee,1,coffee,"I ordered a coffee to take home, and when I opened it, it wasn't even full and it looked like they had put something in it mural paminta or ambut unsa na hugaw vanilla latte tapos Mao ng nawng!",Product Quality,,False
+Barok Cafe & Resto,1,coffee,Then I think the staff needs to eat in the kitchen.,Customer Service,,False
+ROOFTOP Café Bar,1,coffee,The staff are also not accommodating.,Customer Service,,False
+Seattle's Best Coffee,1,coffee,I'm left wondering how is this level of ignorance possible given they work there everyday?,Facilities and Amenities,,False
+HYGGE COFFEE 2,1,coffee,"The drinks arent good either, and the place is often noisy with loud students.",Product Quality,,False
+STASH Coffee Co.,1,coffee,Rude barista.,Customer Service,,False
+Barok Cafe and Resto,1,coffee,"first ever coworking space I went to, I still have to deposit 100 and need an ID, is it really expensive???",Price and Value,,False
+Blugré Coffee,1,coffee,I can't taste.,Product Quality,,False
+blank space coffee dvo,1,coffee,"Customer service is a big part of any business, and experiences like this leave a very negative impression.",Customer Service,,False
+Dear Joe Frontera,1,coffee,Food is hard.,Product Quality,,False
+Cafe Demitasse,1,coffee,Substandard food quality.,Product Quality,,False
+"The Coffee Bar, Gaisano Mall of Toril",1,coffee,Blueberries on my wafles taste like expired jam.,Product Quality,,False
+Paramount Coffee Crocodile Park Davao,1,coffee,No food here.,Product Quality,,False
+Green Coffee - Marfori,2,coffee,"Unfortunately, the same could be said of all coffee shops in Davao.",Product Quality,,False
+Cafe Gervacios - Pastry and Coffee in Davao City,2,coffee,The food and the atmosphere was good.,Ambiance and Atmosphere,,False
+The Bloom Coffee & Start-Up Space,2,coffee,"1st take out, the coffee was wrong.",Product Quality,,False
+Solace - Coffee Club,2,coffee,"If it makes it slightly better, the place is aesthetic.",Ambiance and Atmosphere,,False
+Mille Matcha - DGT,2,matcha,"Great matcha, probably one of the best in Davao.",Product Quality,,False
+Glasshouse Coffee,2,coffee,Good coffee.,Product Quality,,False
+Cafe Gervacios - Pastry and Coffee in Davao City,2,coffee,The service was disappointing during our visit with my friends.,Customer Service,,False
+Café Joa,2,coffee,Great job on the cleanliness but food and service needs improvement.,Product Quality,,False
+Cafe Gervacios - Pastry and Coffee in Davao City,2,coffee,The place is a little bit crowded which is understandable since it is a newly opened café and the good qualities that I mentioned.,Ambiance and Atmosphere,,False
+The Bloom Coffee & Start-Up Space,2,coffee,When looking at the food and drink alone I think this place doesn't hold up.,Product Quality,,False
+Solace - Coffee Club,2,coffee,I ordered their version of a Spanish Latte...lo and behold it was very bitter.,Product Quality,,False
+Barok Cafe and Resto,2,coffee,"Despite bringing these concerns to the attention of the staff, their response was useless and unprofessional.",Customer Service,,False
+Cafe Demitasse,2,coffee,I must say the quantity is good but since I am a foreigner it didn't match upto my taste.,Product Quality,,False
+Knto Cinco - Puan Branch,2,coffee,"Overall, the place is nice and very aesthetic.",Ambiance and Atmosphere,,False
+Cafe Gervacios - Pastry and Coffee in Davao City,2,coffee,The place is peaceful and quiet.,Ambiance and Atmosphere,,False
+Dopio Café,2,coffee,"the place was nice when it felt like a chill escape, now just another noisy place, loud and obnoxious enough that i either HAVE TO use my bluetooth earphones to drown it out, or just leave, or not enter at all :-( food, here's my review of the whole menu.",Ambiance and Atmosphere,,False
+Blugré Coffee,2,coffee,"Still on the menu are the old faves — Chicken Enchilada and White Choco Torte….This used to be ""the coffee hang out"" during its glory days…But as so many new coffee shops sprouted through the years, issues with poor air conditioning, slow internet connection, and the second floor always unavailable loudly spells TERRIBLE service.",Product Quality,,False
+Starbucks - Matina IT Park,2,coffee,Choco Crepe Cake tasted like cardboard.,Product Quality,,False
+Indahouse Cafe,2,coffee,The milk overpowered the matcha.,Product Quality,,False
+Barok Cafe & Resto,2,coffee,the price is a bit high for the serving.,Price and Value,,False
+Green Coffee - Diversion,3,coffee,"The service was a bit slow, especially with the food.",Customer Service,,False
+Cafe Demitasse,3,coffee,"The staff is exceptionally polite; however, the food served is ordinary and seems to be cooked without passion.",Customer Service,,False
+Coffeecat,3,coffee,"Good coffee, good ambiance, plenty of parking space but slow internet connection",Ambiance and Atmosphere,,False
+The Matcha Tokyo - Azuela High Street,3,matcha,"If you're into matcha that leans more on the bitter side, …",Product Quality,,False
+Kopi lah Roti,3,coffee,"Maybe a little renovation, and don't serve a day old coffee bun again please.",Product Quality,,False
+WKND 1970,3,coffee,"I only wish their staff was friendlier, and more approachable, and that they can improve the dining experience by adding more light, tables and music",Facilities and Amenities,,False
+HYGGE COFFEE 2,3,coffee,"- Unfortunately, the cashier missed one of our orders, even after repeating it back to us.",Customer Service,,False
+HOUR CAFÉ,3,coffee,"The Ambience is nice, they could make much more out of this place by higher Food quality.",Product Quality,,False
+Coffee at Yellow Hauz,3,coffee,Lots of tables and chairs.,Facilities and Amenities,,False
+The Matcha Tokyo - SM Davao,3,matcha,Picture of food has nothing in common with the serving.,Product Quality,,False
+"KAOS CAFE - 24 Hours, Jacinto St.",3,coffee,"We ordered the Seasalt Matcha and the Coco Matcha, and both were as quality and delicious as we expected.",Product Quality,,False
+Krispy Kreme Factory Store Davao,3,coffee,"Its awkward if ur eating while others waiting for you to finish, so they use ur table and chairs",Facilities and Amenities,,False
+Isem Cafe,3,coffee,Call or contact them first to confirm if they're open coz we went there tonight and they were closed even when their hours on Google said they're open.,Store Operations and Accessibility,,False
+Green Coffee - Marfori,3,coffee,What I like about this place is that it is relatively quiet than other coffee shops.,Ambiance and Atmosphere,,False
+Lately Coffee,3,coffee,"We also paired it with some of their cookies, though honestly, they were just average in taste.",Product Quality,,False
+The Matcha Tokyo - Azuela High Street,3,matcha,… for just a decent-regular cup of matcha.,Product Quality,,False
+The Matcha Tokyo - SM Davao,3,matcha,Seems like the cashier or the order taker was very tired.,Customer Service,,False
+Krispy Kreme Doughnuts® - SM Lanang,3,coffee,"I can see the staff are doing their best to accommodate everyone, but the wait can be a bit long.",Customer Service,,False
+Coffeecat,3,coffee,Magazines on the shelf for time spending on the wall to enjoyment of drinking coffee.,Product Quality,,False
+Daleachious Cafe - Ecoland Branch,3,coffee,"Honestly, I thought you bought your cakes from SNR, which offers the same level of taste and consistency.",Product Quality,,False
+Coffeecat,4,coffee,2023 update: Main reason for coming here is to try their frozen yogurt but i didnt know they only serve it starting 1pm :( so i had to get iced coffee and a cheesecake instead.,Product Quality,,False
+The Limestone Brew,4,coffee,Coffee 5/5 Atmosphere 5/5 Food 3/5 - small servings for thier expensive food,Product Quality,,False
+KISOM Atelier,4,matcha,The matcha taste strong even blended with coffee and the beans they used for coffee's as well are from the known coffee shop in CDO which made me thought ahead that the …,Product Quality,,False
+Cafe Demitasse,4,coffee,The area is not cramped and the airconditioning units are enough for the space.,Facilities and Amenities,,False
+JAS Caffeinated,4,coffee,Bit noisy if there are many people.,Ambiance and Atmosphere,,False
+Wood and Coffee Davao,4,coffee,But there was a recent addition of a 5% service charge that wasn't there before.,Customer Service,,False
+Coffee Hub,4,coffee,I loved the wifi and the sockets everywhere though.,Facilities and Amenities,,False
+Fourth Street Cafe,4,coffee,The matcha milk was okay and great that it had no clumps.,Product Quality,,False
+Steep Kohi,4,coffee,"A little weird seeing 1/3 of the space used for booking flights and such but honestly, the drinks were delicious.",Facilities and Amenities,,False
+Cafe Demitasse,4,coffee,Good food.,Product Quality,,False
+Cafe Demitasse,4,coffee,the comfort room is the most important place in every establishment.,Facilities and Amenities,,False
+BRGR Alley Café,4,coffee,"Good food, good friends!",Product Quality,,False
+Fika Cafe - Lapu-Lapu,4,coffee,"Great place, good food, awesome price, but your clothes will kinda smell like oil afterwards.",Product Quality,,False
+Dopio Café,4,coffee,Accessible and easier when you're coming from Rasay Street.,Store Operations and Accessibility,,False
+The Crazy Bite Co. Sky Cafe,4,coffee,"What truly elevates the entire experience, however, is the staff.",Customer Service,,False
+Lara Mia Café & Bistro,4,coffee,"However I did find the entrees a bit small, also service was slow during my 1st visit.",Customer Service,,False
+Kiks Davao,4,coffee,Mixed the coffee and it felt creamy then tried placing ice in it.,Product Quality,,False
+Coffeecat,4,coffee,":) I'm giving it just 4 stars though, because their crew did not listen well to us when we made the order.",Customer Service,,False
+Kofi Gram Bangkal,4,coffee,The coffee scent welcomes you the moment you open the door.,Product Quality,,False
+Espresso Lab Cafe Davao,4,coffee,I hope they can improve on their coffee strength and customer service.,Product Quality,,False
+Cafe Basilico,5,coffee,"But that's my private taste, everyone else might have a different meaning about this.",Product Quality,,False
+Fourth Street Cafe,5,coffee,Got the Spanish latte.,Product Quality,,False
+Out of Boredom,5,matcha,they definitely have good coffee beans!,Product Quality,,False
+Whisk Davao Matcha,5,matcha,Very welcoming and kind ang staff esp miss Russell who knows us well na & is very lovely in preparing our orders sparkling_heart we keep coming back for more~ Matcha is superb and my fiancé's favorite is their cacao drink matched with their chocolate …,Customer Service,,False
+Cafe Demitasse,5,coffee,Nice food quality.,Product Quality,,False
+Whisk It Good Matcha,5,matcha,"First of all, their matcha is really good.",Product Quality,,False
+Cafe Tavera,5,coffee,"Giving this resto a 5-star except for the atmosphere, because it can get crowded (which says a lot, by the way) and noisy.",Ambiance and Atmosphere,,False
+Mille Matcha - DGT,5,matcha,They make good matcha.,Product Quality,,False
+The Coffee Bar at GMall of Davao,5,coffee,"Service is friendly and efficient,",Customer Service,,False
+Purge Coffee Roaster,5,coffee,"The staff were incredibly friendly and accommodating, taking the time to explain the beans used for their coffee, which added to the overall enjoyment of the visit.",Customer Service,,False
+The Bloom Coffee & Start-Up Space,5,coffee,A very chill place specially if you want to work and study.,Facilities and Amenities,,False
+Daleachious Cafe - Bago Aplaya Branch,5,coffee,Food & Drinks were 100000/10 accommodating staff & store is neat and organized!,Product Quality,,False
+The Limestone Brew,5,coffee,The best Matcha better than Matcha Tokyo and the best Truffle Pasta I had period.,Product Quality,,False
+Fika Cafe - Lapu-Lapu,5,coffee,Their coffee surprises from the first aroma to the last lingering taste - this coffee is perfection!,Product Quality,,False
+Fiend Coffee Club,5,coffee,"Great coffee, owner is very friendly and accomodating.",Product Quality,,False
+BRGR Alley Café,5,coffee,We didn't want to continue if there was no proper parking so good thing we found it.,Store Operations and Accessibility,,False
+JH Garden Cafe and Restaurant Matina,5,coffee,The staff and their Chef didn't hesitate to provide us with good service and delicious food.,Product Quality,,False
+BRGR Alley Café,5,coffee,"The staff were also warm, polite, and friendly, which made the experience even better.",Customer Service,,False
+&Matcha - Three Yards,5,matcha,10/10 because the matcha tastes really good.,Product Quality,,False
+Habitat Coffee - Tionko Branch,5,coffee,Such a Gen Z vibe - groovy and cozy.,Ambiance and Atmosphere,,False
