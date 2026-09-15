@@ -1,0 +1,9 @@
+sentence,TargetAspect,rating,vote_breakdown,annotator_1,annotator_2,annotator_3,annotator_4,final_sentiment
+"Thirty minutes before 11 PM, our drinks were still not served, so I followed up.",Product Quality,1,"NEGATIVE:2, NEUTRAL:2",NEGATIVE,NEGATIVE,NEUTRAL,NEUTRAL,NEGATIVE
+The place is a little bit crowded which is understandable since it is a newly opened café and the good qualities that I mentioned.,Ambiance and Atmosphere,2,"NEUTRAL:2, POSITIVE:2",NEUTRAL,POSITIVE,NEUTRAL,POSITIVE,NEUTRAL
+"Still on the menu are the old faves — Chicken Enchilada and White Choco Torte….This used to be ""the coffee hang out"" during its glory days…But as so many new coffee shops sprouted through the years, issues with poor air conditioning, slow internet connection, and the second floor always unavailable loudly spells TERRIBLE service.",Product Quality,2,"NEGATIVE:2, POSITIVE:1, NEUTRAL:1",POSITIVE,NEGATIVE,NEUTRAL,NEGATIVE,NEGATIVE
+"The staff is exceptionally polite; however, the food served is ordinary and seems to be cooked without passion.",Customer Service,3,"POSITIVE:2, NEGATIVE:2",POSITIVE,NEGATIVE,POSITIVE,NEGATIVE,NEGATIVE
+"We also paired it with some of their cookies, though honestly, they were just average in taste.",Product Quality,3,"NEGATIVE:2, NEUTRAL:2",NEGATIVE,NEGATIVE,NEUTRAL,NEUTRAL,NEGATIVE
+Magazines on the shelf for time spending on the wall to enjoyment of drinking coffee.,Product Quality,3,"NEUTRAL:2, POSITIVE:2",NEUTRAL,POSITIVE,NEUTRAL,POSITIVE,NEUTRAL
+"Honestly, I thought you bought your cakes from SNR, which offers the same level of taste and consistency.",Product Quality,3,"POSITIVE:2, NEGATIVE:1, NEUTRAL:1",NEGATIVE,POSITIVE,NEUTRAL,POSITIVE,POSITIVE
+2023 update: Main reason for coming here is to try their frozen yogurt but i didnt know they only serve it starting 1pm :( so i had to get iced coffee and a cheesecake instead.,Product Quality,4,"NEUTRAL:2, NEGATIVE:1, POSITIVE:1",NEGATIVE,NEUTRAL,NEUTRAL,POSITIVE,NEUTRAL
