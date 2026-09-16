@@ -1,0 +1,401 @@
+place_name,rating,shop_type,sentence,TargetAspect,sentiment,is_synthetic,prob_negative,prob_neutral,prob_positive,predicted_label,margin
+Starbucks,5,coffee,Truly a Starbuckian and cozy place to chill and unwind,Ambiance and Atmosphere,,False,0.38691276,0.22450367,0.38858354,POSITIVE,0.0016707778
+ROOFTOP Café Bar,5,coffee,Great atmosphere,Ambiance and Atmosphere,,False,0.39399427,0.21474515,0.3912606,NEGATIVE,0.0027336776
+"KAOS CAFE - 24 Hours, Jacinto St.",5,coffee,The staffs are really kind and approachable i like the vibe and the song of choice they play,Ambiance and Atmosphere,,False,0.3889433,0.22185816,0.3891985,POSITIVE,0.0002551973
+Fourth Street Cafe,5,coffee,"Minimalist vibe, al fresco setting, and great coffee.",Ambiance and Atmosphere,,False,0.41359147,0.17542511,0.41098338,NEGATIVE,0.0026080906
+Cafe Demitasse,5,coffee,"We love the vibrant ambiance, customer service of the guards and waiters, clean comfort rooms and the yummy foods especially the cakes.",Ambiance and Atmosphere,,False,0.39737257,0.20896067,0.39366674,NEGATIVE,0.0037058294
+Cafe Gervacios - Pastry and Coffee in Davao City,5,coffee,"We were all happy with the service, the ambiance, and of course the food and drinks.",Ambiance and Atmosphere,,False,0.408475,0.18870692,0.40281802,NEGATIVE,0.0056569874
+Evermore Cafe Davao,5,coffee,"This chic, contemporary establishment perfectly complements the neighborhood's serene ambiance.",Ambiance and Atmosphere,,False,0.39510396,0.20773184,0.3971642,POSITIVE,0.0020602345
+Matcha Point,1,matcha,Way lami itambay kay ang alimuot sa ilang second floor.,Ambiance and Atmosphere,,True,0.38839054,0.22926237,0.3823471,NEGATIVE,0.006043434
+Kotetsu by Wood and Coffee,5,coffee,"The food was really yummy and the ambiance was warm and relaxing, which made the whole experience nice.",Ambiance and Atmosphere,,False,0.40620312,0.19127405,0.4025228,NEGATIVE,0.0036803186
+JH Garden Cafe and Restaurant Matina,4,coffee,Chill place and peaceful.,Ambiance and Atmosphere,,False,0.40851384,0.18629329,0.40519288,NEGATIVE,0.0033209622
+JH Garden Cafe and Restaurant Matina,5,coffee,"The peaceful ambiance, combined with the natural beauty of the surroundings, makes it an ideal place for any occasion.",Ambiance and Atmosphere,,False,0.39032882,0.2138786,0.39579257,POSITIVE,0.005463749
+Koffiepauze,4,matcha,The ambiance is nice,Ambiance and Atmosphere,,False,0.3925297,0.2158158,0.3916545,NEGATIVE,0.0008752048
+Starbucks,5,coffee,Good coffee and good ambiance,Ambiance and Atmosphere,,False,0.38902405,0.21783473,0.3931412,POSITIVE,0.004117161
+Hid'n Coffee,5,coffee,"Definitely among the best coffee shops in Davao City, especially with its laid back open garden atmosphere and its excellent coffee concoctions.",Ambiance and Atmosphere,,False,0.3924227,0.21559565,0.3919816,NEGATIVE,0.00044110417
+KISOM Atelier,5,matcha,Very chill vibe too.,Ambiance and Atmosphere,,False,0.40021947,0.20427762,0.39550292,NEGATIVE,0.0047165453
+Hortus Davao (Matcha & Coffee),5,matcha,The coffee is good  hundred_points  the ambiance is instagramable  camera_with_flash,Ambiance and Atmosphere,,False,0.38603228,0.22479835,0.38916945,POSITIVE,0.0031371713
+Coffee Project Mintal,4,coffee,"The place is beautifully designed — cozy, Instagram-worthy, and has that relaxing vibe that makes you want to stay longer.",Ambiance and Atmosphere,,False,0.40900522,0.18535297,0.4056418,NEGATIVE,0.0033634305
+Good One Cafe and Yogurt,5,coffee,The interior is very unique and the ambiance is great.,Ambiance and Atmosphere,,False,0.3940719,0.20857464,0.39735347,POSITIVE,0.0032815635
+Annipie,5,coffee,Very nice ambiance with lots of cakes to choose from.,Ambiance and Atmosphere,,False,0.39785373,0.21016037,0.39198598,NEGATIVE,0.0058677495
+Bandejas Cafe & Diner,5,coffee,"Lovely atmosphere, delicious food and great music.",Ambiance and Atmosphere,,False,0.4058057,0.19339824,0.400796,NEGATIVE,0.005009711
+Humble Table,4,coffee,The place has a cute and cozy ambiance.,Ambiance and Atmosphere,,False,0.3979025,0.203768,0.3983295,POSITIVE,0.00042700768
+Paramount Coffee Crocodile Park Davao,4,coffee,a place to go for a good cuppa with relaxing ambiance depending on the time of day.,Ambiance and Atmosphere,,False,0.38647607,0.22605278,0.3874712,POSITIVE,0.0009951293
+Fourth Street Cafe,5,coffee,"Love the minimalist approach, the friendly baristas and the cafe's airy & relaxing atmosphere.",Ambiance and Atmosphere,,False,0.39601862,0.2067794,0.397202,POSITIVE,0.0011833608
+ROOFTOP Café Bar,5,coffee,We enjoy the food with the calm ambiance.,Ambiance and Atmosphere,,False,0.3967231,0.20831606,0.39496082,NEGATIVE,0.0017622709
+Daleachious Cafe - Ecoland Branch,5,coffee,Their jazzy background music makes you mellow down and enjoy the ambiance.,Ambiance and Atmosphere,,False,0.39141363,0.2209304,0.38765594,NEGATIVE,0.0037576854
+Outlook,5,coffee,"The outdoor tables are adorned with warm accent lights that mimic candlelight, creating a romantic and intimate atmosphere.",Ambiance and Atmosphere,,False,0.38989478,0.2199999,0.39010537,POSITIVE,0.00021058321
+Fourth Street Cafe,5,coffee,The minimalist design of the cafe creates a soothing atmosphere that's perfect for savoring every sip.,Ambiance and Atmosphere,,False,0.3880175,0.22220795,0.38977456,POSITIVE,0.0017570555
+Starbucks Damosa IT Park Drive-Thru,5,coffee,"The all-glass front and side are particularly pleasing and add a beautiful ambiance, especially at night.",Ambiance and Atmosphere,,False,0.3904443,0.21730794,0.39224774,POSITIVE,0.0018034279
+The Matcha Tokyo - SM Davao,5,matcha,Great atmosphere and service too :)),Ambiance and Atmosphere,,False,0.39719367,0.20946413,0.39334223,NEGATIVE,0.0038514435
+Indahouse Cafe,5,coffee,Place: Very Instagrammable Staff: friendly and very attentive Matcha: you can explore various types of high quality matcha drink.,Ambiance and Atmosphere,,False,0.3954763,0.21302286,0.3915008,NEGATIVE,0.0039755106
+Kafih - Davao,5,coffee,"Worth the price  OK_hand_light_skin_tone  The services, wifi the ambiance.",Ambiance and Atmosphere,,False,0.39080924,0.21853933,0.3906514,NEGATIVE,0.0001578331
+Starbucks SM Davao Expansion Wing,5,coffee,New look but same vibe.,Ambiance and Atmosphere,,False,0.39816728,0.20188376,0.399949,POSITIVE,0.0017817318
+Green Coffee - Marfori,5,coffee,clean and quiet green coffee branch.,Ambiance and Atmosphere,,False,0.39343452,0.21260294,0.39396253,POSITIVE,0.00052800775
+Mandatory Matcha Bar,5,matcha,Small interior space but I absolutely love the intimate atmosphere!,Ambiance and Atmosphere,,False,0.39698464,0.20972456,0.3932908,NEGATIVE,0.0036938488
+Seattle's Best Coffee,5,coffee,I always go for the al fresco area because the ambiance is really nice.,Ambiance and Atmosphere,,False,0.3954862,0.21116664,0.39334717,NEGATIVE,0.002139032
+Space-Arabica,5,coffee,Aesthetic!,Ambiance and Atmosphere,,False,0.39126635,0.21664271,0.39209095,POSITIVE,0.00082460046
+Whisk Davao Matcha,4,matcha,"Love the ambiance, too!",Ambiance and Atmosphere,,False,0.4115213,0.17974408,0.40873462,NEGATIVE,0.0027866662
+Brew and Cinnamon Cafe,5,coffee,"So nice ambiance at this shop, the place is just in front of GoHotel/ Phonex near Guadalupe Village.",Ambiance and Atmosphere,,False,0.39609596,0.21281509,0.391089,NEGATIVE,0.005006969
+The Coffee Bar at GMall of Davao,5,coffee,Elegant Classy vibe.,Ambiance and Atmosphere,,False,0.39635044,0.21100418,0.3926454,NEGATIVE,0.0037050545
+Matcha Bar - Marfori,5,matcha,Cosy atmosphere with unique interior design.,Ambiance and Atmosphere,,False,0.39592093,0.20891306,0.39516604,NEGATIVE,0.0007548928
+KISOM Atelier,3,matcha,It ruins the ambiance of an otherwise lovely place.,Ambiance and Atmosphere,,False,0.39132327,0.21979854,0.38887823,NEGATIVE,0.0024450421
+Whisk Davao Matcha,5,matcha,"Great place, peaceful vibe.",Ambiance and Atmosphere,,False,0.43462673,0.1356721,0.42970112,NEGATIVE,0.0049256086
+Espresso Lab Cafe Davao,4,coffee,Beautiful lighting and great atmosphere,Ambiance and Atmosphere,,False,0.38604584,0.22291856,0.3910356,POSITIVE,0.004989743
+Annipie @ The Farm,5,coffee,A place to go when you want peace and quiet day with family.,Ambiance and Atmosphere,,False,0.39479563,0.21677642,0.388428,NEGATIVE,0.006367624
+Coffee Project Mintal,4,coffee,"The ambiance is cosy, walls with artistic murals that add warmth and playfulness.",Ambiance and Atmosphere,,False,0.38979903,0.21761723,0.39258376,POSITIVE,0.002784729
+Indahouse Cafe,5,coffee,the AMBIANCE you must SEE and FEEL for yourself... it's TRULY worth your TIME and MONEY... #indahouse,Ambiance and Atmosphere,,False,0.38752133,0.22620939,0.38626933,NEGATIVE,0.0012519956
+Coffee at Yellow Hauz,1,coffee,The food and the atmosphere at your establishment are commendable.,Ambiance and Atmosphere,,False,0.39200398,0.2140924,0.39390364,POSITIVE,0.0018996596
+COFFIX COFFEE SHOP,1,coffee,Atmosphere 1/5 No such atmosphere.,Ambiance and Atmosphere,,False,0.39253405,0.21618432,0.3912816,NEGATIVE,0.0012524426
+Matcha Ureshi Bar,5,matcha,"good ambiance, good matcha & good service",Ambiance and Atmosphere,,False,0.4038456,0.19715925,0.39899516,NEGATIVE,0.004850447
+Hortus Davao (Matcha & Coffee),5,matcha,The coffee is good  hundred_points  the ambiance is instagramable  camera_with_flash  …,Ambiance and Atmosphere,,False,0.38698256,0.22426553,0.3887519,POSITIVE,0.0017693341
+Matcha Bar - Marfori,5,matcha,"The place is also very aesthetic, clean and minimalistic.",Ambiance and Atmosphere,,False,0.39550596,0.2056764,0.3988176,POSITIVE,0.003311634
+Dakong Balay,5,coffee,nice atmosphere with delicious food,Ambiance and Atmosphere,,False,0.39063707,0.21845205,0.39091095,POSITIVE,0.00027388334
+Whisk It Good Matcha,5,matcha,Aesthetic vibes!,Ambiance and Atmosphere,,False,0.3936324,0.21031614,0.39605147,POSITIVE,0.0024190545
+Starbucks - SM Lanang,5,coffee,"Cozy atmosphere, relaxing music, and the smell of coffee hits differently the moment you enter.",Ambiance and Atmosphere,,False,0.3966126,0.2081516,0.39523584,NEGATIVE,0.0013767779
+REVEL by Confex,5,coffee,The ambiance is so relaxing and delicious.,Ambiance and Atmosphere,,False,0.39133492,0.21454695,0.39411816,POSITIVE,0.002783239
+Brew Lane Café,4,coffee,I love the ambience and the music so much!,Ambiance and Atmosphere,,False,0.3907075,0.21589924,0.39339328,POSITIVE,0.0026857853
+Indahouse Cafe,4,coffee,Old town Japanese vibe It must be pretty at night when lights hanged on the tree are lit.,Ambiance and Atmosphere,,False,0.38816747,0.22580987,0.38602266,NEGATIVE,0.0021448135
+The Secret Garden Cafe,5,coffee,The Cafe offers a unique ambiance that combines a cozy atmosphere with a beautiful indoor garden setup.,Ambiance and Atmosphere,,False,0.38672635,0.22328143,0.38999227,POSITIVE,0.0032659173
+KISOM Atelier,5,matcha,Love the atmosphere of the place quiet and chill.,Ambiance and Atmosphere,,False,0.39294213,0.21327385,0.39378396,POSITIVE,0.0008418262
+Fourth Street Cafe,5,coffee,The ambiance was conducive for studying.,Ambiance and Atmosphere,,False,0.39697984,0.20470987,0.3983103,POSITIVE,0.0013304651
+The Coffee Bar at GMall of Davao,5,coffee,Good ambiance and very nice place to study!,Ambiance and Atmosphere,,False,0.3989135,0.20176086,0.39932558,POSITIVE,0.0004120767
+Green Coffee - Marfori,5,coffee,Great place for studying and chilling and place is quiet and the atmosphere is peaceful.,Ambiance and Atmosphere,,False,0.39662495,0.20941527,0.39395985,NEGATIVE,0.0026651025
+Cafe Gervacios - Pastry and Coffee in Davao City,5,coffee,"Delicious foods,impleccable service amd charming ambiance blue_heart",Ambiance and Atmosphere,,False,0.39396426,0.20991564,0.39612013,POSITIVE,0.0021558702
+"KAOS CAFE - 24 Hours, Jacinto St.",5,coffee,"The ambiance is cozy and artistic, making the whole experience even more enjoyable.",Ambiance and Atmosphere,,False,0.3922348,0.21384539,0.39391977,POSITIVE,0.0016849637
+Wood and Coffee Davao,4,coffee,"The overall aesthetic of the place was impressive, as expected from a design by an artist.",Ambiance and Atmosphere,,False,0.40504828,0.19468497,0.40026677,NEGATIVE,0.0047815144
+Hola Coffee,5,coffee,And it has a kinda peaceful chill place for me hehe,Ambiance and Atmosphere,,False,0.3896126,0.22213057,0.38825694,NEGATIVE,0.001355648
+Starbucks - SM City Davao,5,coffee,Everything is good the food the service and the ambiance.,Customer Service,,False,0.40091118,0.20457362,0.39451513,NEGATIVE,0.006396055
+Seattle's Best Coffee,5,coffee,Beautiful ambiance and very delicious coffee plus accomodating crew white_heart  sparkles,Customer Service,,False,0.3892749,0.22527236,0.38545272,NEGATIVE,0.0038221776
+Green Coffee - Diversion,1,coffee,Train your staff properly invest in customer service you have the worst customer service in all coffee shop in davao city.,Customer Service,,False,0.38784203,0.22977471,0.38238326,NEGATIVE,0.005458772
+8me sweet cakes and coffe shop,5,coffee,The best and sikwate with puto maya Nice place Nice their service,Customer Service,,False,0.388962,0.22632605,0.38471198,NEGATIVE,0.00425002
+Whisk It Good Matcha,5,matcha,"What really keeps me coming back is the overall experience—the cozy, homey interior and the warm, friendly owners who always make sure you …",Customer Service,,False,0.39378458,0.21425372,0.39196172,NEGATIVE,0.001822859
+Fourth Street Cafe,4,coffee,Price experience score (pes) 7/10 Take out place service ok Coffee good Shop nice Price good,Customer Service,,False,0.3877255,0.22203648,0.39023802,POSITIVE,0.0025125146
+JH Garden Cafe and Restaurant Matina,5,coffee,"love the food , the smiling face of the staff specially the ambiance of the nature",Customer Service,,False,0.3924487,0.21976243,0.3877889,NEGATIVE,0.0046598017
+Blugré Coffee,5,coffee,Good service,Customer Service,,False,0.38545918,0.23443598,0.3801048,NEGATIVE,0.0053543746
+The Coffee Bar at GMall of Davao,5,coffee,Super Lovely and welcoming Staff named Glena Jean,Customer Service,,False,0.3869045,0.22932908,0.3837664,NEGATIVE,0.0031380951
+The Crazy Bite Co. Sky Cafe,4,coffee,Meals star  star  star  star  Burgers  star  star  star  star  star  Coffee  star  star  star  Place  star  star  star  star  star  Crews  star  star  star  star  Great service  star   star   star   star   star,Customer Service,,False,0.38255647,0.23488694,0.38255662,POSITIVE,1.4901161e-07
+Kanoffee Toril,5,coffee,Coffee- 5/5 Place- 5/5 Service- 5/5 it ma,Customer Service,,False,0.39442444,0.2125489,0.3930267,NEGATIVE,0.0013977289
+The Crazy Bite Co. Sky Cafe,5,coffee,the ambiance of the place plus the food is already giving and as well as the workers which is very accommodating in terms of services.,Customer Service,,False,0.392672,0.21863645,0.38869157,NEGATIVE,0.003980428
+The Crazy Bite Co. Sky Cafe,5,coffee,"FROM THE MOMENT YOU WALK IN, THE ENTIRE CREW GREETS YOU WITH THE WARMEST SMILES AND ENERGY AND IT INSTANTLY MAKES YOU FEEL COMFORTABLE AND APPRECIATED!!!",Customer Service,,False,0.3867646,0.22806184,0.38517362,NEGATIVE,0.0015909672
+Kafih - Davao,5,coffee,"Work friendly and relaxing ambiance, free wifi and charging station  OK_hand",Customer Service,,False,0.39061013,0.22202359,0.38736627,NEGATIVE,0.0032438636
+The Coffee Bar at GMall of Davao,5,coffee,"great customer service by Glena Jean, the best among the rest!",Customer Service,,False,0.3894539,0.22407426,0.38647184,NEGATIVE,0.0029820502
+The Coffee Bar at GMall of Davao,5,coffee,Good service,Customer Service,,False,0.38545918,0.23443598,0.3801048,NEGATIVE,0.0053543746
+Matcha Bar - Marfori,5,matcha,The best matcha cafe in the Ph so cozy and friendly and just aesthetically pleasing!,Customer Service,,False,0.3894559,0.22139633,0.3891478,NEGATIVE,0.0003081262
+Mori & Mill,2,coffee,Aesthetics of the restaurant is the total opposite of service and food.,Customer Service,,False,0.38735473,0.22619584,0.38644955,NEGATIVE,0.00090518594
+DUNKIN’ Catalunan Grande,4,coffee,Accommodating ang staff and great ambiance while ga study,Customer Service,,False,0.39151672,0.22294258,0.3855407,NEGATIVE,0.0059760213
+The Crazy Bite Co. Sky Cafe,5,coffee,Food 7.8/10 Matcha 8.5/10 Service 10/10 Place 10/10,Customer Service,,False,0.39263976,0.21351336,0.3938469,POSITIVE,0.0012071431
+Darkk Coffee Co.,5,coffee,"The warm ambiance and friendly people evoke memories of teenage hangouts, while the expertly crafted offers a comforting taste of the past.",Customer Service,,False,0.39457095,0.21661279,0.38881633,NEGATIVE,0.00575462
+Dakong Balay,4,coffee,Good service,Customer Service,,False,0.38545918,0.23443598,0.3801048,NEGATIVE,0.0053543746
+STASH Coffee Co.,4,coffee,The interior was warm staff where friendly and willing to help guess its location is also a plus giving a little privacy,Customer Service,,False,0.39003915,0.2260759,0.3838849,NEGATIVE,0.006154239
+PICKUP COFFEE - Oroderm City,5,coffee,Good service,Customer Service,,False,0.38545918,0.23443598,0.3801048,NEGATIVE,0.0053543746
+Starbucks SM Davao Expansion Wing,5,coffee,And Its really great to have a Nice Food Service and Atmosphere specially the new STarbucks branch,Customer Service,,False,0.3884178,0.22766343,0.38391882,NEGATIVE,0.0044989884
+Fourth Street Cafe,5,coffee,Good Service,Customer Service,,False,0.38540033,0.23457386,0.38002586,NEGATIVE,0.0053744614
+Pursuit of Coffee (POC),5,coffee," cupcake Vanilla Flan Tart, Kalifa Cake  hot_beverage Crossroad latte, Spring Blossom, Roasted Indigo  star genuinely kind staff  star clean and beautifully maintained space  star Impressively fast service  star love the food and drinks overall",Customer Service,,False,0.3817385,0.23492548,0.38333607,POSITIVE,0.0015975535
+Cafe Gervacios - Pastry and Coffee in Davao City,5,coffee,Nice branch Great food friendly staff the place is Brand New and has great ambience,Customer Service,,False,0.39515954,0.2145341,0.3903063,NEGATIVE,0.0048532486
+Purge Coffee Roaster,5,coffee,A real third wave coffee experience in Davao operated by a passionate award winning barista.,Customer Service,,False,0.39226568,0.22194332,0.3857909,NEGATIVE,0.006474763
+Starbucks - Abreeza Mall,5,coffee,"The recent renovation solidifies Starbucks Abreeza as not just a coffee shop but a destination where friendly service, a conducive work environment, and a fresh, modern aesthetic come together for an exceptional experience.",Customer Service,,False,0.39448485,0.21266346,0.3928517,NEGATIVE,0.0016331375
+Kafih - Davao,5,coffee,I love the cafe cause of the barista and food and coffee,Customer Service,,False,0.38797703,0.22700864,0.3850143,NEGATIVE,0.0029627383
+WORK CO COWORKING MATINA BRANCH,5,coffee,The staff name krezel is very friendly and accomodating,Customer Service,,False,0.38970366,0.22432078,0.3859756,NEGATIVE,0.003728062
+Whisk Davao Matcha,5,matcha,"white chocolate matcha is good and the cheesecake as well, every accommodating din tung staff sila Russel and Sam.",Customer Service,,False,0.3885455,0.22874326,0.38271126,NEGATIVE,0.0058342516
+olo. Coffee And Concepts,5,coffee,"I love how cozy and calm the overall vibe is, especially in the outdoor space — it's the perfect spot to relax and unwind.",Facilities and Amenities,,False,0.39319745,0.21729428,0.38950828,NEGATIVE,0.00368917
+The Limestone Brew,5,coffee,A high end coffee and diner in the  red_heart  of Samal with WiFi,Facilities and Amenities,,False,0.38986835,0.22664085,0.38349077,NEGATIVE,0.006377578
+ems Cafe and Resto,3,coffee,Strategic area with many establishments nearby and shared parking space too.,Facilities and Amenities,,False,0.39499688,0.21631749,0.38868564,NEGATIVE,0.006311238
+Pastry Street Pie & Café,5,coffee,pushpin Friendly and pleasant-looking staff  pushpin WiFi!!!,Facilities and Amenities,,False,0.3904259,0.22186005,0.38771406,NEGATIVE,0.0027118325
+The Bloom Coffee & Start-Up Space,4,coffee,Great place to work Good coffee and good food I recommand,Facilities and Amenities,,False,0.3949102,0.21610717,0.3889826,NEGATIVE,0.0059275925
+Dunkin’ Drive Thru,5,coffee,wide and secure parking space to atop over and take a short nap,Facilities and Amenities,,False,0.38443357,0.2322603,0.3833061,NEGATIVE,0.0011274815
+Starbucks Damosa IT Park Drive-Thru,5,coffee,You feel safe with plenty of parking space & polite staff,Facilities and Amenities,,False,0.3910135,0.2213012,0.38768533,NEGATIVE,0.0033281744
+MYLK Cafe,4,matcha,Cozy space and strong ac!,Facilities and Amenities,,False,0.39937472,0.2077958,0.39282954,NEGATIVE,0.006545186
+Coffee Project Mintal,5,coffee,The abundance of natural light and greenery creates a peaceful and calming environment that's perfect for enjoying a cup of coffee or working on your laptop.,Facilities and Amenities,,False,0.38417473,0.23082773,0.38499758,POSITIVE,0.0008228421
+JH Garden Cafe and Restaurant Matina,5,coffee,"Soft lighting, comfortable seating, and natural wood elements create an inviting space that's perfect for everything from casual hangouts to special celebrations.",Facilities and Amenities,,False,0.39162973,0.22137427,0.38699597,NEGATIVE,0.0046337545
+Coffeecat,4,coffee,A quite place for study and review,Facilities and Amenities,,False,0.3882074,0.22649372,0.3852988,NEGATIVE,0.0029086173
+Kafih - Davao,5,coffee,"The ambiance is cozy and conducive to focus, making it an ideal spot for both work and leisure.",Facilities and Amenities,,False,0.39478168,0.21202971,0.39318857,NEGATIVE,0.001593113
+The Bloom Coffee & Start-Up Space,5,coffee,Best work space Yummy Food Good Service,Facilities and Amenities,,False,0.3898302,0.22435063,0.38581917,NEGATIVE,0.004011035
+Barok Cafe and Resto,3,coffee,The space is nice and has a cozy vibe that makes it comfortable to stay and relax.,Facilities and Amenities,,False,0.39284903,0.21548565,0.3916653,NEGATIVE,0.0011837184
+STASH Coffee Co.,5,coffee,Stash has good parking space and tidy comfort room.,Facilities and Amenities,,False,0.3934983,0.21793157,0.38857004,NEGATIVE,0.004928261
+The Matcha Tokyo - SM Davao,5,matcha,Love the aesthetic and how clean the space is!,Facilities and Amenities,,False,0.39142853,0.21812321,0.39044824,NEGATIVE,0.0009802878
+Infinite Caffeine,5,coffee,My friend also greatly appreciate the comfort room because it is so homey and clean.,Facilities and Amenities,,False,0.39435557,0.21672711,0.38891733,NEGATIVE,0.0054382384
+Annipie,5,coffee,"Yummy cinnamon rolls, clean and comfy space",Facilities and Amenities,,False,0.39086267,0.22216745,0.38696986,NEGATIVE,0.0038928092
+Annipie Airport View,5,coffee,Really cozy and aesthetic place to work and eat.,Facilities and Amenities,,False,0.39837813,0.20918824,0.39243358,NEGATIVE,0.00594455
+JH Garden Cafe and Restaurant Matina,5,coffee,The café's strong connection to nature is evident in every corner.,Facilities and Amenities,,False,0.3923275,0.22016972,0.38750285,NEGATIVE,0.0048246384
+Coffeecat,5,coffee,Possibly the best coffee in Davao plus free WiFi,Facilities and Amenities,,False,0.39010185,0.22628006,0.38361815,NEGATIVE,0.006483704
+Starbucks - SM Lanang,4,coffee,The minimalist design and comfortable seating create a welcoming space.,Facilities and Amenities,,False,0.39332402,0.21646042,0.39021558,NEGATIVE,0.0031084418
+Aloha Kakou Neighborhood Cafe,4,coffee,"It offers a spacious parking area and a cozy, beautifully designed space.",Facilities and Amenities,,False,0.3957023,0.21038184,0.39391586,NEGATIVE,0.0017864406
+Kafih - Davao,5,coffee,Kafih is the ideal spot for both great food and a cozy study environment.,Facilities and Amenities,,False,0.39245582,0.21830906,0.38923514,NEGATIVE,0.0032206774
+Coffeecat,5,coffee,"Coffee is really great  hot_beverage  Perfect place for meetings, study sessions, date and for coffee",Facilities and Amenities,,False,0.38943726,0.22561198,0.38495076,NEGATIVE,0.004486501
+olo. Coffee And Concepts,3,coffee,Maybe after tables are freshly cleaned and the patio is tidied up there will be the 5 star atmosphere that is seen in the pictures.,Facilities and Amenities,,False,0.39084965,0.2236504,0.3855,NEGATIVE,0.005349636
+Kafih - Davao,5,coffee,Nice place to study kay peaceful ang second floor,Facilities and Amenities,,False,0.38815364,0.2276013,0.38424507,NEGATIVE,0.0039085746
+Pursuit of Coffee (POC),5,coffee," cupcake Vanilla Flan Tart, Kalifa Cake  hot_beverage Crossroad latte, Spring Blossom, Roasted Indigo  star genuinely kind staff  star clean and beautifully maintained space  star Impressively fast service  star love the food and drinks overall",Facilities and Amenities,,False,0.381779,0.23434635,0.38387465,POSITIVE,0.0020956695
+Seattle's Best Coffee,1,coffee,Cold aircon and great design in architecture and interior.,Facilities and Amenities,,False,0.38893217,0.22261967,0.3884482,NEGATIVE,0.0004839599
+The Coffee Bar at GMall of Davao,5,coffee,The comfort room is the best Like  hundred_points  und echt Sauber,Facilities and Amenities,,False,0.39111033,0.22407033,0.3848194,NEGATIVE,0.0062909424
+The Coffee Bar at GMall of Davao,5,coffee,"The ambiance is clean, aesthetic, and cozy, making it a great place to study or just relax.",Facilities and Amenities,,False,0.4024407,0.19915405,0.39840522,NEGATIVE,0.004035473
+Hikaru de Cielo Cafe,5,coffee,Very nice and good place with aircon  pink_heart,Facilities and Amenities,,False,0.39162672,0.22124974,0.38712355,NEGATIVE,0.0045031607
+Cafe Sierra,5,coffee,Simple and cozy place to dine in and work,Facilities and Amenities,,False,0.39119026,0.2231716,0.38563815,NEGATIVE,0.005552113
+JAS Caffeinated,5,coffee,Good place to study and bond with friends,Facilities and Amenities,,False,0.38955036,0.22537008,0.3850795,NEGATIVE,0.004470855
+Outlook,5,coffee,"The outdoor tables are adorned with warm accent lights that mimic candlelight, creating a romantic and intimate atmosphere.",Facilities and Amenities,,False,0.3927049,0.22066218,0.38663292,NEGATIVE,0.006071985
+JAS Caffeinated,5,coffee,"The ambiance is warm and comfortable, creating a peaceful space where you can truly enjoy your time.",Facilities and Amenities,,False,0.39369962,0.212084,0.3942164,POSITIVE,0.00051677227
+BRGR Alley Café,5,coffee,Place is comfortable and big space abd the vibes is very serenity.,Facilities and Amenities,,False,0.3942494,0.21527731,0.3904733,NEGATIVE,0.0037761033
+&Matcha - Three Yards,5,matcha,+ clean and esthetic restroom,Facilities and Amenities,,False,0.3883279,0.22413053,0.38754156,NEGATIVE,0.0007863343
+Whisk Davao Matcha,5,matcha,very unique drink combos that just Work wonderfully.,Facilities and Amenities,,False,0.39061686,0.22433138,0.38505176,NEGATIVE,0.005565107
+Cafe Gervacios - Pastry and Coffee in Davao City,5,coffee,"I'm particularly drawn to the interior—its mid-century aesthetic is thoughtfully executed and well-maintained, creating a space that feels both stylish and inviting.",Facilities and Amenities,,False,0.3961807,0.21311073,0.39070863,NEGATIVE,0.005472064
+"KAOS CAFE - 24 Hours, Jacinto St.",5,coffee,Kaos Cafe is my new favorite spot because it perfectly balances a productive work vibe with the best atmosphere for a barkada hangout.,Facilities and Amenities,,False,0.39154747,0.22217064,0.38628185,NEGATIVE,0.0052656233
+Humble Table,5,coffee,The place there is so cozy and perfect to study and very instragrammable.,Facilities and Amenities,,False,0.39346388,0.21693406,0.38960207,NEGATIVE,0.0038618147
+Purge Coffee Roaster,5,coffee,"This shop is more coffee centric, small space, intimate and modern atmosphere with friendly unassuming baristas who let their coffee nad the quality of the experience they offer speak for itself.",Facilities and Amenities,,False,0.3914584,0.22297773,0.38556388,NEGATIVE,0.005894512
+Annipie Airport View,5,coffee,Their CR got fresh calachuchi petals that added to the freshness and cleanliness of their CR.,Facilities and Amenities,,False,0.38770068,0.2264154,0.38588402,NEGATIVE,0.0018166602
+Purge Coffee Roaster,4,coffee,"A cozy haven, with a unique embrace, Crafted cups served, within this warm space.",Facilities and Amenities,,False,0.40028197,0.20321499,0.39650312,NEGATIVE,0.003778845
+Dear Joe Frontera,5,coffee,Such a unique ambiance as well perfect if you're looking for a working space.,Facilities and Amenities,,False,0.39334947,0.2168664,0.3897841,NEGATIVE,0.003565371
+Lately Coffee,5,coffee,"Behind it is a staircase leading to a beautifully designed space with warm lighting, minimalist décor, and a charming speakeasy vibe.",Facilities and Amenities,,False,0.3962995,0.21397538,0.3897251,NEGATIVE,0.006574422
+Hid'n Coffee,4,coffee,Ambiance had a cozy feels to it with a decent amount of tables and chairs.,Facilities and Amenities,,False,0.3933174,0.21712475,0.38955793,NEGATIVE,0.0037594736
+Seattle's Best Coffee,5,coffee,The upholstery of chairs a classy and classic in appearance.,Facilities and Amenities,,False,0.38574907,0.22996718,0.38428378,NEGATIVE,0.0014652908
+Kafih - Davao,5,coffee,"Worth the price  OK_hand_light_skin_tone  The services, wifi the ambiance.",Facilities and Amenities,,False,0.39345172,0.21877407,0.38777417,NEGATIVE,0.005677551
+Starbucks Damosa IT Park Drive-Thru,5,coffee,Starbucks has a way of creating a space that feels both professional and personal.,Facilities and Amenities,,False,0.39154246,0.21993117,0.38852632,NEGATIVE,0.003016144
+Green Coffee - Ecoland,5,coffee,"Good for coffee, place to work and to study",Facilities and Amenities,,False,0.3914111,0.22142744,0.3871615,NEGATIVE,0.0042496026
+MYLK Cafe,4,matcha,Cozy space and strong ac!,Facilities and Amenities,,False,0.39937472,0.2077958,0.39282954,NEGATIVE,0.006545186
+Green Coffee - Marfori,5,coffee,It has a wide space and the internet connection is quite good,Facilities and Amenities,,False,0.39093748,0.22357482,0.38548768,NEGATIVE,0.0054498017
+Coffee Hub,5,coffee,Affordable coffee and a freshly brewed coffee beans round the clock plus a comfortable place to kill time.,Price and Value,,False,0.38929877,0.22742772,0.3832735,NEGATIVE,0.0060252547
+Fourth Street Cafe,5,coffee,label  The price point is also great value for such good coffee.,Price and Value,,False,0.3861391,0.2296057,0.3842551,NEGATIVE,0.0018839836
+Kafih - Davao,5,coffee,affordable 24 hrs coffee shop,Price and Value,,False,0.38555333,0.2341551,0.38029158,NEGATIVE,0.005261749
+MATCHATUALS,5,coffee,5/5 price 5/5 taste of matcha  heart_hands_light_skin_tone  …,Price and Value,,False,0.38649938,0.22841658,0.3850841,NEGATIVE,0.0014152825
+Coffee at Yellow Hauz,5,coffee,Still the coziest and affordable cafe nearest to Crossfit Cranium,Price and Value,,False,0.38907936,0.22779572,0.38312492,NEGATIVE,0.0059544444
+LASA DAVAO,5,coffee,"Overall, great value for money and recommended!""",Price and Value,,False,0.39261857,0.21666011,0.39072135,NEGATIVE,0.0018972158
+PICKUP COFFEE - Gaisano Grand Citygate,5,coffee,food is delicious and affordable also the coffee,Price and Value,,False,0.38919437,0.22780453,0.3830011,NEGATIVE,0.00619328
+The Coffee Spot & Lounge,4,coffee,love the affordable coffee price and quality,Price and Value,,False,0.385898,0.23245151,0.38165048,NEGATIVE,0.0042475164
+Fourth Street Cafe,4,coffee,Price experience score (pes) 7/10 Take out place service ok Coffee good Shop nice Price good,Price and Value,,False,0.3864018,0.22311744,0.39048076,POSITIVE,0.0040789545
+HYGGE COFFEE 2,5,coffee,"11/10 overall a must try coffee shop jud , recommended foods and drinks super ka budget friendly plus the quality thumbs up jud red_heart",Price and Value,,False,0.3918888,0.22216219,0.385949,NEGATIVE,0.0059398115
+Black Scoop Cafe Matina,5,coffee,Good vibes everywhere: from the staff to the food to the place itself.,Product Quality,,False,0.401154,0.20397523,0.39487076,NEGATIVE,0.0062832534
+Kapeweñoz V. Mapa,5,coffee,Great coffee specially the LecheFlan Cheese Cake the best!,Product Quality,,False,0.38657323,0.22820851,0.3852183,NEGATIVE,0.0013549328
+Gulf Coast Coffee and Co.,5,coffee,affordable and the coffee looks good,Product Quality,,False,0.38874784,0.22631177,0.38494036,NEGATIVE,0.003807485
+Cafe Demitasse,5,coffee,NICE PLACE MY FAVORITE PLACE heart_suit  GOOD FOOD THE CREW ARE FRIENDLY,Product Quality,,False,0.38768232,0.22158943,0.3907282,POSITIVE,0.0030458868
+Better Beans Co. - Coffee Roaster (New Location),5,coffee,"One of the best coffee shops in town and definitely my go-to bean roaster for freshly roasted, premium-quality coffee.",Product Quality,,False,0.38966373,0.2245551,0.38578123,NEGATIVE,0.0038824975
+The Coffee Spot & Lounge,5,coffee,A must visit place for coffee lovers  blue_heart  Unlike other coffee shops in Calinan were latte & capucinno tasted the same.,Product Quality,,False,0.38939494,0.22718492,0.38342017,NEGATIVE,0.0059747696
+The Coffee Bar at GMall of Davao,5,coffee,The ambience is really great and so is the food,Product Quality,,False,0.39092326,0.22096778,0.38810903,NEGATIVE,0.0028142333
+Out of Boredom,5,matcha,"The matcha has a smooth, consistent texture with a well-balanced umami flavor and a rich, authentic …",Product Quality,,False,0.3853812,0.22819978,0.38641906,POSITIVE,0.0010378659
+The Limestone Brew,5,coffee,A high end coffee and diner in the  red_heart  of Samal with WiFi,Product Quality,,False,0.38812304,0.22864333,0.38323364,NEGATIVE,0.004889399
+KISOM Atelier,5,matcha,"The interior, aesthetic, and quality of matcha is exceptional.",Product Quality,,False,0.38910523,0.2215838,0.38931096,POSITIVE,0.00020572543
+PICKUP COFFEE - Oroderm City,5,coffee,A place that truly turns simple coffee moments into unforgettable memories,Product Quality,,False,0.38637227,0.22546919,0.38815856,POSITIVE,0.0017862916
+Whisk Davao Matcha,5,matcha,Loved the place & the matcha latte is 10/10!!,Product Quality,,False,0.3922582,0.22084028,0.3869015,NEGATIVE,0.005356699
+Haron's Cafe,4,coffee,Great coffee Delicious fresh rolls Interesting take on a full English breakfast,Product Quality,,False,0.3876245,0.23046364,0.3819119,NEGATIVE,0.0057125986
+Bean Xpress Matina Branch,5,coffee,"All together make a smooth and tasty coffee, perfect base also for a good cappuccino.",Product Quality,,False,0.3902435,0.22279458,0.38696194,NEGATIVE,0.0032815635
+Purge Coffee Roaster,5,coffee,Very good specialty coffee that uses freshly roasted beans and farm fresh milk.,Product Quality,,False,0.38437715,0.23297538,0.38264742,NEGATIVE,0.0017297268
+Whisk Davao Matcha,5,matcha,Loved the matcha and the creamy seta alfredo Ms. Angel was very accommodating and made the experience even better.,Product Quality,,False,0.38850784,0.22720864,0.38428348,NEGATIVE,0.00422436
+Court Side Café,5,coffee,A small air conditioned coffee place with a quiet atmosphere next to Bankerohan and on top the Badminton center.,Product Quality,,False,0.39229882,0.22164595,0.38605523,NEGATIVE,0.0062435865
+Happy Valley Cafe Davao,5,coffee,"Very cozy and the focus is not just on aesthetics, the food and drinks are also legit delicious  hundred_points",Product Quality,,False,0.38803118,0.2245354,0.3874334,NEGATIVE,0.000597775
+The Matcha Tokyo - Azuela High Street,5,matcha,Favorite matcha drink and pastry,Product Quality,,False,0.38624606,0.22985311,0.3839008,NEGATIVE,0.002345264
+Barok Cafe and Resto,2,coffee,"Barok Café & Resto is a mix of coffee shop, restaurant and events place.",Product Quality,,False,0.3926976,0.22114016,0.38616228,NEGATIVE,0.0065353215
+Isem Cafe,5,coffee,the coffee was fantastic and perfect for coffee lovers exploring new options in the city.,Product Quality,,False,0.39085647,0.2224626,0.38668096,NEGATIVE,0.004175514
+Coffee Project Mintal,5,coffee,"You can tell that the baristas take great care in crafting each cup of coffee, ensuring that every customer is satisfied with their drink.",Product Quality,,False,0.39166808,0.22203109,0.3863009,NEGATIVE,0.0053671896
+Coffeefolks Cafe,5,coffee,A cozy place to chill and the staff are very friendly and passionate about their coffee,Product Quality,,False,0.39353693,0.21947579,0.38698727,NEGATIVE,0.0065496564
+Green Coffee - Marfori,5,coffee,Green coffee is 10 times more delicious than Boss Coffee.,Product Quality,,False,0.3866077,0.22812702,0.3852653,NEGATIVE,0.0013424158
+Fourth Street Cafe,4,coffee,"A coffee shop with a unique coffee and clean interior, featured in trending Facebook and Instagram photos.",Product Quality,,False,0.39148057,0.21826573,0.3902537,NEGATIVE,0.0012268722
+Habitat Coffee - Tionko Branch,5,coffee,"in a coffee scene that is super saturated na, this cafe has its own vibe and taste that sets it apart from the others.",Product Quality,,False,0.38437504,0.23283283,0.3827921,NEGATIVE,0.0015829504
+Spilled Coffee,5,matcha,baristas are kind enough to tailor it to your taste and the beans they use smell so good?!,Product Quality,,False,0.38630122,0.23273772,0.38096103,NEGATIVE,0.0053401887
+Whisk Davao Matcha,4,matcha,Tried their Whisk Hibiscus Matcha and loved it!,Product Quality,,False,0.38892388,0.22863688,0.3824393,NEGATIVE,0.006484598
+Coffee Project Mintal,5,coffee,The abundance of natural light and greenery creates a peaceful and calming environment that's perfect for enjoying a cup of coffee or working on your laptop.,Product Quality,,False,0.38351697,0.23158398,0.38489908,POSITIVE,0.0013821125
+BRGR Alley Café,5,coffee,Exelent verry friendly and good staff and good food,Product Quality,,False,0.3911385,0.21901548,0.38984603,NEGATIVE,0.0012924671
+Vanitea Cafe,5,coffee,Keep making excellent pastries and coffee!,Product Quality,,False,0.39511368,0.21593903,0.38894725,NEGATIVE,0.0061664283
+Sipscape Cafe,5,coffee,Sipscape Cafe is an awesome environment with amazing beverages and food!,Product Quality,,False,0.3890143,0.22334577,0.38763988,NEGATIVE,0.0013744235
+Beyond Beans & Co,5,matcha,Tried the dirty matcha and matcha strawberry and the oat barley is really giving!,Product Quality,,False,0.384355,0.23366925,0.38197577,NEGATIVE,0.0023792386
+The Matcha Tokyo - Azuela High Street,5,matcha,Very nice cafe ambiance and yummy matcha!!,Product Quality,,False,0.39539942,0.2092669,0.3953337,NEGATIVE,6.571412e-05
+Seattle's Best Coffee,4,coffee,The new place is absolutely a pretty go to place for the coffee lovers.,Product Quality,,False,0.39314982,0.2186601,0.38819003,NEGATIVE,0.004959792
+BRGR Alley Café,5,coffee,Delicious food,Product Quality,,False,0.381218,0.2389889,0.37979314,NEGATIVE,0.001424849
+MYLK Cafe,5,matcha,Probably one of the best coffee in Marfori!,Product Quality,,False,0.39086562,0.22173594,0.3873984,NEGATIVE,0.003467232
+Espresso Lab Cafe Davao,5,coffee,The perfect ambiance to enjoy your peace and coffee.,Product Quality,,False,0.39327952,0.21656759,0.39015296,NEGATIVE,0.0031265616
+Coffee By The Way,5,coffee,"Coffee By The Way is not just a coffee shop; it's a serene escape into nature, offering an unparalleled coffee experience that seamlessly blends quality brews with a refreshing natural ambiance.",Product Quality,,False,0.3920023,0.22081162,0.38718614,NEGATIVE,0.0048161745
+Koffiepauze,5,matcha,The white and wood themed interior makes it a great place to hang out and have coffee.,Product Quality,,False,0.39063308,0.2232364,0.38613048,NEGATIVE,0.0045025945
+Whisk Davao Matcha,5,matcha,"white chocolate matcha is good and the cheesecake as well, every accommodating din tung staff sila Russel and Sam.",Product Quality,,False,0.38662773,0.23005667,0.3833156,NEGATIVE,0.0033121407
+Whisk Davao Matcha,5,matcha,The owner is so kind and the matcha is delicious  face_savoring_food  …,Product Quality,,False,0.39166278,0.22280754,0.38552973,NEGATIVE,0.0061330497
+Apo Cafe,5,coffee,Great and accessible Halal cafe with prayer room situated in a very student-heavy location so best for studious college students who want to review while snacking on good food and drinks,Product Quality,,False,0.38599256,0.22868043,0.38532707,NEGATIVE,0.00066548586
+KISOM Atelier,5,matcha,A very cozy place to chill and have matcha,Product Quality,,False,0.39058697,0.22539619,0.38401684,NEGATIVE,0.0065701306
+Craft Coffee & Roastery,5,coffee,Indulge in the irresistible aroma and taste of their brewed coffee.,Product Quality,,False,0.3840896,0.23188291,0.3840275,NEGATIVE,6.207824e-05
+Paramount Coffee - Twin Palms,5,coffee,Paramount Coffee Twinpalm has such a cozy and inviting atmosphere!,Product Quality,,False,0.3906144,0.21899651,0.3903891,NEGATIVE,0.00022527575
+Whisk Davao Matcha,5,matcha,"The Signature Cacao was amazing, you can really taste the …",Product Quality,,False,0.39451742,0.21594818,0.38953435,NEGATIVE,0.0049830675
+Matcha Bar - Marfori,5,matcha,Matcha Bar offers a vibrant and welcoming ambiance that creates a truly enjoyable café experience.,Product Quality,,False,0.38557106,0.2258309,0.38859802,POSITIVE,0.0030269623
+Espresso Lab Cafe Davao,5,coffee,Excellent taste of coffee and pastries,Product Quality,,False,0.38622156,0.22908458,0.3846938,NEGATIVE,0.0015277565
+Hid'n Coffee,2,coffee,1 tending to the coffee and 2 tending to the food.,Product Quality,,False,0.3885826,0.22798401,0.3834335,NEGATIVE,0.0051490963
+The Bloom Coffee & Start-Up Space,5,coffee,"5/5, 100/100, perfect coffee shop.",Product Quality,,False,0.40353787,0.19902077,0.39744136,NEGATIVE,0.006096512
+Brew and Cinnamon Cafe,4,coffee,"This cafe shop offers a warm, inviting ambiance, exceptional coffee, and friendly service that make it a must visit spot.",Product Quality,,False,0.40167782,0.20286807,0.3954541,NEGATIVE,0.0062237084
+Darkk Coffee Co.,5,coffee,Dark coffee is a must try for coffee enthisiasts like me.,Product Quality,,False,0.38935754,0.22679962,0.3838428,NEGATIVE,0.005514741
+Good One Cafe and Yogurt,5,coffee,very aesthetic and loved the yogurt and drinks,Product Quality,,False,0.3822449,0.23351404,0.38424104,POSITIVE,0.0019961298
+TALA Cafe,5,coffee,"Honey vibe, good food and coffee",Product Quality,,False,0.3901035,0.21948202,0.39041457,POSITIVE,0.00031107664
+Blnko Street Cafe,5,coffee,"From expertly crafted coffee to refreshing non-coffee beverages, every drink is thoughtfully prepared with quality and consistency in mind.",Product Quality,,False,0.39020607,0.22548647,0.3843075,NEGATIVE,0.005898565
+Brew and Cinnamon Cafe,5,coffee,My girlfriend and I visit this café several times every month because it's one of our favorite places to relax and enjoy great food together.,Product Quality,,False,0.3913651,0.22300424,0.3856307,NEGATIVE,0.005734414
+Paramount Coffee Crocodile Park Davao,5,coffee,Best local coffee dria sa davao  pink_heart,Product Quality,,False,0.39078236,0.22499731,0.3842204,NEGATIVE,0.0065619648
+The Matcha Tokyo - Azuela High Street,4,matcha,"The flavor was rich, earthy, and noticeably more authentic than the average café matcha latte, with a pleasant umami depth and just the right level of sweetness.",Product Quality,,False,0.3928887,0.2189022,0.38820913,NEGATIVE,0.0046795607
+Green Bread - Matina,5,coffee,Very aesthetic place good service and the staff so friendly and especially to the chef lami mag luto kudos to all balik balik kami <3,Product Quality,,False,0.39024803,0.22314885,0.38660306,NEGATIVE,0.003644973
+The Matcha Tokyo - SM Davao,3,matcha,I love the Matcha drinks and soft serve ice cream.,Product Quality,,False,0.38902837,0.22797668,0.3829949,NEGATIVE,0.00603348
+Kingdom Cafe & Bistro,5,coffee,"Overall, Kingdom Cafe and Bistro is a hidden gem that provides an exceptional coffee shop experience.",Product Quality,,False,0.38741323,0.22430348,0.3882833,POSITIVE,0.0008700788
+Knto Cinco - Puan Branch,5,coffee,Coffee is good too maple_leaf,Product Quality,,False,0.38761082,0.23100585,0.3813833,NEGATIVE,0.006227523
+Cafe Demitasse,4,coffee,Their coffee's distinct flavor and taste is what I truly love and sets them apart from the rest.,Product Quality,,False,0.38726974,0.22884242,0.3838879,NEGATIVE,0.0033818483
+"KAOS CAFE - 24 Hours, Jacinto St.",3,coffee,"First, the coffee is so good, my friends and I would rate it a 9/10.",Product Quality,,False,0.39204055,0.220291,0.3876684,NEGATIVE,0.0043721497
+The Matcha Tokyo - Azuela High Street,5,matcha,update: the hot matcha latte is so good with the latte art.,Product Quality,,False,0.38908508,0.22458805,0.3863269,NEGATIVE,0.0027581751
+Starbucks - SM Lanang,4,coffee,Excellent location cleverly situated in the second floor of the mall giving you a good view of all the shops and people traffic activity.,Store Operations and Accessibility,,False,0.38658056,0.22657481,0.3868447,POSITIVE,0.00026413798
+Paramount Coffee - Twin Palms,4,coffee,"Unavoidably along the road right beside Twin Palms Residences, your eyes will revert to the two floors of space and sufficient parking lot.",Store Operations and Accessibility,,False,0.38707024,0.22843476,0.38449502,NEGATIVE,0.0025752187
+Starbucks - Matina IT Park,5,coffee,Spacious and Accessible,Store Operations and Accessibility,,False,0.389734,0.22563908,0.38462695,NEGATIVE,0.005107045
+Starbucks - SM Lanang,5,coffee,Coffee and pastries is on one good location,Store Operations and Accessibility,,False,0.38377625,0.23217635,0.3840474,POSITIVE,0.00027114153
+Haron's Cafe,5,coffee,The most beautiful coffee shop in Dafawa city... open 24 hours,Store Operations and Accessibility,,False,0.38832244,0.22678693,0.38489065,NEGATIVE,0.003431797
+Habitat Coffee - Tionko Branch,4,coffee,Small cafe with an open-air space and an additional nicely-decorated second floor.,Store Operations and Accessibility,,False,0.39227465,0.22174832,0.38597703,NEGATIVE,0.006297618
+Apo Cafe,5,coffee,Great and accessible Halal cafe with prayer room situated in a very student-heavy location so best for studious college students who want to review while snacking on good food and drinks,Store Operations and Accessibility,,False,0.38689622,0.22837374,0.38473004,NEGATIVE,0.0021661818
+ems Cafe and Resto,3,coffee,Strategic area with many establishments nearby and shared parking space too.,Store Operations and Accessibility,,False,0.3932151,0.21924676,0.3875381,NEGATIVE,0.005676985
+STASH Coffee Co.,5,coffee,The place is located on the second floor of TBT building with a good amount of parking space.,Store Operations and Accessibility,,False,0.39181715,0.22252643,0.38565633,NEGATIVE,0.0061608255
+Seattle's Best Coffee,4,coffee,"The place has a bigger area inside the coffeeshop and the parking, comfortable seats.",Store Operations and Accessibility,,False,0.3900657,0.22618532,0.38374892,NEGATIVE,0.006316781
+Aloha Kakou Neighborhood Cafe,4,coffee,"It offers a spacious parking area and a cozy, beautifully designed space.",Store Operations and Accessibility,,False,0.39388415,0.2138273,0.3922886,NEGATIVE,0.0015955567
+Dear Joe Frontera,5,coffee,Naa pod plants which make the atmosphere feel like you are in a jungle or close to nature.,Store Operations and Accessibility,,False,0.38827744,0.22815703,0.3835656,NEGATIVE,0.0047118366
+Coffee For Peace at One Oasis,5,coffee,Close to appartelle oasis,Store Operations and Accessibility,,False,0.39216673,0.22208543,0.3857478,NEGATIVE,0.0064189434
+Green Coffee - Diversion,5,coffee,Original Green Coffee was in Torres Sts it has also good location.,Store Operations and Accessibility,,False,0.3896049,0.2232519,0.38714316,NEGATIVE,0.0024617314
+Black Scoop Cafe Matina,4,coffee,It has a highly visible location and a dedicated parking area.,Store Operations and Accessibility,,False,0.39416906,0.21690935,0.38892162,NEGATIVE,0.005247444
+The Crazy Bite Co. Sky Cafe,4,coffee,"Mostly, what is wow is view and location of the place.",Store Operations and Accessibility,,False,0.39000857,0.22336838,0.38662302,NEGATIVE,0.0033855438
+STASH Coffee Co.,5,coffee,Stash has good parking space and tidy comfort room.,Store Operations and Accessibility,,False,0.3920496,0.22086298,0.38708737,NEGATIVE,0.0049622357
+"The Coffee Bar, Gaisano Mall of Toril",5,coffee,"the location is delightful wherein you can have mountain view, delicious food and hot coffee.",Store Operations and Accessibility,,False,0.3940285,0.21767217,0.38829923,NEGATIVE,0.005729288
+Glasshouse Coffee,5,coffee,The location is a reminder of how green spaces make things even better.,Store Operations and Accessibility,,False,0.39013746,0.22280575,0.3870568,NEGATIVE,0.003080666
+One Corner Coffee Lifestyle and Beyond,5,coffee,I LOVE THE AMBIANCE <3,Ambiance and Atmosphere,,False,0.38840142,0.22319658,0.38840204,POSITIVE,6.2584877e-07
+Coffeecat,5,coffee,Love the ambiance and food!,Ambiance and Atmosphere,,False,0.3997164,0.20056337,0.39972028,POSITIVE,3.874302e-06
+Fourth Street Cafe,5,coffee,"Minimalist, great ambiance and fast service!",Ambiance and Atmosphere,,False,0.41052973,0.17894706,0.4105232,NEGATIVE,6.5267086e-06
+Paramount Coffee Crocodile Park Davao,5,coffee,Ambiance is so nice and relaxing.,Ambiance and Atmosphere,,False,0.39037496,0.2192742,0.39035085,NEGATIVE,2.4110079e-05
+STASH Coffee Co.,4,coffee,"Delicious coffee, chill vibes.",Ambiance and Atmosphere,,False,0.39960518,0.20076081,0.39963397,POSITIVE,2.8789043e-05
+Lara Mia Café & Bistro,5,coffee,Love the ambiance too!,Ambiance and Atmosphere,,False,0.40076905,0.19851573,0.40071517,NEGATIVE,5.38826e-05
+Glasshouse Coffee,5,coffee,The wooden interiors give off a calming vibe.,Ambiance and Atmosphere,,False,0.39419466,0.21168117,0.39412415,NEGATIVE,7.0512295e-05
+olo. Coffee And Concepts,5,coffee,I really like the ambiance and all.,Ambiance and Atmosphere,,False,0.39401716,0.21203947,0.39394337,NEGATIVE,7.379055e-05
+Glasshouse Coffee,4,coffee,Quiet and elegant,Ambiance and Atmosphere,,False,0.38813788,0.22380193,0.38806018,NEGATIVE,7.7694654e-05
+Humble Table,5,coffee,"The café itself has a cozy vibe, making it a great spot to relax and enjoy a delicious drink.",Ambiance and Atmosphere,,False,0.39391592,0.2122537,0.39383042,NEGATIVE,8.550286e-05
+Lara Mia Café & Bistro,5,coffee,An aswome restaurant with great food and delightful atmosphere  OK_hand,Ambiance and Atmosphere,,False,0.3884221,0.2230572,0.38852066,POSITIVE,9.855628e-05
+Kiks Davao,3,coffee,The rich and bold flavors of the coffee really hit the spot.,Product Quality,,False,0.3871834,0.22552967,0.38728693,POSITIVE,0.00010353327
+PICKUP COFFEE - Oroderm City,5,coffee,The place has such a calm and cozy vibe — definitely a café we'll always keep coming back to.,Ambiance and Atmosphere,,False,0.3960942,0.20791557,0.3959902,NEGATIVE,0.000104010105
+Chatime - SM Ecoland Davao,3,coffee,Typical chatime drinks small and fast for your cold milk tea,Product Quality,,False,0.38276675,0.23435976,0.38287348,POSITIVE,0.00010672212
+MYLK Cafe,5,matcha,Space was small but very homey like ambiance,Ambiance and Atmosphere,,False,0.39267507,0.21454151,0.39278346,POSITIVE,0.00010839105
+MYLK Cafe,5,matcha,Space was small but very homey like ambiance,Ambiance and Atmosphere,,False,0.39267507,0.21454151,0.39278346,POSITIVE,0.00010839105
+The Coffee Bar at GMall of Davao,5,coffee,Everything is good from ambiance-food-staff.,Ambiance and Atmosphere,,False,0.39251792,0.21485078,0.39263135,POSITIVE,0.00011342764
+Kove,3,coffee,"Sure, it looked neat and added to the overall aesthetic.",Ambiance and Atmosphere,,False,0.3970741,0.2057354,0.3971905,POSITIVE,0.00011640787
+Humble Table,4,coffee,I really like the vibe of this place.,Ambiance and Atmosphere,,False,0.3955424,0.20903566,0.39542192,NEGATIVE,0.00012049079
+Indahouse Cafe,5,coffee,Well-made furniture and an atmosphere that's calm but not stiff.,Ambiance and Atmosphere,,False,0.3921866,0.2157483,0.39206514,NEGATIVE,0.000121474266
+Pastry Street Pie & Café,5,coffee,pushpin The ambience is very homey  pushpin They had a taste of curated music playlist that sets that comforting vibe.,Ambiance and Atmosphere,,False,0.3868678,0.22638957,0.38674268,NEGATIVE,0.00012511015
+Cafe Demitasse,4,coffee,Place has Denny's resto kind of ambiance.,Ambiance and Atmosphere,,False,0.392413,0.21503742,0.39254954,POSITIVE,0.00013655424
+Matcha Loco,1,matcha,"Not aesthetically pleasing sa personal, untidy and noisy.",Ambiance and Atmosphere,,True,0.39192325,0.21601354,0.39206317,POSITIVE,0.0001399219
+Steep Kohi,5,coffee,Ordered Matcha Volume 1 enjoyed the drink has a very bold matcha flavor with very slight sweetness.,Product Quality,,False,0.383384,0.23308933,0.38352665,POSITIVE,0.00014266372
+Café de Vivré,5,coffee,The ambiance of the place is also really nice.,Ambiance and Atmosphere,,False,0.39612255,0.20761018,0.39626724,POSITIVE,0.00014469028
+ROOFTOP Café Bar,5,coffee,"I love the vibe, the food and drinks are great",Ambiance and Atmosphere,,False,0.39462316,0.21060371,0.3947732,POSITIVE,0.00015002489
+Knto Cinco - Puan Branch,5,coffee,The sweetness is just right to your palate and is best paired with coffee.,Product Quality,,False,0.3858964,0.22836794,0.3857356,NEGATIVE,0.00016081333
+Door 3 Cafe,5,coffee,me and my gf loved the atmosphere so much!,Ambiance and Atmosphere,,False,0.3924709,0.2148968,0.39263222,POSITIVE,0.00016131997
+Cafe Basilico,5,coffee,"From the moment we walked in, we felt right at home in the warm, inviting atmosphere.",Ambiance and Atmosphere,,False,0.40003192,0.19976984,0.40019828,POSITIVE,0.00016635656
+"The Coffee Bar, Gaisano Mall of Toril",5,coffee,Great ambiance and great food,Ambiance and Atmosphere,,False,0.39420003,0.21176991,0.39403012,NEGATIVE,0.00016990304
+Purge Coffee Roaster,4,coffee,It also has a feel good cozy vibe.,Ambiance and Atmosphere,,False,0.39112893,0.21792096,0.39095008,NEGATIVE,0.00017884374
+Starbucks - Matina IT Park,4,coffee,Coffee is great and the vibe of the place nice.,Ambiance and Atmosphere,,False,0.3972933,0.2052337,0.39747304,POSITIVE,0.0001797378
+Coffeecat,4,coffee,Coffee taste good and cream brulee just suits their coffee,Product Quality,,False,0.38407737,0.23204406,0.38387856,NEGATIVE,0.00019881129
+Starbucks Damosa IT Park Drive-Thru,4,coffee,Coffee and ambiance is always great.,Ambiance and Atmosphere,,False,0.39594212,0.20831543,0.39574248,NEGATIVE,0.00019964576
+TALA Cafe,5,coffee," star  star  star  star  star  Absolutely fantastic coffee!If you are a true coffee lover, you need to visit this place.",Product Quality,,False,0.39054412,0.2191162,0.39033967,NEGATIVE,0.00020444393
+Vibes Cafe,1,coffee,Saba kay ga dungan ang music ug ang saba sa mga tao.,Ambiance and Atmosphere,,True,0.385384,0.22944443,0.38517153,NEGATIVE,0.00021246076
+Solace - Coffee Club,5,coffee,One of the best spot to chill and dine here in Toril!,Ambiance and Atmosphere,,False,0.38970074,0.22081283,0.38948643,NEGATIVE,0.0002143085
+The Secret Garden Cafe,5,coffee,The place itself has a really cozy atmosphere - filled with antiques and plants.,Ambiance and Atmosphere,,False,0.39620957,0.20736535,0.3964251,POSITIVE,0.0002155304
+Outlook,4,coffee,"The atmosphere transforms with the evening lights, creating a cozy and inviting setting perfect for a memorable dining experience.",Ambiance and Atmosphere,,False,0.39043579,0.2193556,0.39020863,NEGATIVE,0.0002271533
+Green Coffee - Ecoland,5,coffee,"cold, quiet, and clean green coffee location.",Ambiance and Atmosphere,,False,0.4211584,0.1574558,0.4213858,POSITIVE,0.00022739172
+Binnamon Cafe,5,matcha,1000000/10 for Matcha and Aglio Olio,Product Quality,,False,0.38294026,0.23434934,0.38271043,NEGATIVE,0.00022983551
+Solace - Coffee Club,5,coffee,Ambiance is relaxing and their Coffee and Pasta is great!,Ambiance and Atmosphere,,False,0.3944209,0.2113887,0.39419046,NEGATIVE,0.00023043156
+Glasshouse Coffee,5,coffee,That itself would say the quality of coffee bean they use... And the Ambience  hundred_points  natural... Best Part is the Bamboo Straws...,Product Quality,,False,0.3844586,0.23084494,0.38469642,POSITIVE,0.00023782253
+Annipie @ The Farm,5,coffee,As always the cinnamon amd their food is good,Product Quality,,False,0.38323298,0.23329167,0.38347536,POSITIVE,0.00024238229
+BRGR Alley Café,5,coffee,The place is nice and aesthetic.,Ambiance and Atmosphere,,False,0.4023205,0.19560266,0.40207687,NEGATIVE,0.00024363399
+The Crazy Bite Co. Sky Cafe,5,coffee,The food and the ambiance is great!,Ambiance and Atmosphere,,False,0.39997998,0.19979146,0.40022856,POSITIVE,0.00024858117
+Coffee Project Mintal,4,coffee,Aesthetics is best ive seen for a coffee shop.,Product Quality,,False,0.3853952,0.22947358,0.38513127,NEGATIVE,0.00026392937
+Aesthetic Beans,2,coffee,Puro aesthetic pero murag sauna ang kainit sa sulod!,Ambiance and Atmosphere,,True,0.38995442,0.22035685,0.38968873,NEGATIVE,0.0002656877
+BRGR Alley Café,5,coffee,"The ambiance is really nice and cozy, making it a perfect place to relax and enjoy your meal.",Ambiance and Atmosphere,,False,0.3956981,0.20887442,0.3954275,NEGATIVE,0.0002706051
+Humble Table,5,coffee,Plus points to the aesthetic  smiling_face_with_hearts,Ambiance and Atmosphere,,False,0.3864634,0.22734421,0.38619238,NEGATIVE,0.00027102232
+Beholden Coffee Experience - CM Recto,5,coffee,"Ambiance is amazing, coffee experience really is unique.",Ambiance and Atmosphere,,False,0.39421034,0.2113081,0.39448154,POSITIVE,0.00027120113
+Annipie Airport View,5,coffee,I like the pistachio milk and also nice ambiance.,Ambiance and Atmosphere,,False,0.3911274,0.21803166,0.39084092,NEGATIVE,0.00028648973
+Haron's Cafe,5,coffee,The ambiance is relaxing.,Ambiance and Atmosphere,,False,0.3989782,0.20175554,0.3992663,POSITIVE,0.00028809905
+The Coffee Bar at GMall of Davao,5,coffee,"Coffee Bar Café is a cozy and welcoming spot with rich, flavorful coffee and tasty treats that perfectly complement every cup.",Product Quality,,False,0.38826752,0.22376272,0.38796982,NEGATIVE,0.0002976954
+"KAOS CAFE - 24 Hours, Jacinto St.",5,coffee,Love the aesthetic place and always to go coffee heart_hands_light_skin_tone  heart_hands_light_skin_tone  heart_hands_light_skin_tone,Product Quality,,False,0.3857183,0.22826564,0.38601604,POSITIVE,0.000297755
+Annipie Airport View,5,coffee,The ambiance is so good and the food and pastries is very delicious.,Ambiance and Atmosphere,,False,0.39404273,0.21161076,0.39434645,POSITIVE,0.00030371547
+The Matcha Tokyo - Azuela High Street,4,matcha,"If you are looking for a spacious and aesthetic spot to get your matcha fix, THE MATCHA TOKYO is definitely worth a visit.",Ambiance and Atmosphere,,False,0.39174962,0.21619663,0.39205384,POSITIVE,0.0003042221
+Cafe Demitasse,5,coffee,And even the ambiance feels great!,Ambiance and Atmosphere,,False,0.39734674,0.20500019,0.39765304,POSITIVE,0.00030630827
+Kingdom Cafe & Bistro,5,coffee,"From the moment you step into Kingdom Cafe and Bistro, you'll be greeted with a warm and inviting atmosphere.",Ambiance and Atmosphere,,False,0.39291006,0.2144868,0.39260307,NEGATIVE,0.00030699372
+olo. Coffee And Concepts,5,coffee,Chill place and good coffee,Ambiance and Atmosphere,,False,0.38985613,0.2199667,0.3901771,POSITIVE,0.000320971
+Coffee For Peace at One Oasis,5,coffee,Best coffee and nice ambiance!,Ambiance and Atmosphere,,False,0.4011375,0.19804892,0.40081364,NEGATIVE,0.00032386184
+Barok Cafe and Resto,4,coffee,"The place is very pleasing and has a nice, cozy atmosphere.",Ambiance and Atmosphere,,False,0.4037681,0.1921361,0.40409586,POSITIVE,0.00032776594
+Cafe Gervacios - Pastry and Coffee in Davao City,5,coffee,"We all enjoyed the food, service as well as the ambiance!",Ambiance and Atmosphere,,False,0.40085554,0.19796073,0.40118372,POSITIVE,0.00032818317
+Café Prelaya by The Joaquins’ Cheesecakes,4,coffee,The best thing about Cafe Prelaya is its cozy vibe.,Ambiance and Atmosphere,,False,0.39203453,0.2162607,0.3917048,NEGATIVE,0.0003297329
+Good One Cafe and Yogurt,3,coffee,"Nice area, very aesthetic.",Ambiance and Atmosphere,,False,0.42420393,0.15192303,0.42387304,NEGATIVE,0.0003308952
+Four Season Cafe,5,coffee,The ambiance is relaxing too.,Ambiance and Atmosphere,,False,0.3977263,0.20421162,0.39806208,POSITIVE,0.00033578277
+PICKUP COFFEE - Oroderm City,5,coffee,"There's something special about this coffee shop the cozy atmosphere, the aroma of freshly brewed coffee, and the warmth it brings.",Product Quality,,False,0.38877183,0.22210518,0.38912293,POSITIVE,0.00035110116
+The Matcha Tokyo - SM Davao,5,matcha,Its giving aesthetic  sparkles  pinched_fingers_light_skin_tone,Ambiance and Atmosphere,,False,0.38763162,0.22438222,0.38798615,POSITIVE,0.00035452843
+444 Coffee,5,coffee,loved the smooth spanish latte and the unique blueberry cinnamon.,Product Quality,,False,0.38399103,0.23237379,0.3836352,NEGATIVE,0.00035583973
+Wood and Coffee Davao,5,coffee,Wood and Coffee is a charming café known for its cozy ambiance and excellent brews.,Product Quality,,False,0.38827497,0.22380897,0.38791606,NEGATIVE,0.00035890937
+Brewed Obrero,2,coffee,Puro aesthetic pero fail sa comfort and temperature.,Ambiance and Atmosphere,,True,0.38846612,0.22343186,0.38810202,NEGATIVE,0.00036409497
+Coffee at Yellow Hauz,4,coffee,Original brewed coffee and Great coffee place,Product Quality,,False,0.38617367,0.22728626,0.38654009,POSITIVE,0.00036641955
+Daleachious Cafe - Ecoland Branch,5,coffee,"love the place, ambiance and the service.",Ambiance and Atmosphere,,False,0.39806786,0.20423706,0.39769515,NEGATIVE,0.00037270784
+Steep Coffee,5,coffee,I love it coffee so creamy and delecios,Product Quality,,False,0.38710532,0.22616403,0.3867306,NEGATIVE,0.0003747046
+Humble Table,5,coffee,The welcoming ambiance made the whole experience even better.,Ambiance and Atmosphere,,False,0.39423868,0.21113801,0.39462334,POSITIVE,0.00038465858
+ROOFTOP Café Bar,5,coffee,good ambiance despite the rain,Ambiance and Atmosphere,,False,0.39043763,0.21873836,0.39082402,POSITIVE,0.0003863871
+Space-Arabica,5,coffee,The interior has a very relaxing ambience with a soothing ballad music that goes with it.,Ambiance and Atmosphere,,False,0.38857716,0.22245233,0.3889705,POSITIVE,0.00039333105
+BRGR Alley Café,5,coffee,"friendly staff, delicous food, aesthetic vibes red_heart",Ambiance and Atmosphere,,False,0.39627838,0.2070476,0.396674,POSITIVE,0.00039562583
+Indahouse Cafe,5,coffee,"Super chill atmosphere.""",Ambiance and Atmosphere,,False,0.39100736,0.21839641,0.3905962,NEGATIVE,0.00041115284
+Bashh,5,coffee,"Good Ambiance, Very Affordable Delicious Menus and Very Friendly Business,.",Ambiance and Atmosphere,,False,0.3943786,0.21166448,0.3939569,NEGATIVE,0.00042170286
+Kove,3,coffee,"The place is nice and has a relaxing, nature-inspired vibe, just as you'd expect.",Ambiance and Atmosphere,,False,0.40155286,0.19647177,0.40197542,POSITIVE,0.00042256713
+BRGR Alley Café,5,coffee,I like the ambiance  winking_face,Ambiance and Atmosphere,,False,0.3894258,0.22070836,0.38986585,POSITIVE,0.0004400313
+Seattle's Best Coffee,5,coffee,Always love the ambiance at the second floor.,Ambiance and Atmosphere,,False,0.3924659,0.21460618,0.3929279,POSITIVE,0.0004620254
+Brew Lane Café,4,coffee,A coffee shop in the downtown area offered a truly welcoming and comfortable atmosphere.,Ambiance and Atmosphere,,False,0.3931141,0.21330655,0.39357936,POSITIVE,0.00046527386
+Aloha Kakou Neighborhood Cafe,5,coffee,"Nice ambiance with very aesthetic, Instagrammable vibes.",Ambiance and Atmosphere,,False,0.39911768,0.20129386,0.39958853,POSITIVE,0.0004708469
+Aloha Kakou Neighborhood Cafe,5,coffee,Loved the ambiance of the place.,Ambiance and Atmosphere,,False,0.3982217,0.2040294,0.3977489,NEGATIVE,0.00047281384
+Solace - Coffee Club,5,coffee,"Love the ambiance, coffee, and food.",Ambiance and Atmosphere,,False,0.4012254,0.19707516,0.40169945,POSITIVE,0.00047406554
+Glasshouse Coffee,5,coffee,"If you love coffee, cake and ambiance all in one this is the place to go best in the world so far!!!",Product Quality,,False,0.38637736,0.22773284,0.38588977,NEGATIVE,0.0004875958
+Habitat Coffee - Tionko Branch,5,coffee,One of the best coffee shops for photoshoots or tambay!,Ambiance and Atmosphere,,False,0.389892,0.22070394,0.38940397,NEGATIVE,0.00048804283
+The Yolk Society,5,coffee,the sweet taste of matcha blends perfectly with berry's sourness.,Product Quality,,False,0.38373798,0.23203585,0.38422614,POSITIVE,0.00048816204
+Palps Cafe,5,coffee,Love the atmosphere of this place!,Ambiance and Atmosphere,,False,0.3954024,0.20869915,0.39589843,POSITIVE,0.00049602985
+Brew Lane Café,3,coffee,What I really love about this place is the relaxed atmosphere.,Ambiance and Atmosphere,,False,0.39521533,0.21006668,0.39471805,NEGATIVE,0.00049728155
+Karlo's Gourmet & Coffee,5,coffee,Karlos Gourmet & Coffee has a cozy vibe and unique menu selections.,Ambiance and Atmosphere,,False,0.39044738,0.21860163,0.39095095,POSITIVE,0.00050356984
+Kotetsu by Wood and Coffee,5,coffee,"I love Kotetsu's aesthetic and concrete design look; it feels warm and not crowded, especially at night!",Ambiance and Atmosphere,,False,0.39549318,0.2095212,0.3949856,NEGATIVE,0.00050759315
+Daiko Coffee,5,coffee,"The atmosphere is cozy and homey, perfect for focusing and staying productive.",Ambiance and Atmosphere,,False,0.3951557,0.2091702,0.39567414,POSITIVE,0.0005184412
+"What If, Kape?",5,coffee,Looking for good coffee + Cozy vibe?,Ambiance and Atmosphere,,False,0.3916006,0.2173195,0.39107996,NEGATIVE,0.0005206466
+JH Garden Cafe and Restaurant Matina,5,coffee,"I like the ambiance here, it so peaceful perfect for spending time with your loved ones.",Ambiance and Atmosphere,,False,0.40011135,0.19924958,0.40063906,POSITIVE,0.0005277097
+Starbucks - GMall of Davao,5,coffee,"The coffee is perfectly brewed with rich flavor and aroma, and every cup feels crafted with care.",Product Quality,,False,0.3926408,0.21525154,0.3921077,NEGATIVE,0.00053310394
+Better Beans Co. - Coffee Roaster (New Location),5,coffee,"They take the time to assist customers and share their knowledge about coffee, creating a welcoming and relaxing atmosphere.",Ambiance and Atmosphere,,False,0.3907122,0.21911073,0.39017707,NEGATIVE,0.0005351305
+The Yolk Society,5,coffee,The atmosphere is great,Ambiance and Atmosphere,,False,0.38937196,0.22071885,0.38990918,POSITIVE,0.00053721666
+Café de Vivré,5,coffee,The atmosphere was so relaxing.,Ambiance and Atmosphere,,False,0.40235078,0.19583757,0.40181166,NEGATIVE,0.000539124
+Aloha Kakou Neighborhood Cafe,4,coffee,Experience a tropical vibe cafe where taste and tranquility meet!,Product Quality,,False,0.39313528,0.21318437,0.39368033,POSITIVE,0.0005450547
+Coffeefolks Cafe,4,coffee,The cozy ambiance of the shop invites you to relax and savor your coffee.,Ambiance and Atmosphere,,False,0.39041647,0.2186148,0.39096874,POSITIVE,0.00055226684
+Wood and Coffee Davao,5,coffee,I highly recommend to visit here and have your simple secret santa with friends if you like the cozy and chill vibe  sparkles,Ambiance and Atmosphere,,False,0.38449195,0.23046347,0.38504457,POSITIVE,0.00055262446
+Hills and Valleys Coffee - Buhangin Davao,5,coffee,Atmosphere that keep you in,Ambiance and Atmosphere,,False,0.38623416,0.22808638,0.3856795,NEGATIVE,0.000554651
+Matcha Ureshi Bar,5,matcha,Very aesthetic and taste so good smiling_face_with_hearts,Ambiance and Atmosphere,,False,0.38735193,0.22586459,0.38678354,NEGATIVE,0.0005683899
+Coffee Project Mintal,4,coffee,The ambiance and the place is great for hanging out.,Ambiance and Atmosphere,,False,0.39791745,0.20359096,0.3984916,POSITIVE,0.00057414174
+Verdeli Garden & Cafe,5,coffee,Nice and quiet place with delicious food that's grown in their own garden.,Ambiance and Atmosphere,,False,0.38853297,0.22350866,0.38795838,NEGATIVE,0.0005745888
+"KAOS CAFE - 24 Hours, Jacinto St.",4,coffee,Food is 10/10 in terms of taste and serving.,Product Quality,,False,0.3903357,0.21990728,0.389757,NEGATIVE,0.0005787015
+Solace - Coffee Club,4,coffee,Ambiance there is just like any other cafe's with aesthetic and chill vibes.,Ambiance and Atmosphere,,False,0.38871506,0.22197866,0.38930628,POSITIVE,0.0005912185
+Cafe Demitasse,5,coffee,Food & ambiance are equally great!,Ambiance and Atmosphere,,False,0.40223444,0.1949377,0.4028279,POSITIVE,0.00059345365
+BRGR Alley Café,5,coffee,Very nice place the ambiance is so relaxing  smiling_face_with_hearts,Ambiance and Atmosphere,,False,0.3895139,0.2203723,0.39011377,POSITIVE,0.00059986115
+Mori & Mill,5,coffee,Coffee star  star  star  star  star,Product Quality,,False,0.38433358,0.23073216,0.38493425,POSITIVE,0.0006006658
+Bean Xpress Matina Branch,5,coffee,Best way to get coffee and chill,Ambiance and Atmosphere,,False,0.38710406,0.22640382,0.3864921,NEGATIVE,0.0006119609
+Cafe Gervacios - Pastry and Coffee in Davao City,5,coffee,The food is good and aesthetic.,Ambiance and Atmosphere,,False,0.39427328,0.21082656,0.39490023,POSITIVE,0.00062695146
+The Coffee Bar at GMall of Davao,4,coffee,I love the atmosphere - relaxing and well lit.,Ambiance and Atmosphere,,False,0.40211138,0.19514582,0.40274283,POSITIVE,0.0006314516
+The Coffee Bar at GMall of Davao,5,coffee,Very friendly staff and a nice comfortable atmosphere  growing_heart,Ambiance and Atmosphere,,False,0.39106935,0.2172255,0.39170516,POSITIVE,0.00063580275
+Dakong Balay,5,coffee,"The place has a relaxing and homey atmosphere, perfect for family gatherings and special occasions.",Ambiance and Atmosphere,,False,0.39764607,0.20535366,0.3970002,NEGATIVE,0.00064587593
+Kopi lah Roti,4,coffee,Luv the Kaya & coffee with condensed milk reminiscent of Asian coffees,Product Quality,,False,0.38156867,0.2375095,0.3809218,NEGATIVE,0.0006468594
+The Coffee Bar at GMall of Davao,5,coffee,Food is good and so is the atmosphere.,Ambiance and Atmosphere,,False,0.39947656,0.20169468,0.39882883,NEGATIVE,0.0006477237
+Espresso Lab Cafe Davao,4,coffee,"Ideal place to kill time, well air-conditioned and quiet.",Ambiance and Atmosphere,,False,0.39741448,0.20451765,0.39806792,POSITIVE,0.0006534457
+Paramount Coffee Crocodile Park Davao,5,coffee,Good food and Good atmosphere  red_heart  red_heart  red_heart,Ambiance and Atmosphere,,False,0.3882029,0.22424963,0.38754758,NEGATIVE,0.00065532327
+Kove,3,coffee,The place is new and has this nice aesthetic.,Ambiance and Atmosphere,,False,0.3982902,0.20408984,0.39761996,NEGATIVE,0.0006702244
+Cafe Gervacios - Pastry and Coffee in Davao City,5,coffee,"- Ambiance: Nice decors with xmas tree over xmas period, staff also hat xmas hats.",Ambiance and Atmosphere,,False,0.39123785,0.2181951,0.39056706,NEGATIVE,0.0006707907
+Cafe Julieta,4,coffee,Bright atmosphere and jovial vibes.,Ambiance and Atmosphere,,False,0.3947137,0.20988977,0.39539653,POSITIVE,0.0006828308
+Sipscape Cafe,5,coffee,The cozy ambiance and friendly staff made the experience even better.,Ambiance and Atmosphere,,False,0.39595014,0.20740062,0.39664924,POSITIVE,0.0006991029
+The Crazy Bite Co. Sky Cafe,4,coffee,Atmosphere: Architecture and designs are great it helps the ambiance more appealing makes the consumers to want more.,Ambiance and Atmosphere,,False,0.38620123,0.22688614,0.38691255,POSITIVE,0.00071132183
+The Secret Garden Cafe,5,coffee,"Overall, The Secret Garden Cafe provides a charming and peaceful ambiance, perfect for those looking to unwind and enjoy good food and company.",Ambiance and Atmosphere,,False,0.39504704,0.20918345,0.39576957,POSITIVE,0.0007225275
+The Secret Garden Cafe,5,coffee,"The place is also equally great, serene little cafe vibe!",Ambiance and Atmosphere,,False,0.39891335,0.20143577,0.39965093,POSITIVE,0.0007375777
+The Yolk Society,5,coffee,Not only an aesthetic cafe but well curated selection of coffee and food heart_hands,Ambiance and Atmosphere,,False,0.38854542,0.22217065,0.3892839,POSITIVE,0.00073847175
+The Matcha Tokyo - Azuela High Street,5,matcha,"It has that calm, cozy vibe that makes you want to stay for a while.",Ambiance and Atmosphere,,False,0.3901907,0.22035947,0.38944983,NEGATIVE,0.00074085593
+Whisk It Good Matcha,5,matcha,Atmosphere of the …,Ambiance and Atmosphere,,False,0.38702083,0.22671084,0.38626838,NEGATIVE,0.00075244904
+Kafih - Davao,4,coffee,"The place was great, very clean and aesthetic.",Ambiance and Atmosphere,,False,0.41671225,0.16581139,0.41747636,POSITIVE,0.00076410174
+Black Scoop Cafe Matina,4,coffee,"The coffee shop is very atmospheric, spacious and cozy.",Product Quality,,False,0.394407,0.21195498,0.39363796,NEGATIVE,0.00076904893
+The Coffee Bar at GMall of Davao,5,coffee,Fave place for tambay,Ambiance and Atmosphere,,False,0.3877601,0.22370622,0.38853365,POSITIVE,0.0007735491
+BRGR Alley Café,5,coffee,"Chill Location, Great Food, Amazing Service",Ambiance and Atmosphere,,False,0.40221617,0.19634667,0.40143722,NEGATIVE,0.0007789433
+JH Garden Cafe and Restaurant Matina,5,coffee,"The quality of the food, the impeccable service, and the peaceful ambiance all come together to create a truly unique experience.",Ambiance and Atmosphere,,False,0.39724898,0.20628133,0.39646965,NEGATIVE,0.00077933073
+PICKUP COFFEE - Davao Finance Center,5,coffee,very aesthetic place.,Ambiance and Atmosphere,,False,0.4101723,0.18044294,0.40938473,NEGATIVE,0.000787586
+Matcha Bar - Marfori,5,matcha,Nice ambiance and good food and matcha,Ambiance and Atmosphere,,False,0.3900931,0.21902087,0.39088607,POSITIVE,0.0007929802
+Matcha Bar - Marfori,5,matcha,Nice ambiance and good food and matcha,Ambiance and Atmosphere,,False,0.3900931,0.21902087,0.39088607,POSITIVE,0.0007929802
+Whisk Davao Matcha,5,matcha,"about the place…It gives mi chill and good ambience, about the food and drinks yes it absolutely good well balanced.",Ambiance and Atmosphere,,False,0.40017587,0.19884732,0.40097672,POSITIVE,0.000800848
+The Matcha Tokyo - SM Davao,5,matcha,very good matcha and nice interior,Product Quality,,False,0.38692078,0.22535698,0.38772225,POSITIVE,0.00080147386
+The Matcha Tokyo - SM Davao,5,matcha,very good matcha and nice interior,Product Quality,,False,0.38692078,0.22535698,0.38772225,POSITIVE,0.00080147386
+Glasshouse Coffee,5,coffee,It's located inside a guarded compound with a good ambiance and friendly staff.,Ambiance and Atmosphere,,False,0.3949198,0.21096413,0.394116,NEGATIVE,0.00080379844
+Cafe Gervacios - Pastry and Coffee in Davao City,4,coffee,"The ambiance is ""Noir-chic"" of glossy wood, low ceilings, and a polished aesthetic that feels very classy.",Ambiance and Atmosphere,,False,0.39021066,0.22038385,0.3894055,NEGATIVE,0.00080516934
+Koffiepauze,3,matcha,Relaxing ambiance,Ambiance and Atmosphere,,False,0.39021397,0.21876352,0.39102253,POSITIVE,0.0008085668
+Lot 38 Kape,5,coffee,It's super nice and the vibe is great.,Ambiance and Atmosphere,,False,0.39368805,0.21343529,0.39287668,NEGATIVE,0.0008113682
+Curiore Cafe,5,coffee,The atmosphere is calm and intimate.,Ambiance and Atmosphere,,False,0.39737204,0.20607279,0.3965552,NEGATIVE,0.00081685185
+Daleachious Cafe - Ecoland Branch,1,coffee,"Otherwise, great location and nice interior atmosphere.",Ambiance and Atmosphere,,False,0.40679184,0.18559672,0.40761137,POSITIVE,0.00081953406
+Annipie @ The Farm,5,coffee,Nice ambiance the crews are very attentive,Ambiance and Atmosphere,,False,0.3906749,0.21783058,0.3914945,POSITIVE,0.00081962347
+Kapenato Toril,5,coffee,Aesthetic place but never compromises your comfort and food quality.,Ambiance and Atmosphere,,False,0.39240456,0.21433452,0.39326093,POSITIVE,0.00085636973
+The Matcha Tokyo - SM Davao,5,matcha,love the matcha salted cream,Product Quality,,False,0.38234344,0.23616953,0.38148704,NEGATIVE,0.00085639954
