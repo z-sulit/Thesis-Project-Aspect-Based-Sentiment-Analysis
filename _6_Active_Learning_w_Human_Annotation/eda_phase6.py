@@ -65,8 +65,8 @@ def main():
 
     print("\n--- 2. Ground Truth Distribution (500 Rows) ---")
     # Change to Cumulative_Ground_Truth_1000.csv if you want the 1,000-row version
-    gt_file = 'Cumulative_Ground_Truth_500.csv'
-    #gt_file = 'v2_Ground_Truth_500.csv'
+    #gt_file = 'Cumulative_Ground_Truth_500.csv'
+    gt_file = 'v2_Ground_Truth_500.csv'
     
     if not os.path.exists(gt_file):
         print(f"Error: {gt_file} not found.")
