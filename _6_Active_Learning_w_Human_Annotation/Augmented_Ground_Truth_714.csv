@@ -1,0 +1,715 @@
+place_name,rating,shop_type,sentence,TargetAspect,sentiment,is_synthetic,annotator_1,annotator_2,annotator_3,annotator_4,ground_truth,vote_breakdown,is_tie
+Seattle's Best Coffee,1,coffee,Food is expensive too.,Product Quality,NEGATIVE,False,NEGATIVE,NEGATIVE,NEGATIVE,NEUTRAL,NEGATIVE,"NEGATIVE:3, NEUTRAL:1",False
+HYGGE COFFEE 2,1,coffee,"we had to wait long for our food for about an hour, or even more at times.",Product Quality,NEGATIVE,False,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE:4,False
+Green Coffee - Diversion,1,coffee,Even the place is great and the food is good but the customer service is worst everything will fall down!,Product Quality,NEGATIVE,False,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE:4,False
+Annipie Airport View,1,coffee,"The service at Annipies is poor, they serve instant coffee instead of espresso, and overcharge wherever they think that they can get away with it.",Customer Service,NEGATIVE,False,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE:4,False
+Dear Joe Frontera,1,coffee,You can drink iced coffee made with tap water at an expensive price.,Price and Value,NEGATIVE,False,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE:4,False
+Evermore Cafe Davao,1,coffee,"But the service, my goodness, it was sooo slow.",Customer Service,NEGATIVE,False,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE:4,False
+Café Joa,1,coffee,"Thirty minutes before 11 PM, our drinks were still not served, so I followed up.",Product Quality,NEGATIVE,False,NEGATIVE,NEGATIVE,NEUTRAL,NEUTRAL,NEGATIVE,"NEGATIVE:2, NEUTRAL:2",True
+Hygge Coffee,1,coffee,"I ordered a coffee to take home, and when I opened it, it wasn't even full and it looked like they had put something in it mural paminta or ambut unsa na hugaw vanilla latte tapos Mao ng nawng!",Product Quality,NEGATIVE,False,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE:4,False
+Barok Cafe & Resto,1,coffee,Then I think the staff needs to eat in the kitchen.,Customer Service,NEUTRAL,False,NEGATIVE,NEUTRAL,NEUTRAL,NEUTRAL,NEUTRAL,"NEUTRAL:3, NEGATIVE:1",False
+ROOFTOP Café Bar,1,coffee,The staff are also not accommodating.,Customer Service,NEGATIVE,False,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE:4,False
+Seattle's Best Coffee,1,coffee,I'm left wondering how is this level of ignorance possible given they work there everyday?,Facilities and Amenities,NEGATIVE,False,NEGATIVE,NEGATIVE,NEUTRAL,NEGATIVE,NEGATIVE,"NEGATIVE:3, NEUTRAL:1",False
+HYGGE COFFEE 2,1,coffee,"The drinks arent good either, and the place is often noisy with loud students.",Product Quality,NEGATIVE,False,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE:4,False
+STASH Coffee Co.,1,coffee,Rude barista.,Customer Service,NEGATIVE,False,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE:4,False
+Barok Cafe and Resto,1,coffee,"first ever coworking space I went to, I still have to deposit 100 and need an ID, is it really expensive???",Price and Value,NEUTRAL,False,NEUTRAL,NEUTRAL,NEUTRAL,NEUTRAL,NEUTRAL,NEUTRAL:4,False
+Blugré Coffee,1,coffee,I can't taste.,Product Quality,NEUTRAL,False,NEGATIVE,NEUTRAL,NEUTRAL,NEUTRAL,NEUTRAL,"NEUTRAL:3, NEGATIVE:1",False
+blank space coffee dvo,1,coffee,"Customer service is a big part of any business, and experiences like this leave a very negative impression.",Customer Service,NEGATIVE,False,NEGATIVE,NEGATIVE,NEUTRAL,NEGATIVE,NEGATIVE,"NEGATIVE:3, NEUTRAL:1",False
+Dear Joe Frontera,1,coffee,Food is hard.,Product Quality,NEGATIVE,False,NEGATIVE,NEUTRAL,NEGATIVE,NEGATIVE,NEGATIVE,"NEGATIVE:3, NEUTRAL:1",False
+Cafe Demitasse,1,coffee,Substandard food quality.,Product Quality,NEGATIVE,False,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE:4,False
+"The Coffee Bar, Gaisano Mall of Toril",1,coffee,Blueberries on my wafles taste like expired jam.,Product Quality,NEGATIVE,False,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE:4,False
+Paramount Coffee Crocodile Park Davao,1,coffee,No food here.,Product Quality,NEUTRAL,False,NEUTRAL,NEUTRAL,NEUTRAL,NEUTRAL,NEUTRAL,NEUTRAL:4,False
+Green Coffee - Marfori,2,coffee,"Unfortunately, the same could be said of all coffee shops in Davao.",Product Quality,NEUTRAL,False,NEGATIVE,NEUTRAL,NEUTRAL,NEUTRAL,NEUTRAL,"NEUTRAL:3, NEGATIVE:1",False
+Cafe Gervacios - Pastry and Coffee in Davao City,2,coffee,The food and the atmosphere was good.,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+The Bloom Coffee & Start-Up Space,2,coffee,"1st take out, the coffee was wrong.",Product Quality,NEGATIVE,False,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE:4,False
+Solace - Coffee Club,2,coffee,"If it makes it slightly better, the place is aesthetic.",Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Mille Matcha - DGT,2,matcha,"Great matcha, probably one of the best in Davao.",Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Glasshouse Coffee,2,coffee,Good coffee.,Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Cafe Gervacios - Pastry and Coffee in Davao City,2,coffee,The service was disappointing during our visit with my friends.,Customer Service,NEGATIVE,False,NEGATIVE,POSITIVE,NEGATIVE,NEGATIVE,NEGATIVE,"NEGATIVE:3, POSITIVE:1",False
+Café Joa,2,coffee,Great job on the cleanliness but food and service needs improvement.,Product Quality,NEGATIVE,False,NEGATIVE,NEGATIVE,NEGATIVE,NEUTRAL,NEGATIVE,"NEGATIVE:3, NEUTRAL:1",False
+Cafe Gervacios - Pastry and Coffee in Davao City,2,coffee,The place is a little bit crowded which is understandable since it is a newly opened café and the good qualities that I mentioned.,Ambiance and Atmosphere,NEUTRAL,False,NEUTRAL,POSITIVE,NEUTRAL,POSITIVE,NEUTRAL,"NEUTRAL:2, POSITIVE:2",True
+The Bloom Coffee & Start-Up Space,2,coffee,When looking at the food and drink alone I think this place doesn't hold up.,Product Quality,NEGATIVE,False,NEGATIVE,NEGATIVE,NEGATIVE,NEUTRAL,NEGATIVE,"NEGATIVE:3, NEUTRAL:1",False
+Solace - Coffee Club,2,coffee,I ordered their version of a Spanish Latte...lo and behold it was very bitter.,Product Quality,NEGATIVE,False,NEGATIVE,NEGATIVE,NEGATIVE,NEUTRAL,NEGATIVE,"NEGATIVE:3, NEUTRAL:1",False
+Barok Cafe and Resto,2,coffee,"Despite bringing these concerns to the attention of the staff, their response was useless and unprofessional.",Customer Service,NEGATIVE,False,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE:4,False
+Cafe Demitasse,2,coffee,I must say the quantity is good but since I am a foreigner it didn't match upto my taste.,Product Quality,NEGATIVE,False,NEGATIVE,NEGATIVE,NEGATIVE,NEUTRAL,NEGATIVE,"NEGATIVE:3, NEUTRAL:1",False
+Knto Cinco - Puan Branch,2,coffee,"Overall, the place is nice and very aesthetic.",Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Cafe Gervacios - Pastry and Coffee in Davao City,2,coffee,The place is peaceful and quiet.,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Dopio Café,2,coffee,"the place was nice when it felt like a chill escape, now just another noisy place, loud and obnoxious enough that i either HAVE TO use my bluetooth earphones to drown it out, or just leave, or not enter at all :-( food, here's my review of the whole menu.",Ambiance and Atmosphere,NEGATIVE,False,NEGATIVE,NEGATIVE,NEGATIVE,NEUTRAL,NEGATIVE,"NEGATIVE:3, NEUTRAL:1",False
+Blugré Coffee,2,coffee,"Still on the menu are the old faves — Chicken Enchilada and White Choco Torte….This used to be ""the coffee hang out"" during its glory days…But as so many new coffee shops sprouted through the years, issues with poor air conditioning, slow internet connection, and the second floor always unavailable loudly spells TERRIBLE service.",Product Quality,NEGATIVE,False,POSITIVE,NEGATIVE,NEUTRAL,NEGATIVE,NEGATIVE,"NEGATIVE:2, POSITIVE:1, NEUTRAL:1",True
+Starbucks - Matina IT Park,2,coffee,Choco Crepe Cake tasted like cardboard.,Product Quality,NEGATIVE,False,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE:4,False
+Indahouse Cafe,2,coffee,The milk overpowered the matcha.,Product Quality,NEGATIVE,False,NEGATIVE,NEGATIVE,NEGATIVE,NEUTRAL,NEGATIVE,"NEGATIVE:3, NEUTRAL:1",False
+Barok Cafe & Resto,2,coffee,the price is a bit high for the serving.,Price and Value,NEGATIVE,False,NEGATIVE,NEGATIVE,NEGATIVE,NEUTRAL,NEGATIVE,"NEGATIVE:3, NEUTRAL:1",False
+Green Coffee - Diversion,3,coffee,"The service was a bit slow, especially with the food.",Customer Service,NEGATIVE,False,NEGATIVE,NEGATIVE,NEGATIVE,NEUTRAL,NEGATIVE,"NEGATIVE:3, NEUTRAL:1",False
+Cafe Demitasse,3,coffee,"The staff is exceptionally polite; however, the food served is ordinary and seems to be cooked without passion.",Customer Service,NEGATIVE,False,POSITIVE,NEGATIVE,POSITIVE,NEGATIVE,NEGATIVE,"POSITIVE:2, NEGATIVE:2",True
+Coffeecat,3,coffee,"Good coffee, good ambiance, plenty of parking space but slow internet connection",Ambiance and Atmosphere,POSITIVE,False,POSITIVE,NEGATIVE,POSITIVE,POSITIVE,POSITIVE,"POSITIVE:3, NEGATIVE:1",False
+The Matcha Tokyo - Azuela High Street,3,matcha,"If you're into matcha that leans more on the bitter side, …",Product Quality,NEUTRAL,False,NEUTRAL,NEUTRAL,NEUTRAL,NEUTRAL,NEUTRAL,NEUTRAL:4,False
+Kopi lah Roti,3,coffee,"Maybe a little renovation, and don't serve a day old coffee bun again please.",Product Quality,NEGATIVE,False,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE:4,False
+WKND 1970,3,coffee,"I only wish their staff was friendlier, and more approachable, and that they can improve the dining experience by adding more light, tables and music",Facilities and Amenities,NEGATIVE,False,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE:4,False
+HYGGE COFFEE 2,3,coffee,"- Unfortunately, the cashier missed one of our orders, even after repeating it back to us.",Customer Service,NEGATIVE,False,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE:4,False
+HOUR CAFÉ,3,coffee,"The Ambience is nice, they could make much more out of this place by higher Food quality.",Product Quality,NEGATIVE,False,NEGATIVE,NEGATIVE,NEGATIVE,NEUTRAL,NEGATIVE,"NEGATIVE:3, NEUTRAL:1",False
+Coffee at Yellow Hauz,3,coffee,Lots of tables and chairs.,Facilities and Amenities,POSITIVE,False,NEUTRAL,POSITIVE,POSITIVE,POSITIVE,POSITIVE,"POSITIVE:3, NEUTRAL:1",False
+The Matcha Tokyo - SM Davao,3,matcha,Picture of food has nothing in common with the serving.,Product Quality,NEGATIVE,False,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE:4,False
+"KAOS CAFE - 24 Hours, Jacinto St.",3,coffee,"We ordered the Seasalt Matcha and the Coco Matcha, and both were as quality and delicious as we expected.",Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Krispy Kreme Factory Store Davao,3,coffee,"Its awkward if ur eating while others waiting for you to finish, so they use ur table and chairs",Facilities and Amenities,NEGATIVE,False,NEGATIVE,NEGATIVE,NEGATIVE,NEUTRAL,NEGATIVE,"NEGATIVE:3, NEUTRAL:1",False
+Isem Cafe,3,coffee,Call or contact them first to confirm if they're open coz we went there tonight and they were closed even when their hours on Google said they're open.,Store Operations and Accessibility,NEGATIVE,False,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE:4,False
+Green Coffee - Marfori,3,coffee,What I like about this place is that it is relatively quiet than other coffee shops.,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Lately Coffee,3,coffee,"We also paired it with some of their cookies, though honestly, they were just average in taste.",Product Quality,NEGATIVE,False,NEGATIVE,NEGATIVE,NEUTRAL,NEUTRAL,NEGATIVE,"NEGATIVE:2, NEUTRAL:2",True
+The Matcha Tokyo - Azuela High Street,3,matcha,… for just a decent-regular cup of matcha.,Product Quality,NEUTRAL,False,NEUTRAL,NEUTRAL,NEUTRAL,NEUTRAL,NEUTRAL,NEUTRAL:4,False
+The Matcha Tokyo - SM Davao,3,matcha,Seems like the cashier or the order taker was very tired.,Customer Service,NEUTRAL,False,NEUTRAL,NEUTRAL,NEUTRAL,NEUTRAL,NEUTRAL,NEUTRAL:4,False
+Krispy Kreme Doughnuts® - SM Lanang,3,coffee,"I can see the staff are doing their best to accommodate everyone, but the wait can be a bit long.",Customer Service,NEUTRAL,False,NEGATIVE,NEUTRAL,NEUTRAL,NEUTRAL,NEUTRAL,"NEUTRAL:3, NEGATIVE:1",False
+Coffeecat,3,coffee,Magazines on the shelf for time spending on the wall to enjoyment of drinking coffee.,Product Quality,NEUTRAL,False,NEUTRAL,POSITIVE,NEUTRAL,POSITIVE,NEUTRAL,"NEUTRAL:2, POSITIVE:2",True
+Daleachious Cafe - Ecoland Branch,3,coffee,"Honestly, I thought you bought your cakes from SNR, which offers the same level of taste and consistency.",Product Quality,POSITIVE,False,NEGATIVE,POSITIVE,NEUTRAL,POSITIVE,POSITIVE,"POSITIVE:2, NEGATIVE:1, NEUTRAL:1",True
+Coffeecat,4,coffee,2023 update: Main reason for coming here is to try their frozen yogurt but i didnt know they only serve it starting 1pm :( so i had to get iced coffee and a cheesecake instead.,Product Quality,NEUTRAL,False,NEGATIVE,NEUTRAL,NEUTRAL,POSITIVE,NEUTRAL,"NEUTRAL:2, NEGATIVE:1, POSITIVE:1",True
+The Limestone Brew,4,coffee,Coffee 5/5 Atmosphere 5/5 Food 3/5 - small servings for thier expensive food,Product Quality,POSITIVE,False,NEGATIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,"POSITIVE:3, NEGATIVE:1",False
+KISOM Atelier,4,matcha,The matcha taste strong even blended with coffee and the beans they used for coffee's as well are from the known coffee shop in CDO which made me thought ahead that the …,Product Quality,NEUTRAL,False,NEUTRAL,NEUTRAL,NEUTRAL,POSITIVE,NEUTRAL,"NEUTRAL:3, POSITIVE:1",False
+Cafe Demitasse,4,coffee,The area is not cramped and the airconditioning units are enough for the space.,Facilities and Amenities,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+JAS Caffeinated,4,coffee,Bit noisy if there are many people.,Ambiance and Atmosphere,NEGATIVE,False,NEGATIVE,NEGATIVE,NEGATIVE,NEUTRAL,NEGATIVE,"NEGATIVE:3, NEUTRAL:1",False
+Wood and Coffee Davao,4,coffee,But there was a recent addition of a 5% service charge that wasn't there before.,Customer Service,NEUTRAL,False,NEUTRAL,NEGATIVE,NEUTRAL,NEUTRAL,NEUTRAL,"NEUTRAL:3, NEGATIVE:1",False
+Coffee Hub,4,coffee,I loved the wifi and the sockets everywhere though.,Facilities and Amenities,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Fourth Street Cafe,4,coffee,The matcha milk was okay and great that it had no clumps.,Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Steep Kohi,4,coffee,"A little weird seeing 1/3 of the space used for booking flights and such but honestly, the drinks were delicious.",Facilities and Amenities,POSITIVE,False,POSITIVE,POSITIVE,NEUTRAL,POSITIVE,POSITIVE,"POSITIVE:3, NEUTRAL:1",False
+Cafe Demitasse,4,coffee,Good food.,Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Cafe Demitasse,4,coffee,the comfort room is the most important place in every establishment.,Facilities and Amenities,NEUTRAL,False,NEUTRAL,NEUTRAL,NEUTRAL,POSITIVE,NEUTRAL,"NEUTRAL:3, POSITIVE:1",False
+BRGR Alley Café,4,coffee,"Good food, good friends!",Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Fika Cafe - Lapu-Lapu,4,coffee,"Great place, good food, awesome price, but your clothes will kinda smell like oil afterwards.",Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,NEUTRAL,POSITIVE,"POSITIVE:3, NEUTRAL:1",False
+Dopio Café,4,coffee,Accessible and easier when you're coming from Rasay Street.,Store Operations and Accessibility,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+The Crazy Bite Co. Sky Cafe,4,coffee,"What truly elevates the entire experience, however, is the staff.",Customer Service,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,NEUTRAL,POSITIVE,"POSITIVE:3, NEUTRAL:1",False
+Lara Mia Café & Bistro,4,coffee,"However I did find the entrees a bit small, also service was slow during my 1st visit.",Customer Service,NEGATIVE,False,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE:4,False
+Kiks Davao,4,coffee,Mixed the coffee and it felt creamy then tried placing ice in it.,Product Quality,NEUTRAL,False,NEUTRAL,NEUTRAL,NEUTRAL,NEUTRAL,NEUTRAL,NEUTRAL:4,False
+Coffeecat,4,coffee,":) I'm giving it just 4 stars though, because their crew did not listen well to us when we made the order.",Customer Service,NEGATIVE,False,NEGATIVE,NEGATIVE,NEGATIVE,NEUTRAL,NEGATIVE,"NEGATIVE:3, NEUTRAL:1",False
+Kofi Gram Bangkal,4,coffee,The coffee scent welcomes you the moment you open the door.,Product Quality,POSITIVE,False,POSITIVE,POSITIVE,NEUTRAL,POSITIVE,POSITIVE,"POSITIVE:3, NEUTRAL:1",False
+Espresso Lab Cafe Davao,4,coffee,I hope they can improve on their coffee strength and customer service.,Product Quality,NEUTRAL,False,NEGATIVE,NEUTRAL,NEUTRAL,NEUTRAL,NEUTRAL,"NEUTRAL:3, NEGATIVE:1",False
+Cafe Basilico,5,coffee,"But that's my private taste, everyone else might have a different meaning about this.",Product Quality,NEUTRAL,False,NEUTRAL,NEUTRAL,NEUTRAL,NEUTRAL,NEUTRAL,NEUTRAL:4,False
+Fourth Street Cafe,5,coffee,Got the Spanish latte.,Product Quality,NEUTRAL,False,NEUTRAL,NEUTRAL,POSITIVE,NEUTRAL,NEUTRAL,"NEUTRAL:3, POSITIVE:1",False
+Out of Boredom,5,matcha,they definitely have good coffee beans!,Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Whisk Davao Matcha,5,matcha,Very welcoming and kind ang staff esp miss Russell who knows us well na & is very lovely in preparing our orders sparkling_heart we keep coming back for more~ Matcha is superb and my fiancé's favorite is their cacao drink matched with their chocolate …,Customer Service,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Cafe Demitasse,5,coffee,Nice food quality.,Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Whisk It Good Matcha,5,matcha,"First of all, their matcha is really good.",Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Cafe Tavera,5,coffee,"Giving this resto a 5-star except for the atmosphere, because it can get crowded (which says a lot, by the way) and noisy.",Ambiance and Atmosphere,NEGATIVE,False,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE:4,False
+Mille Matcha - DGT,5,matcha,They make good matcha.,Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+The Coffee Bar at GMall of Davao,5,coffee,"Service is friendly and efficient,",Customer Service,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Purge Coffee Roaster,5,coffee,"The staff were incredibly friendly and accommodating, taking the time to explain the beans used for their coffee, which added to the overall enjoyment of the visit.",Customer Service,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+The Bloom Coffee & Start-Up Space,5,coffee,A very chill place specially if you want to work and study.,Facilities and Amenities,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Daleachious Cafe - Bago Aplaya Branch,5,coffee,Food & Drinks were 100000/10 accommodating staff & store is neat and organized!,Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+The Limestone Brew,5,coffee,The best Matcha better than Matcha Tokyo and the best Truffle Pasta I had period.,Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Fika Cafe - Lapu-Lapu,5,coffee,Their coffee surprises from the first aroma to the last lingering taste - this coffee is perfection!,Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Fiend Coffee Club,5,coffee,"Great coffee, owner is very friendly and accomodating.",Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+BRGR Alley Café,5,coffee,We didn't want to continue if there was no proper parking so good thing we found it.,Store Operations and Accessibility,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+JH Garden Cafe and Restaurant Matina,5,coffee,The staff and their Chef didn't hesitate to provide us with good service and delicious food.,Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+BRGR Alley Café,5,coffee,"The staff were also warm, polite, and friendly, which made the experience even better.",Customer Service,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+&Matcha - Three Yards,5,matcha,10/10 because the matcha tastes really good.,Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Habitat Coffee - Tionko Branch,5,coffee,Such a Gen Z vibe - groovy and cozy.,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Starbucks,5,coffee,Truly a Starbuckian and cozy place to chill and unwind,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+ROOFTOP Café Bar,5,coffee,Great atmosphere,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+"KAOS CAFE - 24 Hours, Jacinto St.",5,coffee,The staffs are really kind and approachable i like the vibe and the song of choice they play,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Fourth Street Cafe,5,coffee,"Minimalist vibe, al fresco setting, and great coffee.",Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Cafe Demitasse,5,coffee,"We love the vibrant ambiance, customer service of the guards and waiters, clean comfort rooms and the yummy foods especially the cakes.",Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Cafe Gervacios - Pastry and Coffee in Davao City,5,coffee,"We were all happy with the service, the ambiance, and of course the food and drinks.",Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Evermore Cafe Davao,5,coffee,"This chic, contemporary establishment perfectly complements the neighborhood's serene ambiance.",Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Matcha Point,1,matcha,Way lami itambay kay ang alimuot sa ilang second floor.,Ambiance and Atmosphere,NEGATIVE,True,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE:4,False
+Kotetsu by Wood and Coffee,5,coffee,"The food was really yummy and the ambiance was warm and relaxing, which made the whole experience nice.",Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+JH Garden Cafe and Restaurant Matina,4,coffee,Chill place and peaceful.,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+JH Garden Cafe and Restaurant Matina,5,coffee,"The peaceful ambiance, combined with the natural beauty of the surroundings, makes it an ideal place for any occasion.",Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Koffiepauze,4,matcha,The ambiance is nice,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Starbucks,5,coffee,Good coffee and good ambiance,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Hid'n Coffee,5,coffee,"Definitely among the best coffee shops in Davao City, especially with its laid back open garden atmosphere and its excellent coffee concoctions.",Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+KISOM Atelier,5,matcha,Very chill vibe too.,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Hortus Davao (Matcha & Coffee),5,matcha,The coffee is good  hundred_points  the ambiance is instagramable  camera_with_flash,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Coffee Project Mintal,4,coffee,"The place is beautifully designed — cozy, Instagram-worthy, and has that relaxing vibe that makes you want to stay longer.",Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Good One Cafe and Yogurt,5,coffee,The interior is very unique and the ambiance is great.,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Annipie,5,coffee,Very nice ambiance with lots of cakes to choose from.,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Bandejas Cafe & Diner,5,coffee,"Lovely atmosphere, delicious food and great music.",Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Humble Table,4,coffee,The place has a cute and cozy ambiance.,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Paramount Coffee Crocodile Park Davao,4,coffee,a place to go for a good cuppa with relaxing ambiance depending on the time of day.,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Fourth Street Cafe,5,coffee,"Love the minimalist approach, the friendly baristas and the cafe's airy & relaxing atmosphere.",Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+ROOFTOP Café Bar,5,coffee,We enjoy the food with the calm ambiance.,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Daleachious Cafe - Ecoland Branch,5,coffee,Their jazzy background music makes you mellow down and enjoy the ambiance.,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Outlook,5,coffee,"The outdoor tables are adorned with warm accent lights that mimic candlelight, creating a romantic and intimate atmosphere.",Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Fourth Street Cafe,5,coffee,The minimalist design of the cafe creates a soothing atmosphere that's perfect for savoring every sip.,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Starbucks Damosa IT Park Drive-Thru,5,coffee,"The all-glass front and side are particularly pleasing and add a beautiful ambiance, especially at night.",Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+The Matcha Tokyo - SM Davao,5,matcha,Great atmosphere and service too :)),Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Indahouse Cafe,5,coffee,Place: Very Instagrammable Staff: friendly and very attentive Matcha: you can explore various types of high quality matcha drink.,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Kafih - Davao,5,coffee,"Worth the price  OK_hand_light_skin_tone  The services, wifi the ambiance.",Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Starbucks SM Davao Expansion Wing,5,coffee,New look but same vibe.,Ambiance and Atmosphere,NEUTRAL,False,NEUTRAL,NEUTRAL,NEUTRAL,NEUTRAL,NEUTRAL,NEUTRAL:4,False
+Green Coffee - Marfori,5,coffee,clean and quiet green coffee branch.,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Mandatory Matcha Bar,5,matcha,Small interior space but I absolutely love the intimate atmosphere!,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Seattle's Best Coffee,5,coffee,I always go for the al fresco area because the ambiance is really nice.,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Space-Arabica,5,coffee,Aesthetic!,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Whisk Davao Matcha,4,matcha,"Love the ambiance, too!",Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Brew and Cinnamon Cafe,5,coffee,"So nice ambiance at this shop, the place is just in front of GoHotel/ Phonex near Guadalupe Village.",Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+The Coffee Bar at GMall of Davao,5,coffee,Elegant Classy vibe.,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Matcha Bar - Marfori,5,matcha,Cosy atmosphere with unique interior design.,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+KISOM Atelier,3,matcha,It ruins the ambiance of an otherwise lovely place.,Ambiance and Atmosphere,NEGATIVE,False,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE:4,False
+Whisk Davao Matcha,5,matcha,"Great place, peaceful vibe.",Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Espresso Lab Cafe Davao,4,coffee,Beautiful lighting and great atmosphere,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Annipie @ The Farm,5,coffee,A place to go when you want peace and quiet day with family.,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Coffee Project Mintal,4,coffee,"The ambiance is cosy, walls with artistic murals that add warmth and playfulness.",Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Indahouse Cafe,5,coffee,the AMBIANCE you must SEE and FEEL for yourself... it's TRULY worth your TIME and MONEY... #indahouse,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Coffee at Yellow Hauz,1,coffee,The food and the atmosphere at your establishment are commendable.,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+COFFIX COFFEE SHOP,1,coffee,Atmosphere 1/5 No such atmosphere.,Ambiance and Atmosphere,NEGATIVE,False,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE:4,False
+Matcha Ureshi Bar,5,matcha,"good ambiance, good matcha & good service",Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Hortus Davao (Matcha & Coffee),5,matcha,The coffee is good  hundred_points  the ambiance is instagramable  camera_with_flash  …,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Matcha Bar - Marfori,5,matcha,"The place is also very aesthetic, clean and minimalistic.",Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Dakong Balay,5,coffee,nice atmosphere with delicious food,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Whisk It Good Matcha,5,matcha,Aesthetic vibes!,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Starbucks - SM Lanang,5,coffee,"Cozy atmosphere, relaxing music, and the smell of coffee hits differently the moment you enter.",Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+REVEL by Confex,5,coffee,The ambiance is so relaxing and delicious.,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Brew Lane Café,4,coffee,I love the ambience and the music so much!,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Indahouse Cafe,4,coffee,Old town Japanese vibe It must be pretty at night when lights hanged on the tree are lit.,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+The Secret Garden Cafe,5,coffee,The Cafe offers a unique ambiance that combines a cozy atmosphere with a beautiful indoor garden setup.,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+KISOM Atelier,5,matcha,Love the atmosphere of the place quiet and chill.,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Fourth Street Cafe,5,coffee,The ambiance was conducive for studying.,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+The Coffee Bar at GMall of Davao,5,coffee,Good ambiance and very nice place to study!,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Green Coffee - Marfori,5,coffee,Great place for studying and chilling and place is quiet and the atmosphere is peaceful.,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Cafe Gervacios - Pastry and Coffee in Davao City,5,coffee,"Delicious foods,impleccable service amd charming ambiance blue_heart",Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+"KAOS CAFE - 24 Hours, Jacinto St.",5,coffee,"The ambiance is cozy and artistic, making the whole experience even more enjoyable.",Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Wood and Coffee Davao,4,coffee,"The overall aesthetic of the place was impressive, as expected from a design by an artist.",Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Hola Coffee,5,coffee,And it has a kinda peaceful chill place for me hehe,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Starbucks - SM City Davao,5,coffee,Everything is good the food the service and the ambiance.,Customer Service,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Seattle's Best Coffee,5,coffee,Beautiful ambiance and very delicious coffee plus accomodating crew white_heart  sparkles,Customer Service,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Green Coffee - Diversion,1,coffee,Train your staff properly invest in customer service you have the worst customer service in all coffee shop in davao city.,Customer Service,NEGATIVE,False,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE:4,False
+8me sweet cakes and coffe shop,5,coffee,The best and sikwate with puto maya Nice place Nice their service,Customer Service,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Whisk It Good Matcha,5,matcha,"What really keeps me coming back is the overall experience—the cozy, homey interior and the warm, friendly owners who always make sure you …",Customer Service,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Fourth Street Cafe,4,coffee,Price experience score (pes) 7/10 Take out place service ok Coffee good Shop nice Price good,Customer Service,NEUTRAL,False,NEUTRAL,NEUTRAL,NEUTRAL,POSITIVE,NEUTRAL,"NEUTRAL:3, POSITIVE:1",False
+JH Garden Cafe and Restaurant Matina,5,coffee,"love the food , the smiling face of the staff specially the ambiance of the nature",Customer Service,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Blugré Coffee,5,coffee,Good service,Customer Service,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+The Coffee Bar at GMall of Davao,5,coffee,Super Lovely and welcoming Staff named Glena Jean,Customer Service,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+The Crazy Bite Co. Sky Cafe,4,coffee,Meals star  star  star  star  Burgers  star  star  star  star  star  Coffee  star  star  star  Place  star  star  star  star  star  Crews  star  star  star  star  Great service  star   star   star   star   star,Customer Service,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Kanoffee Toril,5,coffee,Coffee- 5/5 Place- 5/5 Service- 5/5 it ma,Customer Service,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+The Crazy Bite Co. Sky Cafe,5,coffee,the ambiance of the place plus the food is already giving and as well as the workers which is very accommodating in terms of services.,Customer Service,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+The Crazy Bite Co. Sky Cafe,5,coffee,"FROM THE MOMENT YOU WALK IN, THE ENTIRE CREW GREETS YOU WITH THE WARMEST SMILES AND ENERGY AND IT INSTANTLY MAKES YOU FEEL COMFORTABLE AND APPRECIATED!!!",Customer Service,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Kafih - Davao,5,coffee,"Work friendly and relaxing ambiance, free wifi and charging station  OK_hand",Customer Service,NEUTRAL,False,NEUTRAL,NEUTRAL,NEUTRAL,POSITIVE,NEUTRAL,"NEUTRAL:3, POSITIVE:1",False
+The Coffee Bar at GMall of Davao,5,coffee,"great customer service by Glena Jean, the best among the rest!",Customer Service,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+The Coffee Bar at GMall of Davao,5,coffee,Good service,Customer Service,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Matcha Bar - Marfori,5,matcha,The best matcha cafe in the Ph so cozy and friendly and just aesthetically pleasing!,Customer Service,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Mori & Mill,2,coffee,Aesthetics of the restaurant is the total opposite of service and food.,Customer Service,NEGATIVE,False,NEGATIVE,NEGATIVE,NEGATIVE,NEUTRAL,NEGATIVE,"NEGATIVE:3, NEUTRAL:1",False
+DUNKIN’ Catalunan Grande,4,coffee,Accommodating ang staff and great ambiance while ga study,Customer Service,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+The Crazy Bite Co. Sky Cafe,5,coffee,Food 7.8/10 Matcha 8.5/10 Service 10/10 Place 10/10,Customer Service,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Darkk Coffee Co.,5,coffee,"The warm ambiance and friendly people evoke memories of teenage hangouts, while the expertly crafted offers a comforting taste of the past.",Customer Service,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Dakong Balay,4,coffee,Good service,Customer Service,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+STASH Coffee Co.,4,coffee,The interior was warm staff where friendly and willing to help guess its location is also a plus giving a little privacy,Customer Service,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+PICKUP COFFEE - Oroderm City,5,coffee,Good service,Customer Service,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Starbucks SM Davao Expansion Wing,5,coffee,And Its really great to have a Nice Food Service and Atmosphere specially the new STarbucks branch,Customer Service,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Fourth Street Cafe,5,coffee,Good Service,Customer Service,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Pursuit of Coffee (POC),5,coffee," cupcake Vanilla Flan Tart, Kalifa Cake  hot_beverage Crossroad latte, Spring Blossom, Roasted Indigo  star genuinely kind staff  star clean and beautifully maintained space  star Impressively fast service  star love the food and drinks overall",Customer Service,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Cafe Gervacios - Pastry and Coffee in Davao City,5,coffee,Nice branch Great food friendly staff the place is Brand New and has great ambience,Customer Service,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Purge Coffee Roaster,5,coffee,A real third wave coffee experience in Davao operated by a passionate award winning barista.,Customer Service,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Starbucks - Abreeza Mall,5,coffee,"The recent renovation solidifies Starbucks Abreeza as not just a coffee shop but a destination where friendly service, a conducive work environment, and a fresh, modern aesthetic come together for an exceptional experience.",Customer Service,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Kafih - Davao,5,coffee,I love the cafe cause of the barista and food and coffee,Customer Service,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+WORK CO COWORKING MATINA BRANCH,5,coffee,The staff name krezel is very friendly and accomodating,Customer Service,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Whisk Davao Matcha,5,matcha,"white chocolate matcha is good and the cheesecake as well, every accommodating din tung staff sila Russel and Sam.",Customer Service,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+olo. Coffee And Concepts,5,coffee,"I love how cozy and calm the overall vibe is, especially in the outdoor space — it's the perfect spot to relax and unwind.",Facilities and Amenities,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+The Limestone Brew,5,coffee,A high end coffee and diner in the  red_heart  of Samal with WiFi,Facilities and Amenities,POSITIVE,False,POSITIVE,NEUTRAL,POSITIVE,POSITIVE,POSITIVE,"POSITIVE:3, NEUTRAL:1",False
+ems Cafe and Resto,3,coffee,Strategic area with many establishments nearby and shared parking space too.,Facilities and Amenities,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Pastry Street Pie & Café,5,coffee,pushpin Friendly and pleasant-looking staff  pushpin WiFi!!!,Facilities and Amenities,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+The Bloom Coffee & Start-Up Space,4,coffee,Great place to work Good coffee and good food I recommand,Facilities and Amenities,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Dunkin’ Drive Thru,5,coffee,wide and secure parking space to atop over and take a short nap,Facilities and Amenities,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Starbucks Damosa IT Park Drive-Thru,5,coffee,You feel safe with plenty of parking space & polite staff,Facilities and Amenities,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+MYLK Cafe,4,matcha,Cozy space and strong ac!,Facilities and Amenities,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Coffee Project Mintal,5,coffee,The abundance of natural light and greenery creates a peaceful and calming environment that's perfect for enjoying a cup of coffee or working on your laptop.,Facilities and Amenities,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+JH Garden Cafe and Restaurant Matina,5,coffee,"Soft lighting, comfortable seating, and natural wood elements create an inviting space that's perfect for everything from casual hangouts to special celebrations.",Facilities and Amenities,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Coffeecat,4,coffee,A quite place for study and review,Facilities and Amenities,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Kafih - Davao,5,coffee,"The ambiance is cozy and conducive to focus, making it an ideal spot for both work and leisure.",Facilities and Amenities,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+The Bloom Coffee & Start-Up Space,5,coffee,Best work space Yummy Food Good Service,Facilities and Amenities,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Barok Cafe and Resto,3,coffee,The space is nice and has a cozy vibe that makes it comfortable to stay and relax.,Facilities and Amenities,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+STASH Coffee Co.,5,coffee,Stash has good parking space and tidy comfort room.,Facilities and Amenities,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+The Matcha Tokyo - SM Davao,5,matcha,Love the aesthetic and how clean the space is!,Facilities and Amenities,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Infinite Caffeine,5,coffee,My friend also greatly appreciate the comfort room because it is so homey and clean.,Facilities and Amenities,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Annipie,5,coffee,"Yummy cinnamon rolls, clean and comfy space",Facilities and Amenities,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Annipie Airport View,5,coffee,Really cozy and aesthetic place to work and eat.,Facilities and Amenities,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+JH Garden Cafe and Restaurant Matina,5,coffee,The café's strong connection to nature is evident in every corner.,Facilities and Amenities,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Coffeecat,5,coffee,Possibly the best coffee in Davao plus free WiFi,Facilities and Amenities,POSITIVE,False,POSITIVE,NEUTRAL,POSITIVE,POSITIVE,POSITIVE,"POSITIVE:3, NEUTRAL:1",False
+Starbucks - SM Lanang,4,coffee,The minimalist design and comfortable seating create a welcoming space.,Facilities and Amenities,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Aloha Kakou Neighborhood Cafe,4,coffee,"It offers a spacious parking area and a cozy, beautifully designed space.",Facilities and Amenities,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Kafih - Davao,5,coffee,Kafih is the ideal spot for both great food and a cozy study environment.,Facilities and Amenities,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Coffeecat,5,coffee,"Coffee is really great  hot_beverage  Perfect place for meetings, study sessions, date and for coffee",Facilities and Amenities,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+olo. Coffee And Concepts,3,coffee,Maybe after tables are freshly cleaned and the patio is tidied up there will be the 5 star atmosphere that is seen in the pictures.,Facilities and Amenities,NEGATIVE,False,NEGATIVE,NEGATIVE,NEGATIVE,POSITIVE,NEGATIVE,"NEGATIVE:3, POSITIVE:1",False
+Kafih - Davao,5,coffee,Nice place to study kay peaceful ang second floor,Facilities and Amenities,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Pursuit of Coffee (POC),5,coffee," cupcake Vanilla Flan Tart, Kalifa Cake  hot_beverage Crossroad latte, Spring Blossom, Roasted Indigo  star genuinely kind staff  star clean and beautifully maintained space  star Impressively fast service  star love the food and drinks overall",Facilities and Amenities,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Seattle's Best Coffee,1,coffee,Cold aircon and great design in architecture and interior.,Facilities and Amenities,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+The Coffee Bar at GMall of Davao,5,coffee,The comfort room is the best Like  hundred_points  und echt Sauber,Facilities and Amenities,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+The Coffee Bar at GMall of Davao,5,coffee,"The ambiance is clean, aesthetic, and cozy, making it a great place to study or just relax.",Facilities and Amenities,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Hikaru de Cielo Cafe,5,coffee,Very nice and good place with aircon  pink_heart,Facilities and Amenities,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Cafe Sierra,5,coffee,Simple and cozy place to dine in and work,Facilities and Amenities,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+JAS Caffeinated,5,coffee,Good place to study and bond with friends,Facilities and Amenities,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Outlook,5,coffee,"The outdoor tables are adorned with warm accent lights that mimic candlelight, creating a romantic and intimate atmosphere.",Facilities and Amenities,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+JAS Caffeinated,5,coffee,"The ambiance is warm and comfortable, creating a peaceful space where you can truly enjoy your time.",Facilities and Amenities,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+BRGR Alley Café,5,coffee,Place is comfortable and big space abd the vibes is very serenity.,Facilities and Amenities,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+&Matcha - Three Yards,5,matcha,+ clean and esthetic restroom,Facilities and Amenities,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Whisk Davao Matcha,5,matcha,very unique drink combos that just Work wonderfully.,Facilities and Amenities,NEUTRAL,False,NEUTRAL,NEUTRAL,NEUTRAL,POSITIVE,NEUTRAL,"NEUTRAL:3, POSITIVE:1",False
+Cafe Gervacios - Pastry and Coffee in Davao City,5,coffee,"I'm particularly drawn to the interior—its mid-century aesthetic is thoughtfully executed and well-maintained, creating a space that feels both stylish and inviting.",Facilities and Amenities,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+"KAOS CAFE - 24 Hours, Jacinto St.",5,coffee,Kaos Cafe is my new favorite spot because it perfectly balances a productive work vibe with the best atmosphere for a barkada hangout.,Facilities and Amenities,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Humble Table,5,coffee,The place there is so cozy and perfect to study and very instragrammable.,Facilities and Amenities,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Purge Coffee Roaster,5,coffee,"This shop is more coffee centric, small space, intimate and modern atmosphere with friendly unassuming baristas who let their coffee nad the quality of the experience they offer speak for itself.",Facilities and Amenities,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Annipie Airport View,5,coffee,Their CR got fresh calachuchi petals that added to the freshness and cleanliness of their CR.,Facilities and Amenities,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Purge Coffee Roaster,4,coffee,"A cozy haven, with a unique embrace, Crafted cups served, within this warm space.",Facilities and Amenities,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Dear Joe Frontera,5,coffee,Such a unique ambiance as well perfect if you're looking for a working space.,Facilities and Amenities,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Lately Coffee,5,coffee,"Behind it is a staircase leading to a beautifully designed space with warm lighting, minimalist décor, and a charming speakeasy vibe.",Facilities and Amenities,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Hid'n Coffee,4,coffee,Ambiance had a cozy feels to it with a decent amount of tables and chairs.,Facilities and Amenities,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Seattle's Best Coffee,5,coffee,The upholstery of chairs a classy and classic in appearance.,Facilities and Amenities,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Kafih - Davao,5,coffee,"Worth the price  OK_hand_light_skin_tone  The services, wifi the ambiance.",Facilities and Amenities,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Starbucks Damosa IT Park Drive-Thru,5,coffee,Starbucks has a way of creating a space that feels both professional and personal.,Facilities and Amenities,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Green Coffee - Ecoland,5,coffee,"Good for coffee, place to work and to study",Facilities and Amenities,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+MYLK Cafe,4,matcha,Cozy space and strong ac!,Facilities and Amenities,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Green Coffee - Marfori,5,coffee,It has a wide space and the internet connection is quite good,Facilities and Amenities,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Coffee Hub,5,coffee,Affordable coffee and a freshly brewed coffee beans round the clock plus a comfortable place to kill time.,Price and Value,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Fourth Street Cafe,5,coffee,label  The price point is also great value for such good coffee.,Price and Value,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Kafih - Davao,5,coffee,affordable 24 hrs coffee shop,Price and Value,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+MATCHATUALS,5,coffee,5/5 price 5/5 taste of matcha  heart_hands_light_skin_tone  …,Price and Value,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Coffee at Yellow Hauz,5,coffee,Still the coziest and affordable cafe nearest to Crossfit Cranium,Price and Value,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+LASA DAVAO,5,coffee,"Overall, great value for money and recommended!""",Price and Value,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+PICKUP COFFEE - Gaisano Grand Citygate,5,coffee,food is delicious and affordable also the coffee,Price and Value,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+The Coffee Spot & Lounge,4,coffee,love the affordable coffee price and quality,Price and Value,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Fourth Street Cafe,4,coffee,Price experience score (pes) 7/10 Take out place service ok Coffee good Shop nice Price good,Price and Value,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+HYGGE COFFEE 2,5,coffee,"11/10 overall a must try coffee shop jud , recommended foods and drinks super ka budget friendly plus the quality thumbs up jud red_heart",Price and Value,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Black Scoop Cafe Matina,5,coffee,Good vibes everywhere: from the staff to the food to the place itself.,Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Kapeweñoz V. Mapa,5,coffee,Great coffee specially the LecheFlan Cheese Cake the best!,Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Gulf Coast Coffee and Co.,5,coffee,affordable and the coffee looks good,Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Cafe Demitasse,5,coffee,NICE PLACE MY FAVORITE PLACE heart_suit  GOOD FOOD THE CREW ARE FRIENDLY,Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Better Beans Co. - Coffee Roaster (New Location),5,coffee,"One of the best coffee shops in town and definitely my go-to bean roaster for freshly roasted, premium-quality coffee.",Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+The Coffee Spot & Lounge,5,coffee,A must visit place for coffee lovers  blue_heart  Unlike other coffee shops in Calinan were latte & capucinno tasted the same.,Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+The Coffee Bar at GMall of Davao,5,coffee,The ambience is really great and so is the food,Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Out of Boredom,5,matcha,"The matcha has a smooth, consistent texture with a well-balanced umami flavor and a rich, authentic …",Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+The Limestone Brew,5,coffee,A high end coffee and diner in the  red_heart  of Samal with WiFi,Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+KISOM Atelier,5,matcha,"The interior, aesthetic, and quality of matcha is exceptional.",Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+PICKUP COFFEE - Oroderm City,5,coffee,A place that truly turns simple coffee moments into unforgettable memories,Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Whisk Davao Matcha,5,matcha,Loved the place & the matcha latte is 10/10!!,Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Haron's Cafe,4,coffee,Great coffee Delicious fresh rolls Interesting take on a full English breakfast,Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Bean Xpress Matina Branch,5,coffee,"All together make a smooth and tasty coffee, perfect base also for a good cappuccino.",Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Purge Coffee Roaster,5,coffee,Very good specialty coffee that uses freshly roasted beans and farm fresh milk.,Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Whisk Davao Matcha,5,matcha,Loved the matcha and the creamy seta alfredo Ms. Angel was very accommodating and made the experience even better.,Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Court Side Café,5,coffee,A small air conditioned coffee place with a quiet atmosphere next to Bankerohan and on top the Badminton center.,Product Quality,NEUTRAL,False,NEUTRAL,NEUTRAL,NEUTRAL,POSITIVE,NEUTRAL,"NEUTRAL:3, POSITIVE:1",False
+Happy Valley Cafe Davao,5,coffee,"Very cozy and the focus is not just on aesthetics, the food and drinks are also legit delicious  hundred_points",Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+The Matcha Tokyo - Azuela High Street,5,matcha,Favorite matcha drink and pastry,Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Barok Cafe and Resto,2,coffee,"Barok Café & Resto is a mix of coffee shop, restaurant and events place.",Product Quality,NEUTRAL,False,NEUTRAL,NEUTRAL,NEUTRAL,POSITIVE,NEUTRAL,"NEUTRAL:3, POSITIVE:1",False
+Isem Cafe,5,coffee,the coffee was fantastic and perfect for coffee lovers exploring new options in the city.,Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Coffee Project Mintal,5,coffee,"You can tell that the baristas take great care in crafting each cup of coffee, ensuring that every customer is satisfied with their drink.",Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Coffeefolks Cafe,5,coffee,A cozy place to chill and the staff are very friendly and passionate about their coffee,Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Green Coffee - Marfori,5,coffee,Green coffee is 10 times more delicious than Boss Coffee.,Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Fourth Street Cafe,4,coffee,"A coffee shop with a unique coffee and clean interior, featured in trending Facebook and Instagram photos.",Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Habitat Coffee - Tionko Branch,5,coffee,"in a coffee scene that is super saturated na, this cafe has its own vibe and taste that sets it apart from the others.",Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Spilled Coffee,5,matcha,baristas are kind enough to tailor it to your taste and the beans they use smell so good?!,Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Whisk Davao Matcha,4,matcha,Tried their Whisk Hibiscus Matcha and loved it!,Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Coffee Project Mintal,5,coffee,The abundance of natural light and greenery creates a peaceful and calming environment that's perfect for enjoying a cup of coffee or working on your laptop.,Product Quality,NEUTRAL,False,NEUTRAL,NEUTRAL,NEUTRAL,POSITIVE,NEUTRAL,"NEUTRAL:3, POSITIVE:1",False
+BRGR Alley Café,5,coffee,Exelent verry friendly and good staff and good food,Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Vanitea Cafe,5,coffee,Keep making excellent pastries and coffee!,Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Sipscape Cafe,5,coffee,Sipscape Cafe is an awesome environment with amazing beverages and food!,Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Beyond Beans & Co,5,matcha,Tried the dirty matcha and matcha strawberry and the oat barley is really giving!,Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+The Matcha Tokyo - Azuela High Street,5,matcha,Very nice cafe ambiance and yummy matcha!!,Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Seattle's Best Coffee,4,coffee,The new place is absolutely a pretty go to place for the coffee lovers.,Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+BRGR Alley Café,5,coffee,Delicious food,Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+MYLK Cafe,5,matcha,Probably one of the best coffee in Marfori!,Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Espresso Lab Cafe Davao,5,coffee,The perfect ambiance to enjoy your peace and coffee.,Product Quality,NEUTRAL,False,NEUTRAL,NEUTRAL,NEUTRAL,POSITIVE,NEUTRAL,"NEUTRAL:3, POSITIVE:1",False
+Coffee By The Way,5,coffee,"Coffee By The Way is not just a coffee shop; it's a serene escape into nature, offering an unparalleled coffee experience that seamlessly blends quality brews with a refreshing natural ambiance.",Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Koffiepauze,5,matcha,The white and wood themed interior makes it a great place to hang out and have coffee.,Product Quality,NEUTRAL,False,NEUTRAL,NEUTRAL,NEUTRAL,POSITIVE,NEUTRAL,"NEUTRAL:3, POSITIVE:1",False
+Whisk Davao Matcha,5,matcha,"white chocolate matcha is good and the cheesecake as well, every accommodating din tung staff sila Russel and Sam.",Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Whisk Davao Matcha,5,matcha,The owner is so kind and the matcha is delicious  face_savoring_food  …,Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Apo Cafe,5,coffee,Great and accessible Halal cafe with prayer room situated in a very student-heavy location so best for studious college students who want to review while snacking on good food and drinks,Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+KISOM Atelier,5,matcha,A very cozy place to chill and have matcha,Product Quality,NEUTRAL,False,NEUTRAL,NEUTRAL,NEUTRAL,POSITIVE,NEUTRAL,"NEUTRAL:3, POSITIVE:1",False
+Craft Coffee & Roastery,5,coffee,Indulge in the irresistible aroma and taste of their brewed coffee.,Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Paramount Coffee - Twin Palms,5,coffee,Paramount Coffee Twinpalm has such a cozy and inviting atmosphere!,Product Quality,NEUTRAL,False,NEUTRAL,NEUTRAL,NEUTRAL,POSITIVE,NEUTRAL,"NEUTRAL:3, POSITIVE:1",False
+Whisk Davao Matcha,5,matcha,"The Signature Cacao was amazing, you can really taste the …",Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Matcha Bar - Marfori,5,matcha,Matcha Bar offers a vibrant and welcoming ambiance that creates a truly enjoyable café experience.,Product Quality,NEUTRAL,False,NEUTRAL,NEUTRAL,NEUTRAL,POSITIVE,NEUTRAL,"NEUTRAL:3, POSITIVE:1",False
+Espresso Lab Cafe Davao,5,coffee,Excellent taste of coffee and pastries,Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Hid'n Coffee,2,coffee,1 tending to the coffee and 2 tending to the food.,Product Quality,NEUTRAL,False,NEUTRAL,NEUTRAL,NEUTRAL,NEGATIVE,NEUTRAL,"NEUTRAL:3, NEGATIVE:1",False
+The Bloom Coffee & Start-Up Space,5,coffee,"5/5, 100/100, perfect coffee shop.",Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Brew and Cinnamon Cafe,4,coffee,"This cafe shop offers a warm, inviting ambiance, exceptional coffee, and friendly service that make it a must visit spot.",Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Darkk Coffee Co.,5,coffee,Dark coffee is a must try for coffee enthisiasts like me.,Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Good One Cafe and Yogurt,5,coffee,very aesthetic and loved the yogurt and drinks,Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+TALA Cafe,5,coffee,"Honey vibe, good food and coffee",Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Blnko Street Cafe,5,coffee,"From expertly crafted coffee to refreshing non-coffee beverages, every drink is thoughtfully prepared with quality and consistency in mind.",Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Brew and Cinnamon Cafe,5,coffee,My girlfriend and I visit this café several times every month because it's one of our favorite places to relax and enjoy great food together.,Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Paramount Coffee Crocodile Park Davao,5,coffee,Best local coffee dria sa davao  pink_heart,Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+The Matcha Tokyo - Azuela High Street,4,matcha,"The flavor was rich, earthy, and noticeably more authentic than the average café matcha latte, with a pleasant umami depth and just the right level of sweetness.",Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Green Bread - Matina,5,coffee,Very aesthetic place good service and the staff so friendly and especially to the chef lami mag luto kudos to all balik balik kami <3,Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+The Matcha Tokyo - SM Davao,3,matcha,I love the Matcha drinks and soft serve ice cream.,Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Kingdom Cafe & Bistro,5,coffee,"Overall, Kingdom Cafe and Bistro is a hidden gem that provides an exceptional coffee shop experience.",Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Knto Cinco - Puan Branch,5,coffee,Coffee is good too maple_leaf,Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Cafe Demitasse,4,coffee,Their coffee's distinct flavor and taste is what I truly love and sets them apart from the rest.,Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+"KAOS CAFE - 24 Hours, Jacinto St.",3,coffee,"First, the coffee is so good, my friends and I would rate it a 9/10.",Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+The Matcha Tokyo - Azuela High Street,5,matcha,update: the hot matcha latte is so good with the latte art.,Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Starbucks - SM Lanang,4,coffee,Excellent location cleverly situated in the second floor of the mall giving you a good view of all the shops and people traffic activity.,Store Operations and Accessibility,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Paramount Coffee - Twin Palms,4,coffee,"Unavoidably along the road right beside Twin Palms Residences, your eyes will revert to the two floors of space and sufficient parking lot.",Store Operations and Accessibility,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Starbucks - Matina IT Park,5,coffee,Spacious and Accessible,Store Operations and Accessibility,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Starbucks - SM Lanang,5,coffee,Coffee and pastries is on one good location,Store Operations and Accessibility,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Haron's Cafe,5,coffee,The most beautiful coffee shop in Dafawa city... open 24 hours,Store Operations and Accessibility,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Habitat Coffee - Tionko Branch,4,coffee,Small cafe with an open-air space and an additional nicely-decorated second floor.,Store Operations and Accessibility,POSITIVE,False,NEUTRAL,POSITIVE,NEUTRAL,POSITIVE,POSITIVE,"NEUTRAL:2, POSITIVE:2",True
+Apo Cafe,5,coffee,Great and accessible Halal cafe with prayer room situated in a very student-heavy location so best for studious college students who want to review while snacking on good food and drinks,Store Operations and Accessibility,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+ems Cafe and Resto,3,coffee,Strategic area with many establishments nearby and shared parking space too.,Store Operations and Accessibility,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+STASH Coffee Co.,5,coffee,The place is located on the second floor of TBT building with a good amount of parking space.,Store Operations and Accessibility,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Seattle's Best Coffee,4,coffee,"The place has a bigger area inside the coffeeshop and the parking, comfortable seats.",Store Operations and Accessibility,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Aloha Kakou Neighborhood Cafe,4,coffee,"It offers a spacious parking area and a cozy, beautifully designed space.",Store Operations and Accessibility,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Dear Joe Frontera,5,coffee,Naa pod plants which make the atmosphere feel like you are in a jungle or close to nature.,Store Operations and Accessibility,NEUTRAL,False,NEUTRAL,NEUTRAL,NEUTRAL,POSITIVE,NEUTRAL,"NEUTRAL:3, POSITIVE:1",False
+Coffee For Peace at One Oasis,5,coffee,Close to appartelle oasis,Store Operations and Accessibility,NEUTRAL,False,NEUTRAL,NEUTRAL,NEUTRAL,POSITIVE,NEUTRAL,"NEUTRAL:3, POSITIVE:1",False
+Green Coffee - Diversion,5,coffee,Original Green Coffee was in Torres Sts it has also good location.,Store Operations and Accessibility,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Black Scoop Cafe Matina,4,coffee,It has a highly visible location and a dedicated parking area.,Store Operations and Accessibility,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+The Crazy Bite Co. Sky Cafe,4,coffee,"Mostly, what is wow is view and location of the place.",Store Operations and Accessibility,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+STASH Coffee Co.,5,coffee,Stash has good parking space and tidy comfort room.,Store Operations and Accessibility,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+"The Coffee Bar, Gaisano Mall of Toril",5,coffee,"the location is delightful wherein you can have mountain view, delicious food and hot coffee.",Store Operations and Accessibility,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Glasshouse Coffee,5,coffee,The location is a reminder of how green spaces make things even better.,Store Operations and Accessibility,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+One Corner Coffee Lifestyle and Beyond,5,coffee,I LOVE THE AMBIANCE <3,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Coffeecat,5,coffee,Love the ambiance and food!,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Fourth Street Cafe,5,coffee,"Minimalist, great ambiance and fast service!",Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Paramount Coffee Crocodile Park Davao,5,coffee,Ambiance is so nice and relaxing.,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+STASH Coffee Co.,4,coffee,"Delicious coffee, chill vibes.",Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Lara Mia Café & Bistro,5,coffee,Love the ambiance too!,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Glasshouse Coffee,5,coffee,The wooden interiors give off a calming vibe.,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+olo. Coffee And Concepts,5,coffee,I really like the ambiance and all.,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Glasshouse Coffee,4,coffee,Quiet and elegant,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Humble Table,5,coffee,"The café itself has a cozy vibe, making it a great spot to relax and enjoy a delicious drink.",Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Lara Mia Café & Bistro,5,coffee,An aswome restaurant with great food and delightful atmosphere  OK_hand,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Kiks Davao,3,coffee,The rich and bold flavors of the coffee really hit the spot.,Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+PICKUP COFFEE - Oroderm City,5,coffee,The place has such a calm and cozy vibe — definitely a café we'll always keep coming back to.,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,NEUTRAL,POSITIVE,POSITIVE,POSITIVE,"POSITIVE:3, NEUTRAL:1",False
+Chatime - SM Ecoland Davao,3,coffee,Typical chatime drinks small and fast for your cold milk tea,Product Quality,NEUTRAL,False,NEUTRAL,POSITIVE,NEUTRAL,NEUTRAL,NEUTRAL,"NEUTRAL:3, POSITIVE:1",False
+MYLK Cafe,5,matcha,Space was small but very homey like ambiance,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+MYLK Cafe,5,matcha,Space was small but very homey like ambiance,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+The Coffee Bar at GMall of Davao,5,coffee,Everything is good from ambiance-food-staff.,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Kove,3,coffee,"Sure, it looked neat and added to the overall aesthetic.",Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Humble Table,4,coffee,I really like the vibe of this place.,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Indahouse Cafe,5,coffee,Well-made furniture and an atmosphere that's calm but not stiff.,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Pastry Street Pie & Café,5,coffee,pushpin The ambience is very homey  pushpin They had a taste of curated music playlist that sets that comforting vibe.,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Cafe Demitasse,4,coffee,Place has Denny's resto kind of ambiance.,Ambiance and Atmosphere,NEUTRAL,False,NEUTRAL,NEUTRAL,NEUTRAL,POSITIVE,NEUTRAL,"NEUTRAL:3, POSITIVE:1",False
+Matcha Loco,1,matcha,"Not aesthetically pleasing sa personal, untidy and noisy.",Ambiance and Atmosphere,NEGATIVE,True,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE:4,False
+Steep Kohi,5,coffee,Ordered Matcha Volume 1 enjoyed the drink has a very bold matcha flavor with very slight sweetness.,Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Café de Vivré,5,coffee,The ambiance of the place is also really nice.,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+ROOFTOP Café Bar,5,coffee,"I love the vibe, the food and drinks are great",Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Knto Cinco - Puan Branch,5,coffee,The sweetness is just right to your palate and is best paired with coffee.,Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Door 3 Cafe,5,coffee,me and my gf loved the atmosphere so much!,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Cafe Basilico,5,coffee,"From the moment we walked in, we felt right at home in the warm, inviting atmosphere.",Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+"The Coffee Bar, Gaisano Mall of Toril",5,coffee,Great ambiance and great food,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Purge Coffee Roaster,4,coffee,It also has a feel good cozy vibe.,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Starbucks - Matina IT Park,4,coffee,Coffee is great and the vibe of the place nice.,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Coffeecat,4,coffee,Coffee taste good and cream brulee just suits their coffee,Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Starbucks Damosa IT Park Drive-Thru,4,coffee,Coffee and ambiance is always great.,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+TALA Cafe,5,coffee," star  star  star  star  star  Absolutely fantastic coffee!If you are a true coffee lover, you need to visit this place.",Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Vibes Cafe,1,coffee,Saba kay ga dungan ang music ug ang saba sa mga tao.,Ambiance and Atmosphere,NEGATIVE,True,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE:4,False
+Solace - Coffee Club,5,coffee,One of the best spot to chill and dine here in Toril!,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+The Secret Garden Cafe,5,coffee,The place itself has a really cozy atmosphere - filled with antiques and plants.,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Outlook,4,coffee,"The atmosphere transforms with the evening lights, creating a cozy and inviting setting perfect for a memorable dining experience.",Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Green Coffee - Ecoland,5,coffee,"cold, quiet, and clean green coffee location.",Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Binnamon Cafe,5,matcha,1000000/10 for Matcha and Aglio Olio,Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Solace - Coffee Club,5,coffee,Ambiance is relaxing and their Coffee and Pasta is great!,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Glasshouse Coffee,5,coffee,That itself would say the quality of coffee bean they use... And the Ambience  hundred_points  natural... Best Part is the Bamboo Straws...,Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Annipie @ The Farm,5,coffee,As always the cinnamon amd their food is good,Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+BRGR Alley Café,5,coffee,The place is nice and aesthetic.,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+The Crazy Bite Co. Sky Cafe,5,coffee,The food and the ambiance is great!,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Coffee Project Mintal,4,coffee,Aesthetics is best ive seen for a coffee shop.,Product Quality,NEUTRAL,False,NEUTRAL,NEUTRAL,NEUTRAL,POSITIVE,NEUTRAL,"NEUTRAL:3, POSITIVE:1",False
+Aesthetic Beans,2,coffee,Puro aesthetic pero murag sauna ang kainit sa sulod!,Ambiance and Atmosphere,NEGATIVE,True,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE,NEGATIVE:4,False
+BRGR Alley Café,5,coffee,"The ambiance is really nice and cozy, making it a perfect place to relax and enjoy your meal.",Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Humble Table,5,coffee,Plus points to the aesthetic  smiling_face_with_hearts,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Beholden Coffee Experience - CM Recto,5,coffee,"Ambiance is amazing, coffee experience really is unique.",Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Annipie Airport View,5,coffee,I like the pistachio milk and also nice ambiance.,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Haron's Cafe,5,coffee,The ambiance is relaxing.,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+The Coffee Bar at GMall of Davao,5,coffee,"Coffee Bar Café is a cozy and welcoming spot with rich, flavorful coffee and tasty treats that perfectly complement every cup.",Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+"KAOS CAFE - 24 Hours, Jacinto St.",5,coffee,Love the aesthetic place and always to go coffee heart_hands_light_skin_tone  heart_hands_light_skin_tone  heart_hands_light_skin_tone,Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Annipie Airport View,5,coffee,The ambiance is so good and the food and pastries is very delicious.,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+The Matcha Tokyo - Azuela High Street,4,matcha,"If you are looking for a spacious and aesthetic spot to get your matcha fix, THE MATCHA TOKYO is definitely worth a visit.",Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Cafe Demitasse,5,coffee,And even the ambiance feels great!,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Kingdom Cafe & Bistro,5,coffee,"From the moment you step into Kingdom Cafe and Bistro, you'll be greeted with a warm and inviting atmosphere.",Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+olo. Coffee And Concepts,5,coffee,Chill place and good coffee,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Coffee For Peace at One Oasis,5,coffee,Best coffee and nice ambiance!,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Barok Cafe and Resto,4,coffee,"The place is very pleasing and has a nice, cozy atmosphere.",Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Cafe Gervacios - Pastry and Coffee in Davao City,5,coffee,"We all enjoyed the food, service as well as the ambiance!",Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Café Prelaya by The Joaquins’ Cheesecakes,4,coffee,The best thing about Cafe Prelaya is its cozy vibe.,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Good One Cafe and Yogurt,3,coffee,"Nice area, very aesthetic.",Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Four Season Cafe,5,coffee,The ambiance is relaxing too.,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+PICKUP COFFEE - Oroderm City,5,coffee,"There's something special about this coffee shop the cozy atmosphere, the aroma of freshly brewed coffee, and the warmth it brings.",Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+The Matcha Tokyo - SM Davao,5,matcha,Its giving aesthetic  sparkles  pinched_fingers_light_skin_tone,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+444 Coffee,5,coffee,loved the smooth spanish latte and the unique blueberry cinnamon.,Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Wood and Coffee Davao,5,coffee,Wood and Coffee is a charming café known for its cozy ambiance and excellent brews.,Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Brewed Obrero,2,coffee,Puro aesthetic pero fail sa comfort and temperature.,Ambiance and Atmosphere,NEGATIVE,True,NEGATIVE,NEGATIVE,NEGATIVE,NEUTRAL,NEGATIVE,"NEGATIVE:3, NEUTRAL:1",False
+Coffee at Yellow Hauz,4,coffee,Original brewed coffee and Great coffee place,Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Daleachious Cafe - Ecoland Branch,5,coffee,"love the place, ambiance and the service.",Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Steep Coffee,5,coffee,I love it coffee so creamy and delecios,Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Humble Table,5,coffee,The welcoming ambiance made the whole experience even better.,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+ROOFTOP Café Bar,5,coffee,good ambiance despite the rain,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Space-Arabica,5,coffee,The interior has a very relaxing ambience with a soothing ballad music that goes with it.,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+BRGR Alley Café,5,coffee,"friendly staff, delicous food, aesthetic vibes red_heart",Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Indahouse Cafe,5,coffee,"Super chill atmosphere.""",Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Bashh,5,coffee,"Good Ambiance, Very Affordable Delicious Menus and Very Friendly Business,.",Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Kove,3,coffee,"The place is nice and has a relaxing, nature-inspired vibe, just as you'd expect.",Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+BRGR Alley Café,5,coffee,I like the ambiance  winking_face,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Seattle's Best Coffee,5,coffee,Always love the ambiance at the second floor.,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Brew Lane Café,4,coffee,A coffee shop in the downtown area offered a truly welcoming and comfortable atmosphere.,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Aloha Kakou Neighborhood Cafe,5,coffee,"Nice ambiance with very aesthetic, Instagrammable vibes.",Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Aloha Kakou Neighborhood Cafe,5,coffee,Loved the ambiance of the place.,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Solace - Coffee Club,5,coffee,"Love the ambiance, coffee, and food.",Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Glasshouse Coffee,5,coffee,"If you love coffee, cake and ambiance all in one this is the place to go best in the world so far!!!",Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Habitat Coffee - Tionko Branch,5,coffee,One of the best coffee shops for photoshoots or tambay!,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+The Yolk Society,5,coffee,the sweet taste of matcha blends perfectly with berry's sourness.,Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Palps Cafe,5,coffee,Love the atmosphere of this place!,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Brew Lane Café,3,coffee,What I really love about this place is the relaxed atmosphere.,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Karlo's Gourmet & Coffee,5,coffee,Karlos Gourmet & Coffee has a cozy vibe and unique menu selections.,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Kotetsu by Wood and Coffee,5,coffee,"I love Kotetsu's aesthetic and concrete design look; it feels warm and not crowded, especially at night!",Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Daiko Coffee,5,coffee,"The atmosphere is cozy and homey, perfect for focusing and staying productive.",Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+"What If, Kape?",5,coffee,Looking for good coffee + Cozy vibe?,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+JH Garden Cafe and Restaurant Matina,5,coffee,"I like the ambiance here, it so peaceful perfect for spending time with your loved ones.",Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Starbucks - GMall of Davao,5,coffee,"The coffee is perfectly brewed with rich flavor and aroma, and every cup feels crafted with care.",Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Better Beans Co. - Coffee Roaster (New Location),5,coffee,"They take the time to assist customers and share their knowledge about coffee, creating a welcoming and relaxing atmosphere.",Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+The Yolk Society,5,coffee,The atmosphere is great,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Café de Vivré,5,coffee,The atmosphere was so relaxing.,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Aloha Kakou Neighborhood Cafe,4,coffee,Experience a tropical vibe cafe where taste and tranquility meet!,Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Coffeefolks Cafe,4,coffee,The cozy ambiance of the shop invites you to relax and savor your coffee.,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Wood and Coffee Davao,5,coffee,I highly recommend to visit here and have your simple secret santa with friends if you like the cozy and chill vibe  sparkles,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Hills and Valleys Coffee - Buhangin Davao,5,coffee,Atmosphere that keep you in,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Matcha Ureshi Bar,5,matcha,Very aesthetic and taste so good smiling_face_with_hearts,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Coffee Project Mintal,4,coffee,The ambiance and the place is great for hanging out.,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Verdeli Garden & Cafe,5,coffee,Nice and quiet place with delicious food that's grown in their own garden.,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+"KAOS CAFE - 24 Hours, Jacinto St.",4,coffee,Food is 10/10 in terms of taste and serving.,Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Solace - Coffee Club,4,coffee,Ambiance there is just like any other cafe's with aesthetic and chill vibes.,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,NEUTRAL,POSITIVE,POSITIVE,POSITIVE,"POSITIVE:3, NEUTRAL:1",False
+Cafe Demitasse,5,coffee,Food & ambiance are equally great!,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+BRGR Alley Café,5,coffee,Very nice place the ambiance is so relaxing  smiling_face_with_hearts,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Mori & Mill,5,coffee,Coffee star  star  star  star  star,Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Bean Xpress Matina Branch,5,coffee,Best way to get coffee and chill,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Cafe Gervacios - Pastry and Coffee in Davao City,5,coffee,The food is good and aesthetic.,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+The Coffee Bar at GMall of Davao,4,coffee,I love the atmosphere - relaxing and well lit.,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+The Coffee Bar at GMall of Davao,5,coffee,Very friendly staff and a nice comfortable atmosphere  growing_heart,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Dakong Balay,5,coffee,"The place has a relaxing and homey atmosphere, perfect for family gatherings and special occasions.",Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Kopi lah Roti,4,coffee,Luv the Kaya & coffee with condensed milk reminiscent of Asian coffees,Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+The Coffee Bar at GMall of Davao,5,coffee,Food is good and so is the atmosphere.,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Espresso Lab Cafe Davao,4,coffee,"Ideal place to kill time, well air-conditioned and quiet.",Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Paramount Coffee Crocodile Park Davao,5,coffee,Good food and Good atmosphere  red_heart  red_heart  red_heart,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Kove,3,coffee,The place is new and has this nice aesthetic.,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Cafe Gervacios - Pastry and Coffee in Davao City,5,coffee,"- Ambiance: Nice decors with xmas tree over xmas period, staff also hat xmas hats.",Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Cafe Julieta,4,coffee,Bright atmosphere and jovial vibes.,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Sipscape Cafe,5,coffee,The cozy ambiance and friendly staff made the experience even better.,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+The Crazy Bite Co. Sky Cafe,4,coffee,Atmosphere: Architecture and designs are great it helps the ambiance more appealing makes the consumers to want more.,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+The Secret Garden Cafe,5,coffee,"Overall, The Secret Garden Cafe provides a charming and peaceful ambiance, perfect for those looking to unwind and enjoy good food and company.",Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+The Secret Garden Cafe,5,coffee,"The place is also equally great, serene little cafe vibe!",Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+The Yolk Society,5,coffee,Not only an aesthetic cafe but well curated selection of coffee and food heart_hands,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+The Matcha Tokyo - Azuela High Street,5,matcha,"It has that calm, cozy vibe that makes you want to stay for a while.",Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Whisk It Good Matcha,5,matcha,Atmosphere of the …,Ambiance and Atmosphere,NEUTRAL,False,NEUTRAL,NEUTRAL,NEUTRAL,NEUTRAL,NEUTRAL,NEUTRAL:4,False
+Kafih - Davao,4,coffee,"The place was great, very clean and aesthetic.",Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Black Scoop Cafe Matina,4,coffee,"The coffee shop is very atmospheric, spacious and cozy.",Product Quality,NEUTRAL,False,NEUTRAL,NEUTRAL,NEUTRAL,POSITIVE,NEUTRAL,"NEUTRAL:3, POSITIVE:1",False
+The Coffee Bar at GMall of Davao,5,coffee,Fave place for tambay,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+BRGR Alley Café,5,coffee,"Chill Location, Great Food, Amazing Service",Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+JH Garden Cafe and Restaurant Matina,5,coffee,"The quality of the food, the impeccable service, and the peaceful ambiance all come together to create a truly unique experience.",Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+PICKUP COFFEE - Davao Finance Center,5,coffee,very aesthetic place.,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Matcha Bar - Marfori,5,matcha,Nice ambiance and good food and matcha,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Matcha Bar - Marfori,5,matcha,Nice ambiance and good food and matcha,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Whisk Davao Matcha,5,matcha,"about the place…It gives mi chill and good ambience, about the food and drinks yes it absolutely good well balanced.",Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+The Matcha Tokyo - SM Davao,5,matcha,very good matcha and nice interior,Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+The Matcha Tokyo - SM Davao,5,matcha,very good matcha and nice interior,Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Glasshouse Coffee,5,coffee,It's located inside a guarded compound with a good ambiance and friendly staff.,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Cafe Gervacios - Pastry and Coffee in Davao City,4,coffee,"The ambiance is ""Noir-chic"" of glossy wood, low ceilings, and a polished aesthetic that feels very classy.",Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Koffiepauze,3,matcha,Relaxing ambiance,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Lot 38 Kape,5,coffee,It's super nice and the vibe is great.,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Curiore Cafe,5,coffee,The atmosphere is calm and intimate.,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Daleachious Cafe - Ecoland Branch,1,coffee,"Otherwise, great location and nice interior atmosphere.",Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Annipie @ The Farm,5,coffee,Nice ambiance the crews are very attentive,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+Kapenato Toril,5,coffee,Aesthetic place but never compromises your comfort and food quality.,Ambiance and Atmosphere,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+The Matcha Tokyo - SM Davao,5,matcha,love the matcha salted cream,Product Quality,POSITIVE,False,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE,POSITIVE:4,False
+The Glasshouse,1,coffee,"Way lami ang playlist nila, maka duka paminawon.",Ambiance and Atmosphere,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Poblacion Brews,2,coffee,Uncomfortable kaayo ang ilahang mga bar stools.,Ambiance and Atmosphere,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Matcha Point,2,matcha,"Init kaayo, wala naga function ilang aircon hantod karon.",Ambiance and Atmosphere,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Matcha Vibes,1,matcha,"Ngitngit kaayo ang palibot, sakit sa mata magbasa.",Ambiance and Atmosphere,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Brewed Obrero,2,coffee,"Saba kaayo murag palengke, di conducive for studying.",Ambiance and Atmosphere,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Kape Dabaw,2,coffee,"Masyado saba tungod sa echo sa sulod, bati design.",Ambiance and Atmosphere,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Brewed Obrero,2,coffee,"Grabe saba, dili maka tuon bisan mag earphones pa.",Ambiance and Atmosphere,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Poblacion Brews,2,coffee,"Grabe ang kabanha, dili gyud para sa mga naga work.",Ambiance and Atmosphere,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Kape Dabaw,2,coffee,"Saba kaayo ang mga barista mag chika, dungog sa tibook shop.",Ambiance and Atmosphere,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Matcha Vibes,1,matcha,"Nag sige rag balik ang kanta, maka irita na kadugayan.",Ambiance and Atmosphere,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Vibes Cafe,1,coffee,Dikit-dikit ang bangko mao na walay privacy at all.,Ambiance and Atmosphere,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Aesthetic Beans,2,coffee,"Bati og ambiance, murag waiting area sa hospital ka boring.",Ambiance and Atmosphere,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Poblacion Brews,2,coffee,They play club music sa coffee shop. Bati kaayo ug vibe.,Ambiance and Atmosphere,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Matcha Loco,1,matcha,Puro aesthetic display pero ang ambiance murag fast food chain ka saba.,Ambiance and Atmosphere,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Kape Dabaw,2,coffee,"Pang picture ra siya, pero the place is loud and uncomfortable.",Ambiance and Atmosphere,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Aesthetic Beans,2,coffee,"Ngitngit na, alingugngug pa jud tungod sa kadaghan tao.",Ambiance and Atmosphere,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+The Glasshouse,2,coffee,"Init kaayo banda sa window seats, wa silay blinds.",Ambiance and Atmosphere,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Ecoland Cafe,1,coffee,"Walay exhaust, puro aso sa pagluto ang ambiance.",Ambiance and Atmosphere,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Matcha Vibes,1,matcha,"Kusog kaayo ang tugtog, di nalang ta mag sturya ani.",Ambiance and Atmosphere,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Poblacion Brews,2,coffee,Daghan lang aesthetic plants pero huot kaayo ang agianan.,Ambiance and Atmosphere,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Kape Dabaw,2,coffee,"Saba ang mga bata na naga dagan-dagan, wa gibawal sa staff.",Ambiance and Atmosphere,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+The Glasshouse,2,coffee,"Saba ang dalan, wala silay proper sound insulation.",Ambiance and Atmosphere,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Matcha Point,1,matcha,"Wa silay music, madungog nimo chika sa tanan table, super awkward.",Ambiance and Atmosphere,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Vibes Cafe,1,coffee,"Pwerte sabaha sa mga crew, ga syagitay lang sa counter.",Ambiance and Atmosphere,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Coffee Project Obrero,1,coffee,"Aesthetic unta pero ang mga lingkuranan dili comfortable, sakit sa likod.",Ambiance and Atmosphere,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Poblacion Brews,2,coffee,"Saba kaayo ang blender nila, makurat ka permi.",Ambiance and Atmosphere,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Vibes Cafe,2,coffee,"Daghan kayg lamok sa ilang al fresco area, grabe!",Ambiance and Atmosphere,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Kape Dabaw,1,coffee,"Kusog kaayo tung kanta sakit sa dunggan, dili maka focus.",Ambiance and Atmosphere,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Poblacion Brews,2,coffee,"Too crowded by lunch time, dili nalang ko mopadayon.",Ambiance and Atmosphere,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Brewed Obrero,1,coffee,"Baho tag-as ang CR nila, maka guba ug mood iduty.",Ambiance and Atmosphere,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Aesthetic Beans,2,coffee,Di work friendly kay saba and bati ang lights.,Ambiance and Atmosphere,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Matcha Point,1,matcha,"Dikit-dikit ang tables, murag sardinas ta dre.",Ambiance and Atmosphere,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+The Glasshouse,2,coffee,"Murag discohan ang sounds, sakit sa dunggan.",Ambiance and Atmosphere,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Aesthetic Beans,2,coffee,"Bati ang temperature control, init pa sa gawas usahay.",Ambiance and Atmosphere,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Green Matcha PH,1,matcha,"Pangit ang lighting nila, murag naa sa peryahan sa sobrang dim.",Ambiance and Atmosphere,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+The Glasshouse,1,coffee,"Puro porma lang jud, walay chill factor ang place.",Ambiance and Atmosphere,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Matcha Vibes,1,matcha,Walay kwenta ang aesthetic kung grabe ka alimuot.,Ambiance and Atmosphere,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Ecoland Cafe,1,coffee,"Dili man lami paminawon ilang playlist, murag pampatulog ra.",Ambiance and Atmosphere,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Matcha Loco,1,matcha,"Huot kaayo ang agianan, mag sige rag bangga ang mga tao.",Ambiance and Atmosphere,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Kape Dabaw,2,coffee,"Bad music choice, nakakawalang gana mag kape.",Ambiance and Atmosphere,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Ecoland Cafe,2,coffee,Dili conducive for online meetings kay banha ang background.,Ambiance and Atmosphere,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Matcha Loco,2,matcha,"Puro lang aesthetic pero alimuot kaayo sa sulod, way aircon.",Ambiance and Atmosphere,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Matcha Loco,1,matcha,"Too bright ang ilaw, sakit sa mata murag sa hospital.",Ambiance and Atmosphere,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Kape Dabaw,1,coffee,Dili relaxing kay ang mga tapad saba mag tabing.,Ambiance and Atmosphere,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Brewed Obrero,2,coffee,"Super init sa ilahang taas na part, wa nay hangin.",Ambiance and Atmosphere,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Aesthetic Cafe Davao,2,coffee,"Masyadong dikit-dikit ang tables, zero privacy jud kung mag tabi.",Ambiance and Atmosphere,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Kanto Brews,1,coffee,"Ga kiling-kiling ilang mga lamisa unya gahi kaayo ang mga lingkuranan. Piskot, sakit sa likod mag dugay.",Ambiance and Atmosphere,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Matcha Vibes,1,matcha,"Dili chill ang ambiance, pirmi nagdali ang mga tao.",Ambiance and Atmosphere,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Ecoland Cafe,1,coffee,Vibe check failed. Trying hard ra kaayo na aesthetic unya hugaw ang floor.,Ambiance and Atmosphere,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Kape Dabaw,2,coffee,"Bati ang airflow sa sulod, mag huot inyong mga ginhawa.",Ambiance and Atmosphere,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Poblacion Brews,2,coffee,"It's cramped, dark, and smells weird inside.",Ambiance and Atmosphere,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Matcha Point,1,matcha,Saba ang mga istudyante na naga dula og cards sa pikas table.,Ambiance and Atmosphere,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Matcha Vibes,1,matcha,"Dili magkadimao ang ambiance nila, chaotic kaayo and noisy.",Ambiance and Atmosphere,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Cafe Cino,1,coffee,Hurot na daw ilang tubig sa CR. No flush!,Facilities and Amenities,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Matcha Craze,1,matcha,Dili pwede mag connect sa wifi ang more than 1 device.,Facilities and Amenities,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Brew Stop,2,coffee,Hina ang aircon. Singot kaayo ko nag inom ug kape.,Facilities and Amenities,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Local Beans,1,coffee,"Super dirty ng wash area, may mga tirang food.",Facilities and Amenities,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Minku Matcha,1,matcha,Sira ang flush sa comfort room nila. Yikes.,Facilities and Amenities,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Matcha Vibes,2,matcha,Walay tissue sa CR tapos baho pa jud.,Facilities and Amenities,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Leaf & Bean,1,matcha,"Luod ilang CR, walay hand soap and water is very hina.",Facilities and Amenities,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Morning Brew,1,coffee,No wifi. No data signal. Pano kami mag chat?,Facilities and Amenities,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Espresso Dvo,1,coffee,"Baho ilong sa sulod, walay exhaust ang ilang kitchen.",Facilities and Amenities,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Matcha Mix,1,matcha,Wala man lay basurahan sa gawas for the tissues.,Facilities and Amenities,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Kape Express,1,coffee,Wala silay paki kung walay tubig sa CR. So bad.,Facilities and Amenities,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Matcha Cafe,1,matcha,Basag na ilang mga plates and cups. Not presentable.,Facilities and Amenities,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+The Beanery,2,coffee,Slowest wifi sa whole Davao. Dili maka play ug video.,Facilities and Amenities,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Matcha Room,1,matcha,Nag brownout tapos wala silay generator. Init kaayo.,Facilities and Amenities,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Street Brew,2,coffee,Wa juy parking. Gi ticketan tuloy akong sakyanan sa gawas.,Facilities and Amenities,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Matcha Daily,2,matcha,"The table we got was wobbly, natapon tuloy kape ko.",Facilities and Amenities,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Brew Davao,1,coffee,"Guba ilang aircon, init kaayo sa sulod murag oven.",Facilities and Amenities,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Brewery Dvo,1,coffee,Init pa sa impyerno ilang al fresco. Walay fans jud.,Facilities and Amenities,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Kape Bar,1,coffee,Limited ra ang sockets nila. Mag ilog pa ang customers.,Facilities and Amenities,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Cafe Tres,2,coffee,"Guba ang door knob sa CR, makulbaan ka ma lock-in.",Facilities and Amenities,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Matcha Hub,1,matcha,"Only one comfort room for all customers, grabe ang pila.",Facilities and Amenities,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Davao Cafe,2,coffee,"Dami lamok sa al fresco area nila, walay fan man lang.",Facilities and Amenities,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Kape Sikat,1,coffee,Walay mirror sa CR ug ngitngit kaayo ang suga.,Facilities and Amenities,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Daily Brew,1,coffee,"Sakit sa likod ilang mga bangko, not for long hours.",Facilities and Amenities,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Green Tea Hub,2,matcha,Di nagana ang outlet na gi assign sa amoa.,Facilities and Amenities,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Matcha Place,1,matcha,Only 2 parking slots. Nag park ko sa pikas kanto.,Facilities and Amenities,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Matcha Lab,2,matcha,"Medyo hugaw ang floor, daghan pa tissue nag kalat.",Facilities and Amenities,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Matcha Lounge,1,matcha,"Mga chairs nila naay rust, maka guba ug sanina.",Facilities and Amenities,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Kape Tayo,2,coffee,"Sira yung isang toilet, tapos ang dumi pa ng isa.",Facilities and Amenities,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Matcha Box,1,matcha,Tulo tulo ang atop pag ulan. Nabasa among laptops.,Facilities and Amenities,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Matcha Factory,1,matcha,No designated smoking area so the smoke goes inside.,Facilities and Amenities,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Brewers Hub,1,coffee,The aircon is dripping water sa among table.,Facilities and Amenities,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Cafe Uno,2,coffee,"Super init sa second floor, di keri mag stay dugay.",Facilities and Amenities,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Kape Diaries,1,coffee,"Hugaw ang tables, dili gina tarong ug limpyo sa staff.",Facilities and Amenities,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Kape Hub,2,coffee,Walay paper towel or anything to dry hands sa CR.,Facilities and Amenities,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Matcha Club,2,matcha,"Walay ilaw sa ilang parking lot, medyo scary sa gabi.",Facilities and Amenities,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Green Leaf,2,matcha,Daming langaw sa pwesto namin. Very unhygienic tignan.,Facilities and Amenities,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Brew City,1,coffee,"Guba tung isa ka aircon, tiis ganda sa kainit.",Facilities and Amenities,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Tea & Matcha,1,matcha,Ilang wifi naay password pero di ginahatag kung di mangayo.,Facilities and Amenities,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Matcha Sip,2,matcha,"Aircon nila gadala ug abog, hugaw guro ang filter.",Facilities and Amenities,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Kape Juan,2,coffee,"Super slow wifi connection, nag data na lang ko.",Facilities and Amenities,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Poblacion Kape,2,coffee,"Grabe kagamay sa space, sikit sikit kaayo ang mga tables.",Facilities and Amenities,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Cafe Quatro,1,coffee,Medyo crowded tapos walay harang ang tables. No privacy.,Facilities and Amenities,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Coffee Project Dvo,2,coffee,Ang init sa pwesto nila kay naka atubang sa adlaw.,Facilities and Amenities,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Kape Davao,1,coffee,"Super baho ng CR nila, amoy kanal.",Facilities and Amenities,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Matcha Corner,2,matcha,"Init kaayo, walay aircon. Not recommended for studying.",Facilities and Amenities,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Kape Ora,2,coffee,Baho ug ihi ang palibot sa CR nila. Walay naglimpyo.,Facilities and Amenities,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Green Sip,2,matcha,"Hinay kaayo ang wifi, di maka load ug basic na page.",Facilities and Amenities,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Kape Street,1,coffee,"Basa ang salog sa CR, delikado maka slide.",Facilities and Amenities,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Corner Kape,2,coffee,Baho og imburnal dapit sa amoang table. Sayang lang.,Facilities and Amenities,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Beanery Dvo,1,coffee,Wifi keeps disconnecting every 5 mins. Very frustrating.,Facilities and Amenities,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Green Drop,1,matcha,"Guba na ang cushion sa mga sofa, lubog na kaayo.",Facilities and Amenities,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Brew Space,2,coffee,"Di mu gana ilang wifi sa Mac, ambot ngano.",Facilities and Amenities,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Cafe Agdao,2,coffee,Expensive tapos ang liit ng serving ng food.,Price and Value,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Davao Kape,1,coffee,"Sayang lang akong gi bayad, super overpriced!",Price and Value,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Matcha Matina,2,matcha,The matcha is good pero the price is completely unjustified.,Price and Value,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Davao Kape,2,coffee,Dili ko ganahan kay expensive ra kaayo for me.,Price and Value,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Matcha Matina,1,matcha,Mahal ilang drinks unya murag asukal ra tanan.,Price and Value,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Lanang Matcha House,2,matcha,"Ang mahal ng matcha nila, di naman authentic ang lasa.",Price and Value,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Davao Kape,1,coffee,"Super mahal jud as in, kaloka ang presyo.",Price and Value,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Cafe Agdao,2,coffee,Masyadong pricey for a simple coffee and toast.,Price and Value,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Ecoland Coffee Co,1,coffee,Waste of money buying overpriced drinks here.,Price and Value,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Cafe Agdao,1,coffee,"Masyadong mahal, di naman special ang lasa.",Price and Value,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Davao Kape,1,coffee,Overpriced food and the coffee is just mediocre.,Price and Value,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Cafe Agdao,2,coffee,Dili practical ang price for a quick coffee break.,Price and Value,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Matcha Matina,2,matcha,200 pesos for this small cup? Grabe ka mahal.,Price and Value,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Davao Kape,2,coffee,"Overpriced siya, mapugos tag palit kay nag order na.",Price and Value,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Kape Obrero,1,coffee,Mahal na kaayo ilang drinks nag shrink pa ang cup.,Price and Value,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Buhangin Brew,1,coffee,"Mahal na gani, wa pajud lami ang pagka timpla.",Price and Value,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Ecoland Coffee Co,2,coffee,Overpriced pastries tapos uga na kaayo inig serve.,Price and Value,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Ecoland Coffee Co,1,coffee,Very expensive and the serving is ridiculously small.,Price and Value,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Buhangin Brew,2,coffee,"Food is expensive too, murag Manila rate na siya.",Price and Value,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Kape Obrero,1,coffee,Gamay ug cup tapos overpriced pa jud kaayo.,Price and Value,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Ecoland Coffee Co,2,coffee,"Mahal kaayo ilang food, dili pang student budget.",Price and Value,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Cafe Agdao,1,coffee,Di sya worth it for its price point.,Price and Value,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Roxas Beans,2,coffee,Sayang jud akong 250 pesos ani na drink.,Price and Value,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Ecoland Coffee Co,1,coffee,"Sayang kwarta, overpriced ra kaayo ilang kape.",Price and Value,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Matcha Vibe Davao,1,matcha,"Sus, pwerteng gamaya sa serving sa ilang pastry pero tag 250 pesos kapin! Gibitik ra man ta ani, layo ra sa menu pic.",Price and Value,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Roxas Beans,1,coffee,Jusko ang mahal ng kape tapos lasang tubig.,Price and Value,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Torres Brews,2,coffee,"Grabe ang patong sa presyo, di worth it.",Price and Value,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Roxas Beans,1,coffee,Not a good value for money jud.,Price and Value,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Lanang Matcha House,2,matcha,Paying 200+ for a meh matcha is not worth it.,Price and Value,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Ecoland Coffee Co,2,coffee,Dili reasonable ang price sa ila pastries and drinks.,Price and Value,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Torres Brews,2,coffee,Medyo pricey sya and dili makatarungan ang lasa.,Price and Value,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Lanang Matcha House,1,matcha,Di worth it i-spend akong kwarta dire.,Price and Value,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Matcha Matina,2,matcha,"Mahal kaayo, dili pang masa ang presyo.",Price and Value,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Buhangin Brew,2,coffee,Gamay ra ang cake slice para sa 150 pesos.,Price and Value,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Torres Brews,2,coffee,"Grabe kamahal, mura tag gikuhaan og kwarta sa bulsa.",Price and Value,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Kape Obrero,2,coffee,"Mahal kaayo siya, not ideal for daily coffee run.",Price and Value,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Roxas Beans,2,coffee,Gamay ra ang serving size for its price.,Price and Value,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Matcha Matina,1,matcha,"Overpriced jud siya, dili nako mubalik.",Price and Value,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Davao Kape,1,coffee,"Mahal ilang kape, way lami, sayang kwarta.",Price and Value,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Cafe Agdao,1,coffee,The prices are too steep for a local coffee shop.,Price and Value,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Ecoland Coffee Co,2,coffee,Gamay ug serving for a very expensive price tag.,Price and Value,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Kape Obrero,1,coffee,Mura mag ginto ang presyo sa ila drinks.,Price and Value,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Matcha Matina,1,matcha,Overpriced matcha drinks that taste like pure milk.,Price and Value,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Ecoland Coffee Co,1,coffee,They charge too much for basic iced coffee.,Price and Value,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Buhangin Brew,1,coffee,Overpriced kaayo ilang cakes tapos dry na.,Price and Value,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Lanang Matcha House,1,matcha,I feel like it's overpriced for a simple matcha latte.,Price and Value,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Lanang Matcha House,2,matcha,Price is too high for a normal tasting matcha.,Price and Value,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Torres Brews,1,coffee,Prices are exorbitant for such a small serving.,Price and Value,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Lanang Matcha House,1,matcha,Sayang ang kwarta dili worth it ilang food.,Price and Value,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Matcha Matina,2,matcha,Very small serving for an expensive matcha drink.,Price and Value,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Torres Brews,1,coffee,Super pricey tapos dili sad kaayo lami ila drinks.,Price and Value,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Lanang Matcha House,1,matcha,Mahal kaayo ang matcha nila compared sa uban.,Price and Value,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Roxas Beans,1,coffee,"Dili worth it, I'd rather buy coffee somewhere else.",Price and Value,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Kape Obrero,2,coffee,Gamay ra kaayo ang food for its expensive price.,Price and Value,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Bean Route Davao,1,coffee and matcha,"Walay proper waiting area, magtindog na lang mi outside sa init while naghulat.",Store Operations and Accessibility,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Ma-a Coffee Stop,1,matcha,Grabe ka lisod ma access ang loob kay naka barricade ang entrance due sa repair.,Store Operations and Accessibility,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Kape Lokal,2,matcha,Sobra ka lisod ma access ang building kay walay tricycle nga mag agi didto.,Store Operations and Accessibility,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Cafe Panabo Road,1,coffee,Sobra ka lisod ma locate ang entrance kay wala silay clear signage sa gawas.,Store Operations and Accessibility,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Cafe Sinabuyan,1,coffee and matcha,"Naa daw sila 24 hours pero nag close na sila alas 9pm, misinformation jud.",Store Operations and Accessibility,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Cafe Sinabuyan,2,matcha,"Lisod maka park kay one way lang ang dalan, mag circle circle pa ko.",Store Operations and Accessibility,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Buhangin Bean House,2,coffee,"Sobra ka lisod ang signal sa wifi bisan naa ka duol sa router, permi disconnect.",Store Operations and Accessibility,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Sagrada Coffee Nook,2,coffee and matcha,"Wala silay proper lighting sa parking area, delikado mag park pag gabii na.",Store Operations and Accessibility,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Bankerohan Brew,1,coffee,"Wala silay ramp o elevator, pure stairs lang gikan sa ground papunta sa second floor.",Store Operations and Accessibility,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Brew Society Davao,1,coffee,"Layo kaayo ang nearest jeepney stop, mag lakaw pa ka og pito ka minuto.",Store Operations and Accessibility,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Cafe Agdao,1,coffee,"Steep kaayo ang hagdan padulong sa 2nd floor, walay elevator para sa PWD.",Store Operations and Accessibility,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Roxas Ave Roastery,1,coffee,Sobra ka layo padulong sa pinaka duol nga public transport para sa store nga ni.,Store Operations and Accessibility,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Davao Doi Coffee,2,matcha,"Wala nay parking area since gi construction, sobra ka lisod mag park karon.",Store Operations and Accessibility,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Roxas Ave Roastery,2,matcha,"Naabot ko alas 3 tapos sarado na, sa Google Maps until 6pm man unta.",Store Operations and Accessibility,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Lanang Latte Bar,2,coffee and matcha,Grabe kalisod ang pag park sa evening kay walay light sa parking area.,Store Operations and Accessibility,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Cafe Malagos Roasters,2,coffee,Naay sign nga free parking pero pag adto nako naay charge na diay.,Store Operations and Accessibility,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Cafe Malagos Roasters,1,matcha,Grabe ka daghan mag order pero isa ra ka staff naka duty sa buong shift.,Store Operations and Accessibility,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Matcha Milk Bar,1,coffee and matcha,"Walay bisan unsang aircon nga gana, sobra ka init sulod bisan naay AC unit.",Store Operations and Accessibility,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Green Leaf Matcha Bar,2,coffee,"Wala silay parking guard, mag guess na lang ka kung safe ba ipark diri sakyanan.",Store Operations and Accessibility,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Kape Ihaw-Ihaw,1,coffee,"Naay isa lang ka toilet para sa buong store, sobra ka daghan naghulat.",Store Operations and Accessibility,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Kape Habagat,2,coffee,"Wala jud signage sa gawas, nasagpa mi og layo kay wala nakit-an ang entrance.",Store Operations and Accessibility,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Matcha Muna,2,coffee,Wala jud sila mag update sa holiday schedule nila sa social media.,Store Operations and Accessibility,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Kapehan sa Kalinaw,1,coffee,"Grabe ka layo sa main road, walay tricycle nga moadto direkta didto.",Store Operations and Accessibility,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Green Whisk Matcha House,1,coffee,Naay sign nga open 24/7 pero pag alas 11pm sarado na diay ang gate.,Store Operations and Accessibility,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Cafe Ilang-Ilang,2,matcha,Two hours ang byahe para lang makita nga closed diay for maintenance.,Store Operations and Accessibility,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Catalunan Cafe Stop,1,coffee and matcha,Grabe kalisod ang pag adto kay walay proper street light sa gawas panahon sa gabii.,Store Operations and Accessibility,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Cafe Agdao,2,coffee and matcha,"Sarado sila without notice, nakaabot ra mi para ma disappoint.",Store Operations and Accessibility,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Tugbok Brew House,1,coffee and matcha,"Sarado diay sila sa Sunday, wala pa jud updated sa Google Maps nila.",Store Operations and Accessibility,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Cafe Agdao,2,matcha,Naay app booking sila pero wala man diay ni sync sa actual availability.,Store Operations and Accessibility,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Brewpoint Davao,1,coffee and matcha,"Grabe ka gamay ang parking, isa lang ka sakyanan ang ka fit sa entire lot.",Store Operations and Accessibility,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Matcha Bar 88,1,coffee,"Sobra ka layo ang backup parking, mag lakaw pa ka og lima ka minuto sa main road.",Store Operations and Accessibility,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Catalunan Cafe Stop,1,coffee,Sobra ka init sa sulod kay naa lang isa ka aircon unit para sa buong store.,Store Operations and Accessibility,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Matcha Bar 88,1,matcha,"Sobra kadaghan tao, walay number system so kalibog kung sino nag una.",Store Operations and Accessibility,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Cafe Kadayawan,2,coffee,"Gi book namo ang table pero pag abot namo wala pa sila nag prepare, wait pa jud.",Store Operations and Accessibility,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Cafe Toril,1,coffee and matcha,"Wala silay signage sa parking, mag guess na lang ka kung asa allowed mo park.",Store Operations and Accessibility,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Matcha Mo Davao,1,coffee and matcha,"Wala silay elevator access, so kanang mga senior citizen kinahanglan mo hagdan gyud.",Store Operations and Accessibility,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Green Whisk Matcha House,1,coffee,"Grabe ka hirap hanapin, wala man gani nag stand out ang signage nila sa kadalanan.",Store Operations and Accessibility,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Brew & Bites Davao,1,matcha,"Sobra ka layo ang pinaka duol nga parking building, mag lakaw ka og upat minuto.",Store Operations and Accessibility,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Matina Matcha Lab,1,coffee,"Wala silay clear schedule, lahi lahi permi ang closing time depende sa staff.",Store Operations and Accessibility,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Green Whisk Matcha House,2,coffee and matcha,"Wala silay backup plan pag mag rain, mag sarado dayon sila kay atop leak.",Store Operations and Accessibility,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Kape Habagat,2,coffee,"Grabe ka layo padulong sa parking, kinahanglan mo tabok pa sa highway para makaabot.",Store Operations and Accessibility,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Kape Diwa Davao,2,coffee,Sobra kadugay ang paghulat kay staff shortage daw sila every weekend.,Store Operations and Accessibility,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Kopi Mindanao,1,matcha,"Naay sign nga open pero pag sulod nako wala diay tao, nag gukod pa ko sa staff.",Store Operations and Accessibility,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Buhangin Bean House,1,matcha,"Grabe ka sikip ang walkway papadulong sa loob, dili gani dalawa makalabang.",Store Operations and Accessibility,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Cafe Durian House,1,coffee and matcha,Naay sign nga bukas 24 hours pero pag alas 2am sarado na diay ang doors.,Store Operations and Accessibility,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Bean Route Davao,1,coffee and matcha,"Naay isa lang ka staff nga nag open, so mag late gyud sila pag Monday morning.",Store Operations and Accessibility,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Cafe Toril,1,matcha,"Naa lang gyud usa ka cashier bisan Saturday rush hour, sobra ka hinay ang linya.",Store Operations and Accessibility,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Sagrada Coffee Nook,1,matcha,"Sobra ka gamay ang parking lot, dili gani ka fit ang akong sakyanan.",Store Operations and Accessibility,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Cafe Toril,1,coffee and matcha,Naay sign nga open pero pag knock nako sa door wala man diay ni bukas.,Store Operations and Accessibility,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Roxas Ave Roastery,1,matcha,Sobra ka init sa second floor kay wala nila palihuga ang aircon didto.,Store Operations and Accessibility,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Agdao Espresso,2,coffee,"Gubot ilang sistema pag order, nagpatong-patong ang linya tapos hastang dugaya milihok sa mga staff. Na late na nuon ko.",Store Operations and Accessibility,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+The Daily Grind Davao,1,coffee and matcha,"Wala sila mag update sa operating hours nila kada holiday, permi mi na guess lang.",Store Operations and Accessibility,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Bajada Bean Co.,1,coffee,Naay sign nga open pero pag text nako sa contact number wala jud gi reply.,Store Operations and Accessibility,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
+Obrero Brew Bar,2,coffee and matcha,Sobra ka lisod ang pag park kay reserved lahat para sa staff nila lang.,Store Operations and Accessibility,NEGATIVE,True,,,,,NEGATIVE,SYNTHETIC_GENERATION,False
