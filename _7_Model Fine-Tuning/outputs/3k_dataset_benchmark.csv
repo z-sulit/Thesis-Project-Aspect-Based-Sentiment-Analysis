@@ -1,0 +1,5 @@
+Model,accuracy,macro_f1,weighted_f1,f1_positive,f1_neutral,f1_negative
+XLM-RoBERTa,0.746,0.474,0.757,0.868,0.120,0.434
+mBERT,0.684,0.442,0.717,0.830,0.164,0.330
+SVM + TF-IDF,0.742,0.411,0.729,0.859,0.086,0.290
+VADER,0.683,0.469,0.721,0.821,0.157,0.428
