@@ -1,0 +1,72 @@
+place_name,shop_type,TargetAspect,sentence,ground_truth,pred_xlmr,pred_mbert,pred_svm
+"The Coffee Bar, Gaisano Mall of Toril",coffee,Product Quality,Blueberries on my wafles taste like expired jam.,NEGATIVE,NEGATIVE,NEUTRAL,NEUTRAL
+Green Coffee - Marfori,coffee,Product Quality,"Unfortunately, the same could be said of all coffee shops in Davao.",NEUTRAL,NEGATIVE,POSITIVE,POSITIVE
+Mille Matcha - DGT,matcha,Product Quality,"Great matcha, probably one of the best in Davao.",POSITIVE,POSITIVE,NEUTRAL,POSITIVE
+Café Joa,coffee,Product Quality,Great job on the cleanliness but food and service needs improvement.,NEGATIVE,POSITIVE,NEUTRAL,POSITIVE
+Blugré Coffee,coffee,Product Quality,"Still on the menu are the old faves — Chicken Enchilada and White Choco Torte….This used to be ""the coffee hang out"" during its glory days…But as so many new coffee shops sprouted through the years, issues with poor air conditioning, slow internet connection, and the second floor always unavailable loudly spells TERRIBLE service.",NEGATIVE,POSITIVE,POSITIVE,POSITIVE
+WKND 1970,coffee,Facilities and Amenities,"I only wish their staff was friendlier, and more approachable, and that they can improve the dining experience by adding more light, tables and music",NEGATIVE,POSITIVE,POSITIVE,POSITIVE
+HOUR CAFÉ,coffee,Product Quality,"The Ambience is nice, they could make much more out of this place by higher Food quality.",NEGATIVE,POSITIVE,NEUTRAL,POSITIVE
+Green Coffee - Marfori,coffee,Ambiance and Atmosphere,What I like about this place is that it is relatively quiet than other coffee shops.,POSITIVE,POSITIVE,POSITIVE,POSITIVE
+Cafe Demitasse,coffee,Facilities and Amenities,The area is not cramped and the airconditioning units are enough for the space.,POSITIVE,NEGATIVE,NEGATIVE,POSITIVE
+Cafe Demitasse,coffee,Facilities and Amenities,the comfort room is the most important place in every establishment.,NEUTRAL,POSITIVE,POSITIVE,POSITIVE
+The Limestone Brew,coffee,Product Quality,The best Matcha better than Matcha Tokyo and the best Truffle Pasta I had period.,POSITIVE,POSITIVE,NEUTRAL,POSITIVE
+BRGR Alley Café,coffee,Store Operations and Accessibility,We didn't want to continue if there was no proper parking so good thing we found it.,POSITIVE,NEGATIVE,NEGATIVE,NEGATIVE
+&Matcha - Three Yards,matcha,Product Quality,10/10 because the matcha tastes really good.,POSITIVE,POSITIVE,NEUTRAL,POSITIVE
+Cafe Demitasse,coffee,Ambiance and Atmosphere,"We love the vibrant ambiance, customer service of the guards and waiters, clean comfort rooms and the yummy foods especially the cakes.",POSITIVE,POSITIVE,POSITIVE,POSITIVE
+Cafe Gervacios - Pastry and Coffee in Davao City,coffee,Ambiance and Atmosphere,"We were all happy with the service, the ambiance, and of course the food and drinks.",POSITIVE,POSITIVE,POSITIVE,POSITIVE
+KISOM Atelier,matcha,Ambiance and Atmosphere,Very chill vibe too.,POSITIVE,POSITIVE,NEGATIVE,POSITIVE
+Starbucks SM Davao Expansion Wing,coffee,Ambiance and Atmosphere,New look but same vibe.,NEUTRAL,POSITIVE,POSITIVE,POSITIVE
+Mandatory Matcha Bar,matcha,Ambiance and Atmosphere,Small interior space but I absolutely love the intimate atmosphere!,POSITIVE,POSITIVE,POSITIVE,POSITIVE
+KISOM Atelier,matcha,Ambiance and Atmosphere,It ruins the ambiance of an otherwise lovely place.,NEGATIVE,POSITIVE,POSITIVE,POSITIVE
+Annipie @ The Farm,coffee,Ambiance and Atmosphere,A place to go when you want peace and quiet day with family.,POSITIVE,POSITIVE,POSITIVE,POSITIVE
+Matcha Bar - Marfori,matcha,Ambiance and Atmosphere,"The place is also very aesthetic, clean and minimalistic.",POSITIVE,POSITIVE,POSITIVE,POSITIVE
+The Secret Garden Cafe,coffee,Ambiance and Atmosphere,The Cafe offers a unique ambiance that combines a cozy atmosphere with a beautiful indoor garden setup.,POSITIVE,POSITIVE,POSITIVE,POSITIVE
+Green Coffee - Marfori,coffee,Ambiance and Atmosphere,Great place for studying and chilling and place is quiet and the atmosphere is peaceful.,POSITIVE,POSITIVE,POSITIVE,POSITIVE
+"KAOS CAFE - 24 Hours, Jacinto St.",coffee,Ambiance and Atmosphere,"The ambiance is cozy and artistic, making the whole experience even more enjoyable.",POSITIVE,POSITIVE,POSITIVE,POSITIVE
+Hola Coffee,coffee,Ambiance and Atmosphere,And it has a kinda peaceful chill place for me hehe,POSITIVE,POSITIVE,POSITIVE,POSITIVE
+8me sweet cakes and coffe shop,coffee,Customer Service,The best and sikwate with puto maya Nice place Nice their service,POSITIVE,POSITIVE,POSITIVE,POSITIVE
+Fourth Street Cafe,coffee,Customer Service,Price experience score (pes) 7/10 Take out place service ok Coffee good Shop nice Price good,NEUTRAL,POSITIVE,POSITIVE,POSITIVE
+Blugré Coffee,coffee,Customer Service,Good service,POSITIVE,POSITIVE,NEUTRAL,POSITIVE
+The Coffee Bar at GMall of Davao,coffee,Customer Service,Good service,POSITIVE,POSITIVE,NEUTRAL,POSITIVE
+Dakong Balay,coffee,Customer Service,Good service,POSITIVE,POSITIVE,NEUTRAL,POSITIVE
+PICKUP COFFEE - Oroderm City,coffee,Customer Service,Good service,POSITIVE,POSITIVE,NEUTRAL,POSITIVE
+Fourth Street Cafe,coffee,Customer Service,Good Service,POSITIVE,POSITIVE,NEUTRAL,POSITIVE
+Purge Coffee Roaster,coffee,Customer Service,A real third wave coffee experience in Davao operated by a passionate award winning barista.,POSITIVE,POSITIVE,NEUTRAL,POSITIVE
+Dunkin’ Drive Thru,coffee,Facilities and Amenities,wide and secure parking space to atop over and take a short nap,POSITIVE,POSITIVE,POSITIVE,POSITIVE
+Whisk Davao Matcha,matcha,Facilities and Amenities,very unique drink combos that just Work wonderfully.,NEUTRAL,POSITIVE,POSITIVE,POSITIVE
+Purge Coffee Roaster,coffee,Facilities and Amenities,"A cozy haven, with a unique embrace, Crafted cups served, within this warm space.",POSITIVE,POSITIVE,POSITIVE,POSITIVE
+MATCHATUALS,coffee,Price and Value,5/5 price 5/5 taste of matcha  heart_hands_light_skin_tone  …,POSITIVE,POSITIVE,POSITIVE,NEGATIVE
+Fourth Street Cafe,coffee,Price and Value,Price experience score (pes) 7/10 Take out place service ok Coffee good Shop nice Price good,POSITIVE,POSITIVE,NEGATIVE,POSITIVE
+The Coffee Bar at GMall of Davao,coffee,Product Quality,The ambience is really great and so is the food,POSITIVE,POSITIVE,POSITIVE,POSITIVE
+Bean Xpress Matina Branch,coffee,Product Quality,"All together make a smooth and tasty coffee, perfect base also for a good cappuccino.",POSITIVE,POSITIVE,NEUTRAL,POSITIVE
+Court Side Café,coffee,Product Quality,A small air conditioned coffee place with a quiet atmosphere next to Bankerohan and on top the Badminton center.,NEUTRAL,POSITIVE,NEUTRAL,POSITIVE
+Happy Valley Cafe Davao,coffee,Product Quality,"Very cozy and the focus is not just on aesthetics, the food and drinks are also legit delicious  hundred_points",POSITIVE,POSITIVE,NEUTRAL,POSITIVE
+Coffeefolks Cafe,coffee,Product Quality,A cozy place to chill and the staff are very friendly and passionate about their coffee,POSITIVE,POSITIVE,NEUTRAL,POSITIVE
+Fourth Street Cafe,coffee,Product Quality,"A coffee shop with a unique coffee and clean interior, featured in trending Facebook and Instagram photos.",POSITIVE,POSITIVE,NEUTRAL,POSITIVE
+Spilled Coffee,matcha,Product Quality,baristas are kind enough to tailor it to your taste and the beans they use smell so good?!,POSITIVE,POSITIVE,NEUTRAL,POSITIVE
+BRGR Alley Café,coffee,Product Quality,Exelent verry friendly and good staff and good food,POSITIVE,POSITIVE,NEUTRAL,POSITIVE
+MYLK Cafe,matcha,Product Quality,Probably one of the best coffee in Marfori!,POSITIVE,POSITIVE,NEUTRAL,POSITIVE
+Espresso Lab Cafe Davao,coffee,Product Quality,Excellent taste of coffee and pastries,POSITIVE,POSITIVE,NEUTRAL,POSITIVE
+The Bloom Coffee & Start-Up Space,coffee,Product Quality,"5/5, 100/100, perfect coffee shop.",POSITIVE,POSITIVE,NEUTRAL,NEUTRAL
+Darkk Coffee Co.,coffee,Product Quality,Dark coffee is a must try for coffee enthisiasts like me.,POSITIVE,NEGATIVE,NEUTRAL,POSITIVE
+The Crazy Bite Co. Sky Cafe,coffee,Store Operations and Accessibility,"Mostly, what is wow is view and location of the place.",POSITIVE,POSITIVE,POSITIVE,POSITIVE
+Coffeecat,coffee,Ambiance and Atmosphere,Love the ambiance and food!,POSITIVE,POSITIVE,POSITIVE,POSITIVE
+Fourth Street Cafe,coffee,Ambiance and Atmosphere,"Minimalist, great ambiance and fast service!",POSITIVE,POSITIVE,POSITIVE,POSITIVE
+Lara Mia Café & Bistro,coffee,Ambiance and Atmosphere,An aswome restaurant with great food and delightful atmosphere  OK_hand,POSITIVE,POSITIVE,POSITIVE,POSITIVE
+Humble Table,coffee,Ambiance and Atmosphere,I really like the vibe of this place.,POSITIVE,POSITIVE,POSITIVE,POSITIVE
+Indahouse Cafe,coffee,Ambiance and Atmosphere,Well-made furniture and an atmosphere that's calm but not stiff.,POSITIVE,POSITIVE,POSITIVE,POSITIVE
+Pastry Street Pie & Café,coffee,Ambiance and Atmosphere,pushpin The ambience is very homey  pushpin They had a taste of curated music playlist that sets that comforting vibe.,POSITIVE,POSITIVE,POSITIVE,POSITIVE
+Steep Kohi,coffee,Product Quality,Ordered Matcha Volume 1 enjoyed the drink has a very bold matcha flavor with very slight sweetness.,POSITIVE,POSITIVE,NEUTRAL,POSITIVE
+Purge Coffee Roaster,coffee,Ambiance and Atmosphere,It also has a feel good cozy vibe.,POSITIVE,POSITIVE,POSITIVE,POSITIVE
+Annipie @ The Farm,coffee,Product Quality,As always the cinnamon amd their food is good,POSITIVE,POSITIVE,NEUTRAL,POSITIVE
+Annipie Airport View,coffee,Ambiance and Atmosphere,The ambiance is so good and the food and pastries is very delicious.,POSITIVE,POSITIVE,POSITIVE,POSITIVE
+The Matcha Tokyo - Azuela High Street,matcha,Ambiance and Atmosphere,"If you are looking for a spacious and aesthetic spot to get your matcha fix, THE MATCHA TOKYO is definitely worth a visit.",POSITIVE,POSITIVE,POSITIVE,POSITIVE
+The Matcha Tokyo - SM Davao,matcha,Ambiance and Atmosphere,Its giving aesthetic  sparkles  pinched_fingers_light_skin_tone,POSITIVE,POSITIVE,POSITIVE,POSITIVE
+444 Coffee,coffee,Product Quality,loved the smooth spanish latte and the unique blueberry cinnamon.,POSITIVE,POSITIVE,NEUTRAL,POSITIVE
+Wood and Coffee Davao,coffee,Product Quality,Wood and Coffee is a charming café known for its cozy ambiance and excellent brews.,POSITIVE,POSITIVE,NEUTRAL,POSITIVE
+Bashh,coffee,Ambiance and Atmosphere,"Good Ambiance, Very Affordable Delicious Menus and Very Friendly Business,.",POSITIVE,POSITIVE,POSITIVE,POSITIVE
+Brew Lane Café,coffee,Ambiance and Atmosphere,A coffee shop in the downtown area offered a truly welcoming and comfortable atmosphere.,POSITIVE,POSITIVE,POSITIVE,POSITIVE
+JH Garden Cafe and Restaurant Matina,coffee,Ambiance and Atmosphere,"I like the ambiance here, it so peaceful perfect for spending time with your loved ones.",POSITIVE,POSITIVE,POSITIVE,POSITIVE
+Starbucks - GMall of Davao,coffee,Product Quality,"The coffee is perfectly brewed with rich flavor and aroma, and every cup feels crafted with care.",POSITIVE,POSITIVE,NEUTRAL,POSITIVE
+Solace - Coffee Club,coffee,Ambiance and Atmosphere,Ambiance there is just like any other cafe's with aesthetic and chill vibes.,POSITIVE,POSITIVE,POSITIVE,POSITIVE
+Annipie @ The Farm,coffee,Ambiance and Atmosphere,Nice ambiance the crews are very attentive,POSITIVE,POSITIVE,POSITIVE,POSITIVE

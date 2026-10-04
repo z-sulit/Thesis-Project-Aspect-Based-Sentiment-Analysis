@@ -1,0 +1,49 @@
+{
+  "label2id": {
+    "POSITIVE": 0,
+    "NEUTRAL": 1,
+    "NEGATIVE": 2
+  },
+  "seed": 42,
+  "epochs": 5,
+  "patience": 2,
+  "weight_decay": 0.01,
+  "lr_grid": [
+    2e-05,
+    3e-05,
+    5e-05
+  ],
+  "bs_grid": [
+    16,
+    32
+  ],
+  "xlmr_best": {
+    "lr": 5e-05,
+    "batch_size": 16
+  },
+  "mbert_best": {
+    "lr": 2e-05,
+    "batch_size": 32
+  },
+  "class_weighted_loss": true,
+  "final_seeds": [
+    42,
+    43,
+    44
+  ],
+  "split_sizes": {
+    "train": 569,
+    "val": 71,
+    "test": 71
+  },
+  "rows_dropped_corrupted": 3,
+  "environment": {
+    "python": "3.14.7",
+    "device": "cpu",
+    "torch": "2.14.0",
+    "transformers": "5.17.0",
+    "scikit-learn": "1.9.1",
+    "pandas": "3.0.5",
+    "numpy": "2.5.3"
+  }
+}

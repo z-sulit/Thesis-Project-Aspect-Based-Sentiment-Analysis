@@ -1,3 +1,9 @@
 .vs/
 
 .env
+# Large model checkpoints
+*.safetensors
+_7_Model Fine-Tuning/phase7_outputs/
+
+# Ignore large trained model weights
+*.safetensors
