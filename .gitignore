@@ -7,3 +7,9 @@ _7_Model Fine-Tuning/phase7_outputs/
 
 # Ignore large trained model weights
 *.safetensors
+.p7_8_code_only.py
+# Model output
+xlmr_absa_final/
+
+# Ignored scripts
+p7_8_code_only.py
