@@ -1,0 +1,4 @@
+Baseline,b (XLM-R Correct Only),c (Baseline Correct Only),Chi-Square (χ²),p-value,Statistically Significant (α=0.05)
+VADER Lexicon,64,34,9.1837,2.4418e-03,Yes (Reject Null)
+SVM + TF-IDF,33,33,0.0,1.0000e+00,No
+mBERT,54,36,3.6,5.7780e-02,No
