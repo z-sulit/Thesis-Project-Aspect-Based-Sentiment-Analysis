@@ -1,0 +1,22 @@
+TargetAspect,sentence,sentiment,vader_pred,svm_pred,xlmr_pred
+Product Quality,Used to be my favorite coffee place- not anymore.,NEGATIVE,POSITIVE,POSITIVE,NEGATIVE
+Product Quality,"-Food is decent but nothing's special and the amount wasn't that much, foods availability were limited, almost half of the meals were unavailable - Service is poor, they were late to inform the food i have ordered were unavailable, promised the food would take 10-15 minutes but its more than 30 min before i receive the food - aesthetic was decent but its too loud that i wouldn't consider this as a cafe Would never return",NEGATIVE,POSITIVE,POSITIVE,NEGATIVE
+Customer Service,Food is really Good 10\10 but the staff looks like they are having holly week.,NEGATIVE,POSITIVE,POSITIVE,NEGATIVE
+Facilities and Amenities,"Today, we were asked to move tables due to headcount, even though we always sit there and are willing to share the space with others.",NEGATIVE,POSITIVE,POSITIVE,NEGATIVE
+Facilities and Amenities,"It has a FREE wifi connection once you ordered, BUT it is limited, you CANNOT view YouTube & Spotify.",NEGATIVE,NEUTRAL,POSITIVE,NEGATIVE
+Store Operations and Accessibility,They really open at 7am.,POSITIVE,NEUTRAL,NEGATIVE,POSITIVE
+Product Quality,The coffee lacked flavor and the cold brew ice cubes were excessively large.,NEGATIVE,NEUTRAL,POSITIVE,NEGATIVE
+Customer Service,"Very spacious and clean place you can see a big board just on the mane entrance door about wifi but no wifi , every time you go in this place is the same storie ... My tea was serve quickly but without tissue , no sugar and no spoon service is poor here, but the price is big If you want a good place with strong wifi and good service , i can recommand you coffe cat 300 m before gaisano",NEGATIVE,POSITIVE,POSITIVE,NEGATIVE
+Product Quality,loudly_crying_face  It literally tasted like coffee.,NEGATIVE,POSITIVE,POSITIVE,NEGATIVE
+Customer Service,Business owner needs to do housekeeping of restaurant debris/construction matetials in service and parking areas.,NEGATIVE,NEUTRAL,POSITIVE,NEGATIVE
+Product Quality,"Hot latte upsize then the serving is small compared to other branches that I always buy from, then the hot drink is not hot.",NEGATIVE,NEUTRAL,POSITIVE,NEGATIVE
+Product Quality,The matcha had a strange blue layer on top that had already hardened when it was served.,NEGATIVE,NEUTRAL,POSITIVE,NEGATIVE
+Product Quality,The coffee was too sweet for my liking.,NEGATIVE,POSITIVE,POSITIVE,NEGATIVE
+Facilities and Amenities,"I was hoping for a quiet environment to relax and get some work done, but it felt more like I'm in a public place with staff chatting most of the time at the front.",NEGATIVE,POSITIVE,POSITIVE,NEGATIVE
+Store Operations and Accessibility,Small parking place loudly_crying_face,NEGATIVE,NEUTRAL,POSITIVE,NEGATIVE
+Product Quality,Ordered Southern Mac and Cheese via FoodPanda and received overly microwaved food.,NEGATIVE,NEUTRAL,POSITIVE,NEGATIVE
+Price and Value,The price are reasonable.,POSITIVE,NEUTRAL,NEGATIVE,POSITIVE
+Price and Value,You don't need to look for expensive places to find a fancy meal.,POSITIVE,NEUTRAL,NEGATIVE,POSITIVE
+Product Quality,"Worst part is the coffee is so sweet, it's like sugar.",NEGATIVE,POSITIVE,POSITIVE,NEGATIVE
+Store Operations and Accessibility,Parking was a minor setback though.,NEGATIVE,NEUTRAL,POSITIVE,NEGATIVE
+Product Quality,The coffee overpowered the matcha.,NEGATIVE,NEUTRAL,POSITIVE,NEGATIVE
