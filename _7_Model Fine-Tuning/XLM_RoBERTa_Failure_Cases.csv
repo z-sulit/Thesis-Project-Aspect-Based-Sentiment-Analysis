@@ -1,31 +1,27 @@
 TargetAspect,sentence,sentiment,vader_pred,svm_pred,xlmr_pred
-Product Quality,Just complements ypur coffee.,POSITIVE,NEUTRAL,POSITIVE,NEGATIVE
 Facilities and Amenities,snowflake  cold_face  snowman  • No WIFI • Outlets at the sofas only~ Follow me on IG for more: fork_and_knife  @njtayone @njoyurfoodie,NEGATIVE,NEGATIVE,NEGATIVE,POSITIVE
 Product Quality,Tack this on to your list of matcha places when you find yourself in the South.,POSITIVE,NEUTRAL,POSITIVE,NEGATIVE
-Facilities and Amenities,"It's chill to be inside the cafe, it doesn't seem like a cafe outside but the size of the space which is very ok to me, it seems like a hidden place that it isn't grinning_face_with_sweat .",POSITIVE,NEUTRAL,POSITIVE,NEGATIVE
-Product Quality,Settled on ₱179 12oz Hot Malunggay latte.,NEUTRAL,NEUTRAL,POSITIVE,NEGATIVE
+Product Quality,"Love the matcha in cheese and salt, but most of the drinks are too sweet, thats why i request for no syrup/sugar or half when ordering.",NEUTRAL,POSITIVE,NEUTRAL,NEGATIVE
+Product Quality,Settled on ₱179 12oz Hot Malunggay latte.,NEUTRAL,NEUTRAL,NEUTRAL,NEGATIVE
 Price and Value,Worth the price tou pay for and so much more.,POSITIVE,POSITIVE,NEGATIVE,NEGATIVE
 Customer Service,"The manager was so accommodating giving me more information that I needed about the consummables and if how much would be the staycation, entrance and if letting the kids swim the pool...",POSITIVE,POSITIVE,POSITIVE,NEGATIVE
 Store Operations and Accessibility,it was a cute cafe with limited seating but they are still under renovation and I think their main area isn't open yet.,POSITIVE,POSITIVE,NEGATIVE,NEGATIVE
-Customer Service,The staff spoke to me in English after hearing I speak Tagalog to d guard on duty.,POSITIVE,NEUTRAL,POSITIVE,NEGATIVE
 Product Quality,Coffee is average.,NEUTRAL,NEUTRAL,POSITIVE,NEGATIVE
 Ambiance and Atmosphere,noisy staff,NEGATIVE,NEGATIVE,NEGATIVE,POSITIVE
 Product Quality,Maybe try their coffee and food next time.,NEUTRAL,NEUTRAL,POSITIVE,NEGATIVE
-Product Quality,"I have yet to try their food, will def be coming back here!",POSITIVE,NEUTRAL,POSITIVE,NEGATIVE
 Customer Service,Goods Kai naii duol.. their staff krezel is ok too  beaming_face_with_smiling_eyes .. wish they were open 24/7.. hehehe..,POSITIVE,POSITIVE,NEGATIVE,NEGATIVE
-Product Quality,still the same taste since I first tried it.,NEUTRAL,NEUTRAL,POSITIVE,POSITIVE
+Product Quality,still the same taste since I first tried it.,NEUTRAL,NEUTRAL,NEUTRAL,POSITIVE
 Product Quality,Came from a very disappointing breakfast and we wanted to re-do the start of the day with great coffee.,POSITIVE,POSITIVE,POSITIVE,NEGATIVE
 Price and Value,Sure gyud nga high quality and wa gi tipid ilang ingredients.,POSITIVE,POSITIVE,NEGATIVE,NEGATIVE
-Product Quality,"Overall, the food is good, but I hope these areas, especially staff behavior, table maintenance, and payment flexibility can be improved to enhance the customer experience.",POSITIVE,POSITIVE,POSITIVE,NEGATIVE
-Customer Service,but i wanted a glass cup instead of a paper cup to be eco-friendly.,NEUTRAL,NEUTRAL,POSITIVE,NEGATIVE
+Product Quality,"Overall, the food is good, but I hope these areas, especially staff behavior, table maintenance, and payment flexibility can be improved to enhance the customer experience.",POSITIVE,POSITIVE,NEUTRAL,NEGATIVE
+Customer Service,but i wanted a glass cup instead of a paper cup to be eco-friendly.,NEUTRAL,NEUTRAL,NEUTRAL,NEGATIVE
 Facilities and Amenities,have individual spots or tables if you are alone and want to study.,POSITIVE,NEGATIVE,POSITIVE,NEGATIVE
-Product Quality,Mas mukha ciang library kaysa coffee shop,NEUTRAL,NEUTRAL,POSITIVE,NEGATIVE
-Product Quality,"We went to this coffee shop as a group of four and ordered two drinks, but the cashier told us we weren't allowed to dine in unless everyone ordered something.",POSITIVE,NEUTRAL,POSITIVE,NEGATIVE
-Facilities and Amenities,Space inside is a bit small but there is enough room for everyone.,NEUTRAL,NEUTRAL,NEGATIVE,POSITIVE
+Product Quality,Mas mukha ciang library kaysa coffee shop,NEUTRAL,NEUTRAL,NEUTRAL,NEGATIVE
+Facilities and Amenities,Space inside is a bit small but there is enough room for everyone.,NEUTRAL,NEUTRAL,POSITIVE,POSITIVE
 Product Quality,loudly_crying_face  Medyo ma init na din since late na nga kami pumunta.,NEUTRAL,NEUTRAL,NEGATIVE,NEGATIVE
+Ambiance and Atmosphere,"Crowded most of the time, place is aesthetically pleasing, food and beverages are on the pricey side.",NEUTRAL,POSITIVE,NEUTRAL,POSITIVE
 Product Quality,"Not aromatic, but I support local coffee growers.",NEGATIVE,NEGATIVE,POSITIVE,POSITIVE
 Customer Service,"There were only two staff members at the counter, and one of them was handling both hot and iced drinks, so our orders took a while—understandable since the café was nearly full.",NEUTRAL,NEUTRAL,NEGATIVE,NEGATIVE
-Customer Service,Accommodating.,POSITIVE,NEUTRAL,POSITIVE,NEGATIVE
-Product Quality,Will update this review once I try more of their food.,NEUTRAL,NEUTRAL,POSITIVE,NEGATIVE
+Product Quality,Will update this review once I try more of their food.,NEUTRAL,NEUTRAL,NEGATIVE,NEGATIVE
 Store Operations and Accessibility,"Real estate is a bit small and feels cramped, but there is a second floor open air area.",NEUTRAL,NEUTRAL,NEGATIVE,POSITIVE
 Store Operations and Accessibility,Parking slots at the sides.,NEUTRAL,NEUTRAL,POSITIVE,NEGATIVE
