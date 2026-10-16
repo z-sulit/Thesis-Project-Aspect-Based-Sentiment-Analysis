@@ -1,0 +1,41 @@
+TargetAspect,sentence,sentiment,vader_pred,svm_pred,xlmr_pred
+Product Quality,"My daughters bestfriend is the niece of the owner of this place and I'm a friend of both of my daughters bestfriends parents I have came here 2 times to eat, mainly because I live abroad I have came here with my wife's side of the family once once with just my wife and 3 of my wonderful daughters everytime I was there I was greeted by the owner and the food is amazing there my broth and sister in-law and there children are regulars there, sometimes their grandchildren go ther when there in town, all I have to say it's a great place to eat if you had a long day, to catch up with friends or just because it's nice",POSITIVE,POSITIVE,NEUTRAL,NEUTRAL
+Product Quality,Food needs to be piping hot when served for a better experience.,NEGATIVE,POSITIVE,NEGATIVE,NEUTRAL
+Product Quality,Tack this on to your list of matcha places when you find yourself in the South.,POSITIVE,NEUTRAL,POSITIVE,NEUTRAL
+Product Quality,"Love the matcha in cheese and salt, but most of the drinks are too sweet, thats why i request for no syrup/sugar or half when ordering.",NEUTRAL,POSITIVE,NEUTRAL,NEGATIVE
+Product Quality,Both drinks were surprisingly not sweet which was actually just divine.,POSITIVE,POSITIVE,NEGATIVE,NEUTRAL
+Product Quality,Settled on ₱179 12oz Hot Malunggay latte.,NEUTRAL,NEUTRAL,NEUTRAL,NEGATIVE
+Price and Value,Worth the price tou pay for and so much more.,POSITIVE,POSITIVE,NEGATIVE,NEGATIVE
+Product Quality,"Tried their matcha, I did not even taste the matcha and was overpowered by sweetness and milk.",NEGATIVE,POSITIVE,NEGATIVE,NEUTRAL
+Product Quality,This coffee tastes so bad!,NEGATIVE,NEGATIVE,POSITIVE,NEUTRAL
+Customer Service,"The manager was so accommodating giving me more information that I needed about the consummables and if how much would be the staycation, entrance and if letting the kids swim the pool...",POSITIVE,POSITIVE,POSITIVE,NEGATIVE
+Store Operations and Accessibility,it was a cute cafe with limited seating but they are still under renovation and I think their main area isn't open yet.,POSITIVE,POSITIVE,NEGATIVE,NEGATIVE
+Ambiance and Atmosphere,noisy staff,NEGATIVE,NEGATIVE,NEGATIVE,POSITIVE
+Facilities and Amenities,"Food is great, fast ang wifi and valid for four hours each voucher pagyud.",POSITIVE,POSITIVE,POSITIVE,NEGATIVE
+Facilities and Amenities,Not ideal for work or study.,NEGATIVE,NEGATIVE,NEGATIVE,NEUTRAL
+Customer Service,Goods Kai naii duol.. their staff krezel is ok too  beaming_face_with_smiling_eyes .. wish they were open 24/7.. hehehe..,POSITIVE,POSITIVE,NEGATIVE,NEGATIVE
+Product Quality,Best matcha in town  white_heart  I would definitely drink their matcha everyday.,POSITIVE,POSITIVE,POSITIVE,NEUTRAL
+Store Operations and Accessibility,They really open at 7am.,POSITIVE,NEUTRAL,POSITIVE,NEUTRAL
+Product Quality,Their coffee tastes great as well although some of them may be an acquired taste.,POSITIVE,POSITIVE,POSITIVE,NEUTRAL
+Price and Value,Sure gyud nga high quality and wa gi tipid ilang ingredients.,POSITIVE,POSITIVE,NEGATIVE,NEGATIVE
+Facilities and Amenities,No tables.,NEGATIVE,NEGATIVE,NEGATIVE,POSITIVE
+Product Quality,Drinks are even better.,POSITIVE,POSITIVE,NEGATIVE,NEUTRAL
+Product Quality,"Cheers, purge coffee!",POSITIVE,POSITIVE,NEUTRAL,NEGATIVE
+Product Quality,Im a coffee lover here and tries different shops and this is the shop where me and my wife will definitely buy if we pass by.,POSITIVE,POSITIVE,POSITIVE,NEUTRAL
+Product Quality,"Food, Drinks, Ambiance  check_mark_button  hundred_points",POSITIVE,NEUTRAL,POSITIVE,NEGATIVE
+Product Quality,matcha also tastes good.,POSITIVE,POSITIVE,POSITIVE,NEUTRAL
+Facilities and Amenities,Very limited parking space though.,NEGATIVE,NEGATIVE,POSITIVE,POSITIVE
+Customer Service,but i wanted a glass cup instead of a paper cup to be eco-friendly.,NEUTRAL,NEUTRAL,NEUTRAL,NEGATIVE
+Product Quality,Mas mukha ciang library kaysa coffee shop,NEUTRAL,NEUTRAL,NEUTRAL,NEGATIVE
+Facilities and Amenities,Space inside is a bit small but there is enough room for everyone.,NEUTRAL,NEUTRAL,POSITIVE,POSITIVE
+Product Quality,loudly_crying_face  Medyo ma init na din since late na nga kami pumunta.,NEUTRAL,NEUTRAL,NEGATIVE,NEGATIVE
+Ambiance and Atmosphere,"Crowded most of the time, place is aesthetically pleasing, food and beverages are on the pricey side.",NEUTRAL,POSITIVE,NEUTRAL,POSITIVE
+Product Quality,"Not aromatic, but I support local coffee growers.",NEGATIVE,NEGATIVE,POSITIVE,NEUTRAL
+Product Quality,Waiting for almost an hour now for a small latte and a slice of cake.,NEGATIVE,NEUTRAL,NEGATIVE,NEUTRAL
+Customer Service,"There were only two staff members at the counter, and one of them was handling both hot and iced drinks, so our orders took a while—understandable since the café was nearly full.",NEUTRAL,NEUTRAL,NEGATIVE,NEGATIVE
+Price and Value,"The best part is, it is higly affordable.",POSITIVE,POSITIVE,NEGATIVE,NEGATIVE
+Facilities and Amenities,"You don't have to fight for a seat near the wall or worry about your battery running out in the middle of work, which is something I appreciate.",POSITIVE,POSITIVE,NEUTRAL,NEUTRAL
+Ambiance and Atmosphere,I don't know if it's because the customers base changed but it's just too noisy now (+ the loud music/bass).,NEGATIVE,NEGATIVE,NEGATIVE,POSITIVE
+Product Quality,Anyway back to Cafe Demitasse....it is obvious to me that the Chief (s) have PASSION about food.,POSITIVE,POSITIVE,NEUTRAL,NEUTRAL
+Store Operations and Accessibility,"Real estate is a bit small and feels cramped, but there is a second floor open air area.",NEUTRAL,NEUTRAL,NEGATIVE,POSITIVE
+Store Operations and Accessibility,Parking slots at the sides.,NEUTRAL,NEUTRAL,POSITIVE,POSITIVE
