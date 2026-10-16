@@ -92,18 +92,6 @@ While 5% represents a minority of the overall text, these localized terms (e.g.,
   * Ingested processed review data from `Dataset/Thesis_master_reviews_combined.csv`.
   * Curated localized lexical marker dictionaries encompassing Bisaya/Cebuano, Tagalog, and shared regional terms to support dialect-aware aspect extraction and semantic parsing.
 
----
-
-## 7. Generative AI Methodological Justifications & Solution Verification
-
-### 7.2. Phase 5: Targeted Synthetic Data Augmentation
-
-Cosine-similarity: https://arxiv.org/pdf/1908.10084
-* **Cosine Similarity (Semantic Overlap)**:
-  * The Mechanic: It converts sentences into dense vector embeddings (using a lightweight model like Sentence-BERT) and measures the angle between those vectors in a multidimensional space.
-
-==
-
 1. Uninstall the wrong versions:                                                                                                                         
                                                                                                                                                           
   pip uninstall torch torchvision torchaudio -y                                                                                                          
